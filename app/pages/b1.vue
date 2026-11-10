@@ -1,4 +1,5 @@
 <script setup lang="ts">
+import { useRoute, useRouter } from 'vue-router'
 import { computed, onUnmounted, ref, watch } from 'vue'
 import skills from '@/data/b1-skills.json'
 import readings from '@/data/b1-readings.json'

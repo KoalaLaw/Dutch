@@ -1,4 +1,5 @@
 <script setup lang="ts">
+import { useRoute, useRouter } from 'vue-router'
 import { computed, ref, watch } from 'vue'
 import summary from '@/data/course-summary.json'
 import curriculum from '@/data/dutch-curriculum.json'
