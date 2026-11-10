@@ -1,0 +1,21 @@
+[
+  {
+    "id": "nl-dialogues",
+    "enName": "nl-dialogues",
+    "name": "荷兰生活 · 八段日常对话",
+    "description": "原创入门对话，含逐句中文译文。可跟打、听写或默写；语音使用浏览器荷兰语 TTS。",
+    "url": "nl-dialogues.json",
+    "length": 8,
+    "language": "nl",
+    "translateLanguage": "zh-CN",
+    "category": "荷兰语阅读",
+    "tags": [
+      "A1–A2",
+      "生活对话"
+    ],
+    "type": "article",
+    "version": 1,
+    "recommended": true,
+    "cover": ""
+  }
+]

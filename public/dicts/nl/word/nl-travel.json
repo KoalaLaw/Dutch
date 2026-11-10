@@ -1,0 +1,782 @@
+[
+  {
+    "id": "nl-travel-1",
+    "word": "de fiets",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "自行车"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Ik ga met de fiets naar mijn werk.",
+        "cn": "我骑自行车去上班。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-travel-2",
+    "word": "de trein",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "火车"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "De trein vertrekt om tien uur.",
+        "cn": "火车十点出发。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-travel-3",
+    "word": "de bus",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "公交车"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Deze bus gaat naar het station.",
+        "cn": "这辆公交车开往车站。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-travel-4",
+    "word": "de tram",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "有轨电车"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "We nemen de tram naar het centrum.",
+        "cn": "我们乘电车去市中心。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-travel-5",
+    "word": "de auto",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "汽车"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "De auto staat voor het huis.",
+        "cn": "汽车停在房子前面。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-travel-6",
+    "word": "het station",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "车站"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Waar is het station?",
+        "cn": "车站在哪里？"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-travel-7",
+    "word": "de halte",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "站点"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "De volgende halte is het centrum.",
+        "cn": "下一站是市中心。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-travel-8",
+    "word": "het kaartje",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "票"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Ik wil een kaartje naar Leiden.",
+        "cn": "我想买一张去莱顿的票。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-travel-9",
+    "word": "de reis",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "旅程"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "De reis duurt een uur.",
+        "cn": "旅程需要一小时。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-travel-10",
+    "word": "de straat",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "街道"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "In deze straat is een bakker.",
+        "cn": "这条街上有一家面包店。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-travel-11",
+    "word": "de weg",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "道路"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Ik ken de weg niet.",
+        "cn": "我不认识路。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-travel-12",
+    "word": "de brug",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "桥"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Ga over de brug.",
+        "cn": "过桥。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-travel-13",
+    "word": "het centrum",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "市中心"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Het centrum is dichtbij.",
+        "cn": "市中心很近。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-travel-14",
+    "word": "het adres",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "地址"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Wat is je adres?",
+        "cn": "你的地址是什么？"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-travel-15",
+    "word": "de stad",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "城市（复数 steden）"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Dit is een mooie stad.",
+        "cn": "这是一座美丽的城市。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-travel-16",
+    "word": "het dorp",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "村庄"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Mijn ouders wonen in een dorp.",
+        "cn": "我父母住在一个村庄。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-travel-17",
+    "word": "links",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "",
+        "cn": "左边；向左"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Ga bij de brug naar links.",
+        "cn": "到桥那里向左转。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-travel-18",
+    "word": "rechts",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "",
+        "cn": "右边；向右"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "De winkel is aan de rechterkant, dus ga rechts.",
+        "cn": "商店在右侧，所以向右走。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-travel-19",
+    "word": "rechtdoor",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "",
+        "cn": "直行"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Ga hier rechtdoor.",
+        "cn": "在这里直走。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-travel-20",
+    "word": "dichtbij",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "",
+        "cn": "附近的；在附近"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "De school is dichtbij.",
+        "cn": "学校就在附近。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-travel-21",
+    "word": "ver",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "",
+        "cn": "远的"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Is het ver lopen?",
+        "cn": "走路远吗？"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-travel-22",
+    "word": "gaan",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "",
+        "cn": "去"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Waar ga je naartoe?",
+        "cn": "你要去哪里？"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-travel-23",
+    "word": "lopen",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "",
+        "cn": "走路"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "We lopen naar het station.",
+        "cn": "我们走到车站。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-travel-24",
+    "word": "fietsen",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "",
+        "cn": "骑自行车"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Ik fiets elke dag.",
+        "cn": "我每天骑自行车。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-travel-25",
+    "word": "reizen",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "",
+        "cn": "旅行；出行"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Ik reis met de trein.",
+        "cn": "我乘火车出行。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-travel-26",
+    "word": "vertrekken",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "",
+        "cn": "出发"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Hoe laat vertrekken we?",
+        "cn": "我们几点出发？"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-travel-27",
+    "word": "aankomen",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "",
+        "cn": "到达"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "We komen om negen uur aan.",
+        "cn": "我们九点到达。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-travel-28",
+    "word": "wachten",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "",
+        "cn": "等待"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Ik wacht op de bus.",
+        "cn": "我在等公交车。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-travel-29",
+    "word": "overstappen",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "",
+        "cn": "换乘"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Je moet in Utrecht overstappen.",
+        "cn": "你需要在乌得勒支换乘。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-travel-30",
+    "word": "de vertraging",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "延误"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "De trein heeft tien minuten vertraging.",
+        "cn": "火车晚点十分钟。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  }
+]

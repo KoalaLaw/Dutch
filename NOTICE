@@ -1,0 +1,10 @@
+Type Dutch — Dutch learning adaptation
+Modified: 2026-11-10
+Upstream project: https://github.com/zyronon/TypeWords
+Upstream license: GNU General Public License version 3 (see LICENSE).
+
+This is an independent Dutch-learning adaptation. Original author notices and
+license are preserved. New course material, homepage, Dutch speech selection,
+Unicode tokenization, local lookup and deployment configuration were added.
+Original English resources and original documentation remain for provenance;
+the Dutch course lists load only the new Dutch resources.

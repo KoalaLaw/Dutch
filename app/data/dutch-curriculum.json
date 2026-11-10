@@ -1,0 +1,140 @@
+[
+  {
+    "id": "nl-basics",
+    "title": "你好，荷兰语",
+    "subtitle": "Hallo, Nederlands",
+    "level": "A1",
+    "icon": "01",
+    "color": "peach",
+    "description": "从问候、自我介绍和常用表达开始。",
+    "name": "你好，荷兰语",
+    "enName": "nl-basics",
+    "url": "nl-basics.json",
+    "length": 30,
+    "category": "荷兰语入门",
+    "tags": [
+      "A1",
+      "主题词汇"
+    ],
+    "language": "nl",
+    "translateLanguage": "zh-CN",
+    "version": 1,
+    "type": "word",
+    "recommended": true
+  },
+  {
+    "id": "nl-home",
+    "title": "家与身边的人",
+    "subtitle": "Thuis & familie",
+    "level": "A1",
+    "icon": "02",
+    "color": "sage",
+    "description": "把 de / het 冠词和名词一起记住。",
+    "name": "家与身边的人",
+    "enName": "nl-home",
+    "url": "nl-home.json",
+    "length": 30,
+    "category": "荷兰语入门",
+    "tags": [
+      "A1",
+      "主题词汇"
+    ],
+    "language": "nl",
+    "translateLanguage": "zh-CN",
+    "version": 1,
+    "type": "word",
+    "recommended": true
+  },
+  {
+    "id": "nl-food",
+    "title": "一杯咖啡的日常",
+    "subtitle": "Eten & boodschappen",
+    "level": "A1",
+    "icon": "03",
+    "color": "butter",
+    "description": "在咖啡馆点单，在超市买菜。",
+    "name": "一杯咖啡的日常",
+    "enName": "nl-food",
+    "url": "nl-food.json",
+    "length": 30,
+    "category": "荷兰语入门",
+    "tags": [
+      "A1",
+      "主题词汇"
+    ],
+    "language": "nl",
+    "translateLanguage": "zh-CN",
+    "version": 1,
+    "type": "word",
+    "recommended": true
+  },
+  {
+    "id": "nl-travel",
+    "title": "骑车去看这座城",
+    "subtitle": "Onderweg",
+    "level": "A1–A2",
+    "icon": "04",
+    "color": "sky",
+    "description": "问路、坐火车，找到回家的方向。",
+    "name": "骑车去看这座城",
+    "enName": "nl-travel",
+    "url": "nl-travel.json",
+    "length": 30,
+    "category": "荷兰语入门",
+    "tags": [
+      "A1–A2",
+      "主题词汇"
+    ],
+    "language": "nl",
+    "translateLanguage": "zh-CN",
+    "version": 1,
+    "type": "word",
+    "recommended": true
+  },
+  {
+    "id": "nl-time",
+    "title": "时间与小雨天",
+    "subtitle": "Tijd & weer",
+    "level": "A1",
+    "icon": "05",
+    "color": "lavender",
+    "description": "约好时间，也聊聊荷兰的天气。",
+    "name": "时间与小雨天",
+    "enName": "nl-time",
+    "url": "nl-time.json",
+    "length": 30,
+    "category": "荷兰语入门",
+    "tags": [
+      "A1",
+      "主题词汇"
+    ],
+    "language": "nl",
+    "translateLanguage": "zh-CN",
+    "version": 1,
+    "type": "word",
+    "recommended": true
+  },
+  {
+    "id": "nl-life",
+    "title": "在这里生活",
+    "subtitle": "Werk & dagelijks leven",
+    "level": "A2",
+    "icon": "06",
+    "color": "sand",
+    "description": "看医生、约时间、交流工作与学习。",
+    "name": "在这里生活",
+    "enName": "nl-life",
+    "url": "nl-life.json",
+    "length": 30,
+    "category": "荷兰语入门",
+    "tags": [
+      "A2",
+      "主题词汇"
+    ],
+    "language": "nl",
+    "translateLanguage": "zh-CN",
+    "version": 1,
+    "type": "word",
+    "recommended": true
+  }
+]

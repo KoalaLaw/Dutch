@@ -1,0 +1,782 @@
+[
+  {
+    "id": "nl-time-1",
+    "word": "vandaag",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "",
+        "cn": "今天"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Vandaag werk ik thuis.",
+        "cn": "今天我在家工作。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-time-2",
+    "word": "morgen",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "",
+        "cn": "明天"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Morgen ben ik vrij.",
+        "cn": "明天我休息。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-time-3",
+    "word": "gisteren",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "",
+        "cn": "昨天"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Gisteren was het koud.",
+        "cn": "昨天很冷。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-time-4",
+    "word": "nu",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "",
+        "cn": "现在"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Ik heb nu tijd.",
+        "cn": "我现在有时间。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-time-5",
+    "word": "straks",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "",
+        "cn": "一会儿；待会儿"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Tot straks!",
+        "cn": "待会儿见！"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-time-6",
+    "word": "altijd",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "",
+        "cn": "总是"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Ik drink altijd thee bij het ontbijt.",
+        "cn": "我早餐总是喝茶。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-time-7",
+    "word": "vaak",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "",
+        "cn": "经常"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Het regent hier vaak.",
+        "cn": "这里经常下雨。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-time-8",
+    "word": "soms",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "",
+        "cn": "有时"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Soms ga ik met de bus.",
+        "cn": "我有时坐公交车。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-time-9",
+    "word": "nooit",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "",
+        "cn": "从不"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Ik drink nooit koffie in de avond.",
+        "cn": "我晚上从不喝咖啡。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-time-10",
+    "word": "de dag",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "一天；白天"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Fijne dag!",
+        "cn": "祝你今天愉快！"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-time-11",
+    "word": "de week",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "星期；一周"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Volgende week begin ik met werken.",
+        "cn": "我下周开始工作。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-time-12",
+    "word": "de maand",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "月份"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Deze maand ga ik verhuizen.",
+        "cn": "这个月我要搬家。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-time-13",
+    "word": "het jaar",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "年"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Ik woon hier al een jaar.",
+        "cn": "我在这里已经住了一年。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-time-14",
+    "word": "het uur",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "小时；点钟"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Het is drie uur.",
+        "cn": "现在三点。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-time-15",
+    "word": "de minuut",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "分钟"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Ik ben over vijf minuten terug.",
+        "cn": "我五分钟后回来。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-time-16",
+    "word": "maandag",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "",
+        "cn": "星期一"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Op maandag heb ik les.",
+        "cn": "星期一我有课。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-time-17",
+    "word": "dinsdag",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "",
+        "cn": "星期二"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Dinsdag ga ik naar de markt.",
+        "cn": "星期二我去市场。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-time-18",
+    "word": "woensdag",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "",
+        "cn": "星期三"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Woensdag ben ik thuis.",
+        "cn": "星期三我在家。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-time-19",
+    "word": "donderdag",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "",
+        "cn": "星期四"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "We spreken donderdag af.",
+        "cn": "我们约在星期四见。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-time-20",
+    "word": "vrijdag",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "",
+        "cn": "星期五"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Vrijdag werk ik tot vijf uur.",
+        "cn": "星期五我工作到五点。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-time-21",
+    "word": "zaterdag",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "",
+        "cn": "星期六"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Zaterdag ga ik fietsen.",
+        "cn": "星期六我去骑车。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-time-22",
+    "word": "zondag",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "",
+        "cn": "星期日"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Op zondag rust ik uit.",
+        "cn": "星期日我休息。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-time-23",
+    "word": "het weer",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "天气"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Hoe is het weer vandaag?",
+        "cn": "今天天气怎么样？"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-time-24",
+    "word": "de zon",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "太阳"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "De zon schijnt vandaag.",
+        "cn": "今天阳光明媚。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-time-25",
+    "word": "de regen",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "雨"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Ik fiets niet graag in de regen.",
+        "cn": "我不喜欢在雨中骑车。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-time-26",
+    "word": "de wind",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "风"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Er staat een harde wind.",
+        "cn": "风很大。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-time-27",
+    "word": "koud",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "",
+        "cn": "冷的"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Het is koud buiten.",
+        "cn": "外面很冷。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-time-28",
+    "word": "warm",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "",
+        "cn": "温暖的；热的"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Het is vandaag lekker warm.",
+        "cn": "今天暖和得很舒服。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-time-29",
+    "word": "half",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "",
+        "cn": "一半；半点（指向下一小时）"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Half negen betekent acht uur dertig.",
+        "cn": "Half negen 表示八点半。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-time-30",
+    "word": "het weekend",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "周末"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Wat doe je dit weekend?",
+        "cn": "这个周末你做什么？"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  }
+]

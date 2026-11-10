@@ -1,0 +1,782 @@
+[
+  {
+    "id": "nl-home-1",
+    "word": "de familie",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "家人；家族"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Mijn familie woont in China.",
+        "cn": "我的家人住在中国。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-home-2",
+    "word": "de vader",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "父亲"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Mijn vader kookt graag.",
+        "cn": "我父亲喜欢做饭。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-home-3",
+    "word": "de moeder",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "母亲"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Mijn moeder werkt vandaag.",
+        "cn": "我母亲今天上班。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-home-4",
+    "word": "de broer",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "兄弟"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Mijn broer woont dichtbij.",
+        "cn": "我的兄弟住得很近。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-home-5",
+    "word": "de zus",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "姐妹"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Mijn zus komt op bezoek.",
+        "cn": "我的姐妹要来做客。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-home-6",
+    "word": "het kind",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "孩子（复数 kinderen）"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Het kind speelt buiten.",
+        "cn": "孩子在外面玩。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-home-7",
+    "word": "de vriend",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "男性朋友；男友"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Een vriend helpt me met verhuizen.",
+        "cn": "一位朋友帮我搬家。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-home-8",
+    "word": "de vriendin",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "女性朋友；女友"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Mijn vriendin spreekt Nederlands.",
+        "cn": "我的女性朋友说荷兰语。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-home-9",
+    "word": "de buurman",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "男邻居"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "De buurman heeft een hond.",
+        "cn": "男邻居养了一只狗。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-home-10",
+    "word": "de buurvrouw",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "女邻居"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Ik groet de buurvrouw.",
+        "cn": "我向女邻居打招呼。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-home-11",
+    "word": "het huis",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "房子（复数 huizen）"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Ons huis heeft een kleine tuin.",
+        "cn": "我们家有一个小花园。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-home-12",
+    "word": "de woning",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "住宅"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Ik zoek een woning in de stad.",
+        "cn": "我在城里找住房。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-home-13",
+    "word": "de kamer",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "房间"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Deze kamer is licht.",
+        "cn": "这个房间很明亮。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-home-14",
+    "word": "de keuken",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "厨房"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "De koffie staat in de keuken.",
+        "cn": "咖啡在厨房里。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-home-15",
+    "word": "de badkamer",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "浴室"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "De badkamer is boven.",
+        "cn": "浴室在楼上。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-home-16",
+    "word": "de slaapkamer",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "卧室"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "De slaapkamer is rustig.",
+        "cn": "卧室很安静。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-home-17",
+    "word": "de deur",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "门"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Doe de deur maar dicht.",
+        "cn": "把门关上吧。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-home-18",
+    "word": "het raam",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "窗户（复数 ramen）"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Mag het raam open?",
+        "cn": "可以开窗吗？"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-home-19",
+    "word": "de tafel",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "桌子"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Het boek ligt op de tafel.",
+        "cn": "书在桌子上。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-home-20",
+    "word": "de stoel",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "椅子"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Deze stoel zit lekker.",
+        "cn": "这把椅子坐着很舒服。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-home-21",
+    "word": "het bed",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "床"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Het bed staat naast het raam.",
+        "cn": "床在窗户旁边。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-home-22",
+    "word": "de sleutel",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "钥匙"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Waar is mijn sleutel?",
+        "cn": "我的钥匙在哪里？"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-home-23",
+    "word": "de tuin",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "花园"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "We zitten in de tuin.",
+        "cn": "我们坐在花园里。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-home-24",
+    "word": "samen",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "",
+        "cn": "一起"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "We eten samen.",
+        "cn": "我们一起吃饭。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-home-25",
+    "word": "thuis",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "",
+        "cn": "在家；到家"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Ben je vanavond thuis?",
+        "cn": "你今晚在家吗？"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-home-26",
+    "word": "groot",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "",
+        "cn": "大的"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "De woonkamer is groot.",
+        "cn": "客厅很大。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-home-27",
+    "word": "klein",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "",
+        "cn": "小的"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "We hebben een kleine keuken.",
+        "cn": "我们有一个小厨房。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-home-28",
+    "word": "nieuw",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "",
+        "cn": "新的"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Dit is mijn nieuwe huis.",
+        "cn": "这是我的新家。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-home-29",
+    "word": "oud",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "",
+        "cn": "旧的；年老的"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Hoe oud ben je?",
+        "cn": "你多大了？"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-home-30",
+    "word": "schoon",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "",
+        "cn": "干净的"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "De kamer is schoon.",
+        "cn": "房间很干净。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  }
+]

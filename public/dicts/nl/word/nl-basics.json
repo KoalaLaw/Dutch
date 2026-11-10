@@ -1,0 +1,782 @@
+[
+  {
+    "id": "nl-basics-1",
+    "word": "hallo",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "",
+        "cn": "你好"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Hallo, hoe gaat het met je?",
+        "cn": "你好，你最近怎么样？"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-basics-2",
+    "word": "goedemorgen",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "",
+        "cn": "早上好"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Goedemorgen, heb je goed geslapen?",
+        "cn": "早上好，你睡得好吗？"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-basics-3",
+    "word": "goedemiddag",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "",
+        "cn": "下午好"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Goedemiddag, kan ik u helpen?",
+        "cn": "下午好，我能帮您吗？"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-basics-4",
+    "word": "goedenavond",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "",
+        "cn": "晚上好"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Goedenavond, welkom bij ons.",
+        "cn": "晚上好，欢迎来我们这里。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-basics-5",
+    "word": "dag",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "",
+        "cn": "你好；再见"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Dag, tot morgen!",
+        "cn": "再见，明天见！"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-basics-6",
+    "word": "tot ziens",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "",
+        "cn": "再见"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Tot ziens en een fijne dag!",
+        "cn": "再见，祝你今天愉快！"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-basics-7",
+    "word": "alsjeblieft",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "",
+        "cn": "请；给你（非正式）"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Een kopje thee, alsjeblieft.",
+        "cn": "请给我一杯茶。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-basics-8",
+    "word": "alstublieft",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "",
+        "cn": "请；给您（正式）"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Uw koffie, alstublieft.",
+        "cn": "您的咖啡，请拿好。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-basics-9",
+    "word": "dank je wel",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "",
+        "cn": "谢谢你"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Dank je wel voor je hulp.",
+        "cn": "谢谢你的帮助。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-basics-10",
+    "word": "bedankt",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "",
+        "cn": "谢谢"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Bedankt voor het bericht.",
+        "cn": "谢谢你的消息。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-basics-11",
+    "word": "sorry",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "",
+        "cn": "对不起"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Sorry, ik ben te laat.",
+        "cn": "对不起，我迟到了。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-basics-12",
+    "word": "ja",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "",
+        "cn": "是；好的"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Ja, dat begrijp ik.",
+        "cn": "是的，我明白。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-basics-13",
+    "word": "nee",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "",
+        "cn": "不；不是"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Nee, ik heb geen auto.",
+        "cn": "不，我没有汽车。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-basics-14",
+    "word": "misschien",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "",
+        "cn": "也许"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Misschien kom ik morgen.",
+        "cn": "也许我明天来。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-basics-15",
+    "word": "graag",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "",
+        "cn": "乐意；想要"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Ik wil graag Nederlands leren.",
+        "cn": "我想学荷兰语。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-basics-16",
+    "word": "welkom",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "",
+        "cn": "欢迎"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Welkom in Nederland!",
+        "cn": "欢迎来到荷兰！"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-basics-17",
+    "word": "ik",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "",
+        "cn": "我"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Ik woon in Amsterdam.",
+        "cn": "我住在阿姆斯特丹。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-basics-18",
+    "word": "jij",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "",
+        "cn": "你（强调形式）"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Waar woon jij?",
+        "cn": "你住在哪里？"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-basics-19",
+    "word": "u",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "",
+        "cn": "您"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Spreekt u Engels?",
+        "cn": "您说英语吗？"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-basics-20",
+    "word": "wij",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "",
+        "cn": "我们"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Wij leren samen Nederlands.",
+        "cn": "我们一起学荷兰语。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-basics-21",
+    "word": "de naam",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "名字"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Wat is je naam?",
+        "cn": "你叫什么名字？"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-basics-22",
+    "word": "heten",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "",
+        "cn": "叫作"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Hoe heet je?",
+        "cn": "你叫什么名字？"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-basics-23",
+    "word": "zijn",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "",
+        "cn": "是；处于"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Ik ben een beginner.",
+        "cn": "我是初学者。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-basics-24",
+    "word": "hebben",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "",
+        "cn": "有"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "We hebben een vraag.",
+        "cn": "我们有一个问题。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-basics-25",
+    "word": "komen",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "",
+        "cn": "来"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Waar kom je vandaan?",
+        "cn": "你从哪里来？"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-basics-26",
+    "word": "wonen",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "",
+        "cn": "居住"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Ik woon nu in Utrecht.",
+        "cn": "我现在住在乌得勒支。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-basics-27",
+    "word": "leren",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "",
+        "cn": "学习；教会"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Ik leer elke dag nieuwe woorden.",
+        "cn": "我每天学新词。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-basics-28",
+    "word": "spreken",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "",
+        "cn": "说（某种语言）"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Ik spreek een beetje Nederlands.",
+        "cn": "我会说一点荷兰语。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-basics-29",
+    "word": "begrijpen",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "",
+        "cn": "理解"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Ik begrijp de vraag niet.",
+        "cn": "我不理解这个问题。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-basics-30",
+    "word": "herhalen",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "",
+        "cn": "重复"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Kunt u dat herhalen?",
+        "cn": "您能重复一遍吗？"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  }
+]

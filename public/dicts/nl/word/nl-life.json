@@ -1,0 +1,782 @@
+[
+  {
+    "id": "nl-life-1",
+    "word": "het werk",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "工作"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Ik ga naar mijn werk.",
+        "cn": "我去上班。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-life-2",
+    "word": "de collega",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "同事"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Mijn collega helpt me.",
+        "cn": "我的同事帮助我。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-life-3",
+    "word": "de afspraak",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "预约；约定"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Ik wil een afspraak maken.",
+        "cn": "我想预约。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-life-4",
+    "word": "de vergadering",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "会议"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "De vergadering begint om tien uur.",
+        "cn": "会议十点开始。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-life-5",
+    "word": "het bericht",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "消息"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Ik stuur je een bericht.",
+        "cn": "我给你发一条消息。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-life-6",
+    "word": "de vraag",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "问题"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Mag ik een vraag stellen?",
+        "cn": "我能问个问题吗？"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-life-7",
+    "word": "het antwoord",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "回答"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Ik weet het antwoord niet.",
+        "cn": "我不知道答案。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-life-8",
+    "word": "de school",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "学校"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "De school begint om half negen.",
+        "cn": "学校八点半开始上课。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-life-9",
+    "word": "de les",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "课"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "De les duurt twee uur.",
+        "cn": "这节课长两小时。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-life-10",
+    "word": "de taal",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "语言"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Nederlands is een mooie taal.",
+        "cn": "荷兰语是一门美丽的语言。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-life-11",
+    "word": "de huisarts",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "全科医生"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Ik bel de huisarts.",
+        "cn": "我给全科医生打电话。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-life-12",
+    "word": "de apotheek",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "药房"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Ik haal medicijnen bij de apotheek.",
+        "cn": "我去药房取药。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-life-13",
+    "word": "het ziekenhuis",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "医院"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Het ziekenhuis is dichtbij.",
+        "cn": "医院在附近。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-life-14",
+    "word": "de gemeente",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "市政府；市镇"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Ik heb een afspraak bij de gemeente.",
+        "cn": "我预约了去市政府办事。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-life-15",
+    "word": "het formulier",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "表格"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Kunt u dit formulier invullen?",
+        "cn": "您能填写这张表格吗？"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-life-16",
+    "word": "de verzekering",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "保险"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Ik heb een zorgverzekering.",
+        "cn": "我有医疗保险。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-life-17",
+    "word": "werken",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "",
+        "cn": "工作"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Ik werk vier dagen per week.",
+        "cn": "我每周工作四天。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-life-18",
+    "word": "zoeken",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "",
+        "cn": "寻找"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Ik zoek een nieuwe baan.",
+        "cn": "我在找一份新工作。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-life-19",
+    "word": "helpen",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "",
+        "cn": "帮助"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Kun je mij helpen?",
+        "cn": "你能帮我吗？"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-life-20",
+    "word": "bellen",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "",
+        "cn": "打电话"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Ik bel je morgen.",
+        "cn": "我明天给你打电话。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-life-21",
+    "word": "lezen",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "",
+        "cn": "阅读"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Ik lees een Nederlands boek.",
+        "cn": "我在读一本荷兰语书。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-life-22",
+    "word": "schrijven",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "",
+        "cn": "写"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Schrijf je naam hier.",
+        "cn": "在这里写下你的名字。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-life-23",
+    "word": "luisteren",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "",
+        "cn": "听"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Ik luister naar de docent.",
+        "cn": "我听老师讲课。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-life-24",
+    "word": "moeten",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "",
+        "cn": "必须；需要"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Ik moet morgen werken.",
+        "cn": "我明天必须上班。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-life-25",
+    "word": "kunnen",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "",
+        "cn": "能够"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Ik kan Nederlands lezen.",
+        "cn": "我能读荷兰语。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-life-26",
+    "word": "willen",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "",
+        "cn": "想要"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Ik wil graag een afspraak maken.",
+        "cn": "我想预约。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-life-27",
+    "word": "moe",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "",
+        "cn": "累的"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Ik ben een beetje moe.",
+        "cn": "我有点累。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-life-28",
+    "word": "ziek",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "",
+        "cn": "生病的"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Ik ben ziek en blijf thuis.",
+        "cn": "我生病了，待在家里。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-life-29",
+    "word": "gezond",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "",
+        "cn": "健康的"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Bewegen is gezond.",
+        "cn": "运动有益健康。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-life-30",
+    "word": "belangrijk",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "",
+        "cn": "重要的"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Goed luisteren is belangrijk.",
+        "cn": "认真听很重要。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  }
+]

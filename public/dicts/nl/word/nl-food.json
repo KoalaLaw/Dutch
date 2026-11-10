@@ -1,0 +1,782 @@
+[
+  {
+    "id": "nl-food-1",
+    "word": "het water",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "水"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Ik drink graag water.",
+        "cn": "我喜欢喝水。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-food-2",
+    "word": "de koffie",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "咖啡"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Een koffie zonder suiker, graag.",
+        "cn": "请来一杯不加糖的咖啡。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-food-3",
+    "word": "de thee",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "茶"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Wil je een kopje thee?",
+        "cn": "你想喝杯茶吗？"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-food-4",
+    "word": "de melk",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "牛奶"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Er zit melk in de koelkast.",
+        "cn": "冰箱里有牛奶。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-food-5",
+    "word": "het brood",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "面包"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Ik koop vers brood.",
+        "cn": "我买新鲜面包。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-food-6",
+    "word": "de kaas",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "奶酪"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Ik eet brood met kaas.",
+        "cn": "我吃奶酪面包。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-food-7",
+    "word": "het ei",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "鸡蛋（复数 eieren）"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Wil je een gekookt ei?",
+        "cn": "你想吃一个煮鸡蛋吗？"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-food-8",
+    "word": "de appel",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "苹果"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Deze appel is lekker.",
+        "cn": "这个苹果很好吃。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-food-9",
+    "word": "de banaan",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "香蕉"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Ik neem een banaan mee.",
+        "cn": "我带上一根香蕉。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-food-10",
+    "word": "de groente",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "蔬菜"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "We eten elke dag groente.",
+        "cn": "我们每天吃蔬菜。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-food-11",
+    "word": "het fruit",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "水果"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Fruit is gezond.",
+        "cn": "水果有益健康。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-food-12",
+    "word": "de aardappel",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "土豆"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "De aardappelen zijn klaar.",
+        "cn": "土豆做好了。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-food-13",
+    "word": "de rijst",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "米饭；稻米"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "We eten rijst met groente.",
+        "cn": "我们吃米饭配蔬菜。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-food-14",
+    "word": "de kip",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "鸡；鸡肉"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Ik wil rijst met kip.",
+        "cn": "我想要鸡肉配米饭。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-food-15",
+    "word": "de vis",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "鱼"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Deze vis is vers.",
+        "cn": "这鱼很新鲜。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-food-16",
+    "word": "de soep",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "汤"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "De soep is nog warm.",
+        "cn": "汤还热着。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-food-17",
+    "word": "het ontbijt",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "早餐"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Het ontbijt staat klaar.",
+        "cn": "早餐准备好了。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-food-18",
+    "word": "de lunch",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "午餐"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Wat eet je voor de lunch?",
+        "cn": "你午饭吃什么？"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-food-19",
+    "word": "het avondeten",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "晚餐"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Het avondeten is om zes uur.",
+        "cn": "晚饭在六点。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-food-20",
+    "word": "de supermarkt",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "超市"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "De supermarkt is om de hoek.",
+        "cn": "超市就在拐角处。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-food-21",
+    "word": "de winkel",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "商店"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "De winkel sluit om acht uur.",
+        "cn": "商店八点关门。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-food-22",
+    "word": "de prijs",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "价格"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Wat is de prijs?",
+        "cn": "价格是多少？"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-food-23",
+    "word": "de rekening",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "账单"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Mag ik de rekening, alstublieft?",
+        "cn": "请把账单给我好吗？"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-food-24",
+    "word": "betalen",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "",
+        "cn": "付款"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Kan ik met de pin betalen?",
+        "cn": "我能刷卡付款吗？"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-food-25",
+    "word": "kopen",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "",
+        "cn": "购买"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Ik koop een brood.",
+        "cn": "我买一个面包。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-food-26",
+    "word": "eten",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "",
+        "cn": "吃"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "We eten om zeven uur.",
+        "cn": "我们七点吃饭。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-food-27",
+    "word": "drinken",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "",
+        "cn": "喝"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Wat wil je drinken?",
+        "cn": "你想喝什么？"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-food-28",
+    "word": "lekker",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "",
+        "cn": "好吃的；舒服的"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Eet smakelijk, de soep is lekker!",
+        "cn": "用餐愉快，这汤很好喝！"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-food-29",
+    "word": "duur",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "",
+        "cn": "贵的"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Deze kaas is duur.",
+        "cn": "这奶酪很贵。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-food-30",
+    "word": "goedkoop",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "",
+        "cn": "便宜的"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Deze appels zijn goedkoop.",
+        "cn": "这些苹果很便宜。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  }
+]

@@ -1,0 +1,4682 @@
+[
+  {
+    "id": "nl-basics-1",
+    "word": "hallo",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "",
+        "cn": "你好"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Hallo, hoe gaat het met je?",
+        "cn": "你好，你最近怎么样？"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-basics-2",
+    "word": "goedemorgen",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "",
+        "cn": "早上好"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Goedemorgen, heb je goed geslapen?",
+        "cn": "早上好，你睡得好吗？"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-basics-3",
+    "word": "goedemiddag",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "",
+        "cn": "下午好"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Goedemiddag, kan ik u helpen?",
+        "cn": "下午好，我能帮您吗？"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-basics-4",
+    "word": "goedenavond",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "",
+        "cn": "晚上好"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Goedenavond, welkom bij ons.",
+        "cn": "晚上好，欢迎来我们这里。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-basics-5",
+    "word": "dag",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "",
+        "cn": "你好；再见"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Dag, tot morgen!",
+        "cn": "再见，明天见！"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-basics-6",
+    "word": "tot ziens",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "",
+        "cn": "再见"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Tot ziens en een fijne dag!",
+        "cn": "再见，祝你今天愉快！"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-basics-7",
+    "word": "alsjeblieft",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "",
+        "cn": "请；给你（非正式）"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Een kopje thee, alsjeblieft.",
+        "cn": "请给我一杯茶。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-basics-8",
+    "word": "alstublieft",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "",
+        "cn": "请；给您（正式）"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Uw koffie, alstublieft.",
+        "cn": "您的咖啡，请拿好。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-basics-9",
+    "word": "dank je wel",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "",
+        "cn": "谢谢你"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Dank je wel voor je hulp.",
+        "cn": "谢谢你的帮助。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-basics-10",
+    "word": "bedankt",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "",
+        "cn": "谢谢"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Bedankt voor het bericht.",
+        "cn": "谢谢你的消息。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-basics-11",
+    "word": "sorry",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "",
+        "cn": "对不起"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Sorry, ik ben te laat.",
+        "cn": "对不起，我迟到了。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-basics-12",
+    "word": "ja",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "",
+        "cn": "是；好的"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Ja, dat begrijp ik.",
+        "cn": "是的，我明白。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-basics-13",
+    "word": "nee",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "",
+        "cn": "不；不是"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Nee, ik heb geen auto.",
+        "cn": "不，我没有汽车。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-basics-14",
+    "word": "misschien",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "",
+        "cn": "也许"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Misschien kom ik morgen.",
+        "cn": "也许我明天来。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-basics-15",
+    "word": "graag",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "",
+        "cn": "乐意；想要"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Ik wil graag Nederlands leren.",
+        "cn": "我想学荷兰语。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-basics-16",
+    "word": "welkom",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "",
+        "cn": "欢迎"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Welkom in Nederland!",
+        "cn": "欢迎来到荷兰！"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-basics-17",
+    "word": "ik",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "",
+        "cn": "我"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Ik woon in Amsterdam.",
+        "cn": "我住在阿姆斯特丹。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-basics-18",
+    "word": "jij",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "",
+        "cn": "你（强调形式）"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Waar woon jij?",
+        "cn": "你住在哪里？"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-basics-19",
+    "word": "u",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "",
+        "cn": "您"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Spreekt u Engels?",
+        "cn": "您说英语吗？"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-basics-20",
+    "word": "wij",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "",
+        "cn": "我们"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Wij leren samen Nederlands.",
+        "cn": "我们一起学荷兰语。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-basics-21",
+    "word": "de naam",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "名字"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Wat is je naam?",
+        "cn": "你叫什么名字？"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-basics-22",
+    "word": "heten",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "",
+        "cn": "叫作"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Hoe heet je?",
+        "cn": "你叫什么名字？"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-basics-23",
+    "word": "zijn",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "",
+        "cn": "是；处于"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Ik ben een beginner.",
+        "cn": "我是初学者。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-basics-24",
+    "word": "hebben",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "",
+        "cn": "有"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "We hebben een vraag.",
+        "cn": "我们有一个问题。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-basics-25",
+    "word": "komen",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "",
+        "cn": "来"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Waar kom je vandaan?",
+        "cn": "你从哪里来？"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-basics-26",
+    "word": "wonen",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "",
+        "cn": "居住"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Ik woon nu in Utrecht.",
+        "cn": "我现在住在乌得勒支。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-basics-27",
+    "word": "leren",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "",
+        "cn": "学习；教会"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Ik leer elke dag nieuwe woorden.",
+        "cn": "我每天学新词。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-basics-28",
+    "word": "spreken",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "",
+        "cn": "说（某种语言）"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Ik spreek een beetje Nederlands.",
+        "cn": "我会说一点荷兰语。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-basics-29",
+    "word": "begrijpen",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "",
+        "cn": "理解"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Ik begrijp de vraag niet.",
+        "cn": "我不理解这个问题。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-basics-30",
+    "word": "herhalen",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "",
+        "cn": "重复"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Kunt u dat herhalen?",
+        "cn": "您能重复一遍吗？"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-home-1",
+    "word": "de familie",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "家人；家族"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Mijn familie woont in China.",
+        "cn": "我的家人住在中国。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-home-2",
+    "word": "de vader",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "父亲"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Mijn vader kookt graag.",
+        "cn": "我父亲喜欢做饭。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-home-3",
+    "word": "de moeder",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "母亲"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Mijn moeder werkt vandaag.",
+        "cn": "我母亲今天上班。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-home-4",
+    "word": "de broer",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "兄弟"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Mijn broer woont dichtbij.",
+        "cn": "我的兄弟住得很近。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-home-5",
+    "word": "de zus",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "姐妹"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Mijn zus komt op bezoek.",
+        "cn": "我的姐妹要来做客。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-home-6",
+    "word": "het kind",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "孩子（复数 kinderen）"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Het kind speelt buiten.",
+        "cn": "孩子在外面玩。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-home-7",
+    "word": "de vriend",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "男性朋友；男友"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Een vriend helpt me met verhuizen.",
+        "cn": "一位朋友帮我搬家。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-home-8",
+    "word": "de vriendin",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "女性朋友；女友"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Mijn vriendin spreekt Nederlands.",
+        "cn": "我的女性朋友说荷兰语。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-home-9",
+    "word": "de buurman",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "男邻居"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "De buurman heeft een hond.",
+        "cn": "男邻居养了一只狗。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-home-10",
+    "word": "de buurvrouw",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "女邻居"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Ik groet de buurvrouw.",
+        "cn": "我向女邻居打招呼。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-home-11",
+    "word": "het huis",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "房子（复数 huizen）"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Ons huis heeft een kleine tuin.",
+        "cn": "我们家有一个小花园。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-home-12",
+    "word": "de woning",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "住宅"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Ik zoek een woning in de stad.",
+        "cn": "我在城里找住房。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-home-13",
+    "word": "de kamer",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "房间"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Deze kamer is licht.",
+        "cn": "这个房间很明亮。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-home-14",
+    "word": "de keuken",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "厨房"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "De koffie staat in de keuken.",
+        "cn": "咖啡在厨房里。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-home-15",
+    "word": "de badkamer",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "浴室"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "De badkamer is boven.",
+        "cn": "浴室在楼上。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-home-16",
+    "word": "de slaapkamer",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "卧室"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "De slaapkamer is rustig.",
+        "cn": "卧室很安静。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-home-17",
+    "word": "de deur",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "门"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Doe de deur maar dicht.",
+        "cn": "把门关上吧。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-home-18",
+    "word": "het raam",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "窗户（复数 ramen）"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Mag het raam open?",
+        "cn": "可以开窗吗？"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-home-19",
+    "word": "de tafel",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "桌子"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Het boek ligt op de tafel.",
+        "cn": "书在桌子上。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-home-20",
+    "word": "de stoel",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "椅子"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Deze stoel zit lekker.",
+        "cn": "这把椅子坐着很舒服。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-home-21",
+    "word": "het bed",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "床"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Het bed staat naast het raam.",
+        "cn": "床在窗户旁边。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-home-22",
+    "word": "de sleutel",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "钥匙"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Waar is mijn sleutel?",
+        "cn": "我的钥匙在哪里？"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-home-23",
+    "word": "de tuin",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "花园"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "We zitten in de tuin.",
+        "cn": "我们坐在花园里。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-home-24",
+    "word": "samen",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "",
+        "cn": "一起"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "We eten samen.",
+        "cn": "我们一起吃饭。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-home-25",
+    "word": "thuis",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "",
+        "cn": "在家；到家"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Ben je vanavond thuis?",
+        "cn": "你今晚在家吗？"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-home-26",
+    "word": "groot",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "",
+        "cn": "大的"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "De woonkamer is groot.",
+        "cn": "客厅很大。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-home-27",
+    "word": "klein",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "",
+        "cn": "小的"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "We hebben een kleine keuken.",
+        "cn": "我们有一个小厨房。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-home-28",
+    "word": "nieuw",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "",
+        "cn": "新的"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Dit is mijn nieuwe huis.",
+        "cn": "这是我的新家。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-home-29",
+    "word": "oud",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "",
+        "cn": "旧的；年老的"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Hoe oud ben je?",
+        "cn": "你多大了？"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-home-30",
+    "word": "schoon",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "",
+        "cn": "干净的"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "De kamer is schoon.",
+        "cn": "房间很干净。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-food-1",
+    "word": "het water",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "水"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Ik drink graag water.",
+        "cn": "我喜欢喝水。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-food-2",
+    "word": "de koffie",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "咖啡"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Een koffie zonder suiker, graag.",
+        "cn": "请来一杯不加糖的咖啡。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-food-3",
+    "word": "de thee",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "茶"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Wil je een kopje thee?",
+        "cn": "你想喝杯茶吗？"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-food-4",
+    "word": "de melk",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "牛奶"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Er zit melk in de koelkast.",
+        "cn": "冰箱里有牛奶。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-food-5",
+    "word": "het brood",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "面包"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Ik koop vers brood.",
+        "cn": "我买新鲜面包。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-food-6",
+    "word": "de kaas",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "奶酪"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Ik eet brood met kaas.",
+        "cn": "我吃奶酪面包。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-food-7",
+    "word": "het ei",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "鸡蛋（复数 eieren）"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Wil je een gekookt ei?",
+        "cn": "你想吃一个煮鸡蛋吗？"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-food-8",
+    "word": "de appel",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "苹果"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Deze appel is lekker.",
+        "cn": "这个苹果很好吃。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-food-9",
+    "word": "de banaan",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "香蕉"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Ik neem een banaan mee.",
+        "cn": "我带上一根香蕉。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-food-10",
+    "word": "de groente",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "蔬菜"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "We eten elke dag groente.",
+        "cn": "我们每天吃蔬菜。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-food-11",
+    "word": "het fruit",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "水果"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Fruit is gezond.",
+        "cn": "水果有益健康。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-food-12",
+    "word": "de aardappel",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "土豆"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "De aardappelen zijn klaar.",
+        "cn": "土豆做好了。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-food-13",
+    "word": "de rijst",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "米饭；稻米"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "We eten rijst met groente.",
+        "cn": "我们吃米饭配蔬菜。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-food-14",
+    "word": "de kip",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "鸡；鸡肉"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Ik wil rijst met kip.",
+        "cn": "我想要鸡肉配米饭。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-food-15",
+    "word": "de vis",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "鱼"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Deze vis is vers.",
+        "cn": "这鱼很新鲜。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-food-16",
+    "word": "de soep",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "汤"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "De soep is nog warm.",
+        "cn": "汤还热着。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-food-17",
+    "word": "het ontbijt",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "早餐"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Het ontbijt staat klaar.",
+        "cn": "早餐准备好了。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-food-18",
+    "word": "de lunch",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "午餐"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Wat eet je voor de lunch?",
+        "cn": "你午饭吃什么？"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-food-19",
+    "word": "het avondeten",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "晚餐"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Het avondeten is om zes uur.",
+        "cn": "晚饭在六点。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-food-20",
+    "word": "de supermarkt",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "超市"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "De supermarkt is om de hoek.",
+        "cn": "超市就在拐角处。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-food-21",
+    "word": "de winkel",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "商店"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "De winkel sluit om acht uur.",
+        "cn": "商店八点关门。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-food-22",
+    "word": "de prijs",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "价格"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Wat is de prijs?",
+        "cn": "价格是多少？"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-food-23",
+    "word": "de rekening",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "账单"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Mag ik de rekening, alstublieft?",
+        "cn": "请把账单给我好吗？"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-food-24",
+    "word": "betalen",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "",
+        "cn": "付款"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Kan ik met de pin betalen?",
+        "cn": "我能刷卡付款吗？"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-food-25",
+    "word": "kopen",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "",
+        "cn": "购买"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Ik koop een brood.",
+        "cn": "我买一个面包。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-food-26",
+    "word": "eten",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "",
+        "cn": "吃"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "We eten om zeven uur.",
+        "cn": "我们七点吃饭。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-food-27",
+    "word": "drinken",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "",
+        "cn": "喝"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Wat wil je drinken?",
+        "cn": "你想喝什么？"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-food-28",
+    "word": "lekker",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "",
+        "cn": "好吃的；舒服的"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Eet smakelijk, de soep is lekker!",
+        "cn": "用餐愉快，这汤很好喝！"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-food-29",
+    "word": "duur",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "",
+        "cn": "贵的"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Deze kaas is duur.",
+        "cn": "这奶酪很贵。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-food-30",
+    "word": "goedkoop",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "",
+        "cn": "便宜的"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Deze appels zijn goedkoop.",
+        "cn": "这些苹果很便宜。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-travel-1",
+    "word": "de fiets",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "自行车"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Ik ga met de fiets naar mijn werk.",
+        "cn": "我骑自行车去上班。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-travel-2",
+    "word": "de trein",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "火车"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "De trein vertrekt om tien uur.",
+        "cn": "火车十点出发。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-travel-3",
+    "word": "de bus",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "公交车"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Deze bus gaat naar het station.",
+        "cn": "这辆公交车开往车站。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-travel-4",
+    "word": "de tram",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "有轨电车"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "We nemen de tram naar het centrum.",
+        "cn": "我们乘电车去市中心。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-travel-5",
+    "word": "de auto",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "汽车"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "De auto staat voor het huis.",
+        "cn": "汽车停在房子前面。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-travel-6",
+    "word": "het station",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "车站"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Waar is het station?",
+        "cn": "车站在哪里？"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-travel-7",
+    "word": "de halte",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "站点"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "De volgende halte is het centrum.",
+        "cn": "下一站是市中心。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-travel-8",
+    "word": "het kaartje",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "票"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Ik wil een kaartje naar Leiden.",
+        "cn": "我想买一张去莱顿的票。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-travel-9",
+    "word": "de reis",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "旅程"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "De reis duurt een uur.",
+        "cn": "旅程需要一小时。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-travel-10",
+    "word": "de straat",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "街道"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "In deze straat is een bakker.",
+        "cn": "这条街上有一家面包店。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-travel-11",
+    "word": "de weg",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "道路"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Ik ken de weg niet.",
+        "cn": "我不认识路。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-travel-12",
+    "word": "de brug",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "桥"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Ga over de brug.",
+        "cn": "过桥。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-travel-13",
+    "word": "het centrum",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "市中心"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Het centrum is dichtbij.",
+        "cn": "市中心很近。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-travel-14",
+    "word": "het adres",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "地址"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Wat is je adres?",
+        "cn": "你的地址是什么？"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-travel-15",
+    "word": "de stad",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "城市（复数 steden）"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Dit is een mooie stad.",
+        "cn": "这是一座美丽的城市。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-travel-16",
+    "word": "het dorp",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "村庄"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Mijn ouders wonen in een dorp.",
+        "cn": "我父母住在一个村庄。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-travel-17",
+    "word": "links",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "",
+        "cn": "左边；向左"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Ga bij de brug naar links.",
+        "cn": "到桥那里向左转。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-travel-18",
+    "word": "rechts",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "",
+        "cn": "右边；向右"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "De winkel is aan de rechterkant, dus ga rechts.",
+        "cn": "商店在右侧，所以向右走。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-travel-19",
+    "word": "rechtdoor",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "",
+        "cn": "直行"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Ga hier rechtdoor.",
+        "cn": "在这里直走。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-travel-20",
+    "word": "dichtbij",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "",
+        "cn": "附近的；在附近"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "De school is dichtbij.",
+        "cn": "学校就在附近。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-travel-21",
+    "word": "ver",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "",
+        "cn": "远的"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Is het ver lopen?",
+        "cn": "走路远吗？"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-travel-22",
+    "word": "gaan",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "",
+        "cn": "去"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Waar ga je naartoe?",
+        "cn": "你要去哪里？"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-travel-23",
+    "word": "lopen",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "",
+        "cn": "走路"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "We lopen naar het station.",
+        "cn": "我们走到车站。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-travel-24",
+    "word": "fietsen",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "",
+        "cn": "骑自行车"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Ik fiets elke dag.",
+        "cn": "我每天骑自行车。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-travel-25",
+    "word": "reizen",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "",
+        "cn": "旅行；出行"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Ik reis met de trein.",
+        "cn": "我乘火车出行。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-travel-26",
+    "word": "vertrekken",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "",
+        "cn": "出发"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Hoe laat vertrekken we?",
+        "cn": "我们几点出发？"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-travel-27",
+    "word": "aankomen",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "",
+        "cn": "到达"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "We komen om negen uur aan.",
+        "cn": "我们九点到达。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-travel-28",
+    "word": "wachten",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "",
+        "cn": "等待"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Ik wacht op de bus.",
+        "cn": "我在等公交车。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-travel-29",
+    "word": "overstappen",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "",
+        "cn": "换乘"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Je moet in Utrecht overstappen.",
+        "cn": "你需要在乌得勒支换乘。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-travel-30",
+    "word": "de vertraging",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "延误"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "De trein heeft tien minuten vertraging.",
+        "cn": "火车晚点十分钟。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-time-1",
+    "word": "vandaag",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "",
+        "cn": "今天"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Vandaag werk ik thuis.",
+        "cn": "今天我在家工作。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-time-2",
+    "word": "morgen",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "",
+        "cn": "明天"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Morgen ben ik vrij.",
+        "cn": "明天我休息。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-time-3",
+    "word": "gisteren",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "",
+        "cn": "昨天"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Gisteren was het koud.",
+        "cn": "昨天很冷。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-time-4",
+    "word": "nu",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "",
+        "cn": "现在"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Ik heb nu tijd.",
+        "cn": "我现在有时间。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-time-5",
+    "word": "straks",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "",
+        "cn": "一会儿；待会儿"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Tot straks!",
+        "cn": "待会儿见！"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-time-6",
+    "word": "altijd",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "",
+        "cn": "总是"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Ik drink altijd thee bij het ontbijt.",
+        "cn": "我早餐总是喝茶。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-time-7",
+    "word": "vaak",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "",
+        "cn": "经常"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Het regent hier vaak.",
+        "cn": "这里经常下雨。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-time-8",
+    "word": "soms",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "",
+        "cn": "有时"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Soms ga ik met de bus.",
+        "cn": "我有时坐公交车。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-time-9",
+    "word": "nooit",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "",
+        "cn": "从不"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Ik drink nooit koffie in de avond.",
+        "cn": "我晚上从不喝咖啡。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-time-10",
+    "word": "de dag",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "一天；白天"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Fijne dag!",
+        "cn": "祝你今天愉快！"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-time-11",
+    "word": "de week",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "星期；一周"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Volgende week begin ik met werken.",
+        "cn": "我下周开始工作。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-time-12",
+    "word": "de maand",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "月份"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Deze maand ga ik verhuizen.",
+        "cn": "这个月我要搬家。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-time-13",
+    "word": "het jaar",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "年"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Ik woon hier al een jaar.",
+        "cn": "我在这里已经住了一年。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-time-14",
+    "word": "het uur",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "小时；点钟"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Het is drie uur.",
+        "cn": "现在三点。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-time-15",
+    "word": "de minuut",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "分钟"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Ik ben over vijf minuten terug.",
+        "cn": "我五分钟后回来。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-time-16",
+    "word": "maandag",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "",
+        "cn": "星期一"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Op maandag heb ik les.",
+        "cn": "星期一我有课。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-time-17",
+    "word": "dinsdag",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "",
+        "cn": "星期二"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Dinsdag ga ik naar de markt.",
+        "cn": "星期二我去市场。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-time-18",
+    "word": "woensdag",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "",
+        "cn": "星期三"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Woensdag ben ik thuis.",
+        "cn": "星期三我在家。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-time-19",
+    "word": "donderdag",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "",
+        "cn": "星期四"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "We spreken donderdag af.",
+        "cn": "我们约在星期四见。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-time-20",
+    "word": "vrijdag",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "",
+        "cn": "星期五"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Vrijdag werk ik tot vijf uur.",
+        "cn": "星期五我工作到五点。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-time-21",
+    "word": "zaterdag",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "",
+        "cn": "星期六"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Zaterdag ga ik fietsen.",
+        "cn": "星期六我去骑车。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-time-22",
+    "word": "zondag",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "",
+        "cn": "星期日"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Op zondag rust ik uit.",
+        "cn": "星期日我休息。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-time-23",
+    "word": "het weer",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "天气"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Hoe is het weer vandaag?",
+        "cn": "今天天气怎么样？"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-time-24",
+    "word": "de zon",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "太阳"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "De zon schijnt vandaag.",
+        "cn": "今天阳光明媚。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-time-25",
+    "word": "de regen",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "雨"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Ik fiets niet graag in de regen.",
+        "cn": "我不喜欢在雨中骑车。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-time-26",
+    "word": "de wind",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "风"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Er staat een harde wind.",
+        "cn": "风很大。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-time-27",
+    "word": "koud",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "",
+        "cn": "冷的"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Het is koud buiten.",
+        "cn": "外面很冷。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-time-28",
+    "word": "warm",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "",
+        "cn": "温暖的；热的"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Het is vandaag lekker warm.",
+        "cn": "今天暖和得很舒服。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-time-29",
+    "word": "half",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "",
+        "cn": "一半；半点（指向下一小时）"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Half negen betekent acht uur dertig.",
+        "cn": "Half negen 表示八点半。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-time-30",
+    "word": "het weekend",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "周末"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Wat doe je dit weekend?",
+        "cn": "这个周末你做什么？"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-life-1",
+    "word": "het werk",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "工作"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Ik ga naar mijn werk.",
+        "cn": "我去上班。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-life-2",
+    "word": "de collega",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "同事"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Mijn collega helpt me.",
+        "cn": "我的同事帮助我。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-life-3",
+    "word": "de afspraak",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "预约；约定"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Ik wil een afspraak maken.",
+        "cn": "我想预约。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-life-4",
+    "word": "de vergadering",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "会议"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "De vergadering begint om tien uur.",
+        "cn": "会议十点开始。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-life-5",
+    "word": "het bericht",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "消息"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Ik stuur je een bericht.",
+        "cn": "我给你发一条消息。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-life-6",
+    "word": "de vraag",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "问题"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Mag ik een vraag stellen?",
+        "cn": "我能问个问题吗？"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-life-7",
+    "word": "het antwoord",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "回答"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Ik weet het antwoord niet.",
+        "cn": "我不知道答案。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-life-8",
+    "word": "de school",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "学校"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "De school begint om half negen.",
+        "cn": "学校八点半开始上课。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-life-9",
+    "word": "de les",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "课"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "De les duurt twee uur.",
+        "cn": "这节课长两小时。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-life-10",
+    "word": "de taal",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "语言"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Nederlands is een mooie taal.",
+        "cn": "荷兰语是一门美丽的语言。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-life-11",
+    "word": "de huisarts",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "全科医生"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Ik bel de huisarts.",
+        "cn": "我给全科医生打电话。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-life-12",
+    "word": "de apotheek",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "药房"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Ik haal medicijnen bij de apotheek.",
+        "cn": "我去药房取药。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-life-13",
+    "word": "het ziekenhuis",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "医院"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Het ziekenhuis is dichtbij.",
+        "cn": "医院在附近。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-life-14",
+    "word": "de gemeente",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "市政府；市镇"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Ik heb een afspraak bij de gemeente.",
+        "cn": "我预约了去市政府办事。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-life-15",
+    "word": "het formulier",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "表格"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Kunt u dit formulier invullen?",
+        "cn": "您能填写这张表格吗？"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-life-16",
+    "word": "de verzekering",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "保险"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Ik heb een zorgverzekering.",
+        "cn": "我有医疗保险。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-life-17",
+    "word": "werken",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "",
+        "cn": "工作"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Ik werk vier dagen per week.",
+        "cn": "我每周工作四天。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-life-18",
+    "word": "zoeken",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "",
+        "cn": "寻找"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Ik zoek een nieuwe baan.",
+        "cn": "我在找一份新工作。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-life-19",
+    "word": "helpen",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "",
+        "cn": "帮助"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Kun je mij helpen?",
+        "cn": "你能帮我吗？"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-life-20",
+    "word": "bellen",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "",
+        "cn": "打电话"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Ik bel je morgen.",
+        "cn": "我明天给你打电话。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-life-21",
+    "word": "lezen",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "",
+        "cn": "阅读"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Ik lees een Nederlands boek.",
+        "cn": "我在读一本荷兰语书。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-life-22",
+    "word": "schrijven",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "",
+        "cn": "写"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Schrijf je naam hier.",
+        "cn": "在这里写下你的名字。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-life-23",
+    "word": "luisteren",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "",
+        "cn": "听"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Ik luister naar de docent.",
+        "cn": "我听老师讲课。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-life-24",
+    "word": "moeten",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "",
+        "cn": "必须；需要"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Ik moet morgen werken.",
+        "cn": "我明天必须上班。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-life-25",
+    "word": "kunnen",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "",
+        "cn": "能够"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Ik kan Nederlands lezen.",
+        "cn": "我能读荷兰语。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-life-26",
+    "word": "willen",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "",
+        "cn": "想要"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Ik wil graag een afspraak maken.",
+        "cn": "我想预约。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-life-27",
+    "word": "moe",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "",
+        "cn": "累的"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Ik ben een beetje moe.",
+        "cn": "我有点累。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-life-28",
+    "word": "ziek",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "",
+        "cn": "生病的"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Ik ben ziek en blijf thuis.",
+        "cn": "我生病了，待在家里。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-life-29",
+    "word": "gezond",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "",
+        "cn": "健康的"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Bewegen is gezond.",
+        "cn": "运动有益健康。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-life-30",
+    "word": "belangrijk",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "",
+        "cn": "重要的"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Goed luisteren is belangrijk.",
+        "cn": "认真听很重要。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  }
+]
