@@ -1,0 +1,782 @@
+[
+  {
+    "id": "nl-b1-workplace-1",
+    "word": "het overleg",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "商议；协商会议"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Tijdens het overleg hebben we de taken opnieuw verdeeld.",
+        "cn": "协商会议上，我们重新分配了任务。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-b1-workplace-2",
+    "word": "de agenda",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "议程；日程表"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Zet je vraag op de agenda, zodat we die samen kunnen bespreken.",
+        "cn": "把你的问题列入议程，以便我们一起讨论。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-b1-workplace-3",
+    "word": "het verslag",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "报告；会议记录"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Kun je het verslag na de vergadering naar iedereen sturen?",
+        "cn": "会议结束后，你能把会议记录发给所有人吗？"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-b1-workplace-4",
+    "word": "de notulen",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "会议纪要（复数）"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "In de notulen staan de besluiten die we hebben genomen.",
+        "cn": "会议纪要中记录了我们作出的决定。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-b1-workplace-5",
+    "word": "het voorstel",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "建议；提案"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Ik heb een voorstel om de samenwerking te verbeteren.",
+        "cn": "我有一个改善合作的建议。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-b1-workplace-6",
+    "word": "de opmerking",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "意见；评论"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Dank je wel voor je opmerking, daar had ik nog niet aan gedacht.",
+        "cn": "谢谢你的意见，这一点我之前还没想到。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-b1-workplace-7",
+    "word": "de toelichting",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "补充说明"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Bij dit onderdeel is een korte toelichting nodig.",
+        "cn": "这个部分需要一个简短的补充说明。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-b1-workplace-8",
+    "word": "de feedback",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "反馈"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Ik vraag feedback omdat ik wil weten wat beter kan.",
+        "cn": "我征求反馈，因为我想知道有哪些地方可以改进。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-b1-workplace-9",
+    "word": "het misverstand",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "误会"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Er ontstond een misverstand doordat de instructie niet duidelijk was.",
+        "cn": "由于说明不清楚，产生了误会。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-b1-workplace-10",
+    "word": "de samenwerking",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "合作"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Goede samenwerking begint met duidelijke afspraken.",
+        "cn": "良好的合作从明确的约定开始。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-b1-workplace-11",
+    "word": "de afdeling",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "部门"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Ik werk op een afdeling waar veel verschillende talen worden gesproken.",
+        "cn": "我在一个使用多种语言的部门工作。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-b1-workplace-12",
+    "word": "de leidinggevende",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "主管"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Bespreek je wensen eerst met je leidinggevende.",
+        "cn": "先和你的主管讨论你的想法。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-b1-workplace-13",
+    "word": "de opdrachtgever",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "委托方"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "De opdrachtgever wil weten wanneer het ontwerp klaar is.",
+        "cn": "委托方想知道设计何时完成。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-b1-workplace-14",
+    "word": "de contactpersoon",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "联系人"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Wie is de contactpersoon als ik later nog vragen heb?",
+        "cn": "如果以后还有问题，我应该联系谁？"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-b1-workplace-15",
+    "word": "de werkdruk",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "工作压力"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Door de extra opdrachten is de werkdruk tijdelijk hoger.",
+        "cn": "由于增加了任务，工作压力暂时变大了。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-b1-workplace-16",
+    "word": "de werkplek",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "工作场所；工位"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Op mijn werkplek kan ik me meestal goed concentreren.",
+        "cn": "在我的工位上，我通常能很好地集中注意力。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-b1-workplace-17",
+    "word": "bespreken",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "",
+        "cn": "讨论"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "We moeten bespreken welke oplossing het beste bij ons past.",
+        "cn": "我们需要讨论哪种解决办法最适合我们。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-b1-workplace-18",
+    "word": "afspreken",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "",
+        "cn": "约定"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Laten we afspreken wie de klant vandaag terugbelt.",
+        "cn": "我们约定一下今天由谁给客户回电话吧。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-b1-workplace-19",
+    "word": "doorgeven",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "",
+        "cn": "转告；传递"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Kun je doorgeven dat de vergadering een halfuur later begint?",
+        "cn": "你能转告大家会议晚半小时开始吗？"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-b1-workplace-20",
+    "word": "toelichten",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "",
+        "cn": "解释说明"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Kunt u toelichten waarom deze keuze is gemaakt?",
+        "cn": "您能说明为什么作出这个选择吗？"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-b1-workplace-21",
+    "word": "samenvatten",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "",
+        "cn": "概括；总结"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Aan het einde zal ik de belangrijkste punten samenvatten.",
+        "cn": "最后，我会总结最重要的几点。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-b1-workplace-22",
+    "word": "voorstellen",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "",
+        "cn": "提议；介绍"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Ik stel voor dat we eerst de oorzaken onderzoeken.",
+        "cn": "我建议我们先调查原因。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-b1-workplace-23",
+    "word": "overleggen",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "",
+        "cn": "商量"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Ik moet even met mijn collega overleggen voordat ik antwoord geef.",
+        "cn": "回复之前，我需要先和同事商量一下。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-b1-workplace-24",
+    "word": "bevestigen",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "",
+        "cn": "确认"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Wil je per e-mail bevestigen dat je aanwezig bent?",
+        "cn": "你能通过邮件确认你会出席吗？"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-b1-workplace-25",
+    "word": "onderbreken",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "",
+        "cn": "打断"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Sorry dat ik je onderbreek, maar ik heb hierover een vraag.",
+        "cn": "抱歉打断你，不过我对此有个问题。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-b1-workplace-26",
+    "word": "aanvullen",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "",
+        "cn": "补充"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Mag ik je uitleg met een voorbeeld aanvullen?",
+        "cn": "我能用一个例子来补充你的说明吗？"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-b1-workplace-27",
+    "word": "akkoord gaan met",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "搭配",
+        "cn": "同意；接受"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Ik ga akkoord met het voorstel, zolang de kosten gelijk blijven.",
+        "cn": "只要费用不变，我就同意这个方案。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-b1-workplace-28",
+    "word": "rekening houden met",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "搭配",
+        "cn": "考虑到；顾及"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Bij het plannen moeten we rekening houden met vakanties.",
+        "cn": "安排计划时，我们必须考虑假期。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-b1-workplace-29",
+    "word": "op de hoogte houden",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "搭配",
+        "cn": "随时告知进展"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Ik zal je op de hoogte houden zodra er nieuws is.",
+        "cn": "一有消息，我就会告诉你。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-b1-workplace-30",
+    "word": "tot een oplossing komen",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "搭配",
+        "cn": "达成解决办法"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Door rustig te praten zijn we tot een oplossing gekomen.",
+        "cn": "通过平静地沟通，我们找到了解决办法。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  }
+]

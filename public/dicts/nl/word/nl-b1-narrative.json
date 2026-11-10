@@ -1,0 +1,782 @@
+[
+  {
+    "id": "nl-b1-narrative-1",
+    "word": "het begin",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "开始；开头"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Aan het begin van het verhaal wist niemand wat er zou gebeuren.",
+        "cn": "故事开始时，没有人知道会发生什么。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-b1-narrative-2",
+    "word": "het einde",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "结束；结尾"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Pas aan het einde begreep ik waarom zij zo had gereageerd.",
+        "cn": "直到最后，我才明白她为什么会那样反应。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-b1-narrative-3",
+    "word": "de gebeurtenis",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "事件"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Die onverwachte gebeurtenis heeft mijn plannen helemaal veranderd.",
+        "cn": "那件意外发生的事情完全改变了我的计划。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-b1-narrative-4",
+    "word": "de terugblik",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "回顾"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "In haar terugblik vertelde ze wat er goed was gegaan en wat ze anders zou doen.",
+        "cn": "回顾时，她讲述了哪些事情做得好，以及下次会有什么不同做法。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-b1-narrative-5",
+    "word": "een ervaring delen",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "搭配",
+        "cn": "分享一次经历"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Ik wil een persoonlijke ervaring delen die mij veel heeft geleerd.",
+        "cn": "我想分享一次让我学到很多的个人经历。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-b1-narrative-6",
+    "word": "de jeugd",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "童年；青少年时期"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Tijdens haar jeugd woonde ze in verschillende landen.",
+        "cn": "童年时期，她曾在不同国家生活。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-b1-narrative-7",
+    "word": "het verleden",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "过去"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "In het verleden maakten we deze producten nog met de hand.",
+        "cn": "过去，我们还用手工制作这些产品。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-b1-narrative-8",
+    "word": "de toekomst",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "未来"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Deze cursus kan invloed hebben op wat ik in de toekomst wil doen.",
+        "cn": "这门课程可能影响我未来想做的事情。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-b1-narrative-9",
+    "word": "de periode",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "时期；一段时间"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "In die periode moest ik wennen aan een heel ander dagelijks ritme.",
+        "cn": "那段时间，我必须适应一种完全不同的日常节奏。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-b1-narrative-10",
+    "word": "het moment",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "时刻；时候"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Ik weet nog precies op welk moment ik besloot te verhuizen.",
+        "cn": "我仍清楚地记得自己是在什么时候决定搬家的。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-b1-narrative-11",
+    "word": "de volgorde",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "顺序"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Vertel de gebeurtenissen in de volgorde waarin ze plaatsvonden.",
+        "cn": "请按照事情发生的顺序讲述这些事件。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-b1-narrative-12",
+    "word": "de aanleiding",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "起因；缘由"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Een gesprek met mijn buurvrouw was de aanleiding om vrijwilligerswerk te zoeken.",
+        "cn": "与女邻居的一次谈话，是我开始寻找志愿工作的起因。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-b1-narrative-13",
+    "word": "de afloop",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "结局；结束"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Na afloop van de bijeenkomst bleven enkele deelnemers nog napraten.",
+        "cn": "聚会结束后，一些参加者留下来继续聊天。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-b1-narrative-14",
+    "word": "de verrassing",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "惊喜；意外"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Het was een grote verrassing toen mijn oude vriend opeens voor de deur stond.",
+        "cn": "老朋友突然出现在门前时，我感到非常惊喜。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-b1-narrative-15",
+    "word": "destijds",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "",
+        "cn": "当时；那时候"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Destijds wist ik nog niet hoe belangrijk die beslissing zou worden.",
+        "cn": "当时，我还不知道那个决定后来会有多么重要。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-b1-narrative-16",
+    "word": "toen",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "",
+        "cn": "当时；当……的时候"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Toen ik net in Nederland woonde, vond ik bellen erg spannend.",
+        "cn": "我刚在荷兰生活时，觉得打电话非常紧张。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-b1-narrative-17",
+    "word": "voorheen",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "",
+        "cn": "以前；从前"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Voorheen reisde ik elke dag, maar nu werk ik meestal in de buurt.",
+        "cn": "以前我每天都通勤，但现在通常在附近工作。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-b1-narrative-18",
+    "word": "vroeger",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "",
+        "cn": "过去；以前"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Vroeger gingen we elke zomer naar hetzelfde kleine dorp.",
+        "cn": "以前，我们每年夏天都去同一个小村庄。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-b1-narrative-19",
+    "word": "sindsdien",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "",
+        "cn": "从那以后"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Ik heb één keer mijn trein gemist en vertrek sindsdien wat eerder.",
+        "cn": "我曾错过一次火车，从那以后出门就早一些了。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-b1-narrative-20",
+    "word": "opeens",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "",
+        "cn": "突然"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Opeens merkte ik dat mijn tas niet meer naast me lag.",
+        "cn": "我突然发现，包已经不在我旁边了。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-b1-narrative-21",
+    "word": "gaandeweg",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "",
+        "cn": "逐渐；在过程中"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Gaandeweg ontdekte ik welke manier van leren bij mij paste.",
+        "cn": "在学习过程中，我逐渐发现了适合自己的方法。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-b1-narrative-22",
+    "word": "achteraf",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "",
+        "cn": "事后；回头看"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Achteraf gezien had ik eerder om hulp kunnen vragen.",
+        "cn": "回头看，我本可以早点寻求帮助。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-b1-narrative-23",
+    "word": "terugkijken op",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "搭配",
+        "cn": "回顾"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "We kijken met plezier terug op de tijd waarin we samen studeerden.",
+        "cn": "我们愉快地回顾曾经一起学习的时光。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-b1-narrative-24",
+    "word": "een verhaal vertellen",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "搭配",
+        "cn": "讲述一个故事"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Probeer een verhaal te vertellen waarin ook je gevoelens duidelijk worden.",
+        "cn": "试着讲一个也能清楚表达你的感受的故事。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-b1-narrative-25",
+    "word": "op dat moment",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "搭配",
+        "cn": "在那个时候"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Op dat moment had ik nog geen idee wat de volgende stap zou zijn.",
+        "cn": "在那个时候，我还不知道下一步会是什么。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-b1-narrative-26",
+    "word": "in de tussentijd",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "搭配",
+        "cn": "在此期间"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Mijn fiets werd gerepareerd en in de tussentijd gebruikte ik de bus.",
+        "cn": "我的自行车在维修，在此期间我乘公交车。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-b1-narrative-27",
+    "word": "vanaf dat moment",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "搭配",
+        "cn": "从那一刻起"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Vanaf dat moment oefende ik elke dag een kort gesprek.",
+        "cn": "从那一刻起，我每天练习一段简短对话。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-b1-narrative-28",
+    "word": "het keerpunt",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "转折点"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Het gesprek met mijn docent was een keerpunt in mijn studie.",
+        "cn": "与老师的那次谈话是我学习中的一个转折点。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-b1-narrative-29",
+    "word": "de tijdlijn",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "时间线"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Met een tijdlijn konden we beter zien wat er eerst was gebeurd.",
+        "cn": "借助时间线，我们能更清楚地看到先发生了什么。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-b1-narrative-30",
+    "word": "voordat het zover was",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "搭配",
+        "cn": "在那之前；在事情发展到那一步前"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Ik wilde graag optreden, maar voordat het zover was, moest ik veel oefenen.",
+        "cn": "我很想登台演出，但在那之前必须进行大量练习。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  }
+]

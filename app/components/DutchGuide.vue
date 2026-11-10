@@ -12,11 +12,11 @@ const notes = [
 ]
 </script>
 <template>
-  <main class="guide"><NuxtLink to="/" class="back">← 回到学习首页</NuxtLink><div class="kicker">EEN GOED BEGIN</div><h1>从一点点，学会更多。</h1><p class="lead">先掌握用得上的词，再把它们放进真实的句子。</p>
+  <main class="guide"><NuxtLink to="/" class="back">← 回到学习首页</NuxtLink><div class="kicker">EEN GOED BEGIN</div><h1>带着 B1 目标，安排你的练习。</h1><p class="lead">词汇是起点，目标是在真实场景中理解信息、说明理由、叙述经历并写连贯短文。</p><section><h2>使用新的 B1 学习中心</h2><p>首页现有 36 组主题词库、1,080 条词汇与搭配。A2→B1 进阶页包含 900 条新内容；基础复习页保留原来的 180 词和学习进度。B1 学习中心另有 16 个语法单元、12 篇长阅读、12 个写作任务及 12 个口语任务。</p><p>先读荷兰语、做阅读题，再查看中文。写作先完成自己的 100–150 词草稿，再对照范文；口语先准备 30 秒，再表达 90 秒。选择题有答案反馈，写作与口语使用自检清单，不进行自动能力评定。</p><NuxtLink class="action" to="/b1">打开 B1 学习路线 →</NuxtLink></section>
     <section><h2>每天 10 个词，四步练习</h2><ol><li><strong>选择主题。</strong>在首页选择一组词库，然后在单词页开始学习。每天默认学习 10 个新词。</li><li><strong>先听再跟写。</strong>点击喇叭听荷兰语发音，输入词语；完整输入后按空格继续。名词连同冠词一起输入。</li><li><strong>尝试听写与默写。</strong>在单词页选择听写或默写模式。忘记时用提示，再尝试一次。</li><li><strong>回来复习。</strong>错词会自动记录；学习后的复习计划由原项目的间隔复习机制安排。也可以练习生活对话。</li></ol><NuxtLink class="action" to="/words">前往单词练习 →</NuxtLink></section>
     <section><h2>先把荷兰语语音设置好</h2><p>发音使用设备和浏览器提供的荷兰语语音。打开「设置 → 音效设置」，选择标有 nl-NL（荷兰）或 nl-BE（比利时）的语音并试听。词汇和对话使用同一套荷兰语发音。</p><p>如果列表为空，可以在系统里添加荷兰语语音包，或尝试使用 Microsoft Edge。没有荷兰语语音时，网站会给出提示；文字练习仍然可用。</p><button class="action" @click="speak('Hallo! Ik leer Nederlands. Hoe gaat het met je?')">试听荷兰语 ↗</button> <NuxtLink class="action secondary" to="/setting?index=4">打开语音设置 →</NuxtLink></section>
     <section><h2>六个值得记住的小习惯</h2><article v-for="(note,index) in notes" :key="note.title"><span class="number">0{{ index + 1 }}</span><div><h3>{{ note.title }}</h3><button class="example" lang="nl" @click="speak(note.example)" :aria-label="'试听：' + note.example">{{ note.example }} <span>♪</span></button><p>{{ note.text }}</p></div></article></section>
-    <section><h2>保存、备份和添加内容</h2><p>词库选择、练习进度和错词保存在当前浏览器中。GitHub 保存网站源码，不会自动同步个人学习进度。换设备、换浏览器或清理浏览器数据前，请到「设置」导出备份，在新设备上导入。</p><p>你可以在词典和文章列表中添加自己的学习内容。内置释义与例句来自本项目编写的入门材料；词条级别用于学习路线参考，并非官方考试词表。自定义文章请同时填写中文译文，当前版本不提供在线自动翻译。</p><NuxtLink class="action" to="/setting">打开设置与备份 →</NuxtLink></section>
+    <section><h2>保存、备份和添加内容</h2><p>词库选择、练习进度和错词保存在当前浏览器中。GitHub 保存网站源码，不会自动同步个人学习进度。换设备、换浏览器或清理浏览器数据前，请到「设置」导出备份，在新设备上导入。</p><p>你可以在词典和文章列表中添加自己的学习内容。内置释义、例句与训练任务来自本项目原创的学习材料；词条级别用于学习路线参考，并非官方考试词表。自定义文章请同时填写中文译文，当前版本不提供在线自动翻译。</p><NuxtLink class="action" to="/setting">打开设置与备份 →</NuxtLink></section>
     <footer>Type Dutch 是 <a href="https://github.com/zyronon/TypeWords" target="_blank" rel="noopener noreferrer">TypeWords</a> 的荷兰语改编版，按 GPL-3.0 开源。<a href="https://github.com/KoalaLaw/Dutch" target="_blank" rel="noopener noreferrer">查看源码 ↗</a></footer>
   </main>
 </template>

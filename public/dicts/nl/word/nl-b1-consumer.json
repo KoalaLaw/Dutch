@@ -1,0 +1,782 @@
+[
+  {
+    "id": "nl-b1-consumer-1",
+    "word": "het product",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "产品"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Het product werkt anders dan in de beschrijving staat.",
+        "cn": "这件产品的使用情况与说明中的描述不同。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-b1-consumer-2",
+    "word": "de kwaliteit",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "质量"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Ik betaal liever iets meer als de kwaliteit duidelijk beter is.",
+        "cn": "如果质量明显更好，我宁愿多付一点钱。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-b1-consumer-3",
+    "word": "de garantie",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "保修；保证"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Ik wil weten welke garantie bij dit apparaat hoort.",
+        "cn": "我想知道这台设备附带什么保修服务。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-b1-consumer-4",
+    "word": "het aankoopbewijs",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "购买凭证"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Neem het aankoopbewijs mee als je het product terugbrengt.",
+        "cn": "退回产品时，请带上购买凭证。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-b1-consumer-5",
+    "word": "de kassabon",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "收银小票"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Op de kassabon staat wanneer ik het artikel heb gekocht.",
+        "cn": "收银小票上写着我何时购买了这件商品。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-b1-consumer-6",
+    "word": "de klantenservice",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "客服"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "De klantenservice heeft mijn vraag nog niet beantwoord.",
+        "cn": "客服还没有回答我的问题。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-b1-consumer-7",
+    "word": "de klachtmelding",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "投诉记录；投诉申报"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Na mijn klachtmelding kreeg ik een nummer om naar te verwijzen.",
+        "cn": "提交投诉后，我获得了一个可供查询的编号。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-b1-consumer-8",
+    "word": "de retourzending",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "退回的货件；退货"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "De website legt uit hoe ik een retourzending kan aanmelden.",
+        "cn": "网站说明了如何登记退货。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-b1-consumer-9",
+    "word": "de terugbetaling",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "退款"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Ik heb gevraagd wanneer ik de terugbetaling kan verwachten.",
+        "cn": "我询问了预计何时能收到退款。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-b1-consumer-10",
+    "word": "de vervanging",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "更换；替代品"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "De verkoper stelde een vervanging van het kapotte onderdeel voor.",
+        "cn": "卖家提出更换损坏的部件。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-b1-consumer-11",
+    "word": "het artikel",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "商品；文章"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Dit artikel is niet meer verkrijgbaar in mijn maat.",
+        "cn": "这件商品已经没有我的尺码了。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-b1-consumer-12",
+    "word": "het merk",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "品牌"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Ik vergelijk verschillende merken voordat ik een keuze maak.",
+        "cn": "我会在作出选择前比较不同品牌。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-b1-consumer-13",
+    "word": "de maat",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "尺码；尺寸"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Mag ik dit jasje in een andere maat passen?",
+        "cn": "我可以试试另一尺码的这件夹克吗？"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-b1-consumer-14",
+    "word": "het model",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "款式；型号"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Het nieuwe model heeft meer functies, maar is ook duurder.",
+        "cn": "新型号功能更多，但也更贵。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-b1-consumer-15",
+    "word": "de beschrijving",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "描述；说明"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "De beschrijving vermeldt niet of de batterij is inbegrepen.",
+        "cn": "说明中没有提到是否包含电池。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-b1-consumer-16",
+    "word": "de beoordeling van klanten",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "搭配",
+        "cn": "顾客评价"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Ik lees de beoordelingen van klanten om verschillende ervaringen te vergelijken.",
+        "cn": "我阅读顾客评价，以比较不同人的体验。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-b1-consumer-17",
+    "word": "het aanbod",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "优惠；供应；提议"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Het aanbod lijkt aantrekkelijk, maar ik wil de voorwaarden eerst lezen.",
+        "cn": "这个优惠看起来很吸引人，但我想先看一下条件。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-b1-consumer-18",
+    "word": "de aanbieding",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "促销商品；优惠"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Ik koop een aanbieding alleen als ik het product echt nodig heb.",
+        "cn": "只有真正需要某种产品时，我才会购买它的促销商品。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-b1-consumer-19",
+    "word": "de aankoop",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "购买；购得之物"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Na de aankoop ontdekte ik dat er een onderdeel miste.",
+        "cn": "购买之后，我发现少了一个部件。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-b1-consumer-20",
+    "word": "de bestelling annuleren",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "搭配",
+        "cn": "取消订单"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Ik wil de bestelling annuleren omdat ik het verkeerde model heb gekozen.",
+        "cn": "我想取消订单，因为我选错了型号。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-b1-consumer-21",
+    "word": "ruilen",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "",
+        "cn": "换货；交换"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Kan ik deze trui ruilen voor een grotere maat?",
+        "cn": "我能把这件毛衣换成大一号的吗？"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-b1-consumer-22",
+    "word": "terugbrengen",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "",
+        "cn": "送回；退回"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Ik breng het apparaat terug omdat het niet goed werkt.",
+        "cn": "我退回这台设备，因为它不能正常工作。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-b1-consumer-23",
+    "word": "repareren",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "",
+        "cn": "修理"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "De winkel onderzoekt of het apparaat gerepareerd kan worden.",
+        "cn": "商店会检查这台设备是否可以维修。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-b1-consumer-24",
+    "word": "vervangen",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "",
+        "cn": "更换"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "De beschadigde onderdelen zijn zonder extra kosten vervangen.",
+        "cn": "损坏的部件已经免费更换。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-b1-consumer-25",
+    "word": "passen",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "",
+        "cn": "合身；试穿"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Ik wil de schoenen eerst passen voordat ik ze koop.",
+        "cn": "买之前，我想先试穿鞋子。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-b1-consumer-26",
+    "word": "klagen over",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "搭配",
+        "cn": "投诉；抱怨……"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Ik heb geklaagd over de slechte communicatie rond de levering.",
+        "cn": "我投诉了送货过程中的沟通不良问题。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-b1-consumer-27",
+    "word": "defect",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "",
+        "cn": "有故障的"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Volgens de medewerker is het scherm waarschijnlijk defect.",
+        "cn": "工作人员说屏幕可能有故障。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-b1-consumer-28",
+    "word": "beschadigd",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "",
+        "cn": "受损的"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Een beschadigd product moet duidelijk op de foto te zien zijn.",
+        "cn": "照片应该能清楚地显示产品受损的情况。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-b1-consumer-29",
+    "word": "verkeerd",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "",
+        "cn": "错误的；不对的"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Ik heb het verkeerde artikel ontvangen en wil dat graag oplossen.",
+        "cn": "我收到了错误的商品，想把这件事解决好。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-b1-consumer-30",
+    "word": "in aanmerking komen voor",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "搭配",
+        "cn": "符合……的条件"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Ik wil weten of deze aankoop voor de actie in aanmerking komt.",
+        "cn": "我想知道这次购买是否符合活动条件。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  }
+]

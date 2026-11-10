@@ -1,0 +1,782 @@
+[
+  {
+    "id": "nl-b1-opinions-1",
+    "word": "de mening",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "意见；看法"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Iedereen mocht tijdens het overleg zijn mening over het plan geven.",
+        "cn": "讨论时，每个人都可以就这个计划发表看法。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-b1-opinions-2",
+    "word": "het standpunt",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "立场；观点"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Kun je je standpunt uitleggen zonder de ander persoonlijk aan te vallen?",
+        "cn": "你能解释自己的立场，同时不对对方进行人身攻击吗？"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-b1-opinions-3",
+    "word": "het argument",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "论据；理由"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Haar belangrijkste argument was dat de maatregel tijd zou besparen.",
+        "cn": "她最主要的理由是，这项措施会节省时间。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-b1-opinions-4",
+    "word": "de reden",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "原因；理由"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Er is een goede reden waarom we deze afspraak hebben gemaakt.",
+        "cn": "我们作出这个约定是有充分理由的。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-b1-opinions-5",
+    "word": "het voordeel",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "优点；好处"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Een voordeel van thuiswerken is dat je geen reistijd hebt.",
+        "cn": "在家工作的一个好处是不需要通勤时间。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-b1-opinions-6",
+    "word": "het nadeel",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "缺点；不利之处"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Een nadeel is dat je collega's soms minder vaak persoonlijk spreekt.",
+        "cn": "一个缺点是，你有时较少与同事当面交流。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-b1-opinions-7",
+    "word": "de keuze",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "选择"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Het was geen makkelijke keuze, omdat beide mogelijkheden voordelen hadden.",
+        "cn": "这不是一个容易的选择，因为两种可能都有优点。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-b1-opinions-8",
+    "word": "de conclusie",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "结论"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Na alle voorbeelden kwamen we tot dezelfde conclusie.",
+        "cn": "看完所有例子后，我们得出了相同的结论。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-b1-opinions-9",
+    "word": "de vergelijking",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "比较"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Bij deze vergelijking moet je ook rekening houden met de kwaliteit.",
+        "cn": "进行这种比较时，你也必须考虑质量。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-b1-opinions-10",
+    "word": "de onderbouwing",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "论证；依据"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "De onderbouwing van het voorstel bestaat uit voorbeelden en ervaringen van bewoners.",
+        "cn": "这项提案的依据包括实例和居民的经历。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-b1-opinions-11",
+    "word": "de twijfel",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "怀疑；犹豫"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Ik begrijp je twijfel, want er is nog weinig informatie beschikbaar.",
+        "cn": "我理解你的疑虑，因为目前可用的信息还很少。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-b1-opinions-12",
+    "word": "de voorkeur",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "偏好"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Mijn voorkeur gaat uit naar een oplossing die voor iedereen betaalbaar is.",
+        "cn": "我更倾向于一个人人都负担得起的方案。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-b1-opinions-13",
+    "word": "de overtuiging",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "信念；确信"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Hij sprak vanuit de overtuiging dat iedereen een tweede kans verdient.",
+        "cn": "他发言的出发点是，他相信每个人都值得拥有第二次机会。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-b1-opinions-14",
+    "word": "volgens mij",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "搭配",
+        "cn": "在我看来"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Volgens mij kunnen we beter eerst een klein experiment doen.",
+        "cn": "在我看来，我们最好先做一个小实验。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-b1-opinions-15",
+    "word": "naar mijn mening",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "搭配",
+        "cn": "依我看；在我看来"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Naar mijn mening moet er meer ruimte zijn voor vragen.",
+        "cn": "在我看来，应该留出更多提问的机会。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-b1-opinions-16",
+    "word": "ik ben van mening dat",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "搭配",
+        "cn": "我的观点是"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Ik ben van mening dat duidelijke afspraken veel problemen voorkomen.",
+        "cn": "我的观点是，明确的约定可以避免许多问题。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-b1-opinions-17",
+    "word": "het eens zijn met",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "搭配",
+        "cn": "同意"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Ik ben het met je eens dat de uitleg duidelijker kan.",
+        "cn": "我同意你的看法，说明可以写得更清楚。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-b1-opinions-18",
+    "word": "het oneens zijn met",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "搭配",
+        "cn": "不同意"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Ik ben het niet met die beslissing eens, omdat de kosten te hoog zijn.",
+        "cn": "我不同意那个决定，因为费用太高。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-b1-opinions-19",
+    "word": "gelijk hebben",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "搭配",
+        "cn": "有道理；说得对"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Je hebt gelijk dat we de gevolgen nog niet goed hebben onderzocht.",
+        "cn": "你说得对，我们还没有充分研究后果。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-b1-opinions-20",
+    "word": "een standpunt verdedigen",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "搭配",
+        "cn": "捍卫；论证一种立场"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Tijdens het debat moest iedere groep een standpunt verdedigen.",
+        "cn": "辩论中，每组都需要为一种立场进行论证。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-b1-opinions-21",
+    "word": "afwegen",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "",
+        "cn": "权衡"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "We moeten de voordelen en nadelen zorgvuldig tegen elkaar afwegen.",
+        "cn": "我们必须仔细权衡优点和缺点。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-b1-opinions-22",
+    "word": "overtuigen",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "",
+        "cn": "说服"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Met een praktisch voorbeeld kon ze de anderen overtuigen.",
+        "cn": "她用一个实际例子说服了其他人。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-b1-opinions-23",
+    "word": "betwijfelen",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "",
+        "cn": "怀疑；认为未必"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Ik betwijfel of iedereen het nieuwe systeem meteen zal begrijpen.",
+        "cn": "我怀疑是否每个人都能立刻理解这个新系统。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-b1-opinions-24",
+    "word": "een mening onderbouwen",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "搭配",
+        "cn": "为观点提供依据"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Probeer je mening met minstens twee voorbeelden te onderbouwen.",
+        "cn": "试着用至少两个例子为自己的观点提供依据。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-b1-opinions-25",
+    "word": "een voorbeeld geven",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "搭配",
+        "cn": "举例"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Kun je een voorbeeld geven van een situatie waarin dit werkt?",
+        "cn": "你能举一个这种方法有效的情境吗？"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-b1-opinions-26",
+    "word": "het hangt ervan af",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "搭配",
+        "cn": "这取决于具体情况"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Of ik mee kan gaan, hangt ervan af hoe laat ik klaar ben.",
+        "cn": "我能否一起去，取决于我几点结束。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-b1-opinions-27",
+    "word": "dat lijkt me verstandig",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "搭配",
+        "cn": "我觉得那样很明智"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Eerst de informatie controleren, dat lijkt me verstandig.",
+        "cn": "先核实信息，我觉得那样很明智。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-b1-opinions-28",
+    "word": "ik zie dat anders",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "搭配",
+        "cn": "我的看法有所不同"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Ik zie dat anders, maar ik wil graag begrijpen waarom jij zo denkt.",
+        "cn": "我的看法有所不同，但我很想理解你为什么这样想。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-b1-opinions-29",
+    "word": "een compromis sluiten",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "搭配",
+        "cn": "达成妥协"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "We hebben een compromis gesloten waar beide partijen mee kunnen leven.",
+        "cn": "我们达成了一个双方都能接受的妥协。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-b1-opinions-30",
+    "word": "voor zover ik weet",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "搭配",
+        "cn": "据我所知"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Voor zover ik weet, is er nog geen definitieve beslissing genomen.",
+        "cn": "据我所知，目前还没有作出最终决定。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  }
+]

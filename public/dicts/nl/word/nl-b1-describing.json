@@ -1,0 +1,782 @@
+[
+  {
+    "id": "nl-b1-describing-1",
+    "word": "duidelijk",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "",
+        "cn": "清楚的"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "De uitleg was duidelijk, zodat iedereen meteen kon beginnen.",
+        "cn": "讲解很清楚，因此每个人都能马上开始。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-b1-describing-2",
+    "word": "onduidelijk",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "",
+        "cn": "不清楚的"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Het is nog onduidelijk wanneer de werkzaamheden eindigen.",
+        "cn": "工程何时结束，目前还不清楚。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-b1-describing-3",
+    "word": "eenvoudig",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "",
+        "cn": "简单的"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Met deze eenvoudige oefening kun je de regel herhalen.",
+        "cn": "你可以用这个简单练习复习规则。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-b1-describing-4",
+    "word": "ingewikkeld",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "",
+        "cn": "复杂的"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "De aanvraag is ingewikkelder dan ik had verwacht.",
+        "cn": "申请比我预想的更复杂。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-b1-describing-5",
+    "word": "geschikt",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "",
+        "cn": "合适的"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Deze kamer is geschikt voor iemand die rustig wil werken.",
+        "cn": "这个房间适合想安静工作的人。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-b1-describing-6",
+    "word": "ongeschikt",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "",
+        "cn": "不合适的"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "De route is ongeschikt voor fietsers met weinig ervaring.",
+        "cn": "这条路线不适合经验不足的骑行者。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-b1-describing-7",
+    "word": "beschikbaar",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "",
+        "cn": "可用的；有空的"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Er zijn volgende week nog twee plaatsen beschikbaar.",
+        "cn": "下周还有两个名额。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-b1-describing-8",
+    "word": "bezet",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "",
+        "cn": "被占用的；忙的"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "De vergaderzaal is tot drie uur bezet.",
+        "cn": "会议室到三点前都有人使用。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-b1-describing-9",
+    "word": "mogelijk",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "",
+        "cn": "可能的"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Is het mogelijk om de afspraak te verplaatsen?",
+        "cn": "可以更改预约时间吗？"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-b1-describing-10",
+    "word": "onmogelijk",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "",
+        "cn": "不可能的"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Zonder extra informatie is het onmogelijk om te beslissen.",
+        "cn": "没有额外信息，就无法作出决定。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-b1-describing-11",
+    "word": "waarschijnlijk",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "",
+        "cn": "很可能"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Waarschijnlijk komt ze later omdat haar trein vertraging heeft.",
+        "cn": "她很可能会晚到，因为她的火车晚点了。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-b1-describing-12",
+    "word": "onwaarschijnlijk",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "",
+        "cn": "不太可能的"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Het is onwaarschijnlijk dat de winkel vandaag nog opengaat.",
+        "cn": "商店今天不太可能再开门了。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-b1-describing-13",
+    "word": "noodzakelijk",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "",
+        "cn": "必要的"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Het is noodzakelijk dat iedereen de instructies begrijpt.",
+        "cn": "每个人都理解说明是必要的。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-b1-describing-14",
+    "word": "onnodig",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "",
+        "cn": "不必要的"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "We willen onnodige kosten zoveel mogelijk vermijden.",
+        "cn": "我们想尽可能避免不必要的费用。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-b1-describing-15",
+    "word": "voldoende",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "",
+        "cn": "足够的"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Er is voldoende tijd om de opdracht af te maken.",
+        "cn": "有足够的时间完成任务。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-b1-describing-16",
+    "word": "onvoldoende",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "",
+        "cn": "不足的"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "De informatie op de website was onvoldoende voor mijn aanvraag.",
+        "cn": "网站上的信息不足以支持我的申请。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-b1-describing-17",
+    "word": "redelijk",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "",
+        "cn": "合理的；相当的"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Ik vind de prijs redelijk voor de kwaliteit die je krijgt.",
+        "cn": "考虑到所获得的质量，我认为价格合理。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-b1-describing-18",
+    "word": "betrouwbaar",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "",
+        "cn": "可靠的"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Gebruik een betrouwbare bron voordat je het nieuws deelt.",
+        "cn": "分享消息之前，要使用可靠的来源。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-b1-describing-19",
+    "word": "verantwoordelijk",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "",
+        "cn": "负责的"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Wie is verantwoordelijk voor het controleren van de gegevens?",
+        "cn": "谁负责核对这些资料？"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-b1-describing-20",
+    "word": "zelfstandig",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "",
+        "cn": "独立的"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Na een paar weken kon ik zelfstandig werken.",
+        "cn": "几周之后，我就能独立工作了。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-b1-describing-21",
+    "word": "afhankelijk",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "",
+        "cn": "依赖的"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Onze planning is afhankelijk van de beschikbaarheid van de zaal.",
+        "cn": "我们的安排取决于会议厅是否可用。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-b1-describing-22",
+    "word": "tevreden",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "",
+        "cn": "满意的"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Ik ben tevreden over de manier waarop het probleem is opgelost.",
+        "cn": "我对问题的解决方式感到满意。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-b1-describing-23",
+    "word": "ontevreden",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "",
+        "cn": "不满意的"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "De bewoners zijn ontevreden over het lawaai in hun straat.",
+        "cn": "居民对街上的噪声感到不满。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-b1-describing-24",
+    "word": "handig",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "",
+        "cn": "方便的；灵巧的"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Het is handig als je het document vooraf kunt downloaden.",
+        "cn": "如果你能提前下载文件，会很方便。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-b1-describing-25",
+    "word": "onhandig",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "",
+        "cn": "不方便的；笨拙的"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Dit tijdstip is onhandig omdat ik dan nog werk.",
+        "cn": "这个时间不方便，因为那时我还在工作。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-b1-describing-26",
+    "word": "dringend",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "",
+        "cn": "紧急的"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "We moeten dringend een oplossing voor dit probleem zoeken.",
+        "cn": "我们急需为这个问题寻找解决办法。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-b1-describing-27",
+    "word": "tijdelijk",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "",
+        "cn": "临时的"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "We zoeken een tijdelijke woning totdat ons huis klaar is.",
+        "cn": "在房子准备好之前，我们在找临时住处。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-b1-describing-28",
+    "word": "permanent",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "",
+        "cn": "永久的；长期的"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Na een proefperiode kreeg ze een permanente functie.",
+        "cn": "试用一段时间后，她获得了一个长期职位。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-b1-describing-29",
+    "word": "persoonlijk",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "",
+        "cn": "个人的；亲自的"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Ik bespreek persoonlijke vragen liever in een gesprek.",
+        "cn": "我更愿意通过谈话讨论个人问题。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-b1-describing-30",
+    "word": "gezamenlijk",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "",
+        "cn": "共同的"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "We hebben gezamenlijk besloten om het plan aan te passen.",
+        "cn": "我们共同决定调整计划。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  }
+]

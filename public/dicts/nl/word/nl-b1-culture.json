@@ -1,0 +1,782 @@
+[
+  {
+    "id": "nl-b1-culture-1",
+    "word": "de tentoonstelling",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "展览"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "De tentoonstelling laat zien hoe mensen vroeger in deze stad leefden.",
+        "cn": "这个展览展示了人们过去如何在这座城市生活。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-b1-culture-2",
+    "word": "het museum",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "博物馆"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "In het museum kun je niet alleen kijken, maar ook zelf dingen uitproberen.",
+        "cn": "在这家博物馆，你不仅能观看，也能亲自动手尝试。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-b1-culture-3",
+    "word": "het toneelstuk",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "舞台剧；话剧"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Het toneelstuk gaat over twee buren die elkaar beter leren begrijpen.",
+        "cn": "这部话剧讲述了两位逐渐更理解彼此的邻居。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-b1-culture-4",
+    "word": "de voorstelling",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "演出；表演"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Omdat de voorstelling laat eindigde, namen we een taxi naar huis.",
+        "cn": "由于演出很晚才结束，我们乘出租车回家。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-b1-culture-5",
+    "word": "de bioscoop",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "电影院"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "We gaan liever op een rustige avond naar de bioscoop.",
+        "cn": "我们更愿意在比较清静的晚上去电影院。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-b1-culture-6",
+    "word": "het concert",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "音乐会"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Na het concert spraken we nog lang over het laatste lied.",
+        "cn": "音乐会结束后，我们谈论最后一首歌谈了很久。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-b1-culture-7",
+    "word": "het festival",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "节庆活动；音乐节"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Tijdens het festival kun je kennismaken met muziek uit verschillende landen.",
+        "cn": "节日期间，你可以接触到不同国家的音乐。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-b1-culture-8",
+    "word": "de bibliotheek",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "图书馆"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "In de bibliotheek is er elke week een bijeenkomst voor taalleerders.",
+        "cn": "图书馆每周都有一次面向语言学习者的聚会。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-b1-culture-9",
+    "word": "de roman",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "长篇小说"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Ik lees een roman waarin de hoofdpersoon naar een ander land verhuist.",
+        "cn": "我在读一本主人公搬到另一个国家的小说。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-b1-culture-10",
+    "word": "de schrijver",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "作家；作者"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "De schrijver vertelde waarom hij juist over dit onderwerp wilde schrijven.",
+        "cn": "作者讲述了他为什么特别想写这个主题。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-b1-culture-11",
+    "word": "de kunstenaar",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "艺术家"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "De kunstenaar gebruikt oude materialen om nieuwe beelden te maken.",
+        "cn": "这位艺术家用旧材料创作新的雕塑。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-b1-culture-12",
+    "word": "het kunstwerk",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "艺术作品"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Iedere bezoeker ziet iets anders in hetzelfde kunstwerk.",
+        "cn": "每位观众从同一件艺术作品中看到的东西都不同。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-b1-culture-13",
+    "word": "het podium",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "舞台"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Hoewel ze zenuwachtig was, stond ze met plezier op het podium.",
+        "cn": "虽然她很紧张，但仍然很开心地站上了舞台。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-b1-culture-14",
+    "word": "het publiek",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "观众"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Het publiek bleef klappen nadat de muzikanten waren teruggekomen.",
+        "cn": "音乐家们返场之后，观众仍在鼓掌。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-b1-culture-15",
+    "word": "de rondleiding",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "导览；带领参观"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Tijdens de rondleiding vertelde een medewerker waarom het gebouw zo bijzonder is.",
+        "cn": "导览中，一位工作人员介绍了这座建筑为什么如此特别。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-b1-culture-16",
+    "word": "de toegangsprijs",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "门票价格"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "De toegangsprijs is lager voor bezoekers die vooraf online boeken.",
+        "cn": "提前在网上预订的游客可以享受较低的门票价格。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-b1-culture-17",
+    "word": "het lidmaatschap",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "会员资格；会员身份"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Met een lidmaatschap kun je vaker deelnemen aan activiteiten van de club.",
+        "cn": "成为会员后，你可以更经常参加俱乐部的活动。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-b1-culture-18",
+    "word": "de sportvereniging",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "体育协会；运动俱乐部"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Via de sportvereniging heb ik mensen uit de buurt leren kennen.",
+        "cn": "通过运动俱乐部，我结识了社区里的人。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-b1-culture-19",
+    "word": "de hobby",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "爱好"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Mijn hobby helpt me om na een drukke werkdag te ontspannen.",
+        "cn": "我的爱好帮助我在忙碌的工作日后放松。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-b1-culture-20",
+    "word": "de vrije tijd",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "搭配",
+        "cn": "空闲时间"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "In mijn vrije tijd probeer ik activiteiten te kiezen waarbij ik Nederlands spreek.",
+        "cn": "闲暇时，我尽量选择能说荷兰语的活动。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-b1-culture-21",
+    "word": "de wandeling",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "散步；徒步"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Tijdens de wandeling vertelde onze gids over de geschiedenis van de wijk.",
+        "cn": "散步途中，导游介绍了这个街区的历史。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-b1-culture-22",
+    "word": "de wedstrijd",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "比赛"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "We misten het begin van de wedstrijd doordat de trein vertraging had.",
+        "cn": "因为火车晚点，我们错过了比赛的开头。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-b1-culture-23",
+    "word": "het applaus",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "掌声"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Na het laatste lied duurde het applaus zo lang dat de band terugkwam.",
+        "cn": "最后一首歌结束后，掌声持续了很久，乐队因此返场。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-b1-culture-24",
+    "word": "de winnaar",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "获胜者"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "De winnaar bedankte iedereen die bij de voorbereiding had geholpen.",
+        "cn": "获胜者感谢了所有参与准备的人。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-b1-culture-25",
+    "word": "optreden",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "",
+        "cn": "演出；登台表演"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "De band treedt zaterdag op tijdens een klein festival in het park.",
+        "cn": "这支乐队周六将在公园里的一个小型音乐节上演出。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-b1-culture-26",
+    "word": "de hoofdrol",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "主角；主要角色"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "De actrice speelt de hoofdrol in een film over vriendschap.",
+        "cn": "这位女演员在一部关于友谊的电影中饰演主角。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-b1-culture-27",
+    "word": "de ondertiteling",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "字幕"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Met Nederlandse ondertiteling begrijp ik meer van de film.",
+        "cn": "有了荷兰语字幕，我就能更好地理解这部电影。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-b1-culture-28",
+    "word": "het verhaal",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "故事"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Het verhaal was eenvoudig, maar de personages maakten veel indruk op me.",
+        "cn": "故事很简单，但其中的人物给我留下了深刻印象。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-b1-culture-29",
+    "word": "de recensie",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "评论；书评；影评"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Ik lees pas na de film een recensie, zodat ik eerst mijn eigen mening kan vormen.",
+        "cn": "我在看完电影后才读影评，这样可以先形成自己的看法。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-b1-culture-30",
+    "word": "uitverkocht",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "",
+        "cn": "售罄的；票已卖完的"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Het concert was al uitverkocht voordat ik een kaartje kon kopen.",
+        "cn": "我还没来得及买票，音乐会的票就已经卖完了。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  }
+]

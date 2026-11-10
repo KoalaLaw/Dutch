@@ -1,0 +1,782 @@
+[
+  {
+    "id": "nl-b1-habits-1",
+    "word": "de maaltijd",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "一餐；餐食"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Ik bereid vaak een extra maaltijd voor als ik weet dat ik laat thuiskom.",
+        "cn": "如果知道自己会晚回家，我常会提前多准备一份饭。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-b1-habits-2",
+    "word": "het tussendoortje",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "零食；两餐之间的小食"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Als tussendoortje neem ik meestal iets mee dat makkelijk te bewaren is.",
+        "cn": "作为两餐之间的小食，我通常带一些容易保存的东西。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-b1-habits-3",
+    "word": "het voedingsmiddel",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "食品；食物"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Op de verpakking staat hoe lang je dit voedingsmiddel kunt bewaren.",
+        "cn": "包装上注明了这种食品可以保存多久。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-b1-habits-4",
+    "word": "de voedingsstof",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "营养素；营养成分"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "In de les leerden we dat verschillende voedingsstoffen verschillende functies hebben.",
+        "cn": "课堂上，我们学习了不同营养成分具有不同作用。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-b1-habits-5",
+    "word": "de vezel",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "纤维；膳食纤维"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Op het etiket vergelijk ik hoeveel vezels er in verschillende soorten brood zitten.",
+        "cn": "我查看标签，比较不同面包中的膳食纤维含量。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-b1-habits-6",
+    "word": "het eiwit",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "蛋白质；蛋清"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "In de tabel staat hoeveel eiwit een portie van het product bevat.",
+        "cn": "表格中列出了每份这种产品含有多少蛋白质。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-b1-habits-7",
+    "word": "de koolhydraten",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "碳水化合物"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "De hoeveelheid koolhydraten verschilt per voedingsmiddel.",
+        "cn": "不同食品中的碳水化合物含量有所不同。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-b1-habits-8",
+    "word": "het vet",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "脂肪；油脂"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Op het etiket kun je zien hoeveel vet het product bevat.",
+        "cn": "从标签上可以看到产品含有多少脂肪。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-b1-habits-9",
+    "word": "de suiker",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "糖"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Ik proef eerst voordat ik extra suiker aan mijn thee toevoeg.",
+        "cn": "我先尝一尝，再决定是否往茶里加糖。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-b1-habits-10",
+    "word": "het zout",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "盐"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Het recept vraagt om een klein beetje zout, niet om een hele lepel.",
+        "cn": "这个食谱要求放少量盐，而不是一整勺。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-b1-habits-11",
+    "word": "de portie",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "一份；份量"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "De portie was groter dan ik had verwacht, dus heb ik de rest bewaard.",
+        "cn": "份量比我预想的更大，所以我把剩下的留了起来。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-b1-habits-12",
+    "word": "de eetlust",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "食欲"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Na een lange wandeling had ik meer eetlust dan normaal.",
+        "cn": "长时间散步后，我的食欲比平时更好。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-b1-habits-13",
+    "word": "de smaak",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "味道；口味"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "De smaak verandert als je de saus wat langer laat koken.",
+        "cn": "如果让酱汁再煮一会儿，味道会发生变化。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-b1-habits-14",
+    "word": "de kooktijd",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "烹煮时间"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "De kooktijd hangt af van hoe groot je de stukken hebt gesneden.",
+        "cn": "烹煮时间取决于你把食材切成了多大的块。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-b1-habits-15",
+    "word": "de bereiding",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "制作；烹调过程"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "De bereiding kost weinig tijd als je de groenten vooraf snijdt.",
+        "cn": "如果提前切好蔬菜，制作过程就不需要太多时间。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-b1-habits-16",
+    "word": "de ingrediënten",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "配料；食材"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Controleer eerst of je alle ingrediënten in huis hebt.",
+        "cn": "先确认家里是否有所有食材。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-b1-habits-17",
+    "word": "het volkorenbrood",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "全麦面包"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Ik koop volkorenbrood dat ik in kleine porties kan invriezen.",
+        "cn": "我买可以分成小份冷冻的全麦面包。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-b1-habits-18",
+    "word": "de peulvrucht",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "豆类植物；豆类食物"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Bonen en linzen zijn peulvruchten die je in veel gerechten kunt gebruiken.",
+        "cn": "菜豆和小扁豆是可以用于多种菜肴的豆类食物。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-b1-habits-19",
+    "word": "de voedselallergie",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "食物过敏"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Vanwege haar voedselallergie vraagt zij altijd welke ingrediënten er zijn gebruikt.",
+        "cn": "因为食物过敏，她总会询问使用了哪些配料。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-b1-habits-20",
+    "word": "de houdbaarheidsdatum",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "保质日期；保存期限"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Op de verpakking controleer ik de houdbaarheidsdatum voordat ik het product koop.",
+        "cn": "购买产品前，我会查看包装上的保质日期。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-b1-habits-21",
+    "word": "de voedselverspilling",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "食物浪费"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Door restjes te gebruiken willen we voedselverspilling verminderen.",
+        "cn": "我们希望通过利用剩菜来减少食物浪费。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-b1-habits-22",
+    "word": "rauw",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "",
+        "cn": "生的；未煮熟的"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "In dit gerecht worden sommige groenten rauw gebruikt.",
+        "cn": "这道菜中的部分蔬菜是生着使用的。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-b1-habits-23",
+    "word": "rijp",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "",
+        "cn": "成熟的"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Deze peren zijn nog niet rijp, dus ik laat ze nog even liggen.",
+        "cn": "这些梨还没熟，所以我再放一段时间。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-b1-habits-24",
+    "word": "voedzaam",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "",
+        "cn": "有营养的"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Ik zoek een voedzame maaltijd die ik makkelijk mee naar mijn werk kan nemen.",
+        "cn": "我在寻找一种有营养、又方便带去上班的饭菜。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-b1-habits-25",
+    "word": "evenwichtig",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "",
+        "cn": "均衡的；平衡的"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "We bespreken hoe je een evenwichtig weekmenu kunt samenstellen.",
+        "cn": "我们讨论如何安排一份均衡的每周菜单。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-b1-habits-26",
+    "word": "plantaardig",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "",
+        "cn": "植物性的；植物来源的"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Voor dit gerecht gebruiken we alleen plantaardige ingrediënten.",
+        "cn": "这道菜只使用植物来源的配料。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-b1-habits-27",
+    "word": "voldoende bewegen",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "搭配",
+        "cn": "进行足够的运动"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Omdat ik veel zit, probeer ik ook tijdens mijn werkdag voldoende te bewegen.",
+        "cn": "由于久坐，我也尽量在工作日中进行足够的活动。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-b1-habits-28",
+    "word": "op tijd naar bed gaan",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "搭配",
+        "cn": "按时睡觉"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Als ik vroeg moet beginnen, probeer ik op tijd naar bed te gaan.",
+        "cn": "如果第二天需要早开始，我就尽量按时睡觉。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-b1-habits-29",
+    "word": "met mate",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "搭配",
+        "cn": "适量地；有节制地"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Ik hoef niets helemaal te vermijden, maar ik probeer met mate te eten.",
+        "cn": "我不必完全避免某种食物，不过会尽量适量进食。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-b1-habits-30",
+    "word": "een gewoonte veranderen",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "搭配",
+        "cn": "改变一个习惯"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Het is makkelijker om één gewoonte tegelijk te veranderen.",
+        "cn": "一次只改变一个习惯会更容易。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  }
+]

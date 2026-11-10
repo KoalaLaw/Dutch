@@ -1,0 +1,782 @@
+[
+  {
+    "id": "nl-b1-health-1",
+    "word": "de klacht",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "不适；投诉"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "De huisarts vroeg hoe lang ik deze klachten al had.",
+        "cn": "全科医生问我这些不适已经持续多久了。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-b1-health-2",
+    "word": "het symptoom",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "症状"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Ik schrijf mijn symptomen op zodat ik niets vergeet.",
+        "cn": "我把症状写下来，以免遗漏。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-b1-health-3",
+    "word": "de pijn",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "疼痛"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Kunt u beschrijven waar u precies pijn heeft?",
+        "cn": "您能描述一下具体哪里疼吗？"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-b1-health-4",
+    "word": "de hoofdpijn",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "头痛"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Door de hoofdpijn kon ik me moeilijk op mijn werk concentreren.",
+        "cn": "因为头痛，我难以专注于工作。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-b1-health-5",
+    "word": "de buikpijn",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "腹痛"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Ze belde de praktijk omdat de buikpijn niet wegging.",
+        "cn": "由于腹痛一直不消失，她给诊所打了电话。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-b1-health-6",
+    "word": "de koorts",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "发烧"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "De assistent vroeg of ik ook koorts had.",
+        "cn": "助理问我是否也发烧。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-b1-health-7",
+    "word": "de verkoudheid",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "感冒"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Door een verkoudheid kon ik gisteren niet naar de les.",
+        "cn": "由于感冒，我昨天没能去上课。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-b1-health-8",
+    "word": "de allergie",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "过敏"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Vertel bij het gesprek of u een allergie heeft.",
+        "cn": "交流时，请告知您是否有过敏情况。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-b1-health-9",
+    "word": "het medicijn",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "药物"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Ik vraag bij de apotheek hoe ik het medicijn moet gebruiken.",
+        "cn": "我在药房询问药物应如何使用。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-b1-health-10",
+    "word": "het recept",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "处方；食谱"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "De apotheker vroeg of ik een recept van de arts had.",
+        "cn": "药剂师问我是否有医生的处方。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-b1-health-11",
+    "word": "de behandeling",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "治疗；处理"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Ik wil graag begrijpen wat de behandeling inhoudt.",
+        "cn": "我想了解治疗包含哪些内容。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-b1-health-12",
+    "word": "het onderzoek",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "检查；研究"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Na het onderzoek besprak de arts de resultaten met mij.",
+        "cn": "检查之后，医生和我讨论了结果。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-b1-health-13",
+    "word": "de uitslag",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "检查结果；皮疹"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "De arts belt zodra de uitslag van het onderzoek bekend is.",
+        "cn": "一有检查结果，医生就会打电话。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-b1-health-14",
+    "word": "de verwijzing",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "转诊；引用"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "De huisarts gaf me een verwijzing naar een specialist.",
+        "cn": "全科医生给了我转诊到专科医生的转诊单。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-b1-health-15",
+    "word": "de specialist",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "专科医生；专家"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Tijdens het gesprek met de specialist stelde ik mijn vragen.",
+        "cn": "和专科医生交谈时，我提出了自己的问题。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-b1-health-16",
+    "word": "de assistent",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "助理"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "De assistent legt uit welke gegevens de praktijk nodig heeft.",
+        "cn": "助理会说明诊所需要哪些资料。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-b1-health-17",
+    "word": "de praktijk",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "诊所；实践"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "De praktijk heeft gevraagd of ik op een ander tijdstip kan komen.",
+        "cn": "诊所问我能否换一个时间来。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-b1-health-18",
+    "word": "de afspraakbevestiging",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "预约确认"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "In de afspraakbevestiging staat waar ik me moet melden.",
+        "cn": "预约确认中写明了我应该到哪里报到。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-b1-health-19",
+    "word": "de wachttijd",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "等候时间"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Ik wil weten wat de verwachte wachttijd is.",
+        "cn": "我想知道预计等候时间有多长。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-b1-health-20",
+    "word": "de gezondheid",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "健康"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Voldoende rust is voor mijn gezondheid belangrijk.",
+        "cn": "充足休息对我的健康很重要。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-b1-health-21",
+    "word": "de beweging",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "运动；移动"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Sinds ik meer beweging krijg, voel ik me fitter.",
+        "cn": "自从运动更多之后，我觉得身体状态更好了。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-b1-health-22",
+    "word": "de nachtrust",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "夜间睡眠"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Na een goede nachtrust kan ik me beter concentreren.",
+        "cn": "晚上睡得好之后，我更能集中注意力。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-b1-health-23",
+    "word": "de vermoeidheid",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "疲劳"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Ik wil met de huisarts over mijn aanhoudende vermoeidheid praten.",
+        "cn": "我想和全科医生谈谈持续疲劳的问题。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-b1-health-24",
+    "word": "de stress",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "压力"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Ik merk dat stress invloed heeft op mijn slaap.",
+        "cn": "我注意到压力会影响我的睡眠。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-b1-health-25",
+    "word": "herstellen",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "",
+        "cn": "恢复；修复"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Na de operatie moest hij een tijd rustig herstellen.",
+        "cn": "手术后，他需要安静恢复一段时间。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-b1-health-26",
+    "word": "hoesten",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "",
+        "cn": "咳嗽"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Ik moest zo vaak hoesten dat ik moeilijk kon slapen.",
+        "cn": "我咳嗽得很频繁，以至于难以入睡。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-b1-health-27",
+    "word": "ademhalen",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "",
+        "cn": "呼吸"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "De arts vroeg of ik rustig kon ademhalen.",
+        "cn": "医生问我能否平稳地呼吸。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-b1-health-28",
+    "word": "last hebben van",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "搭配",
+        "cn": "受……困扰；有……不适"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Ik heb de laatste tijd last van mijn rug.",
+        "cn": "我最近背部不舒服。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-b1-health-29",
+    "word": "zich zorgen maken over",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "搭配",
+        "cn": "担心……"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Ik maak me zorgen over mijn vermoeidheid.",
+        "cn": "我担心自己的疲劳情况。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-b1-health-30",
+    "word": "zich voelen",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "搭配",
+        "cn": "感觉自己……"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Sinds ik meer slaap, voel ik me een stuk beter.",
+        "cn": "自从睡得更多之后，我感觉好多了。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  }
+]

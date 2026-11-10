@@ -1,0 +1,782 @@
+[
+  {
+    "id": "nl-b1-accommodation-1",
+    "word": "de accommodatie",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "住宿场所"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "We zoeken een accommodatie die ook zonder auto goed bereikbaar is.",
+        "cn": "我们在寻找不用汽车也能方便到达的住宿。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-b1-accommodation-2",
+    "word": "de overnachting",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "过夜住宿"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "De prijs geldt voor één overnachting en is inclusief ontbijt.",
+        "cn": "这个价格包含一晚住宿和早餐。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-b1-accommodation-3",
+    "word": "de reservering",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "预订"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Ik wil mijn reservering wijzigen omdat mijn vlucht later aankomt.",
+        "cn": "由于航班到达时间推迟，我想修改预订。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-b1-accommodation-4",
+    "word": "de receptie",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "前台；接待处"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Vraag bij de receptie of je je bagage daar kunt laten staan.",
+        "cn": "向前台询问能否把行李放在那里。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-b1-accommodation-5",
+    "word": "het verblijf",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "停留；住宿期间"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Tijdens ons verblijf hebben we veel wandelingen in de omgeving gemaakt.",
+        "cn": "住宿期间，我们多次在附近散步。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-b1-accommodation-6",
+    "word": "de camping",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "露营地"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "De camping ligt aan een meer, waardoor het er 's avonds rustig is.",
+        "cn": "露营地位于湖边，因此晚上那里很安静。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-b1-accommodation-7",
+    "word": "de kampeerplek",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "露营位置"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "We hebben een kampeerplek geboekt waar onze tent en fietsen passen.",
+        "cn": "我们预订了一个能放下帐篷和自行车的露营位置。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-b1-accommodation-8",
+    "word": "de jeugdherberg",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "青年旅舍"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "In de jeugdherberg deelden we een kamer met twee andere reizigers.",
+        "cn": "在青年旅舍，我们和另外两位旅客同住一间房。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-b1-accommodation-9",
+    "word": "het pension",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "家庭旅馆；小型旅馆"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Het kleine pension wordt gerund door een gezin uit het dorp.",
+        "cn": "这家小旅馆由村里的一户人家经营。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-b1-accommodation-10",
+    "word": "de bagage",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "行李"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Mijn bagage was zwaarder dan ik had verwacht.",
+        "cn": "我的行李比预想的更重。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-b1-accommodation-11",
+    "word": "de handbagage",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "手提行李"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Bewaar belangrijke spullen in je handbagage, zodat je ze snel kunt vinden.",
+        "cn": "把重要物品放在手提行李中，以便迅速找到。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-b1-accommodation-12",
+    "word": "het reisgezelschap",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "同行旅伴；旅行团队"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Ons reisgezelschap bestond uit vrienden die elkaar al jaren kenden.",
+        "cn": "我们的同行旅伴是一群相识多年的朋友。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-b1-accommodation-13",
+    "word": "de reisverzekering",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "旅行保险"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Voor vertrek heb ik nagekeken wat mijn reisverzekering dekt.",
+        "cn": "出发前，我查看了旅行保险的承保范围。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-b1-accommodation-14",
+    "word": "de rondreis",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "环游；周游旅行"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Tijdens onze rondreis verblijven we telkens een paar dagen in een andere stad.",
+        "cn": "周游期间，我们每次会在不同城市住几天。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-b1-accommodation-15",
+    "word": "de bezienswaardigheid",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "景点"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Deze oude molen is een van de bekendste bezienswaardigheden in de omgeving.",
+        "cn": "这座老风车是当地最著名的景点之一。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-b1-accommodation-16",
+    "word": "het uitzicht",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "景色；视野"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Vanaf het balkon hadden we uitzicht op de bergen.",
+        "cn": "从阳台上，我们能看到山景。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-b1-accommodation-17",
+    "word": "de beschikbaarheid",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "可提供情况；可订情况"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "De beschikbaarheid van kamers verschilt per weekend.",
+        "cn": "不同周末的客房可订情况有所不同。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-b1-accommodation-18",
+    "word": "de aankomsttijd",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "到达时间"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Geef je aankomsttijd door als je na tien uur verwacht aan te komen.",
+        "cn": "如果预计十点后到达，请告知到达时间。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-b1-accommodation-19",
+    "word": "de vertrektijd",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "出发时间"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Controleer de vertrektijd nog eens voordat je naar het station gaat.",
+        "cn": "去车站之前，再确认一下出发时间。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-b1-accommodation-20",
+    "word": "inchecken",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "",
+        "cn": "办理入住；办理登机手续"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "We konden pas inchecken nadat de kamer was schoongemaakt.",
+        "cn": "房间打扫完以后，我们才可以办理入住。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-b1-accommodation-21",
+    "word": "uitchecken",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "",
+        "cn": "办理退房；办理离站手续"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Na het uitchecken hebben we onze koffers bij de receptie achtergelaten.",
+        "cn": "退房后，我们把箱子留在前台。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-b1-accommodation-22",
+    "word": "een kamer boeken",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "搭配",
+        "cn": "预订房间"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Ik heb een kamer geboekt die groot genoeg is voor drie personen.",
+        "cn": "我预订了一个足够三个人住的房间。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-b1-accommodation-23",
+    "word": "een reservering wijzigen",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "搭配",
+        "cn": "修改预订"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Kunt u mijn reservering wijzigen naar de volgende vrijdag?",
+        "cn": "您能把我的预订改到下周五吗？"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-b1-accommodation-24",
+    "word": "de route uitstippelen",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "搭配",
+        "cn": "规划路线"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Voordat we vertrokken, hadden we de route samen uitgestippeld.",
+        "cn": "出发之前，我们一起规划好了路线。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-b1-accommodation-25",
+    "word": "buiten het seizoen",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "搭配",
+        "cn": "在旅游淡季"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Buiten het seizoen is het vaak rustiger op populaire bestemmingen.",
+        "cn": "在旅游淡季，热门目的地通常比较清静。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-b1-accommodation-26",
+    "word": "de reisgids",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "旅行指南；导游"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "In de reisgids vonden we een wandelroute die langs de oude haven loopt.",
+        "cn": "我们在旅行指南里找到了一条经过老港口的步行路线。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-b1-accommodation-27",
+    "word": "volgeboekt",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "",
+        "cn": "已订满的"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Het hotel was volgeboekt, dus moesten we iets anders zoeken.",
+        "cn": "酒店已经订满，所以我们得另找住处。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-b1-accommodation-28",
+    "word": "rechtstreeks",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "",
+        "cn": "直接地；直达地"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "We reizen rechtstreeks naar het hotel, zodat we niet met de koffers hoeven over te stappen.",
+        "cn": "我们直接去酒店，这样就不用带着箱子换乘。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-b1-accommodation-29",
+    "word": "goed bereikbaar",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "搭配",
+        "cn": "交通便利的；容易到达的"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "We willen een verblijf dat met het openbaar vervoer goed bereikbaar is.",
+        "cn": "我们想找一处乘公共交通容易到达的住宿。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-b1-accommodation-30",
+    "word": "de toeristenbelasting",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "旅游税；住宿旅游附加税"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Op de bevestiging staat of de toeristenbelasting al in het bedrag zit.",
+        "cn": "确认单上注明了金额是否已经包含旅游税。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  }
+]

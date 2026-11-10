@@ -1,0 +1,782 @@
+[
+  {
+    "id": "nl-b1-environment-1",
+    "word": "het milieu",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "环境"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "We nemen vaker de trein om het milieu minder te belasten.",
+        "cn": "为了减轻环境负担，我们更常乘火车。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-b1-environment-2",
+    "word": "de natuur",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "大自然"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Tijdens onze vakantie willen we vooral van de natuur genieten.",
+        "cn": "度假时，我们主要想享受大自然。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-b1-environment-3",
+    "word": "het klimaat",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "气候"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Het klimaat verandert, waardoor sommige zomers droger worden.",
+        "cn": "气候正在变化，因此有些夏天变得更加干燥。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-b1-environment-4",
+    "word": "de vervuiling",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "污染"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Bewoners maken zich zorgen over de vervuiling van de rivier.",
+        "cn": "居民们担心河流受到污染。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-b1-environment-5",
+    "word": "het afval",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "垃圾；废弃物"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Na het festival bleef er veel afval op het plein liggen.",
+        "cn": "节日活动结束后，广场上留下了许多垃圾。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-b1-environment-6",
+    "word": "de afvalbak",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "垃圾桶"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Gooi het papier in de afvalbak die bij de ingang staat.",
+        "cn": "把纸扔进入口旁边的垃圾桶。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-b1-environment-7",
+    "word": "de inzameling",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "收集；回收收集"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "De inzameling van oude kleding vindt deze maand bij het wijkcentrum plaats.",
+        "cn": "这个月，旧衣回收在社区中心进行。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-b1-environment-8",
+    "word": "de uitstoot",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "排放；排放量"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Het bedrijf probeert de uitstoot te verminderen door minder te rijden.",
+        "cn": "公司通过减少车辆出行来尝试降低排放。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-b1-environment-9",
+    "word": "de grondstof",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "原材料"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Voor deze tassen worden oude flessen als grondstof gebruikt.",
+        "cn": "这些袋子使用旧瓶子作为原材料。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-b1-environment-10",
+    "word": "de energiebron",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "能源来源"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Zonlicht is een energiebron die niet opraakt doordat we haar gebruiken.",
+        "cn": "阳光是一种不会因我们使用而耗尽的能源。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-b1-environment-11",
+    "word": "de duurzaamheid",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "可持续性"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Bij de aankoop letten we niet alleen op de prijs, maar ook op de duurzaamheid.",
+        "cn": "购买时，我们不仅关注价格，也关注可持续性。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-b1-environment-12",
+    "word": "duurzaam",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "",
+        "cn": "可持续的；耐用的"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Een duurzaam product gaat meestal langer mee dan een wegwerpproduct.",
+        "cn": "耐用的产品通常比一次性产品使用得更久。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-b1-environment-13",
+    "word": "herbruikbaar",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "",
+        "cn": "可重复使用的"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Neem een herbruikbare beker mee als je onderweg koffie koopt.",
+        "cn": "如果你在路上买咖啡，请带上可重复使用的杯子。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-b1-environment-14",
+    "word": "biologisch",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "",
+        "cn": "有机的；生物的"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Op de markt verkopen ze biologische groenten van een boerderij in de buurt.",
+        "cn": "市场上出售附近农场生产的有机蔬菜。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-b1-environment-15",
+    "word": "milieuvriendelijk",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "",
+        "cn": "环保的"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "We zoeken een milieuvriendelijke manier om onze spullen te vervoeren.",
+        "cn": "我们在寻找一种环保的搬运物品的方式。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-b1-environment-16",
+    "word": "vervuilen",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "",
+        "cn": "污染"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Gooi geen olie in het water, want daarmee vervuil je de sloot.",
+        "cn": "不要把油倒入水中，因为那样会污染沟渠。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-b1-environment-17",
+    "word": "hergebruiken",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "",
+        "cn": "重复使用"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Je kunt deze doos hergebruiken wanneer je iemand een pakket stuurt.",
+        "cn": "给别人寄包裹时，你可以再次使用这个盒子。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-b1-environment-18",
+    "word": "recyclen",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "",
+        "cn": "回收再利用"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Glas kan worden gerecycled als het op de juiste plek wordt ingezameld.",
+        "cn": "如果在正确的地点收集，玻璃可以被回收利用。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-b1-environment-19",
+    "word": "afval scheiden",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "搭配",
+        "cn": "分类垃圾"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Wij scheiden ons afval, zodat papier en glas opnieuw gebruikt kunnen worden.",
+        "cn": "我们分类垃圾，让纸张和玻璃可以被再次使用。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-b1-environment-20",
+    "word": "energie besparen",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "搭配",
+        "cn": "节约能源"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Door de verwarming iets lager te zetten, kunnen we energie besparen.",
+        "cn": "把暖气稍微调低，我们就能节约能源。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-b1-environment-21",
+    "word": "zuinig omgaan met",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "搭配",
+        "cn": "节约使用"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "We moeten zuinig omgaan met drinkwater, ook als er genoeg lijkt te zijn.",
+        "cn": "即使饮用水看起来充足，我们也应该节约使用。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-b1-environment-22",
+    "word": "de verwarming lager zetten",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "搭配",
+        "cn": "把暖气调低"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Zet de verwarming lager voordat je voor langere tijd weggaat.",
+        "cn": "长时间外出前，把暖气调低。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-b1-environment-23",
+    "word": "het openbaar groen",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "搭配",
+        "cn": "公共绿地；公共绿化"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "De buurt wil meer openbaar groen, zodat kinderen buiten kunnen spelen.",
+        "cn": "社区希望增加公共绿地，让孩子们能在户外玩耍。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-b1-environment-24",
+    "word": "de biodiversiteit",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "生物多样性"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Verschillende bloemen in de tuin zijn goed voor de biodiversiteit.",
+        "cn": "花园里种植不同的花有利于生物多样性。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-b1-environment-25",
+    "word": "de droogte",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "干旱"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Door de droogte moesten de boeren extra water geven.",
+        "cn": "由于干旱，农民不得不额外浇水。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-b1-environment-26",
+    "word": "de overstroming",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "洪水；水灾"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Na de hevige regen hielpen vrijwilligers de bewoners na de overstroming.",
+        "cn": "暴雨引发洪水后，志愿者帮助了居民们。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-b1-environment-27",
+    "word": "de zeespiegel",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "海平面"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "In de les bespreken we wat een stijgende zeespiegel voor kustgebieden betekent.",
+        "cn": "课堂上，我们讨论海平面上升对沿海地区意味着什么。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-b1-environment-28",
+    "word": "het natuurgebied",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "自然保护区域；自然区域"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "In dit natuurgebied moet je op de paden blijven om dieren niet te storen.",
+        "cn": "在这片自然区域内，你必须沿着步道走，以免打扰动物。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-b1-environment-29",
+    "word": "de klimaatverandering",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "气候变化"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Tijdens het debat ging het over de gevolgen van klimaatverandering.",
+        "cn": "辩论中讨论了气候变化的影响。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-b1-environment-30",
+    "word": "afval voorkomen",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "搭配",
+        "cn": "避免产生垃圾"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Door alleen te kopen wat je nodig hebt, kun je afval voorkomen.",
+        "cn": "只购买需要的东西，就能避免产生垃圾。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  }
+]

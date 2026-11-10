@@ -1,0 +1,782 @@
+[
+  {
+    "id": "nl-b1-separable-1",
+    "word": "een afspraak afzeggen",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "搭配",
+        "cn": "取消约定；取消预约"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Ik zeg de afspraak af omdat ik onverwacht moet werken.",
+        "cn": "由于临时要工作，我取消了约定。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-b1-separable-2",
+    "word": "een vergadering uitstellen",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "搭配",
+        "cn": "推迟会议"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "We stellen de vergadering uit totdat iedereen de stukken heeft gelezen.",
+        "cn": "我们把会议推迟到所有人读完材料之后。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-b1-separable-3",
+    "word": "een formulier invullen",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "搭配",
+        "cn": "填写表格"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Vul het formulier in en controleer daarna je gegevens.",
+        "cn": "填写表格，然后核对个人信息。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-b1-separable-4",
+    "word": "informatie opzoeken",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "搭配",
+        "cn": "查找信息"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Ik zoek eerst informatie op voordat ik een beslissing neem.",
+        "cn": "我先查找信息，再作决定。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-b1-separable-5",
+    "word": "een bericht doorgeven",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "搭配",
+        "cn": "转达消息"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Kun je het bericht doorgeven aan de collega die morgen begint?",
+        "cn": "你能把消息转告给明天开始上班的同事吗？"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-b1-separable-6",
+    "word": "een pakket ophalen",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "搭配",
+        "cn": "取包裹"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Ik haal het pakket op nadat ik klaar ben met werken.",
+        "cn": "下班后，我去取包裹。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-b1-separable-7",
+    "word": "een kind wegbrengen",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "搭配",
+        "cn": "送孩子去某处"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Zij brengt haar kind weg voordat ze naar kantoor gaat.",
+        "cn": "她去办公室之前，先把孩子送过去。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-b1-separable-8",
+    "word": "een aankoop terugbrengen",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "搭配",
+        "cn": "退回买来的东西"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Ik breng de aankoop terug omdat het apparaat niet werkt.",
+        "cn": "我把买来的东西退回去，因为设备不能用。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-b1-separable-9",
+    "word": "een plan uitwerken",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "搭配",
+        "cn": "详细制定计划"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "We werken het plan verder uit zodra de belangrijkste keuzes zijn gemaakt.",
+        "cn": "作出主要决定后，我们会进一步细化计划。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-b1-separable-10",
+    "word": "de administratie bijhouden",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "搭配",
+        "cn": "持续整理账目或文书记录"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Ik houd de administratie wekelijks bij, zodat er niets blijft liggen.",
+        "cn": "我每周整理文书记录，以免积压。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-b1-separable-11",
+    "word": "een cursus uitzoeken",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "搭配",
+        "cn": "挑选课程"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "We zoeken samen een cursus uit die bij ons niveau past.",
+        "cn": "我们一起挑选一门适合自己水平的课程。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-b1-separable-12",
+    "word": "een document opslaan",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "搭配",
+        "cn": "保存文档"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Sla het document op voordat je het programma afsluit.",
+        "cn": "关闭程序之前，请保存文档。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-b1-separable-13",
+    "word": "een woord uitspreken",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "搭配",
+        "cn": "读出一个词；发音"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Kun je dit woord langzaam uitspreken, zodat ik het kan nadoen?",
+        "cn": "你能慢慢读出这个词，让我跟读吗？"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-b1-separable-14",
+    "word": "een regel uitleggen",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "搭配",
+        "cn": "解释一条规则"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "De docent legt de regel uit met een voorbeeld uit het dagelijks leven.",
+        "cn": "老师用一个日常生活中的例子来解释这条规则。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-b1-separable-15",
+    "word": "een voorstel afwijzen",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "搭配",
+        "cn": "否决；拒绝提议"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "De groep wees het voorstel af omdat het te veel tijd zou kosten.",
+        "cn": "小组否决了这个提议，因为它会花费太多时间。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-b1-separable-16",
+    "word": "een oplossing aandragen",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "搭配",
+        "cn": "提出一个解决办法"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Tijdens het overleg droeg een collega een eenvoudige oplossing aan.",
+        "cn": "讨论时，一位同事提出了一个简单的解决办法。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-b1-separable-17",
+    "word": "een fout toegeven",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "搭配",
+        "cn": "承认错误"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Het is beter om een fout toe te geven dan om die te verbergen.",
+        "cn": "承认错误比掩盖错误更好。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-b1-separable-18",
+    "word": "een bedrag terugkrijgen",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "搭配",
+        "cn": "拿回一笔钱；获得退款"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Als de activiteit niet doorgaat, krijgen we het bedrag terug.",
+        "cn": "如果活动取消，我们会拿回这笔钱。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-b1-separable-19",
+    "word": "een reservering omboeken",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "搭配",
+        "cn": "改订；调整预订"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "We boeken de reservering om naar een dag waarop iedereen vrij is.",
+        "cn": "我们把预订改到所有人都有空的一天。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-b1-separable-20",
+    "word": "een gesprek voortzetten",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "搭配",
+        "cn": "继续一段谈话"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Na de pauze zetten we het gesprek voort over mogelijke oplossingen.",
+        "cn": "休息之后，我们继续讨论可能的解决办法。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-b1-separable-21",
+    "word": "een jas aantrekken",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "搭配",
+        "cn": "穿上外套"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Trek een warme jas aan, want het koelt vanavond snel af.",
+        "cn": "穿上一件暖外套，因为今晚降温很快。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-b1-separable-22",
+    "word": "schoenen uittrekken",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "搭配",
+        "cn": "脱鞋"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Bij de ingang trekken de kinderen hun natte schoenen uit.",
+        "cn": "孩子们在入口处脱下湿鞋。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-b1-separable-23",
+    "word": "een lamp aanzetten",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "搭配",
+        "cn": "打开灯"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Zet een lamp aan als er niet genoeg licht is om te lezen.",
+        "cn": "如果阅读的光线不够，就打开一盏灯。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-b1-separable-24",
+    "word": "de televisie uitzetten",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "搭配",
+        "cn": "关掉电视"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Ik zet de televisie uit, zodat ik me op de tekst kan concentreren.",
+        "cn": "我把电视关掉，以便专心阅读文章。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-b1-separable-25",
+    "word": "een kamer opruimen",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "搭配",
+        "cn": "收拾房间"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "We hebben de kamer opgeruimd voordat onze gasten kwamen.",
+        "cn": "客人到来之前，我们把房间收拾好了。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-b1-separable-26",
+    "word": "een vriend uitnodigen",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "搭配",
+        "cn": "邀请朋友"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Ik nodig een vriend uit om samen naar de tentoonstelling te gaan.",
+        "cn": "我邀请一位朋友一起去看展览。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-b1-separable-27",
+    "word": "een aanvraag indienen",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "搭配",
+        "cn": "提交申请"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Zij dient de aanvraag in nadat ze alle documenten heeft verzameld.",
+        "cn": "她收集好所有文件后提交申请。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-b1-separable-28",
+    "word": "een verzoek afhandelen",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "搭配",
+        "cn": "处理完一个请求"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Het team handelt het verzoek af zodra alle benodigde informatie is ontvangen.",
+        "cn": "团队收到所有必要信息后就会处理这个请求。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-b1-separable-29",
+    "word": "een afspraak nakomen",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "搭配",
+        "cn": "遵守约定"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Als je een afspraak niet kunt nakomen, moet je dat op tijd melden.",
+        "cn": "如果无法遵守约定，你应该及时告知对方。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-b1-separable-30",
+    "word": "een hobby oppakken",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "搭配",
+        "cn": "开始；重新开始一项爱好"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Na een drukke periode heb ik mijn oude hobby weer opgepakt.",
+        "cn": "忙碌了一段时间后，我又重新开始了以前的爱好。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  }
+]

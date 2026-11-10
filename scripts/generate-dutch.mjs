@@ -1,42 +1,75 @@
 import { mkdir, writeFile } from 'node:fs/promises'
 import { fileURLToPath } from 'node:url'
 import { dirname } from 'node:path'
-import { packs, dialogues } from '../content/dutch-course.mjs'
+import { packs as foundationPacks, dialogues } from '../content/dutch-course.mjs'
+import { extraPacksA } from '../content/b1-vocabulary-a.mjs'
+import { extraPacksB } from '../content/b1-vocabulary-b.mjs'
+import { b1Readings } from '../content/b1-readings.mjs'
+import { grammarUnits, writingTasks, speakingTasks } from '../content/b1-skills.mjs'
 
 const writeJSON = async (file, data) => {
-  await mkdir(dirname(fileURLToPath(new URL('../' + file, import.meta.url))), { recursive: true })
-  await writeFile(new URL('../' + file, import.meta.url), JSON.stringify(data, null, 2) + '\n')
+  const url = new URL('../' + file, import.meta.url)
+  await mkdir(dirname(fileURLToPath(url)), { recursive: true })
+  await writeFile(url, JSON.stringify(data, null, 2) + '\n')
 }
+const packs = [...foundationPacks, ...extraPacksA, ...extraPacksB]
 const all = []
 const resources = []
+const seen = new Set()
 for (const pack of packs) {
   const words = pack.rows.trim().split('\n').map((line, index) => {
-    const [word, cn, sentence, translation] = line.split('|')
-    if (!word || !cn || !sentence || !translation) throw new Error('Invalid row: ' + line)
-    return { id: `${pack.id}-${index + 1}`, word, phonetic0: '', phonetic1: '',
-      langType: 'nl', trans: [{ pos: /^(de|het) /.test(word) ? '名词' : '', cn }],
+    const [word, cn, sentence, translation, extra] = line.split('|')
+    if (!word || !cn || !sentence || !translation || extra) throw new Error('Invalid row: ' + line)
+    const normalized = word.normalize('NFC').toLocaleLowerCase('nl')
+    if (seen.has(normalized)) throw new Error('Duplicate Dutch entry: ' + word)
+    seen.add(normalized)
+    return { id: pack.id + '-' + (index + 1), word, phonetic0: '', phonetic1: '',
+      langType: 'nl', trans: [{ pos: /^(de|het) /.test(word) && word.split(' ').length === 2 ? '名词' : word.includes(' ') && !foundationPacks.includes(pack) ? '搭配' : '', cn }],
       sentences: [{ c: sentence, cn: translation }], phrases: [], synos: [],
       relWords: { root: '', rels: [] }, etymology: [] }
   })
+  if (words.length !== 30) throw new Error(pack.id + ': expected 30 entries')
   all.push(...words)
-  await writeJSON(`public/dicts/nl/word/${pack.id}.json`, words)
+  await writeJSON('public/dicts/nl/word/' + pack.id + '.json', words)
   const { rows, ...info } = pack
-  resources.push({ ...info, name: pack.title, enName: pack.id, url: pack.id + '.json',
-    length: words.length, category: '荷兰语入门', tags: [pack.level, '主题词汇'], language: 'nl',
-    translateLanguage: 'zh-CN', version: 1, type: 'word', recommended: true })
+  const stage = foundationPacks.includes(pack) ? 'foundation' : pack.level === 'B1' ? 'b1' : 'bridge'
+  resources.push({ ...info, stage, name: pack.title, enName: pack.id, url: pack.id + '.json',
+    length: words.length, category: stage === 'foundation' ? 'A1–A2 基础' : 'A2→B1 进阶',
+    tags: [pack.level, '主题词汇与搭配'], language: 'nl', translateLanguage: 'zh-CN',
+    version: 1, type: 'word', recommended: true })
 }
 await writeJSON('public/dicts/nl/word/all.json', all)
 await writeJSON('app/data/dutch-curriculum.json', resources)
 await writeJSON('public/list/word.json', resources)
-await writeJSON('public/list/recommend_word.json', resources)
+await writeJSON('public/list/recommend_word.json', resources.filter(pack => pack.stage !== 'foundation').slice(0, 9))
+const articleDefaults = { audioSrc: '', audioFileId: '', lrcPosition: [], newWords: [], nameList: [] }
 const articles = dialogues.map(({ lines, ...info }) => ({ ...info,
   text: lines.map(line => line[0]).join('\n\n'), textTranslate: lines.map(line => line[1]).join('\n\n'),
-  audioSrc: '', audioFileId: '', lrcPosition: [], newWords: [], questions: [], nameList: [] }))
+  ...articleDefaults, questions: [] }))
 await writeJSON('public/dicts/nl/article/nl-dialogues.json', articles)
-const books = [{ id: 'nl-dialogues', enName: 'nl-dialogues', name: '荷兰生活 · 八段日常对话',
-  description: '原创入门对话，含逐句中文译文。可跟打、听写或默写；语音使用浏览器荷兰语 TTS。',
-  url: 'nl-dialogues.json', length: articles.length, language: 'nl', translateLanguage: 'zh-CN',
-  category: '荷兰语阅读', tags: ['A1–A2', '生活对话'], type: 'article', version: 1, recommended: true, cover: '' }]
+const advanced = b1Readings.map(({ paragraphs, ...info }) => ({ ...info,
+  text: paragraphs.map(paragraph => paragraph.map(pair => pair[0]).join('\n')).join('\n\n'),
+  textTranslate: paragraphs.map(paragraph => paragraph.map(pair => pair[1]).join('\n')).join('\n\n'),
+  ...articleDefaults }))
+await writeJSON('public/dicts/nl/article/nl-b1-reading.json', advanced)
+await writeJSON('app/data/b1-readings.json', b1Readings)
+await writeJSON('app/data/b1-skills.json', { grammarUnits, writingTasks, speakingTasks })
+const books = [
+  { id: 'nl-dialogues', enName: 'nl-dialogues', name: '荷兰生活 · 八段日常对话',
+    description: '原创入门双语对话，保留原有学习进度。', url: 'nl-dialogues.json', length: articles.length,
+    tags: ['A1–A2', '生活对话'] },
+  { id: 'nl-b1-reading', enName: 'nl-b1-reading', name: '走向 B1 · 生活与工作阅读',
+    description: '12 篇原创 B1 训练阅读，每篇约 180–220 词，含逐句译文和 3 道阅读理解题。',
+    url: 'nl-b1-reading.json', length: advanced.length, tags: ['B1', '阅读理解', '复述与表达'] },
+].map(book => ({ ...book, language: 'nl', translateLanguage: 'zh-CN', category: '荷兰语阅读',
+  type: 'article', version: 1, recommended: true, cover: '' }))
 await writeJSON('public/list/article.json', books)
-await writeJSON('public/list/recommend_article.json', books)
-console.log(`Generated ${all.length} Dutch words in ${packs.length} packs and ${articles.length} dialogues.`)
+await writeJSON('public/list/recommend_article.json', [books[1], books[0]])
+const summary = { wordCount: all.length, packCount: packs.length, foundationCount: foundationPacks.length * 30,
+  progressionCount: all.length - foundationPacks.length * 30, dialogueCount: articles.length,
+  readingCount: advanced.length, readingQuestionCount: b1Readings.reduce((n, r) => n + r.questions.length, 0),
+  grammarCount: grammarUnits.length, grammarExerciseCount: grammarUnits.reduce((n, unit) => n + unit.exercises.length, 0),
+  writingCount: writingTasks.length, speakingCount: speakingTasks.length }
+await writeJSON('app/data/course-summary.json', summary)
+await writeJSON('public/course-summary.json', summary)
+console.log(JSON.stringify(summary))

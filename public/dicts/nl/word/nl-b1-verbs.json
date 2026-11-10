@@ -1,0 +1,782 @@
+[
+  {
+    "id": "nl-b1-verbs-1",
+    "word": "beginnen",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "",
+        "cn": "开始"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "We beginnen zodra iedereen aanwezig is.",
+        "cn": "等所有人到场后，我们就开始。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-b1-verbs-2",
+    "word": "stoppen",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "",
+        "cn": "停止"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Ik ben gestopt met roken omdat ik gezonder wil leven.",
+        "cn": "我戒烟了，因为我想更健康地生活。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-b1-verbs-3",
+    "word": "proberen",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "",
+        "cn": "尝试"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Ik probeer elke dag een Nederlands artikel te lezen.",
+        "cn": "我尝试每天读一篇荷兰语文章。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-b1-verbs-4",
+    "word": "beslissen",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "",
+        "cn": "决定"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "We beslissen morgen of we het aanbod aannemen.",
+        "cn": "我们明天决定是否接受这个提议。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-b1-verbs-5",
+    "word": "kiezen",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "",
+        "cn": "选择"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Je kunt zelf kiezen welke cursus bij je past.",
+        "cn": "你可以自己选择适合你的课程。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-b1-verbs-6",
+    "word": "veranderen",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "",
+        "cn": "改变"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Mijn plannen zijn veranderd door het slechte weer.",
+        "cn": "由于天气不好，我的计划变了。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-b1-verbs-7",
+    "word": "verbeteren",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "",
+        "cn": "改善；提高"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Door regelmatig te oefenen verbeter je je uitspraak.",
+        "cn": "通过定期练习，你可以改善发音。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-b1-verbs-8",
+    "word": "vergelijken",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "",
+        "cn": "比较"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Vergelijk eerst de prijzen voordat je iets bestelt.",
+        "cn": "订购东西之前，先比较价格。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-b1-verbs-9",
+    "word": "verklaren",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "",
+        "cn": "解释原因；声明"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Kunt u verklaren waarom de levering zo lang duurt?",
+        "cn": "您能解释为什么送货需要这么长时间吗？"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-b1-verbs-10",
+    "word": "beschrijven",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "",
+        "cn": "描述"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Kun je beschrijven hoe het ongeluk is gebeurd?",
+        "cn": "你能描述一下事故是怎么发生的吗？"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-b1-verbs-11",
+    "word": "onthouden",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "",
+        "cn": "记住"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Ik onthoud nieuwe woorden beter als ik ze gebruik.",
+        "cn": "使用新词时，我能更好地记住它们。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-b1-verbs-12",
+    "word": "vergeten",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "",
+        "cn": "忘记"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Ik was vergeten dat de afspraak was verplaatst.",
+        "cn": "我忘了预约时间已经改了。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-b1-verbs-13",
+    "word": "ontdekken",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "",
+        "cn": "发现"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Tijdens de wandeling ontdekten we een rustig park.",
+        "cn": "散步时，我们发现了一个安静的公园。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-b1-verbs-14",
+    "word": "ontwikkelen",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "",
+        "cn": "发展；开发"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "In deze functie kun je nieuwe vaardigheden ontwikkelen.",
+        "cn": "在这个岗位上，你可以发展新的技能。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-b1-verbs-15",
+    "word": "gebeuren",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "",
+        "cn": "发生"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Niemand wist precies wat er was gebeurd.",
+        "cn": "没有人确切知道发生了什么。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-b1-verbs-16",
+    "word": "lukken",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "",
+        "cn": "成功做到"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Het is me gelukt om het formulier zelf in te vullen.",
+        "cn": "我成功地自己填好了表格。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-b1-verbs-17",
+    "word": "mislukken",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "",
+        "cn": "失败"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Het eerste plan mislukte, maar we probeerden het opnieuw.",
+        "cn": "第一个计划失败了，但我们又试了一次。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-b1-verbs-18",
+    "word": "bereiken",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "",
+        "cn": "达到；联系上"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Met kleine stappen kun je een groot doel bereiken.",
+        "cn": "通过小步前进，你可以实现一个大目标。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-b1-verbs-19",
+    "word": "vermijden",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "",
+        "cn": "避免"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "We vertrekken vroeg om de drukte te vermijden.",
+        "cn": "我们早点出发，以避开拥挤。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-b1-verbs-20",
+    "word": "voorkomen",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "",
+        "cn": "防止"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Goede afspraken kunnen misverstanden voorkomen.",
+        "cn": "明确的约定可以防止误解。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-b1-verbs-21",
+    "word": "verwachten",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "",
+        "cn": "期待；预计"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "We verwachten dat de reparatie morgen klaar is.",
+        "cn": "我们预计维修明天完成。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-b1-verbs-22",
+    "word": "beloven",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "",
+        "cn": "承诺"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Hij heeft beloofd dat hij me op tijd zal informeren.",
+        "cn": "他承诺会及时通知我。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-b1-verbs-23",
+    "word": "vertrouwen",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "",
+        "cn": "信任"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Ik vertrouw erop dat we samen een oplossing vinden.",
+        "cn": "我相信我们能一起找到解决办法。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-b1-verbs-24",
+    "word": "twijfelen",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "",
+        "cn": "犹豫；怀疑"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Ik twijfel nog of ik deze baan wil accepteren.",
+        "cn": "我还在犹豫是否接受这份工作。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-b1-verbs-25",
+    "word": "weigeren",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "",
+        "cn": "拒绝"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "De klant weigerde te betalen voordat het probleem was opgelost.",
+        "cn": "在问题解决之前，客户拒绝付款。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-b1-verbs-26",
+    "word": "toestaan",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "",
+        "cn": "允许"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "De eigenaar staat toe dat we de kamer schilderen.",
+        "cn": "房主允许我们给房间刷漆。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-b1-verbs-27",
+    "word": "verbieden",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "",
+        "cn": "禁止"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "De school verbiedt het gebruik van telefoons tijdens toetsen.",
+        "cn": "学校禁止在考试期间使用手机。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-b1-verbs-28",
+    "word": "bedoelen",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "",
+        "cn": "意指"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Wat bedoel je precies met een flexibele planning?",
+        "cn": "你说灵活的安排，具体是什么意思？"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-b1-verbs-29",
+    "word": "beweren",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "",
+        "cn": "声称"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "De verkoper beweert dat dit product langer meegaat.",
+        "cn": "卖家声称这件产品更耐用。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-b1-verbs-30",
+    "word": "beseffen",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "",
+        "cn": "意识到"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Pas later besefte ik hoeveel ik had geleerd.",
+        "cn": "直到后来我才意识到自己学到了多少。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  }
+]

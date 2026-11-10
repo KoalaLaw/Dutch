@@ -1,0 +1,782 @@
+[
+  {
+    "id": "nl-b1-feelings-1",
+    "word": "het gevoel",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "感觉；感受"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Ik had het gevoel dat mijn uitleg niet duidelijk genoeg was.",
+        "cn": "我感觉自己的解释不够清楚。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-b1-feelings-2",
+    "word": "de emotie",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "情绪"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Het is soms lastig om sterke emoties in een andere taal uit te drukken.",
+        "cn": "有时很难用另一门语言表达强烈的情绪。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-b1-feelings-3",
+    "word": "de ervaring",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "经历；经验"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Die ervaring heeft mij geholpen om zelfstandiger te worden.",
+        "cn": "那次经历帮助我变得更独立。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-b1-feelings-4",
+    "word": "de herinnering",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "记忆；回忆"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Aan die reis heb ik vooral goede herinneringen.",
+        "cn": "那次旅行给我留下的主要是美好回忆。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-b1-feelings-5",
+    "word": "de vriendschap",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "友谊"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Onze vriendschap is sterker geworden doordat we veel samen hebben meegemaakt.",
+        "cn": "因为共同经历了很多，我们的友谊更深厚了。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-b1-feelings-6",
+    "word": "de relatie",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "关系"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Een goede relatie vraagt om aandacht en duidelijke communicatie.",
+        "cn": "良好的关系需要用心经营和清晰沟通。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-b1-feelings-7",
+    "word": "het vertrouwen",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "信任；信心"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Na een paar goede gesprekken kreeg ik meer vertrouwen.",
+        "cn": "几次愉快的交谈后，我更有信心了。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-b1-feelings-8",
+    "word": "het respect",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "尊重"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Ook als we het oneens zijn, behandelen we elkaar met respect.",
+        "cn": "即使意见不一致，我们也互相尊重。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-b1-feelings-9",
+    "word": "de steun",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "支持"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Dankzij de steun van mijn vrienden durfde ik de stap te zetten.",
+        "cn": "多亏朋友们的支持，我才敢迈出这一步。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-b1-feelings-10",
+    "word": "de ruzie",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "争吵"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Na de ruzie hebben we rustig over onze verwachtingen gepraat.",
+        "cn": "争吵之后，我们平静地谈了各自的期待。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-b1-feelings-11",
+    "word": "de teleurstelling",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "失望"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "De teleurstelling was groot toen het bezoek niet doorging.",
+        "cn": "来访取消时，大家都很失望。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-b1-feelings-12",
+    "word": "de opluchting",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "如释重负"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Het was een opluchting toen ik eindelijk duidelijkheid kreeg.",
+        "cn": "终于得到明确答复时，我松了一口气。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-b1-feelings-13",
+    "word": "de onzekerheid",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "不确定；不自信"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Mijn onzekerheid wordt kleiner als ik vaker Nederlands spreek.",
+        "cn": "荷兰语说得越多，我就越有自信。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-b1-feelings-14",
+    "word": "trots",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "",
+        "cn": "骄傲的；自豪的"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Ik ben trots op wat ik de afgelopen maanden heb bereikt.",
+        "cn": "我为自己过去几个月取得的进步感到自豪。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-b1-feelings-15",
+    "word": "blij",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "",
+        "cn": "高兴的"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Ze was blij dat haar familie bij de voorstelling kon zijn.",
+        "cn": "家人能来观看演出，她很高兴。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-b1-feelings-16",
+    "word": "verdrietig",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "",
+        "cn": "难过的"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Ik werd verdrietig toen mijn beste vriend verhuisde.",
+        "cn": "最好的朋友搬走时，我很难过。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-b1-feelings-17",
+    "word": "boos",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "",
+        "cn": "生气的"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Hij was boos omdat niemand hem over de wijziging had verteld.",
+        "cn": "因为没有人告诉他变更的事，他很生气。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-b1-feelings-18",
+    "word": "bang",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "",
+        "cn": "害怕的"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Ik was bang dat ik tijdens het gesprek geen woorden zou vinden.",
+        "cn": "我害怕交谈时想不出要用的词。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-b1-feelings-19",
+    "word": "bezorgd",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "",
+        "cn": "担心的"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Mijn ouders waren bezorgd omdat ze niets van mij hadden gehoord.",
+        "cn": "因为没收到我的消息，父母很担心。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-b1-feelings-20",
+    "word": "verbaasd",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "",
+        "cn": "惊讶的"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Ik was verbaasd hoe snel iedereen me wilde helpen.",
+        "cn": "大家这么快就愿意帮我，我很惊讶。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-b1-feelings-21",
+    "word": "teleurgesteld",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "",
+        "cn": "失望的"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Ze was teleurgesteld, maar ze besloot het opnieuw te proberen.",
+        "cn": "她很失望，但决定再试一次。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-b1-feelings-22",
+    "word": "opgelucht",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "",
+        "cn": "松了一口气的"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Ik was opgelucht toen bleek dat ik niets was vergeten.",
+        "cn": "发现自己没有忘记任何东西时，我松了一口气。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-b1-feelings-23",
+    "word": "zenuwachtig",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "",
+        "cn": "紧张的"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Voor een belangrijk gesprek ben ik meestal wat zenuwachtig.",
+        "cn": "重要谈话前，我通常会有点紧张。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-b1-feelings-24",
+    "word": "enthousiast",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "",
+        "cn": "热情的；兴奋的"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Mijn collega was enthousiast over het idee om samen te oefenen.",
+        "cn": "同事对一起练习的想法很感兴趣。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-b1-feelings-25",
+    "word": "eenzaam",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "",
+        "cn": "孤独的"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "In het begin voelde ik me soms eenzaam in de nieuwe stad.",
+        "cn": "刚开始时，我在新城市有时会感到孤独。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-b1-feelings-26",
+    "word": "geduldig",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "",
+        "cn": "有耐心的"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Mijn taalmaatje is geduldig als ik even naar woorden zoek.",
+        "cn": "我一时找不到合适的词时，语言伙伴很有耐心。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-b1-feelings-27",
+    "word": "eerlijk",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "",
+        "cn": "诚实的；公平的"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Ik vind het belangrijk dat we eerlijk over onze verwachtingen praten.",
+        "cn": "我认为诚实地谈论各自的期待很重要。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-b1-feelings-28",
+    "word": "begrip tonen",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "搭配",
+        "cn": "表示理解"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Ze toonde begrip toen ik vertelde waarom ik te laat was.",
+        "cn": "我解释迟到原因时，她表示理解。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-b1-feelings-29",
+    "word": "contact houden",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "搭配",
+        "cn": "保持联系"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Hoewel we ver uit elkaar wonen, proberen we contact te houden.",
+        "cn": "虽然住得很远，我们仍努力保持联系。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-b1-feelings-30",
+    "word": "elkaar helpen",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "搭配",
+        "cn": "互相帮助"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "In onze groep helpen we elkaar als iemand een moeilijke week heeft.",
+        "cn": "如果有人这周过得很难，我们的小组会互相帮助。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  }
+]

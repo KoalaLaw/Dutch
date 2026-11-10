@@ -1,0 +1,782 @@
+[
+  {
+    "id": "nl-b1-reflexive-1",
+    "word": "zich voorstellen",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "搭配",
+        "cn": "自我介绍；想象"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Stel je eerst voor en vertel waarom je aan de cursus meedoet.",
+        "cn": "先介绍一下自己，并说明为什么参加这门课程。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-b1-reflexive-2",
+    "word": "zich aanmelden",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "搭配",
+        "cn": "报名；注册参加"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Je kunt je aanmelden zodra de nieuwe data bekend zijn.",
+        "cn": "新日期公布后，你就可以报名。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-b1-reflexive-3",
+    "word": "zich afmelden",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "搭配",
+        "cn": "取消参加；请假"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Ik heb me afgemeld omdat ik die avond niet kan komen.",
+        "cn": "我取消了参加，因为那天晚上我无法前来。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-b1-reflexive-4",
+    "word": "zich inschrijven",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "搭配",
+        "cn": "登记；注册；报名"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Zij heeft zich ingeschreven voor een cursus die in januari begint.",
+        "cn": "她报名了一门一月开始的课程。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-b1-reflexive-5",
+    "word": "zich voorbereiden op",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "搭配",
+        "cn": "为……作准备"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "We bereiden ons voor op een gesprek waarin we onze mening moeten uitleggen.",
+        "cn": "我们正在为一场需要解释自己观点的谈话作准备。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-b1-reflexive-6",
+    "word": "zich aanpassen aan",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "搭配",
+        "cn": "适应；使自己配合……"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Het duurde even voordat ik me aan de nieuwe omgeving had aangepast.",
+        "cn": "我花了一些时间才适应新环境。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-b1-reflexive-7",
+    "word": "zich vergissen",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "搭配",
+        "cn": "弄错；搞错"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Sorry, ik heb me in de datum vergist en ben een dag te vroeg.",
+        "cn": "抱歉，我记错了日期，早来了一天。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-b1-reflexive-8",
+    "word": "zich herinneren",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "搭配",
+        "cn": "记得；回想起"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Ik herinner me nog hoe spannend mijn eerste werkdag was.",
+        "cn": "我仍然记得第一天上班有多紧张。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-b1-reflexive-9",
+    "word": "zich realiseren",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "搭配",
+        "cn": "意识到"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Pas later realiseerde ik me dat ik het verkeerde adres had gebruikt.",
+        "cn": "直到后来，我才意识到自己用了错误的地址。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-b1-reflexive-10",
+    "word": "zich afvragen",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "搭配",
+        "cn": "心里想；想知道"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Ik vraag me af of we dit probleem ook anders kunnen oplossen.",
+        "cn": "我在想，我们能否用别的方法解决这个问题。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-b1-reflexive-11",
+    "word": "zich zorgen maken",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "搭配",
+        "cn": "担心"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Mijn ouders maken zich zorgen omdat ik nog niets heb laten weten.",
+        "cn": "父母很担心，因为我还没有报平安。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-b1-reflexive-12",
+    "word": "zich ergeren aan",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "搭配",
+        "cn": "对……感到恼火"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Hij ergert zich aan mensen die tijdens de film blijven praten.",
+        "cn": "他对电影放映时一直讲话的人感到恼火。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-b1-reflexive-13",
+    "word": "zich vervelen",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "搭配",
+        "cn": "感到无聊"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Tijdens de lange wachttijd begonnen de kinderen zich te vervelen.",
+        "cn": "长时间等待时，孩子们开始感到无聊。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-b1-reflexive-14",
+    "word": "zich ontspannen",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "搭配",
+        "cn": "放松"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Na het werk ontspan ik me door een stukje te wandelen.",
+        "cn": "下班后，我通过散步来放松。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-b1-reflexive-15",
+    "word": "zich haasten",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "搭配",
+        "cn": "赶快；赶时间"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "We moeten ons haasten als we de bus nog willen halen.",
+        "cn": "如果还想赶上公交车，我们就得抓紧时间。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-b1-reflexive-16",
+    "word": "zich richten op",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "搭配",
+        "cn": "着重于；把精力放在……"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Deze cursus richt zich op situaties waarin je zelfstandig een gesprek moet voeren.",
+        "cn": "这门课程着重练习需要独立进行对话的场景。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-b1-reflexive-17",
+    "word": "zich interesseren voor",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "搭配",
+        "cn": "对……感兴趣"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Zij interesseert zich voor verhalen over mensen uit andere landen.",
+        "cn": "她对来自其他国家的人们的故事感兴趣。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-b1-reflexive-18",
+    "word": "zich schamen voor",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "搭配",
+        "cn": "为……感到羞愧或难为情"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Je hoeft je niet te schamen voor fouten wanneer je een taal leert.",
+        "cn": "学习语言时，你不必因犯错而难为情。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-b1-reflexive-19",
+    "word": "zich gedragen",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "搭配",
+        "cn": "表现；举止"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "De kinderen gedroegen zich rustig terwijl de gids uitleg gaf.",
+        "cn": "导游讲解时，孩子们表现得很安静。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-b1-reflexive-20",
+    "word": "zich bevinden",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "搭配",
+        "cn": "位于；处于"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "De informatiebalie bevindt zich naast de hoofdingang.",
+        "cn": "咨询台位于正门旁边。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-b1-reflexive-21",
+    "word": "zich verheugen op",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "搭配",
+        "cn": "期待；盼望……"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Ik verheug me op de dag waarop ik zonder voorbereiding een gesprek kan voeren.",
+        "cn": "我期待着能够不作准备就进行对话的那一天。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-b1-reflexive-22",
+    "word": "zich aankleden",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "搭配",
+        "cn": "穿好衣服"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "De kinderen kleden zich aan terwijl ik het ontbijt klaarmaak.",
+        "cn": "我准备早餐时，孩子们在穿衣服。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-b1-reflexive-23",
+    "word": "zich uitkleden",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "搭配",
+        "cn": "脱衣服"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Hij kleedde zich uit en legde zijn natte kleren bij de wasmachine.",
+        "cn": "他脱下衣服，把湿衣服放在洗衣机旁边。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-b1-reflexive-24",
+    "word": "zich wassen",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "搭配",
+        "cn": "洗漱；清洗身体"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Na het sporten was ik me voordat ik naar huis ga.",
+        "cn": "运动后，我先洗漱再回家。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-b1-reflexive-25",
+    "word": "zich omdraaien",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "搭配",
+        "cn": "转身"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Toen ze haar naam hoorde, draaide ze zich meteen om.",
+        "cn": "听到自己的名字时，她立刻转过身来。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-b1-reflexive-26",
+    "word": "zich verplaatsen",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "搭配",
+        "cn": "移动；转移位置"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Tijdens het evenement kunnen bezoekers zich met kleine busjes verplaatsen.",
+        "cn": "活动期间，游客可以乘小巴在各处移动。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-b1-reflexive-27",
+    "word": "zich ontwikkelen",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "搭配",
+        "cn": "发展；成长"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Door regelmatig te oefenen kun je je verder ontwikkelen.",
+        "cn": "通过经常练习，你可以继续进步。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-b1-reflexive-28",
+    "word": "zich inzetten voor",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "搭配",
+        "cn": "为……尽力；致力于……"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "De vrijwilligers zetten zich in voor mensen die weinig contact met anderen hebben.",
+        "cn": "志愿者们致力于帮助较少与他人接触的人。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-b1-reflexive-29",
+    "word": "elkaar ontmoeten",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "搭配",
+        "cn": "彼此见面；相识"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "We ontmoeten elkaar elke maand om samen Nederlands te spreken.",
+        "cn": "我们每个月见一次面，一起说荷兰语。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-b1-reflexive-30",
+    "word": "elkaar ondersteunen",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "搭配",
+        "cn": "互相支持"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Tijdens de opleiding ondersteunen de deelnemers elkaar bij moeilijke opdrachten.",
+        "cn": "培训期间，参加者在困难任务上互相支持。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  }
+]

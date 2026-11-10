@@ -85,6 +85,7 @@ function onMouseLeave() {
           </BaseIcon>
         </div>
         <NuxtLink to="/" class="row"><IconFluentHome20Regular /><span>学习首页</span></NuxtLink>
+        <NuxtLink to="/b1" class="row"><IconFluentBookNumber20Filled /><span>B1 学习中心</span></NuxtLink>
         <NuxtLink to="/words" class="row">
           <IconFluentTextUnderlineDouble20Regular />
           <span>{{ $t('words') }}</span>
@@ -118,6 +119,7 @@ function onMouseLeave() {
           <IconFluentHome20Regular />
           <span>{{ $t('home_page') }}</span>
         </div>
+        <div class="nav-item" @click="router.push('/b1')" :class="{ active:route.path === '/b1' }"><IconFluentBookNumber20Filled /><span>B1 训练</span></div>
         <div class="nav-item" @click="router.push('/words')" :class="{ active: route.path?.includes('/words') }">
           <IconFluentTextUnderlineDouble20Regular />
           <span>{{ $t('words') }}</span>

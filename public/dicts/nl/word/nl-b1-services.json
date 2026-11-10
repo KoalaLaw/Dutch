@@ -1,0 +1,782 @@
+[
+  {
+    "id": "nl-b1-services-1",
+    "word": "de servicebalie",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "服务台"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Bij de servicebalie kun je vragen waar je verloren spullen kunt melden.",
+        "cn": "在服务台，你可以询问到哪里报告物品遗失。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-b1-services-2",
+    "word": "het gemeenteloket",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "市政服务窗口"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Bij het gemeenteloket werd uitgelegd welke afspraak ik moest maken.",
+        "cn": "市政服务窗口的工作人员解释了我需要预约什么。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-b1-services-3",
+    "word": "het afhaalpunt",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "取件点；领取点"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Het afhaalpunt is verhuisd naar een winkel aan de overkant.",
+        "cn": "取件点搬到了马路对面的一家商店。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-b1-services-4",
+    "word": "het informatiepunt",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "咨询点；信息服务点"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Bij het informatiepunt kregen we een plattegrond van het terrein.",
+        "cn": "我们在咨询点领到了一张场地地图。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-b1-services-5",
+    "word": "de meldkamer",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "接警或调度中心"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "De medewerker van de meldkamer vroeg waar het incident precies was gebeurd.",
+        "cn": "调度中心的工作人员询问了事件发生的准确地点。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-b1-services-6",
+    "word": "het noodnummer",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "紧急电话号码"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Tijdens de uitleg vertelde de docent wanneer je een noodnummer gebruikt.",
+        "cn": "讲解时，老师介绍了什么时候使用紧急电话号码。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-b1-services-7",
+    "word": "de hulpdienst",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "应急救援机构"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "De hulpdiensten waren snel ter plaatse nadat de melding was gedaan.",
+        "cn": "接到报告后，应急救援人员很快赶到了现场。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-b1-services-8",
+    "word": "de brandweer",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "消防队"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "De brandweer controleerde of iedereen het gebouw had verlaten.",
+        "cn": "消防队检查了是否每个人都已离开大楼。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-b1-services-9",
+    "word": "de ambulance",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "救护车"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "We bleven op een veilige afstand toen de ambulance arriveerde.",
+        "cn": "救护车到达时，我们保持了安全距离。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-b1-services-10",
+    "word": "de politie",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "警察；警方"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "De politie vroeg de omstanders om de weg vrij te houden.",
+        "cn": "警方请围观的人们不要堵住道路。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-b1-services-11",
+    "word": "de storingsmelding",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "故障报告；故障通知"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Na mijn storingsmelding kreeg ik een nummer waarmee ik de voortgang kon volgen.",
+        "cn": "提交故障报告后，我拿到了一个可以跟踪进度的编号。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-b1-services-12",
+    "word": "het meldpunt",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "报告受理点；举报或投诉平台"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Op de website staat bij welk meldpunt je dit probleem kunt doorgeven.",
+        "cn": "网站上注明了可以到哪个受理点反映这个问题。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-b1-services-13",
+    "word": "de stroomstoring",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "停电；电力故障"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Door de stroomstoring werkte de verlichting in de hele straat niet.",
+        "cn": "由于电力故障，整条街的照明都失灵了。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-b1-services-14",
+    "word": "de wateroverlast",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "积水造成的困扰；水患"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Na de zware regen was er wateroverlast in enkele kelders.",
+        "cn": "大雨过后，部分地下室出现了积水。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-b1-services-15",
+    "word": "de brand",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "火灾；火"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Na de brand konden de bewoners voorlopig niet naar hun woning terug.",
+        "cn": "火灾之后，居民暂时无法返回住所。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-b1-services-16",
+    "word": "de brandschade",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "火灾损失；火灾造成的损坏"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "De brandschade was groter dan aanvankelijk werd gedacht.",
+        "cn": "火灾造成的损失比最初估计的更大。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-b1-services-17",
+    "word": "de verloren voorwerpen",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "搭配",
+        "cn": "失物"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Vraag bij de afdeling verloren voorwerpen of iemand je tas heeft ingeleverd.",
+        "cn": "向失物招领部门询问，是否有人交来了你的包。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-b1-services-18",
+    "word": "de vermissing",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "失踪；遗失"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Bij het melden van de vermissing moest ik de tas duidelijk beschrijven.",
+        "cn": "报告遗失时，我需要清楚地描述那个包。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-b1-services-19",
+    "word": "de identiteitscontrole",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "身份核验"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Bij de identiteitscontrole werd gevraagd mijn document klaar te houden.",
+        "cn": "核验身份时，我被要求准备好证件。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-b1-services-20",
+    "word": "de omstander",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "旁观者；现场路人"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Een omstander hielp om de andere bezoekers rustig naar buiten te begeleiden.",
+        "cn": "一位现场路人帮忙，引导其他访客平静地离开。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-b1-services-21",
+    "word": "de evacuatie",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "疏散；撤离"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Tijdens de evacuatie volgden de bezoekers de aanwijzingen van de medewerkers.",
+        "cn": "疏散期间，访客们按照工作人员的指示行动。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-b1-services-22",
+    "word": "de nooduitgang",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "紧急出口"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "De nooduitgang moet vrij blijven, ook als de ruimte niet vol is.",
+        "cn": "即使场所里没有坐满，紧急出口也必须保持畅通。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-b1-services-23",
+    "word": "de plattegrond",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "平面图；地图"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Op de plattegrond zie je waar de ingangen en toiletten zijn.",
+        "cn": "从平面图上可以看到入口和卫生间的位置。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-b1-services-24",
+    "word": "het buurtspreekuur",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "社区咨询接待时段"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Tijdens het buurtspreekuur kunnen bewoners vragen over de wijk stellen.",
+        "cn": "在社区咨询接待时段，居民可以提出与街区相关的问题。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-b1-services-25",
+    "word": "de wijkagent",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "社区警察"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "De wijkagent sprak met bewoners over de veiligheid rond het plein.",
+        "cn": "社区警察与居民讨论了广场周边的安全情况。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-b1-services-26",
+    "word": "hulp inschakelen",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "搭配",
+        "cn": "寻求；调动帮助"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Als je het probleem niet zelf kunt oplossen, kun je hulp inschakelen.",
+        "cn": "如果无法独自解决问题，你可以寻求帮助。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-b1-services-27",
+    "word": "een storing melden",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "搭配",
+        "cn": "报告故障"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Ik meld de storing en geef zo precies mogelijk aan wat er niet werkt.",
+        "cn": "我报告了故障，并尽可能准确地说明哪里不能正常使用。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-b1-services-28",
+    "word": "iemand waarschuwen",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "搭配",
+        "cn": "提醒；警告某人"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Ze waarschuwde een medewerker toen ze rook in de gang zag.",
+        "cn": "她看到走廊里有烟时，提醒了一位工作人员。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-b1-services-29",
+    "word": "een veilige plek zoeken",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "搭配",
+        "cn": "寻找安全地点"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "De bezoekers zochten een veilige plek waar ze op verdere informatie konden wachten.",
+        "cn": "访客们寻找了一个安全的地方，等待进一步通知。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-b1-services-30",
+    "word": "de weg vrijhouden",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "搭配",
+        "cn": "保持道路畅通"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Houd de weg vrij, zodat de hulpdiensten erdoor kunnen.",
+        "cn": "请保持道路畅通，让救援车辆能够通过。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  }
+]

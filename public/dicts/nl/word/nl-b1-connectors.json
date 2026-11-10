@@ -1,0 +1,782 @@
+[
+  {
+    "id": "nl-b1-connectors-1",
+    "word": "omdat",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "",
+        "cn": "因为"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Ik neem een paraplu mee omdat er vanmiddag regen wordt verwacht.",
+        "cn": "我带上雨伞，因为预计今天下午会下雨。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-b1-connectors-2",
+    "word": "doordat",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "",
+        "cn": "由于；因为客观原因"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "De vloer werd nat doordat er water uit de machine lekte.",
+        "cn": "由于机器漏水，地板变湿了。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-b1-connectors-3",
+    "word": "aangezien",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "",
+        "cn": "鉴于；因为"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Aangezien de zaal vol is, zoeken we een andere ruimte.",
+        "cn": "由于大厅已经满了，我们另找一个场所。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-b1-connectors-4",
+    "word": "daarom",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "",
+        "cn": "因此；所以"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Ik heb morgen een toets en ga daarom vanavond op tijd slapen.",
+        "cn": "我明天有考试，所以今晚会按时睡觉。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-b1-connectors-5",
+    "word": "daardoor",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "",
+        "cn": "因此；由此造成"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "De weg was afgesloten; daardoor kwamen we een halfuur te laat.",
+        "cn": "道路关闭了，因此我们迟到了半个小时。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-b1-connectors-6",
+    "word": "dus",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "",
+        "cn": "所以；因此"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Er rijdt geen trein meer, dus moeten we een andere oplossing zoeken.",
+        "cn": "已经没有火车了，所以我们必须另找办法。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-b1-connectors-7",
+    "word": "hoewel",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "",
+        "cn": "虽然；尽管"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Hoewel het hard regende, ging de wandeling toch door.",
+        "cn": "虽然雨下得很大，徒步活动仍然照常进行。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-b1-connectors-8",
+    "word": "toch",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "",
+        "cn": "仍然；然而"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Het plan is duur, maar ik denk toch dat het de moeite waard is.",
+        "cn": "这个计划很贵，但我仍然认为值得。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-b1-connectors-9",
+    "word": "desondanks",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "",
+        "cn": "尽管如此"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Ze had weinig tijd; desondanks heeft ze ons geholpen.",
+        "cn": "她时间很少，尽管如此，她还是帮助了我们。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-b1-connectors-10",
+    "word": "maar",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "",
+        "cn": "但是"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Ik begrijp het probleem, maar ik zie nog geen eenvoudige oplossing.",
+        "cn": "我理解这个问题，但还没有找到一个简单的解决办法。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-b1-connectors-11",
+    "word": "echter",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "",
+        "cn": "然而；不过"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Het voorstel klinkt goed. Er zijn echter nog vragen over de kosten.",
+        "cn": "这个提议听起来不错，不过费用方面仍有疑问。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-b1-connectors-12",
+    "word": "terwijl",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "",
+        "cn": "当……的时候；而"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Ik kook terwijl mijn huisgenoot de tafel dekt.",
+        "cn": "我做饭的时候，室友在摆餐具。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-b1-connectors-13",
+    "word": "zodra",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "",
+        "cn": "一……就"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Ik laat het je weten zodra ik meer informatie heb.",
+        "cn": "我一有更多信息就告诉你。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-b1-connectors-14",
+    "word": "totdat",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "",
+        "cn": "直到……为止"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "We blijven hier wachten totdat de monteur klaar is.",
+        "cn": "我们会一直在这里等到维修人员完成工作。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-b1-connectors-15",
+    "word": "nadat",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "",
+        "cn": "在……之后"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Nadat we gegeten hadden, maakten we een korte wandeling.",
+        "cn": "吃完饭后，我们散了一小会儿步。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-b1-connectors-16",
+    "word": "voordat",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "",
+        "cn": "在……之前"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Lees de instructies voordat je met de opdracht begint.",
+        "cn": "开始任务之前，请先阅读说明。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-b1-connectors-17",
+    "word": "als",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "",
+        "cn": "如果；当……时"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Als je morgen tijd hebt, kunnen we samen oefenen.",
+        "cn": "如果你明天有时间，我们可以一起练习。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-b1-connectors-18",
+    "word": "tenzij",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "",
+        "cn": "除非"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "We gaan met de fiets, tenzij het heel hard regent.",
+        "cn": "我们会骑车去，除非下很大的雨。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-b1-connectors-19",
+    "word": "mits",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "",
+        "cn": "只要；条件是"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Je kunt het apparaat lenen, mits je het vrijdag terugbrengt.",
+        "cn": "你可以借用这个设备，条件是星期五归还。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-b1-connectors-20",
+    "word": "zodat",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "",
+        "cn": "以便；从而"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Ik schrijf het adres op, zodat ik het niet vergeet.",
+        "cn": "我把地址写下来，以免忘记。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-b1-connectors-21",
+    "word": "bovendien",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "",
+        "cn": "此外；而且"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "De cursus is dichtbij en bovendien past de lestijd goed bij mijn werk.",
+        "cn": "课程地点很近，而且上课时间也适合我的工作安排。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-b1-connectors-22",
+    "word": "daarnaast",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "",
+        "cn": "此外；除此之外"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Ik werk drie dagen per week; daarnaast volg ik een taalcursus.",
+        "cn": "我每周工作三天，此外还上语言课。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-b1-connectors-23",
+    "word": "vervolgens",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "",
+        "cn": "随后；接着"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Eerst vul je je naam in en vervolgens kies je een datum.",
+        "cn": "首先填写姓名，接着选择日期。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-b1-connectors-24",
+    "word": "ten slotte",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "搭配",
+        "cn": "最后；作为最后一点"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Ten slotte wil ik iedereen bedanken die heeft meegedacht.",
+        "cn": "最后，我想感谢所有出谋划策的人。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-b1-connectors-25",
+    "word": "bijvoorbeeld",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "",
+        "cn": "例如"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Je kunt elke dag iets kleins lezen, bijvoorbeeld een kort nieuwsbericht.",
+        "cn": "你可以每天读一点东西，例如一则简短新闻。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-b1-connectors-26",
+    "word": "namelijk",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "",
+        "cn": "也就是说；因为；用于补充解释"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Ik kan vanavond niet komen; ik heb namelijk al een andere afspraak.",
+        "cn": "我今晚不能来，因为我已经另有约定。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-b1-connectors-27",
+    "word": "enerzijds",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "",
+        "cn": "一方面"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Enerzijds wil ik dichtbij mijn werk wonen, anderzijds wil ik meer ruimte.",
+        "cn": "一方面我想住得离工作地点近，另一方面我又想要更多空间。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-b1-connectors-28",
+    "word": "anderzijds",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "",
+        "cn": "另一方面"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Het plan kost tijd; anderzijds kan het ons later veel werk besparen.",
+        "cn": "这个计划需要时间，另一方面它以后能为我们节省很多工作。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-b1-connectors-29",
+    "word": "in plaats van",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "搭配",
+        "cn": "代替；而不是"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "We nemen de trein in plaats van de auto, omdat parkeren lastig is.",
+        "cn": "我们乘火车而不开车，因为停车不方便。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-b1-connectors-30",
+    "word": "in tegenstelling tot",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "搭配",
+        "cn": "与……相反；与……不同"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "In tegenstelling tot vorig jaar was het festival deze keer binnen.",
+        "cn": "与去年不同，这次节庆活动在室内举行。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  }
+]

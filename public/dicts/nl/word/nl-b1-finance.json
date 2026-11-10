@@ -1,0 +1,782 @@
+[
+  {
+    "id": "nl-b1-finance-1",
+    "word": "het budget",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "预算"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "We hebben een beperkt budget voor de nieuwe inrichting.",
+        "cn": "我们用于重新布置的预算有限。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-b1-finance-2",
+    "word": "de kosten",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "费用（复数）"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Vraag vooraf welke kosten bij de prijs zijn inbegrepen.",
+        "cn": "请提前询问价格中包含哪些费用。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-b1-finance-3",
+    "word": "de uitgave",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "支出；出版物"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Ik houd mijn uitgaven bij om te zien waar mijn geld naartoe gaat.",
+        "cn": "我记录支出，以了解钱花在了哪里。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-b1-finance-4",
+    "word": "het inkomen",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "收入"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Met een wisselend inkomen is vooruit plannen soms lastig.",
+        "cn": "收入不固定时，提前规划有时很困难。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-b1-finance-5",
+    "word": "de inkomsten",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "收入；进款（复数）"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Deze maand waren onze inkomsten lager dan onze uitgaven.",
+        "cn": "这个月我们的收入低于支出。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-b1-finance-6",
+    "word": "de besparing",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "节省的金额；节约"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Door minder eten weg te gooien bereiken we een kleine besparing.",
+        "cn": "通过减少食物浪费，我们节省了一点钱。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-b1-finance-7",
+    "word": "de rekeninghouder",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "账户持有人"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Controleer of de naam van de rekeninghouder klopt.",
+        "cn": "请核对账户持有人的姓名是否正确。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-b1-finance-8",
+    "word": "de bankrekening",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "银行账户"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Ik gebruik een aparte bankrekening voor gezamenlijke uitgaven.",
+        "cn": "我用一个单独的银行账户支付共同支出。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-b1-finance-9",
+    "word": "het rekeningnummer",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "账号"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Het rekeningnummer staat onderaan de factuur.",
+        "cn": "账号写在发票底部。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-b1-finance-10",
+    "word": "het bedrag",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "金额"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Het totale bedrag is hoger dan we hadden afgesproken.",
+        "cn": "总金额比我们约定的更高。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-b1-finance-11",
+    "word": "de betaling",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "付款"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Na de betaling ontvangt u automatisch een bevestiging.",
+        "cn": "付款后，您会自动收到确认信息。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-b1-finance-12",
+    "word": "de factuur",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "发票；账单"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Op de factuur ontbreken de kosten van het vervoer.",
+        "cn": "发票上缺少运输费用。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-b1-finance-13",
+    "word": "de korting",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "折扣"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "De korting geldt alleen voor de producten die op de lijst staan.",
+        "cn": "折扣只适用于清单上的产品。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-b1-finance-14",
+    "word": "de toeslag",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "附加费；补贴"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "In dit aanbod wordt een toeslag voor snelle levering berekend.",
+        "cn": "这份报价对快速交货收取附加费。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-b1-finance-15",
+    "word": "de rente",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "利息"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Ik wil eerst begrijpen hoe de rente wordt berekend.",
+        "cn": "我想先了解利息是如何计算的。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-b1-finance-16",
+    "word": "de schuld",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "债务；过错"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "In het verhaal probeert het gezin zijn schuld stap voor stap af te betalen.",
+        "cn": "故事中，这家人试着逐步偿还债务。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-b1-finance-17",
+    "word": "het spaargeld",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "积蓄"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Ze gebruikt een deel van haar spaargeld voor een opleiding.",
+        "cn": "她用一部分积蓄来学习进修。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-b1-finance-18",
+    "word": "het abonnement",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "订阅；定期服务"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Ik controleer welke abonnementen ik eigenlijk nog gebruik.",
+        "cn": "我会检查自己到底还在使用哪些订阅服务。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-b1-finance-19",
+    "word": "de contributie",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "会费"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "De contributie voor de vereniging wordt eenmaal per jaar betaald.",
+        "cn": "协会会费每年缴纳一次。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-b1-finance-20",
+    "word": "de vergoeding",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "补偿；报销款"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Ik heb gevraagd of er een vergoeding voor de reiskosten is.",
+        "cn": "我询问了是否有交通费用报销。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-b1-finance-21",
+    "word": "besparen",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "",
+        "cn": "节省"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "We besparen geld doordat we vaker samen koken.",
+        "cn": "因为更常一起做饭，我们节省了开支。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-b1-finance-22",
+    "word": "sparen",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "",
+        "cn": "储蓄"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Ik spaar elke maand een klein bedrag voor onverwachte kosten.",
+        "cn": "我每个月存一点钱，以应对意外支出。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-b1-finance-23",
+    "word": "uitgeven",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "",
+        "cn": "花费；发行"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Ik wil minder geld uitgeven aan dingen die ik niet nodig heb.",
+        "cn": "我想少花钱买自己不需要的东西。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-b1-finance-24",
+    "word": "overmaken",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "",
+        "cn": "转账"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Kunt u het bedrag naar het juiste rekeningnummer overmaken?",
+        "cn": "您能把款项转到正确的账号吗？"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-b1-finance-25",
+    "word": "afschrijven",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "",
+        "cn": "从账户扣除；核销"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Het bedrag wordt aan het begin van de maand afgeschreven.",
+        "cn": "款项会在月初从账户扣除。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-b1-finance-26",
+    "word": "terugbetalen",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "",
+        "cn": "退还；偿还"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "De winkel heeft beloofd het bedrag binnen een week terug te betalen.",
+        "cn": "商店承诺在一周内退款。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-b1-finance-27",
+    "word": "lenen",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "",
+        "cn": "借入；借出"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Ik leen liever een boek dan dat ik het meteen koop.",
+        "cn": "我更愿意借书，而不是马上买下来。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-b1-finance-28",
+    "word": "bijdragen",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "",
+        "cn": "出资；贡献"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Iedere huisgenoot draagt bij aan de gezamenlijke kosten.",
+        "cn": "每位室友都会分担共同费用。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-b1-finance-29",
+    "word": "maandelijks",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "",
+        "cn": "每月的；按月地"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "We bespreken maandelijks of onze uitgaven nog bij het budget passen.",
+        "cn": "我们每月讨论支出是否仍在预算之内。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-b1-finance-30",
+    "word": "inbegrepen",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "",
+        "cn": "包含在内的"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Bij deze prijs zijn de bezorgkosten al inbegrepen.",
+        "cn": "这个价格已经包含送货费。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  }
+]

@@ -1,0 +1,782 @@
+[
+  {
+    "id": "nl-b1-media-1",
+    "word": "het nieuws",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "新闻；新消息"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Ik volg het nieuws om te begrijpen wat er in mijn omgeving gebeurt.",
+        "cn": "我关注新闻，以了解周围发生的事情。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-b1-media-2",
+    "word": "de krant",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "报纸"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "In de krant stond een artikel over de plannen voor onze wijk.",
+        "cn": "报纸上有一篇关于我们街区规划的文章。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-b1-media-3",
+    "word": "de reportage",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "专题报道；实地报道"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "De reportage laat zien hoe bewoners samen hun wijk groener maken.",
+        "cn": "这篇专题报道展示了居民如何共同让街区变得更绿。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-b1-media-4",
+    "word": "de kop",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "新闻标题；头条标题"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "De kop trok mijn aandacht, maar de inhoud was minder duidelijk.",
+        "cn": "标题吸引了我的注意，但内容没有那么清楚。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-b1-media-5",
+    "word": "de journalist",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "记者"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "De journalist sprak met verschillende bewoners voordat zij het artikel schreef.",
+        "cn": "记者在撰写文章之前采访了多位居民。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-b1-media-6",
+    "word": "de redactie",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "编辑部"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "De redactie besloot het bericht aan te passen nadat nieuwe informatie was ontvangen.",
+        "cn": "收到新信息后，编辑部决定修改报道。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-b1-media-7",
+    "word": "de nieuwsbron",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "新闻来源"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Vergelijk verschillende nieuwsbronnen als je meer over een onderwerp wilt weten.",
+        "cn": "如果想进一步了解某个话题，请比较不同的新闻来源。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-b1-media-8",
+    "word": "het feit",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "事实"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "In een samenvatting moet je feiten en meningen uit elkaar houden.",
+        "cn": "在摘要中，你应该区分事实和观点。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-b1-media-9",
+    "word": "het gerucht",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "传闻；谣传"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Het gerucht werd vaak gedeeld, hoewel niemand wist of het klopte.",
+        "cn": "尽管没人知道是否属实，那个传闻还是被大量转发。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-b1-media-10",
+    "word": "de nieuwswebsite",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "新闻网站"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Op de nieuwswebsite kun je zien wanneer het artikel voor het laatst is bijgewerkt.",
+        "cn": "在新闻网站上，可以看到文章最后更新的时间。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-b1-media-11",
+    "word": "de actualiteit",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "时事；当前热点"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Tijdens de les bespreken we een onderwerp uit de actualiteit.",
+        "cn": "课堂上，我们讨论一个时事话题。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-b1-media-12",
+    "word": "de publieke opinie",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "搭配",
+        "cn": "公众舆论；民意"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "De schrijver onderzoekt hoe de publieke opinie over het onderwerp is veranderd.",
+        "cn": "作者研究了公众对这个话题的看法发生了什么变化。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-b1-media-13",
+    "word": "de bevolking",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "人口；居民整体"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Volgens de tekst is de bevolking van de stad in tien jaar gegroeid.",
+        "cn": "根据文章，这座城市的人口在十年间增长了。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-b1-media-14",
+    "word": "de generatie",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "一代人；世代"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Verschillende generaties hebben soms een andere kijk op dezelfde verandering.",
+        "cn": "不同世代有时对同一种变化有不同看法。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-b1-media-15",
+    "word": "de traditie",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "传统"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "De buurt wil de traditie bewaren, maar staat ook open voor nieuwe ideeën.",
+        "cn": "社区希望保留传统，也愿意接纳新想法。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-b1-media-16",
+    "word": "de maatschappelijke verandering",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "搭配",
+        "cn": "社会变化"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "In de discussie ging het over een maatschappelijke verandering die veel gezinnen raakt.",
+        "cn": "讨论涉及一种影响许多家庭的社会变化。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-b1-media-17",
+    "word": "de invloed",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "影响"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "We bespreken welke invloed sociale media op onze dagelijkse keuzes hebben.",
+        "cn": "我们讨论社交媒体对日常选择有什么影响。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-b1-media-18",
+    "word": "de verslaggeving",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "新闻报道；报道工作"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "De verslaggeving over hetzelfde onderwerp verschilde sterk per krant.",
+        "cn": "不同报纸对同一话题的报道差异很大。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-b1-media-19",
+    "word": "de peiling",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "民意调查；测量"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Een peiling laat zien wat de ondervraagden op dat moment vinden.",
+        "cn": "民意调查显示的是受访者在那个时刻的看法。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-b1-media-20",
+    "word": "de meerderheid",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "多数；大多数"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Een meerderheid van de deelnemers vond dat er meer uitleg nodig was.",
+        "cn": "大多数参加者认为还需要更多说明。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-b1-media-21",
+    "word": "de minderheid",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "少数；少数群体"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Ook de mening van de minderheid werd in het verslag genoemd.",
+        "cn": "少数人的意见也被写进了报告。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-b1-media-22",
+    "word": "de discussie",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "讨论；争论"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "De discussie werd nuttiger toen mensen naar concrete voorbeelden vroegen.",
+        "cn": "当人们开始询问具体例子时，讨论变得更有建设性了。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-b1-media-23",
+    "word": "de lezersreactie",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "读者反馈；读者评论"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Uit de lezersreacties bleek dat veel mensen dezelfde vraag hadden.",
+        "cn": "从读者评论中可以看出，很多人都有同样的疑问。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-b1-media-24",
+    "word": "de boodschap",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "要传达的信息；主旨"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Wat is volgens jou de belangrijkste boodschap van deze tekst?",
+        "cn": "你认为这篇文章最重要的主旨是什么？"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-b1-media-25",
+    "word": "de betrouwbaarheid",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "可靠性；可信程度"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "De betrouwbaarheid van een bericht hangt ook af van de gebruikte bronnen.",
+        "cn": "一则消息的可信程度也取决于所使用的来源。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-b1-media-26",
+    "word": "het perspectief",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "视角；角度"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Door het verhaal vanuit een ander perspectief te lezen, begreep ik de situatie beter.",
+        "cn": "从另一个角度阅读这个故事后，我更理解当时的情况了。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-b1-media-27",
+    "word": "de achtergrond",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "背景"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Zonder de achtergrond te kennen, is het moeilijk om de reactie te begrijpen.",
+        "cn": "不了解背景，就很难理解这种反应。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-b1-media-28",
+    "word": "het interview",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "采访；访谈"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "In het interview vertelde de bewoner wat er volgens hem moest veranderen.",
+        "cn": "在采访中，这位居民讲述了他认为需要改变的事情。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-b1-media-29",
+    "word": "het nepnieuws",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "虚假新闻"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Tijdens de workshop leerden we waaraan je mogelijk nepnieuws kunt herkennen.",
+        "cn": "在工作坊中，我们学习了可能识别虚假新闻的线索。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-b1-media-30",
+    "word": "bronnen controleren",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "搭配",
+        "cn": "核查来源"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Voordat ik een opvallend bericht deel, probeer ik de bronnen te controleren.",
+        "cn": "转发一则引人注目的消息前，我会尽量核查来源。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  }
+]

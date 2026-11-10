@@ -1,0 +1,782 @@
+[
+  {
+    "id": "nl-b1-employment-1",
+    "word": "de vacature",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "招聘职位"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Ik heb een interessante vacature op de website gevonden.",
+        "cn": "我在网站上找到了一则有意思的招聘信息。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-b1-employment-2",
+    "word": "de sollicitatie",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "求职申请"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Bij mijn sollicitatie heb ik een korte motivatiebrief toegevoegd.",
+        "cn": "我在求职申请中附上了一封简短的求职动机信。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-b1-employment-3",
+    "word": "de sollicitant",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "求职者"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "De sollicitant vertelde welke ervaring hij al had.",
+        "cn": "求职者介绍了自己已有的经验。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-b1-employment-4",
+    "word": "het sollicitatiegesprek",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "面试"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Tijdens het sollicitatiegesprek mag je ook zelf vragen stellen.",
+        "cn": "面试时，你也可以自己提问。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-b1-employment-5",
+    "word": "het cv",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "简历"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "In mijn cv heb ik mijn opleiding en werkervaring beschreven.",
+        "cn": "我在简历中介绍了学历和工作经历。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-b1-employment-6",
+    "word": "de motivatiebrief",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "求职动机信"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Een goede motivatiebrief legt uit waarom de functie bij je past.",
+        "cn": "一封好的求职动机信会说明这个职位为何适合你。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-b1-employment-7",
+    "word": "de werkervaring",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "工作经验"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Voor deze baan is ervaring met klanten belangrijker dan veel werkervaring.",
+        "cn": "对这份工作而言，与客户打交道的经验比大量工作经历更重要。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-b1-employment-8",
+    "word": "de opleiding",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "教育；培训课程"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Welke opleiding heb je gevolgd voordat je hier begon?",
+        "cn": "你来这里之前接受过什么教育或培训？"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-b1-employment-9",
+    "word": "het diploma",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "文凭"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Ik heb mijn diploma samen met de andere documenten meegestuurd.",
+        "cn": "我把文凭和其他文件一起寄了过去。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-b1-employment-10",
+    "word": "de vaardigheid",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "技能"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Door dit project heb ik mijn digitale vaardigheden verbeterd.",
+        "cn": "通过这个项目，我提高了数字技能。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-b1-employment-11",
+    "word": "de werkgever",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "雇主"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "De werkgever vertelde hoe de eerste werkweek eruitziet.",
+        "cn": "雇主介绍了第一周工作的安排。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-b1-employment-12",
+    "word": "de werknemer",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "雇员"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Iedere werknemer krijgt aan het begin een duidelijke uitleg.",
+        "cn": "每位雇员在开始时都会得到清楚的说明。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-b1-employment-13",
+    "word": "de arbeidsovereenkomst",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "劳动合同"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Ik wil de arbeidsovereenkomst eerst rustig doorlezen.",
+        "cn": "我想先仔细阅读劳动合同。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-b1-employment-14",
+    "word": "het salaris",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "工资"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Tijdens het gesprek kwamen ook het salaris en de werktijden aan bod.",
+        "cn": "谈话中也谈到了工资和工作时间。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-b1-employment-15",
+    "word": "de werktijd",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "工作时间"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Flexibele werktijden helpen mij om werk en studie te combineren.",
+        "cn": "灵活的工作时间有助于我兼顾工作和学习。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-b1-employment-16",
+    "word": "de proeftijd",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "试用期"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "In de proeftijd bespreken we regelmatig hoe het gaat.",
+        "cn": "试用期内，我们会定期讨论工作情况。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-b1-employment-17",
+    "word": "de referentie",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "推荐人；推荐材料"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "De organisatie heeft gevraagd of ik een referentie kan geven.",
+        "cn": "机构询问我能否提供一位推荐人。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-b1-employment-18",
+    "word": "de loopbaan",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "职业生涯"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Ze denkt na over de volgende stap in haar loopbaan.",
+        "cn": "她正在考虑职业生涯的下一步。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-b1-employment-19",
+    "word": "de functie",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "职位；职能"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Deze functie vraagt om iemand die goed kan samenwerken.",
+        "cn": "这个职位需要一个善于合作的人。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-b1-employment-20",
+    "word": "de verantwoordelijkheid",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "职责；责任"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Ik wil graag meer verantwoordelijkheid binnen het team krijgen.",
+        "cn": "我想在团队中承担更多责任。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-b1-employment-21",
+    "word": "solliciteren",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "",
+        "cn": "申请工作"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Ik solliciteer naar een baan waarbij ik Nederlands kan gebruiken.",
+        "cn": "我在申请一份能使用荷兰语的工作。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-b1-employment-22",
+    "word": "aannemen",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "",
+        "cn": "录用；接受"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Het bedrijf heeft besloten om twee nieuwe mensen aan te nemen.",
+        "cn": "公司决定录用两名新员工。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-b1-employment-23",
+    "word": "ontslaan",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "",
+        "cn": "解雇"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "In het verhaal wordt een werknemer onverwacht ontslagen.",
+        "cn": "在这个故事中，一名员工意外被解雇。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-b1-employment-24",
+    "word": "verdienen",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "",
+        "cn": "挣得；值得"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Ze verdient genoeg om zelfstandig te kunnen wonen.",
+        "cn": "她挣的钱足够独立生活。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-b1-employment-25",
+    "word": "inwerken",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "",
+        "cn": "帮助熟悉工作"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Een ervaren collega gaat mij de eerste week inwerken.",
+        "cn": "第一周，一位有经验的同事会带我熟悉工作。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-b1-employment-26",
+    "word": "begeleiden",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "",
+        "cn": "指导；陪同"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "De docent begeleidt studenten die hun eerste stage doen.",
+        "cn": "老师指导第一次实习的学生。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-b1-employment-27",
+    "word": "deeltijd",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "",
+        "cn": "兼职；非全日制"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Ik werk in deeltijd omdat ik daarnaast een opleiding volg.",
+        "cn": "我做非全日制工作，因为我同时还在学习。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-b1-employment-28",
+    "word": "voltijd",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "",
+        "cn": "全职"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Na mijn studie wil ik graag voltijd gaan werken.",
+        "cn": "学业结束后，我想从事全职工作。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-b1-employment-29",
+    "word": "gemotiveerd",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "",
+        "cn": "有积极性的"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "We zoeken een gemotiveerde collega die graag nieuwe dingen leert.",
+        "cn": "我们在寻找一位积极、乐于学习新事物的同事。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-b1-employment-30",
+    "word": "ervaring opdoen",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "搭配",
+        "cn": "积累经验"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Tijdens een stage kun je nuttige ervaring opdoen.",
+        "cn": "实习期间，你可以积累有用的经验。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  }
+]

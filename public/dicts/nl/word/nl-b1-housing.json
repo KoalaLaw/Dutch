@@ -1,0 +1,782 @@
+[
+  {
+    "id": "nl-b1-housing-1",
+    "word": "de huur",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "租金"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "De huur wordt iedere maand van mijn rekening afgeschreven.",
+        "cn": "租金每个月从我的账户扣除。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-b1-housing-2",
+    "word": "de verhuurder",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "出租人；房东"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Ik heb de verhuurder gevraagd om het raam te repareren.",
+        "cn": "我已经请房东修理窗户。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-b1-housing-3",
+    "word": "de huurder",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "承租人；租客"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "De huurder wil weten welke kosten bij de prijs horen.",
+        "cn": "租客想知道价格中包含哪些费用。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-b1-housing-4",
+    "word": "het huurcontract",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "租赁合同"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Lees het huurcontract rustig door voordat je het ondertekent.",
+        "cn": "签字之前，要仔细阅读租赁合同。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-b1-housing-5",
+    "word": "de borg",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "押金"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "We hebben afgesproken wanneer de borg wordt terugbetaald.",
+        "cn": "我们约定了押金何时退还。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-b1-housing-6",
+    "word": "de woonruimte",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "居住空间；房源"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Het is lastig om betaalbare woonruimte in het centrum te vinden.",
+        "cn": "在市中心很难找到价格可承受的房源。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-b1-housing-7",
+    "word": "de bezichtiging",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "看房；参观"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Tijdens de bezichtiging vroegen we naar de verwarming.",
+        "cn": "看房时，我们询问了供暖的情况。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-b1-housing-8",
+    "word": "de makelaar",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "房产中介"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "De makelaar liet ons twee verschillende appartementen zien.",
+        "cn": "房产中介带我们看了两套不同的公寓。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-b1-housing-9",
+    "word": "het appartement",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "公寓"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Het appartement is klein, maar het heeft een ruim balkon.",
+        "cn": "公寓不大，但有一个宽敞的阳台。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-b1-housing-10",
+    "word": "de verdieping",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "楼层"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Op welke verdieping bevindt zich de gezamenlijke wasruimte?",
+        "cn": "共用洗衣房位于哪一层？"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-b1-housing-11",
+    "word": "het balkon",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "阳台"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Op het balkon is genoeg plaats voor een kleine tafel.",
+        "cn": "阳台上有足够的地方放一张小桌子。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-b1-housing-12",
+    "word": "de verwarming",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "暖气；供暖"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "De verwarming werkt niet, hoewel de thermostaat aanstaat.",
+        "cn": "虽然温控器开着，暖气却不工作。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-b1-housing-13",
+    "word": "de thermostaat",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "温控器"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Zet de thermostaat lager als je langere tijd weg bent.",
+        "cn": "如果你要离开较长时间，可以把温控器调低。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-b1-housing-14",
+    "word": "de isolatie",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "隔热；隔音"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Door betere isolatie blijft het huis in de winter warmer.",
+        "cn": "改善隔热后，房子在冬天会更暖和。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-b1-housing-15",
+    "word": "het onderhoud",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "维护；保养"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "We hebben met de eigenaar gesproken over het onderhoud.",
+        "cn": "我们与房主讨论了维护问题。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-b1-housing-16",
+    "word": "de lekkage",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "漏水"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Door een lekkage is er een vochtige plek op het plafond ontstaan.",
+        "cn": "由于漏水，天花板上出现了一块潮湿的地方。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-b1-housing-17",
+    "word": "de schade",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "损坏；损失"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Maak foto's zodat je de schade duidelijk kunt laten zien.",
+        "cn": "拍一些照片，以便清楚地展示损坏情况。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-b1-housing-18",
+    "word": "de overlast",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "滋扰；困扰"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "We ervaren vooral 's avonds overlast van harde muziek.",
+        "cn": "我们主要在晚上受到大声音乐的干扰。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-b1-housing-19",
+    "word": "de woonwijk",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "住宅区"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "In deze woonwijk zijn veel winkels op loopafstand.",
+        "cn": "这个住宅区有许多步行可到的商店。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-b1-housing-20",
+    "word": "de buurt",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "街区；附近"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Sinds ik hier woon, heb ik de buurt beter leren kennen.",
+        "cn": "自从住到这里，我逐渐更熟悉这个街区了。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-b1-housing-21",
+    "word": "de verhuisdoos",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "搬家纸箱"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Schrijf op elke verhuisdoos wat erin zit.",
+        "cn": "在每个搬家纸箱上写清楚里面有什么。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-b1-housing-22",
+    "word": "verhuizen",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "",
+        "cn": "搬家"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "We willen verhuizen omdat we meer ruimte nodig hebben.",
+        "cn": "我们想搬家，因为我们需要更大的空间。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-b1-housing-23",
+    "word": "inrichten",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "",
+        "cn": "布置；布设"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "We hebben de kamer zo ingericht dat er ook een werkplek is.",
+        "cn": "我们布置了房间，使它还可以作为工作场所。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-b1-housing-24",
+    "word": "ondertekenen",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "",
+        "cn": "签字"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Onderteken het document pas als alle afspraken duidelijk zijn.",
+        "cn": "只有所有约定都清楚了，才在文件上签字。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-b1-housing-25",
+    "word": "opzeggen",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "",
+        "cn": "取消；终止"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Ik wil het contract opzeggen omdat ik naar een andere stad verhuis.",
+        "cn": "我想终止合同，因为我要搬到另一座城市。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-b1-housing-26",
+    "word": "verlengen",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "",
+        "cn": "延长；续期"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "We kunnen de huurperiode verlengen als beide partijen dat willen.",
+        "cn": "如果双方都愿意，我们可以延长租期。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-b1-housing-27",
+    "word": "gemeubileerd",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "",
+        "cn": "带家具的"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Ik zoek een gemeubileerde kamer voor een paar maanden.",
+        "cn": "我在找一间可以住几个月的带家具的房间。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-b1-housing-28",
+    "word": "ruim",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "",
+        "cn": "宽敞的"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "De keuken is ruim genoeg om er samen te koken.",
+        "cn": "厨房足够宽敞，可以在里面一起做饭。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-b1-housing-29",
+    "word": "betaalbaar",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "",
+        "cn": "价格可承受的"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "We zoeken een betaalbare woning buiten het drukke centrum.",
+        "cn": "我们在热闹的市中心以外找价格可承受的住房。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-b1-housing-30",
+    "word": "op loopafstand",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "搭配",
+        "cn": "步行可到"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "De supermarkt ligt op loopafstand van ons nieuwe huis.",
+        "cn": "超市离我们的新家很近，走路就能到。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  }
+]

@@ -1,0 +1,782 @@
+[
+  {
+    "id": "nl-b1-prepositions-1",
+    "word": "afhankelijk van",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "搭配",
+        "cn": "取决于；依赖于"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "De reistijd is afhankelijk van hoe druk het op de weg is.",
+        "cn": "出行时间取决于路上的拥堵程度。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-b1-prepositions-2",
+    "word": "tevreden over",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "搭配",
+        "cn": "对……满意"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Ik ben tevreden over de manier waarop mijn klacht is behandeld.",
+        "cn": "我对投诉的处理方式感到满意。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-b1-prepositions-3",
+    "word": "trots op",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "搭配",
+        "cn": "为……自豪"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Ze is trots op wat ze in een jaar heeft geleerd.",
+        "cn": "她为自己一年内学到的东西感到自豪。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-b1-prepositions-4",
+    "word": "bang voor",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "搭配",
+        "cn": "害怕……"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Hij is bang voor fouten, maar probeert toch Nederlands te spreken.",
+        "cn": "他害怕犯错，但仍然尝试说荷兰语。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-b1-prepositions-5",
+    "word": "benieuwd naar",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "搭配",
+        "cn": "对……好奇；期待了解"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Ik ben benieuwd naar jouw ervaring met deze cursus.",
+        "cn": "我很想了解你上这门课的体验。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-b1-prepositions-6",
+    "word": "geschikt voor",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "搭配",
+        "cn": "适合……"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Deze oefening is geschikt voor mensen die langere zinnen willen maken.",
+        "cn": "这个练习适合想要造更长句子的人。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-b1-prepositions-7",
+    "word": "verantwoordelijk voor",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "搭配",
+        "cn": "对……负责"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Wie is verantwoordelijk voor het doorgeven van de wijzigingen?",
+        "cn": "谁负责传达这些变更？"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-b1-prepositions-8",
+    "word": "bezorgd over",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "搭配",
+        "cn": "担忧……"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "We zijn bezorgd over de gevolgen voor mensen die weinig verdienen.",
+        "cn": "我们担心这会对低收入人群产生影响。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-b1-prepositions-9",
+    "word": "bekend met",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "搭配",
+        "cn": "熟悉……"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Ben je al bekend met de werkwijze van deze organisatie?",
+        "cn": "你已经熟悉这个组织的工作方式了吗？"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-b1-prepositions-10",
+    "word": "gewend aan",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "搭配",
+        "cn": "习惯于……"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Na een paar weken was ik gewend aan de nieuwe werktijden.",
+        "cn": "过了几周，我就习惯了新的工作时间。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-b1-prepositions-11",
+    "word": "interesse hebben in",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "搭配",
+        "cn": "对……感兴趣"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Ik heb interesse in vrijwilligerswerk waarbij ik mensen kan ontmoeten.",
+        "cn": "我对能结识他人的志愿工作感兴趣。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-b1-prepositions-12",
+    "word": "behoefte hebben aan",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "搭配",
+        "cn": "需要……"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Na die drukke week heb ik behoefte aan een rustige avond.",
+        "cn": "忙碌的一周过后，我需要一个安静的夜晚。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-b1-prepositions-13",
+    "word": "zin hebben in",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "搭配",
+        "cn": "想要……；有兴致……"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Heb je zin in een wandeling nadat we gegeten hebben?",
+        "cn": "吃完饭后，你想去散步吗？"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-b1-prepositions-14",
+    "word": "moeite hebben met",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "搭配",
+        "cn": "做……有困难"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Ik heb vooral moeite met gesprekken waarin mensen snel van onderwerp veranderen.",
+        "cn": "我尤其难以应对人们快速切换话题的对话。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-b1-prepositions-15",
+    "word": "vertrouwen op",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "搭配",
+        "cn": "信任；依靠……"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Je kunt erop vertrouwen dat we de afspraak nakomen.",
+        "cn": "你可以相信我们会履行约定。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-b1-prepositions-16",
+    "word": "rekenen op",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "搭配",
+        "cn": "指望；依赖……"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "We rekenen op tien deelnemers, maar er kunnen er nog meer komen.",
+        "cn": "我们预计会有十位参加者，不过可能还会来更多人。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-b1-prepositions-17",
+    "word": "wennen aan",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "搭配",
+        "cn": "适应；习惯于……"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Het kostte me tijd om aan de drukte in de stad te wennen.",
+        "cn": "我花了一段时间才适应城市里的喧闹。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-b1-prepositions-18",
+    "word": "zorgen voor",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "搭配",
+        "cn": "照顾；确保……"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Kun jij ervoor zorgen dat iedereen de nieuwe informatie krijgt?",
+        "cn": "你能确保每个人都收到新信息吗？"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-b1-prepositions-19",
+    "word": "denken aan",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "搭配",
+        "cn": "想到；想着……"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Denk eraan om je identiteitsbewijs mee te nemen.",
+        "cn": "记得带上身份证件。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-b1-prepositions-20",
+    "word": "wachten op",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "搭配",
+        "cn": "等待……"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "We wachten op een bevestiging voordat we andere plannen maken.",
+        "cn": "我们在等待确认，然后再作其他安排。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-b1-prepositions-21",
+    "word": "belang hechten aan",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "搭配",
+        "cn": "重视……"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Onze groep hecht veel belang aan een sfeer waarin iedereen vragen durft te stellen.",
+        "cn": "我们小组非常重视一种每个人都敢于提问的氛围。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-b1-prepositions-22",
+    "word": "leiden tot",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "搭配",
+        "cn": "导致；带来……"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Een kleine verandering in het rooster kan tot veel extra reistijd leiden.",
+        "cn": "时间表中的一个小变化可能带来很多额外的出行时间。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-b1-prepositions-23",
+    "word": "bestaan uit",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "搭配",
+        "cn": "由……组成"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "De cursus bestaat uit lessen, zelfstandig werk en gesprekken.",
+        "cn": "课程由授课、自主学习和对话组成。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-b1-prepositions-24",
+    "word": "vergelijken met",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "搭配",
+        "cn": "与……比较"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Je kunt deze situatie niet zomaar met die van vorig jaar vergelijken.",
+        "cn": "你不能简单地把这个情况与去年相比。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-b1-prepositions-25",
+    "word": "omgaan met",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "搭配",
+        "cn": "应对；与……相处"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Tijdens de training leer je beter omgaan met onverwachte veranderingen.",
+        "cn": "在培训中，你会学着更好地应对意外变化。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-b1-prepositions-26",
+    "word": "aandacht besteden aan",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "搭配",
+        "cn": "关注；花心思于……"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Tijdens de training besteden we aandacht aan duidelijk spreken en goed luisteren.",
+        "cn": "培训期间，我们注重清楚表达和认真倾听。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-b1-prepositions-27",
+    "word": "op zoek naar",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "搭配",
+        "cn": "寻找……"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Ik ben op zoek naar een rustige plek waar ik kan studeren.",
+        "cn": "我在寻找一个可以学习的安静地方。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-b1-prepositions-28",
+    "word": "beschikken over",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "搭配",
+        "cn": "拥有；可支配……"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "De vereniging beschikt over een kleine ruimte die leden kunnen gebruiken.",
+        "cn": "协会拥有一间可供会员使用的小型场地。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-b1-prepositions-29",
+    "word": "op de hoogte zijn van",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "搭配",
+        "cn": "了解；知晓……"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Is iedereen op de hoogte van de verandering in het programma?",
+        "cn": "每个人都知道日程上的变更了吗？"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-b1-prepositions-30",
+    "word": "in contact blijven met",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "搭配",
+        "cn": "与……保持联系"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Ook na de cursus wil ik met mijn klasgenoten in contact blijven.",
+        "cn": "即使课程结束后，我也想和同学们保持联系。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  }
+]

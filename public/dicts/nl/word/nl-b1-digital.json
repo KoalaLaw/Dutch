@@ -1,0 +1,782 @@
+[
+  {
+    "id": "nl-b1-digital-1",
+    "word": "het bestand",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "文件"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Sla het bestand op voordat je het programma afsluit.",
+        "cn": "关闭程序之前，请保存文件。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-b1-digital-2",
+    "word": "de map",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "文件夹；活页夹"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Ik heb de documenten in een aparte map gezet.",
+        "cn": "我把文件放进了一个单独的文件夹。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-b1-digital-3",
+    "word": "de bijlage",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "附件"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "In de bijlage vindt u de informatie waar u om vroeg.",
+        "cn": "附件中有您索要的信息。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-b1-digital-4",
+    "word": "het wachtwoord",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "密码"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Gebruik voor dit account een wachtwoord dat je nergens anders gebruikt.",
+        "cn": "为这个账号使用一个你在其他地方不用的密码。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-b1-digital-5",
+    "word": "het account",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "账号"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Ik heb een account aangemaakt om mijn aanvraag te kunnen volgen.",
+        "cn": "我创建了一个账号，以便跟进申请。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-b1-digital-6",
+    "word": "de gebruikersnaam",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "用户名"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Ik weet mijn wachtwoord nog, maar ik ben mijn gebruikersnaam vergeten.",
+        "cn": "我还记得密码，但忘记了用户名。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-b1-digital-7",
+    "word": "de instelling",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "设置；机构"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Je kunt deze instelling later in het menu veranderen.",
+        "cn": "你可以稍后在菜单中更改这个设置。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-b1-digital-8",
+    "word": "de melding",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "提示；通知；报告"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Ik kreeg een melding dat mijn aanvraag was ontvangen.",
+        "cn": "我收到了一条申请已被接收的通知。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-b1-digital-9",
+    "word": "de foutmelding",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "错误提示"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Maak een notitie van de foutmelding voordat je hulp vraagt.",
+        "cn": "寻求帮助之前，先记下错误提示。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-b1-digital-10",
+    "word": "de verbinding",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "连接"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "De verbinding werd verbroken terwijl ik het formulier invulde.",
+        "cn": "我填写表格时，连接中断了。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-b1-digital-11",
+    "word": "het netwerk",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "网络"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Op dit netwerk kan ik het document niet openen.",
+        "cn": "在这个网络中，我无法打开文件。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-b1-digital-12",
+    "word": "de toegang",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "访问权限；入口"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Alleen medewerkers met toestemming hebben toegang tot deze map.",
+        "cn": "只有获得许可的员工才能访问这个文件夹。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-b1-digital-13",
+    "word": "de beveiliging",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "安全防护"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "De organisatie legt uit welke beveiliging voor de accounts wordt gebruikt.",
+        "cn": "机构会说明账号采用了哪些安全防护。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-b1-digital-14",
+    "word": "de privacy",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "隐私"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Ik wil weten hoe de organisatie mijn privacy beschermt.",
+        "cn": "我想知道机构如何保护我的隐私。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-b1-digital-15",
+    "word": "toestemming geven",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "搭配",
+        "cn": "给予许可"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Je kunt zelf beslissen of je toestemming geeft om de foto te gebruiken.",
+        "cn": "你可以自己决定是否允许使用照片。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-b1-digital-16",
+    "word": "de zoekopdracht",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "搜索请求；搜索词"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Met een gerichte zoekopdracht vind je vaak sneller wat je nodig hebt.",
+        "cn": "使用明确的搜索词，你往往能更快找到所需内容。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-b1-digital-17",
+    "word": "het scherm",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "屏幕"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Op het scherm verschijnt een overzicht van je gegevens.",
+        "cn": "屏幕上会显示一份你的资料概览。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-b1-digital-18",
+    "word": "de knop",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "按钮"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Klik pas op de knop nadat je alles hebt gecontroleerd.",
+        "cn": "检查完所有内容之后，再点击按钮。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-b1-digital-19",
+    "word": "de versie",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "版本"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Dit is een nieuwere versie van het document dat je gisteren kreeg.",
+        "cn": "这是你昨天收到的文件的更新版本。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-b1-digital-20",
+    "word": "de reservekopie",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "备份副本"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Maak een reservekopie voordat je belangrijke bestanden verplaatst.",
+        "cn": "移动重要文件之前，先做一个备份。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-b1-digital-21",
+    "word": "opslaan",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "",
+        "cn": "保存"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Vergeet niet je wijzigingen op te slaan voordat je verdergaat.",
+        "cn": "继续之前，别忘了保存更改。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-b1-digital-22",
+    "word": "downloaden",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "",
+        "cn": "下载"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "U kunt het formulier downloaden en daarna zelf invullen.",
+        "cn": "您可以下载表格，然后自行填写。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-b1-digital-23",
+    "word": "uploaden",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "",
+        "cn": "上传"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Het lukt niet om de foto te uploaden omdat het bestand te groot is.",
+        "cn": "由于文件太大，照片无法上传。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-b1-digital-24",
+    "word": "inloggen",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "",
+        "cn": "登录"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Ik kan niet inloggen, hoewel ik het juiste wachtwoord gebruik.",
+        "cn": "虽然使用了正确的密码，我仍然无法登录。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-b1-digital-25",
+    "word": "uitloggen",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "",
+        "cn": "退出登录"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Log uit als je klaar bent op een gedeelde computer.",
+        "cn": "在共用电脑上操作完毕后，请退出登录。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-b1-digital-26",
+    "word": "aanmaken",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "",
+        "cn": "创建"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Je hoeft geen nieuw account aan te maken als je er al een hebt.",
+        "cn": "如果已经有账号，就不必再创建一个。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-b1-digital-27",
+    "word": "verwijderen",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "",
+        "cn": "删除"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Verwijder geen bestanden voordat je weet waarvoor ze nodig zijn.",
+        "cn": "在弄清文件的用途之前，不要删除它们。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-b1-digital-28",
+    "word": "bijwerken",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "",
+        "cn": "更新；补充"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Werk je gegevens bij zodra je adres verandert.",
+        "cn": "地址发生变化后，请及时更新资料。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-b1-digital-29",
+    "word": "een bestand herstellen",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "搭配",
+        "cn": "恢复文件"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Ik vraag hulp bij het herstellen van een bestand dat ik kwijt ben.",
+        "cn": "我请求帮助恢复一个丢失的文件。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-b1-digital-30",
+    "word": "verbinding maken",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "搭配",
+        "cn": "建立连接"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Het programma probeert opnieuw verbinding te maken met de server.",
+        "cn": "程序正在尝试重新连接服务器。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  }
+]

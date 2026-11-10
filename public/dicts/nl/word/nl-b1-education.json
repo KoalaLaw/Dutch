@@ -1,0 +1,782 @@
+[
+  {
+    "id": "nl-b1-education-1",
+    "word": "de cursus",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "课程"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Ik zoek een cursus waarin ik veel kan spreken.",
+        "cn": "我在找一门能大量练习口语的课程。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-b1-education-2",
+    "word": "de docent",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "教师"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "De docent gaf extra uitleg omdat veel cursisten dezelfde vraag hadden.",
+        "cn": "由于许多学员有同样的问题，老师作了额外讲解。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-b1-education-3",
+    "word": "de cursist",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "课程学员"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Elke cursist krijgt de kans om een eigen ervaring te vertellen.",
+        "cn": "每位学员都有机会讲述自己的经历。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-b1-education-4",
+    "word": "het niveau",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "水平；等级"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Ik wil weten welk niveau nodig is om de cursus te volgen.",
+        "cn": "我想知道参加这门课程需要什么水平。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-b1-education-5",
+    "word": "het examen",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "考试"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Voor het examen oefen ik niet alleen woorden, maar ook langere teksten.",
+        "cn": "为了考试，我不仅练习单词，也练习较长的文章。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-b1-education-6",
+    "word": "de toets",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "测验"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "De toets laat zien welke onderdelen ik nog moet herhalen.",
+        "cn": "测验显示出我还需要复习哪些部分。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-b1-education-7",
+    "word": "het cijfer",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "分数；数字"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Een cijfer vertelt niet altijd wat je al goed kunt.",
+        "cn": "一个分数并不总能说明你已经擅长什么。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-b1-education-8",
+    "word": "de beoordeling",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "评价；评定"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Bij de beoordeling wordt ook gelet op de duidelijkheid van je tekst.",
+        "cn": "评定时，也会注意你的文章是否清楚。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-b1-education-9",
+    "word": "de uitleg",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "解释；讲解"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Dankzij de extra uitleg begreep ik eindelijk de woordvolgorde.",
+        "cn": "多亏额外的讲解，我终于理解了词序。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-b1-education-10",
+    "word": "de oefening",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "练习"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Deze oefening helpt je om zinnen met omdat te maken.",
+        "cn": "这个练习帮助你用 omdat 造句。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-b1-education-11",
+    "word": "de herhaling",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "复习；重复"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Door regelmatige herhaling blijven woorden beter in je geheugen.",
+        "cn": "通过定期复习，单词能更牢固地留在记忆中。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-b1-education-12",
+    "word": "de woordenschat",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "词汇量；词汇"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Mijn woordenschat groeit doordat ik veel verschillende teksten lees.",
+        "cn": "通过阅读多种文章，我的词汇量在增加。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-b1-education-13",
+    "word": "de uitspraak",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "发音"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Ik neem mezelf soms op om mijn uitspraak te vergelijken.",
+        "cn": "我有时录下自己的声音，以便比较发音。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-b1-education-14",
+    "word": "de grammatica",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "语法"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Grammatica begrijp ik beter als ik zelf voorbeelden maak.",
+        "cn": "自己造例句时，我能更好地理解语法。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-b1-education-15",
+    "word": "de betekenis",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "意思；意义"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "De betekenis van dit woord hangt af van de context.",
+        "cn": "这个词的意思取决于语境。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-b1-education-16",
+    "word": "het voorbeeld",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "例子"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Kunt u een voorbeeld geven van een formele e-mail?",
+        "cn": "您能举一个正式邮件的例子吗？"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-b1-education-17",
+    "word": "de samenvatting",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "摘要；总结"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Schrijf een korte samenvatting zonder alle details over te nemen.",
+        "cn": "写一段简短摘要，不要照搬所有细节。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-b1-education-18",
+    "word": "de aantekening",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "笔记"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Na de les lees ik mijn aantekeningen nog eens door.",
+        "cn": "课后，我会再读一遍笔记。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-b1-education-19",
+    "word": "het huiswerk",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "家庭作业"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "We bespreken het huiswerk aan het begin van de volgende les.",
+        "cn": "我们会在下节课开始时讨论作业。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-b1-education-20",
+    "word": "de concentratie",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "专注；注意力"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Na een korte pauze is mijn concentratie meestal beter.",
+        "cn": "短暂休息后，我通常更容易集中注意力。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-b1-education-21",
+    "word": "oefenen",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "",
+        "cn": "练习"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Ik oefen vooral met situaties die ik in het dagelijks leven tegenkom.",
+        "cn": "我主要练习日常生活中会遇到的场景。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-b1-education-22",
+    "word": "herkennen",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "",
+        "cn": "认出；识别"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Ik herken het woord wel, maar ik gebruik het nog niet zelf.",
+        "cn": "我认得这个词，但还不会自己使用它。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-b1-education-23",
+    "word": "uitleggen",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "",
+        "cn": "解释"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Als je een regel kunt uitleggen, begrijp je hem vaak beter.",
+        "cn": "如果你能解释一条规则，通常就会更好地理解它。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-b1-education-24",
+    "word": "slagen",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "",
+        "cn": "通过；成功"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Ze is geslaagd omdat ze regelmatig alle vaardigheden oefende.",
+        "cn": "她通过了考试，因为她经常练习各项技能。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-b1-education-25",
+    "word": "zakken",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "",
+        "cn": "考试不及格；下降"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Hij was teleurgesteld toen hij voor het examen zakte.",
+        "cn": "考试不及格时，他感到很失望。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-b1-education-26",
+    "word": "zich concentreren op",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "搭配",
+        "cn": "专注于"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Tijdens deze oefening concentreer ik me op de werkwoorden.",
+        "cn": "做这个练习时，我专注于动词。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-b1-education-27",
+    "word": "vooruitgaan",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "",
+        "cn": "进步"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Je gaat sneller vooruit als je fouten durft te maken.",
+        "cn": "如果你敢于犯错，就会进步得更快。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-b1-education-28",
+    "word": "bijhouden",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "",
+        "cn": "记录；跟上"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Ik houd bij welke woorden ik vaak vergeet.",
+        "cn": "我会记录自己经常忘记的单词。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-b1-education-29",
+    "word": "de leerstrategie",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "学习策略"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Een leerstrategie werkt alleen als die bij jouw situatie past.",
+        "cn": "学习策略只有适合你的情况时才有效。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-b1-education-30",
+    "word": "de voortgang bijhouden",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "搭配",
+        "cn": "记录进展"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Door je voortgang bij te houden zie je wat al goed gaat.",
+        "cn": "通过记录进展，你可以看到自己哪些方面已经做得不错。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  }
+]

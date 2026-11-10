@@ -1,0 +1,782 @@
+[
+  {
+    "id": "nl-b1-maintenance-1",
+    "word": "de kraan",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "水龙头"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "De kraan blijft druppelen, ook wanneer ik hem helemaal dichtdraai.",
+        "cn": "即使我把水龙头完全拧紧，它仍然滴水。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-b1-maintenance-2",
+    "word": "de waterleiding",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "自来水管；供水管道"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Bij de reparatie werd duidelijk dat een oude waterleiding vervangen moest worden.",
+        "cn": "维修时发现，一根旧水管需要更换。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-b1-maintenance-3",
+    "word": "de afvoer",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "排水管；排水口"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Er loopt bijna geen water weg doordat de afvoer verstopt is.",
+        "cn": "由于排水管堵塞，水几乎排不下去。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-b1-maintenance-4",
+    "word": "de verstopping",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "堵塞"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "De monteur onderzocht waar de verstopping precies zat.",
+        "cn": "维修人员检查堵塞具体发生在哪里。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-b1-maintenance-5",
+    "word": "de loodgieter",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "水管工"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "De loodgieter komt morgen kijken waarom de kraan blijft lekken.",
+        "cn": "水管工明天会来查看水龙头为何一直漏水。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-b1-maintenance-6",
+    "word": "de monteur",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "安装或维修技术员"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "De monteur legde uit welk onderdeel vervangen moest worden.",
+        "cn": "维修技术员解释了哪个零件需要更换。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-b1-maintenance-7",
+    "word": "de reparatie",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "修理；维修"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Voordat de reparatie begint, wil ik graag weten wat die gaat kosten.",
+        "cn": "维修开始前，我想先了解费用。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-b1-maintenance-8",
+    "word": "de onderhoudsbeurt",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "一次保养；定期检修"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Tijdens de onderhoudsbeurt controleert de monteur of alle onderdelen goed werken.",
+        "cn": "保养期间，维修人员会检查所有零件是否正常工作。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-b1-maintenance-9",
+    "word": "de stroom",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "电；电流"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Toen de stroom uitviel, gingen alle lampen tegelijk uit.",
+        "cn": "停电时，所有的灯同时熄灭了。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-b1-maintenance-10",
+    "word": "het stopcontact",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "电源插座"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Er is geen stopcontact dichtbij genoeg om de lamp daar neer te zetten.",
+        "cn": "附近没有足够近的插座，无法把灯放在那里。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-b1-maintenance-11",
+    "word": "de stekker",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "插头"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Haal de stekker eruit voordat je het apparaat schoonmaakt.",
+        "cn": "清洁设备前，请先拔掉插头。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-b1-maintenance-12",
+    "word": "de zekering",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "保险丝；熔断器"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Volgens de monteur was een kapotte zekering de oorzaak van het probleem.",
+        "cn": "维修人员说，问题是由损坏的保险丝造成的。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-b1-maintenance-13",
+    "word": "de lamp",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "灯"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "De lamp boven de tafel doet het niet meer sinds gisteren.",
+        "cn": "桌子上方的灯从昨天开始就不亮了。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-b1-maintenance-14",
+    "word": "de ledlamp",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "LED 灯"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Deze ledlamp gebruikt minder stroom dan de oude lamp die we hadden.",
+        "cn": "这盏 LED 灯比我们原来的旧灯更省电。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-b1-maintenance-15",
+    "word": "de radiator",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "暖气片；散热器"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "De radiator in de slaapkamer wordt niet warm, terwijl de andere wel werken.",
+        "cn": "卧室的暖气片不热，其他暖气片却都正常工作。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-b1-maintenance-16",
+    "word": "de tocht",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "穿堂风；门窗缝隙吹来的冷风"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Door de tocht bij het raam voelt de kamer kouder aan dan hij is.",
+        "cn": "由于窗边漏风，房间感觉比实际温度更冷。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-b1-maintenance-17",
+    "word": "de schimmel",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "霉菌；霉斑"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "We hebben de verhuurder verteld dat er schimmel in de badkamer zit.",
+        "cn": "我们告诉了房东，浴室里出现了霉斑。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-b1-maintenance-18",
+    "word": "de vochtigheid",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "湿度；潮湿程度"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "De vochtigheid in de kamer was hoog doordat er weinig werd geventileerd.",
+        "cn": "由于很少通风，房间里的湿度很高。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-b1-maintenance-19",
+    "word": "de handleiding",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "使用说明书"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "In de handleiding staat hoe je het filter veilig kunt vervangen.",
+        "cn": "说明书里写着如何安全地更换滤网。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-b1-maintenance-20",
+    "word": "het gereedschap",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "工具"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Voor deze reparatie heb ik gereedschap nodig dat ik zelf niet heb.",
+        "cn": "这项维修需要用到我自己没有的工具。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-b1-maintenance-21",
+    "word": "de schroef",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "螺丝"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Er ontbreekt een schroef, waardoor de plank niet stevig vastzit.",
+        "cn": "少了一颗螺丝，因此木板没有固定牢。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-b1-maintenance-22",
+    "word": "de schroevendraaier",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "螺丝刀"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Met deze schroevendraaier kun je het kleine deksel losmaken.",
+        "cn": "用这把螺丝刀，你可以把小盖子拧下来。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-b1-maintenance-23",
+    "word": "de hamer",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "锤子"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Ik heb een hamer geleend om de losse plank vast te maken.",
+        "cn": "我借了一把锤子，用来固定松动的木板。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-b1-maintenance-24",
+    "word": "de ladder",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "梯子"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Zorg dat de ladder stevig staat voordat je erop klimt.",
+        "cn": "爬梯子之前，请确保它放得稳固。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-b1-maintenance-25",
+    "word": "het schilderwerk",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "油漆施工；漆面"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Het schilderwerk aan de buitenkant moet worden bijgewerkt.",
+        "cn": "外部的漆面需要修补。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-b1-maintenance-26",
+    "word": "de schoonmaak",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "清洁；打扫"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Na de verbouwing heeft de grote schoonmaak veel tijd gekost.",
+        "cn": "装修结束后的大扫除花了很多时间。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-b1-maintenance-27",
+    "word": "de stofzuiger",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "吸尘器"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "De stofzuiger maakt een vreemd geluid wanneer ik hem aanzet.",
+        "cn": "我一打开吸尘器，它就发出奇怪的声音。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-b1-maintenance-28",
+    "word": "het schoonmaakmiddel",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "清洁剂"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Lees op de fles waarvoor het schoonmaakmiddel geschikt is.",
+        "cn": "请查看瓶子上的说明，了解清洁剂适用于什么。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-b1-maintenance-29",
+    "word": "de wasmachine",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "洗衣机"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "De wasmachine stopt telkens voordat het programma klaar is.",
+        "cn": "洗衣机总是在程序完成前停止。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-b1-maintenance-30",
+    "word": "de vaatwasser",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "洗碗机"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "We gebruiken de vaatwasser pas wanneer hij helemaal vol is.",
+        "cn": "洗碗机完全装满后，我们才使用它。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  }
+]

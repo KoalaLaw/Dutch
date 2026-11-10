@@ -1,0 +1,623 @@
+// Original Dutch/Chinese practice material, authored 2026-11-10 for Type Dutch.
+// These are B1-oriented practice tasks, not an official exam or level certification.
+
+export const grammarUnits = [
+  {
+    id: 'b1-g01', title: '主句语序与倒装', subtitle: 'De persoonsvorm op de tweede plaats',
+    explanation: '普通陈述主句中，限定动词位于第二个句子成分。句首先放时间、地点等成分时，主语通常放在限定动词后。第二个“成分”不等于第二个单词；疑问句和从句另有语序。',
+    pattern: '时间 / 地点 + 限定动词 + 主语 + 其他成分',
+    examples: [
+      { nl: 'Vandaag werk ik thuis.', zh: '今天我在家工作。' },
+      { nl: 'Na de vergadering bel ik mijn collega.', zh: '会议后我给同事打电话。' },
+      { nl: 'In deze straat wonen veel studenten.', zh: '这条街上住着许多学生。' },
+    ],
+    exercises: [
+      { question: 'Welke zin heeft de juiste woordvolgorde?', options: ['Morgen ik ga naar kantoor.', 'Morgen ga ik naar kantoor.', 'Morgen naar kantoor ik ga.'], answer: 1, explanation: 'Morgen 占第一成分，限定动词 ga 位于第二成分，主语 ik 随后。' },
+      { question: 'Na het eten ___ we een wandeling.', options: ['maken', 'we maken', 'een wandeling maken'], answer: 0, explanation: 'Na het eten 是第一成分，第二成分直接放限定动词 maken；we 已在空格后。' },
+      { question: 'Welke zin is correct?', options: ['Daar mijn vrienden wonen.', 'Daar wonen mijn vrienden.', 'Daar mijn vrienden wonen er.'], answer: 1, explanation: 'Daar 开头的主句需要倒装：Daar wonen mijn vrienden。' },
+    ],
+  },
+  {
+    id: 'b1-g02', title: '用 omdat 与 dat 连接从句', subtitle: 'Redenen geven en informatie verbinden',
+    explanation: 'omdat 引导原因从句，dat 常引导说明内容的从句。此类从句中的限定动词通常靠近句末；如果有多个动词，要把动词群放在从句末部。不要把英语式主句语序直接用于从句。',
+    pattern: '主句 + omdat / dat + 主语 + 其他成分 + 动词（群）',
+    examples: [
+      { nl: 'Ik blijf thuis omdat ik ziek ben.', zh: '我待在家里，因为我生病了。' },
+      { nl: 'Zij zegt dat de afspraak morgen begint.', zh: '她说预约明天开始。' },
+      { nl: 'We nemen de trein omdat we niet willen rijden.', zh: '我们坐火车，因为我们不想开车。' },
+    ],
+    exercises: [
+      { question: 'Ik ga vroeg naar bed omdat ___.', options: ['ik ben moe', 'ben ik moe', 'ik moe ben'], answer: 2, explanation: 'omdat 从句中，ben 放到末尾：omdat ik moe ben。' },
+      { question: 'Hij denkt dat de winkel vandaag ___.', options: ['gesloten zijn', 'gesloten is', 'is het gesloten'], answer: 1, explanation: 'dat 后接从句：dat de winkel vandaag gesloten is。de winkel 为单数，不能搭配 zijn。' },
+      { question: 'Welke zin geeft een reden met de juiste woordvolgorde?', options: ['Ik neem een jas mee omdat het koud is.', 'Ik neem een jas mee omdat is het koud.', 'Ik neem een jas mee omdat het is koud.'], answer: 0, explanation: '原因从句是 omdat het koud is，限定动词 is 在句末。' },
+    ],
+  },
+  {
+    id: 'b1-g03', title: '表达时间与条件', subtitle: 'Als, wanneer, voordat en nadat',
+    explanation: 'als 可表达条件或重复发生的时间情境，wanneer 可表达时间。voordat 表示“在……之前”，nadat 表示“在……之后”。这些词引导从句；从句整体在句首时，后面的主句要倒装。叙述过去的先后事件时，nadat 从句常用过去完成时。',
+    pattern: '从句 + 逗号 + 主句限定动词 + 主语',
+    examples: [
+      { nl: 'Als ik morgen tijd heb, kom ik langs.', zh: '如果我明天有时间，我就来拜访。' },
+      { nl: 'Voordat ik vertrek, controleer ik mijn tas.', zh: '出发前，我检查自己的包。' },
+      { nl: 'Nadat ik had gegeten, ging ik wandelen.', zh: '吃完饭后，我去散步了。' },
+    ],
+    exercises: [
+      { question: 'Als het morgen regent, ___ thuis.', options: ['we blijven', 'blijven we', 'we thuis blijven'], answer: 1, explanation: '句首从句占第一成分，主句先放 blijven，再放主语 we。' },
+      { question: 'Ik controleer de route ___ ik vertrek.', options: ['voordat', 'ondanks', 'daarom'], answer: 0, explanation: '这里表达“出发之前”，应使用引导时间从句的 voordat。' },
+      { question: 'Welke zin beschrijft twee gebeurtenissen in de juiste volgorde?', options: ['Nadat ik gegeten had, ging ik naar buiten.', 'Nadat had ik gegeten, ik ging naar buiten.', 'Nadat ik had gegeten, ik ging naar buiten.'], answer: 0, explanation: 'gegeten had 是正确的从句动词群语序之一；主句需要 ging ik 倒装。' },
+    ],
+  },
+  {
+    id: 'b1-g04', title: '完成时：hebben 还是 zijn', subtitle: 'Het perfectum',
+    explanation: '完成时由 hebben 或 zijn 加过去分词构成。很多活动和带直接宾语的动词使用 hebben；状态变化或明确从一地到另一地的移动常使用 zijn。不能只因为是“移动动词”就一律选 zijn：Ik heb een uur gefietst，但 Ik ben naar huis gefietst。',
+    pattern: '主语 + heb / ben（变位）+ 其他成分 + 过去分词',
+    examples: [
+      { nl: 'Ik heb de verhuurder een bericht gestuurd.', zh: '我给房东发了消息。' },
+      { nl: 'We zijn naar Rotterdam gereisd.', zh: '我们去了鹿特丹。' },
+      { nl: 'Zij is vorige week verhuisd.', zh: '她上周搬家了。' },
+    ],
+    exercises: [
+      { question: 'Ik ___ gisteren een brief geschreven.', options: ['ben', 'heb', 'word'], answer: 1, explanation: 'schrijven 在这里使用 hebben：Ik heb een brief geschreven。' },
+      { question: 'We ___ met de trein naar Leiden gegaan.', options: ['hebben', 'worden', 'zijn'], answer: 2, explanation: 'gaan 表示前往某地，完成时使用 zijn：We zijn ... gegaan。' },
+      { question: 'Welke zin is correct?', options: ['Zij heeft een uur gefietst.', 'Zij hebt een uur gefietst.', 'Zij is een uur gefietsen.'], answer: 0, explanation: '这里强调骑车一小时这项活动，使用 heeft gefietst。hebt 不能与 zij 搭配；gefietsen 不是正确的过去分词。' },
+    ],
+  },
+  {
+    id: 'b1-g05', title: '用过去时讲述背景和经历', subtitle: 'Het imperfectum in een verhaal',
+    explanation: '一般过去时常用于故事的背景、过去的习惯或连贯叙述。弱变化动词常用 -te(n) / -de(n)，强变化动词需要记住变化形式。完成时和一般过去时的选择取决于表达情境，不只是“做完了还是没做完”。',
+    pattern: '过去的时间背景 + 主语 / 倒装 + 过去时动词',
+    examples: [
+      { nl: 'Toen ik klein was, woonde ik in een dorp.', zh: '我小时候住在一个村庄。' },
+      { nl: 'Het regende, dus we bleven binnen.', zh: '当时在下雨，所以我们待在屋里。' },
+      { nl: 'Vroeger ging ik elke dag met de bus naar school.', zh: '以前我每天坐公交车去上学。' },
+    ],
+    exercises: [
+      { question: 'Vroeger ___ ik in een klein dorp.', options: ['woonde', 'gewoond', 'wonen'], answer: 0, explanation: '过去习惯或背景可用一般过去时，wonen 的单数过去时是 woonde。' },
+      { question: 'Vul het imperfectum van blijven in: Gisteren ___ we thuis, want het regende.', options: ['gebleven', 'bleven', 'blijven'], answer: 1, explanation: '题目要求一般过去时，blijven 的复数一般过去时是 bleven。' },
+      { question: 'Toen ik jong ___, las ik veel boeken.', options: ['ben', 'geweest', 'was'], answer: 2, explanation: '讲述过去的背景，“当我年轻时”是 Toen ik jong was。' },
+    ],
+  },
+  {
+    id: 'b1-g06', title: '可分动词的三个位置', subtitle: 'Opbellen, meenemen en afspreken',
+    explanation: '可分动词在主句中作限定动词时，前缀通常移到后部；作为不定式跟在情态动词后时通常写在一起。它们的过去分词常把 ge 放在前缀和词干之间。遇到 te 结构时，te 常放在前缀与词干之间。',
+    pattern: 'Ik bel je op. / Ik wil je opbellen. / Ik heb je opgebeld.',
+    examples: [
+      { nl: 'Ik bel je morgen op.', zh: '我明天给你打电话。' },
+      { nl: 'We willen eten meenemen.', zh: '我们想带上食物。' },
+      { nl: 'Hij heeft de afspraak afgezegd.', zh: '他取消了预约。' },
+    ],
+    exercises: [
+      { question: 'Ik ___ mijn collega straks ___.', options: ['bel / op', 'opbel / niets', 'gebel / op'], answer: 0, explanation: 'opbellen 在主句拆开：Ik bel mijn collega straks op。' },
+      { question: 'We moeten de vergadering ___.', options: ['af zeggen', 'afzeggen', 'zeggen af'], answer: 1, explanation: '情态动词 moeten 后使用连写的不定式 afzeggen。' },
+      { question: 'Hij heeft zijn jas ___.', options: ['aangetrekt', 'aantrekken', 'aangetrokken'], answer: 2, explanation: 'aantrekken 的过去分词是 aangetrokken。' },
+    ],
+  },
+  {
+    id: 'b1-g07', title: '表达目的与 te 不定式', subtitle: 'Om te en werkwoorden met te',
+    explanation: 'om ... te ... 常用于表达目的。proberen、vergeten 等动词在许多用法中接 te 不定式；kunnen、moeten、willen 等情态动词后通常不用 te。可分动词中，te 放在前缀与词干之间，例如 op te staan。',
+    pattern: 'om + 其他成分 + te + 不定式 / op te staan',
+    examples: [
+      { nl: 'Ik ga naar de bibliotheek om rustig te studeren.', zh: '我去图书馆，为了安静地学习。' },
+      { nl: 'Zij probeert elke dag Nederlands te spreken.', zh: '她尝试每天说荷兰语。' },
+      { nl: 'Ik vergeet soms vroeg op te staan.', zh: '我有时忘记早起。' },
+    ],
+    exercises: [
+      { question: 'Ik oefen elke dag om beter Nederlands ___.', options: ['spreken', 'te spreken', 'spreek'], answer: 1, explanation: '表达目的使用 om ... te spreken。' },
+      { question: 'Ik moet morgen vroeg ___.', options: ['opstaan', 'op te staan', 'te opstaan'], answer: 0, explanation: '情态动词 moeten 后直接接不定式，不用 te。' },
+      { question: 'Zij probeert vroeg ___.', options: ['te opstaan', 'opstaan te', 'op te staan'], answer: 2, explanation: 'proberen 接 te 不定式；opstaan 拆成 op te staan。' },
+    ],
+  },
+  {
+    id: 'b1-g08', title: '用 die 与 dat 描述人和事物', subtitle: 'Betrekkelijke bijzinnen',
+    explanation: '关系从句补充描述前面的名词。单数 de 名词通常用 die，单数 het 名词通常用 dat；复数名词用 die。关系从句中的动词遵循从句语序。先找到被描述的名词，再选择关系代词。',
+    pattern: 'de ... die ... / het ... dat ... / 复数名词 + die ...',
+    examples: [
+      { nl: 'De collega die naast mij zit, spreekt ook Duits.', zh: '坐在我旁边的同事也说德语。' },
+      { nl: 'Het boek dat ik lees, is interessant.', zh: '我正在读的那本书很有意思。' },
+      { nl: 'De mensen die hier werken, zijn vriendelijk.', zh: '在这里工作的人很友好。' },
+    ],
+    exercises: [
+      { question: 'De fiets ___ buiten staat, is van mij.', options: ['dat', 'die', 'wat'], answer: 1, explanation: 'fiets 是 de 名词，关系代词选择 die。' },
+      { question: 'Het huis ___ we willen huren, heeft een tuin.', options: ['die', 'wie', 'dat'], answer: 2, explanation: 'huis 是单数 het 名词，因此使用 dat。' },
+      { question: 'De boeken ___ op tafel liggen, zijn nieuw.', options: ['die', 'dat', 'wie'], answer: 0, explanation: 'boeken 是复数，关系代词用 die。' },
+    ],
+  },
+  {
+    id: 'b1-g09', title: '让步与转折：hoewel、toch', subtitle: 'Een tegenstelling duidelijk maken',
+    explanation: 'hoewel 表示“虽然”，引导从句，动词移向末尾。toch 表示“尽管如此、还是”，可放在主句句首；这时主句倒装。ondanks 后通常接名词或代词，不能直接照搬 hoewel 的完整从句结构。',
+    pattern: 'Hoewel + 从句，主句倒装。/ 主句。Toch + 动词 + 主语。',
+    examples: [
+      { nl: 'Hoewel ik moe ben, ga ik mee.', zh: '虽然我很累，我还是一起去。' },
+      { nl: 'Het regent. Toch fietsen we naar het park.', zh: '天在下雨。尽管如此，我们还是骑车去公园。' },
+      { nl: 'Ondanks de regen gaan we wandelen.', zh: '尽管下雨，我们仍然去散步。' },
+    ],
+    exercises: [
+      { question: 'Hoewel het koud ___, zit hij buiten.', options: ['is', 'het is', 'zijn'], answer: 0, explanation: 'hoewel 从句是 hoewel het koud is。' },
+      { question: 'Ik heb weinig tijd. Toch ___ je graag.', options: ['ik help', 'help ik', 'ik te helpen'], answer: 1, explanation: 'toch 位于主句句首时，限定动词 help 放在主语 ik 前。' },
+      { question: '___ de drukte kwamen we op tijd aan.', options: ['Hoewel', 'Omdat', 'Ondanks'], answer: 2, explanation: 'de drukte 是名词短语，这里使用 ondanks，意为“尽管很拥挤”。' },
+    ],
+  },
+  {
+    id: 'b1-g10', title: '礼貌请求和假设：zou', subtitle: 'Beleefd vragen en mogelijkheden bespreken',
+    explanation: 'zou / zouden 加不定式可用于较委婉的请求、建议或假设结果。Zou u ...? 常比直接命令更礼貌。假设条件中常出现 Als ik ... had / was, zou ik ...，这里的过去形式可表达非现实或设想情境。',
+    pattern: 'Zou u ... kunnen ...? / Als ik ... had, zou ik ...',
+    examples: [
+      { nl: 'Zou u mij kunnen helpen?', zh: '您能帮我一下吗？' },
+      { nl: 'Ik zou graag meer informatie ontvangen.', zh: '我希望能收到更多信息。' },
+      { nl: 'Als ik meer tijd had, zou ik vaker lezen.', zh: '如果我有更多时间，我会更常读书。' },
+    ],
+    exercises: [
+      { question: 'Welke vraag is een beleefd verzoek?', options: ['Zou u dat kunnen herhalen?', 'U dat herhalen zou?', 'Herhaalt u dat zou?'], answer: 0, explanation: 'Zou u ... kunnen ...? 是常用礼貌请求结构。' },
+      { question: 'Als ik dichterbij woonde, ___ ik vaker komen.', options: ['zullen', 'zou', 'heb'], answer: 1, explanation: '这里是设想的条件和结果，使用 zou ... komen。zullen 不能与单数 ik 搭配。' },
+      { question: 'Wij ___ graag een andere datum afspreken.', options: ['zou', 'zouden', 'zoudt'], answer: 1, explanation: '复数主语 wij 搭配 zouden，不是单数 zou。' },
+    ],
+  },
+  {
+    id: 'b1-g11', title: '被动句：重点放在事情上', subtitle: 'Worden en zijn met een voltooid deelwoord',
+    explanation: '被动句把接受动作的人或事物放在主语位置。正在发生或一般发生的被动动作常用 worden 加过去分词；已完成的被动动作可用 zijn 加过去分词。需要说明动作执行者时可加 door。注意 zijn 加分词有时也描述状态，要结合上下文理解。',
+    pattern: '主语 + wordt / worden + 过去分词（+ door ...）',
+    examples: [
+      { nl: 'De straat wordt deze week gerepareerd.', zh: '这条街本周在维修。' },
+      { nl: 'De brief is gisteren verstuurd.', zh: '信昨天已经寄出了。' },
+      { nl: 'De vergadering wordt door mijn collega voorbereid.', zh: '会议由我的同事筹备。' },
+    ],
+    exercises: [
+      { question: 'Op dit moment ___ de ramen schoongemaakt.', options: ['worden', 'zijn geweest', 'heeft'], answer: 0, explanation: '主语 de ramen 是复数，正在进行的被动动作使用 worden schoongemaakt。' },
+      { question: 'De uitnodiging ___ gisteren verstuurd.', options: ['hebben', 'is', 'word'], answer: 1, explanation: '表示邀请昨天已经寄出，可用完成的被动结构 is verstuurd。' },
+      { question: 'De cursus wordt ___ een ervaren docent gegeven.', options: ['doordat', 'door', 'omdat'], answer: 1, explanation: '被动句中说明动作执行者使用介词 door。doordat 和 omdat 是连词，不能在这里直接接这个名词短语。' },
+    ],
+  },
+  {
+    id: 'b1-g12', title: '反身与相互：zich、elkaar', subtitle: 'Jezelf en elkaar',
+    explanation: '某些动词固定搭配反身代词，如 zich vergissen、zich voelen、zich herinneren。代词需要随主语变化：ik vergis me、jij vergist je、hij vergist zich。elkaar 表示“彼此”，不要和表示动作回到主语自身的反身代词混淆。',
+    pattern: 'ik ... me / jij ... je / hij-zij ... zich / wij ... ons / jullie ... je / zij（复数）... zich',
+    examples: [
+      { nl: 'Ik vergis me soms in de datum.', zh: '我有时会记错日期。' },
+      { nl: 'Zij voelt zich vandaag beter.', zh: '她今天感觉好一些。' },
+      { nl: 'We helpen elkaar met de voorbereiding.', zh: '我们在准备工作上互相帮助。' },
+    ],
+    exercises: [
+      { question: 'Ik herinner ___ de eerste les nog goed.', options: ['zich', 'me', 'je'], answer: 1, explanation: '主语 ik 的反身代词是 me：Ik herinner me ...。' },
+      { question: 'Mijn collega voelt ___ niet lekker.', options: ['me', 'ons', 'zich'], answer: 2, explanation: '第三人称单数的反身代词是 zich。' },
+      { question: 'We spreken af om ___ te helpen.', options: ['elkaar', 'onze', 'jouw'], answer: 0, explanation: '这里表达相互帮助，所以用 elkaar。onze 和 jouw 是物主限定词，不能在这里单独充当 helpen 的宾语。' },
+    ],
+  },
+  {
+    id: 'b1-g13', title: '小词 er 的三个常见用途', subtitle: 'Er is, er wonen, ik heb er twee',
+    explanation: 'er 可以用于引出不定的人或事物（Er staat een fiets），代替已经提到的地点，或和数量一起代替前面提到的名词。不要把数量 er 翻译成单独一个中文词；要结合前句看它指代什么。',
+    pattern: 'Er + 动词 + 不定名词 / 数量表达：ik heb er twee',
+    examples: [
+      { nl: 'Er staat een fiets voor de deur.', zh: '门前有一辆自行车。' },
+      { nl: 'Ken je Utrecht? Ik werk er al twee jaar.', zh: '你了解乌得勒支吗？我已经在那里工作两年了。' },
+      { nl: 'Wil je appels? Ik heb er drie.', zh: '你要苹果吗？我有三个。' },
+    ],
+    exercises: [
+      { question: '___ liggen twee brieven op tafel.', options: ['Er', 'Het', 'Hem'], answer: 0, explanation: '引出桌上有两封信，可用 Er liggen twee brieven op tafel。' },
+      { question: 'Hoeveel broers heb je? Ik heb ___ twee.', options: ['het', 'er', 'ze'], answer: 1, explanation: 'er 和数量 twee 一起代替前面提到的 broers。' },
+      { question: 'Woon je in Leiden? Ja, ik woon ___ sinds mei.', options: ['hem', 'het', 'er'], answer: 2, explanation: '这里 er 代替已提到的地点 in Leiden。' },
+    ],
+  },
+  {
+    id: 'b1-g14', title: '介词搭配与 erop、eraan', subtitle: 'Voornaamwoordelijke bijwoorden',
+    explanation: '当介词后的对象是已提到的事物时，常用 er 加介词，例如 op het antwoord → erop。er 和介词可以分开：Ik denk er vaak aan。指代具体的人时，通常用介词加人称代词，例如 Ik wacht op haar；不要机械地把所有介词对象都换成 er。',
+    pattern: 'er + 介词 / er + 其他成分 + 介词；疑问形式：waar + 介词',
+    examples: [
+      { nl: 'Ik wacht op het antwoord. Ik wacht erop.', zh: '我在等回复。我在等它。' },
+      { nl: 'Denk je aan de afspraak? Ja, ik denk eraan.', zh: '你记着这个预约吗？是的，我记着。' },
+      { nl: 'Waar ben je naar op zoek?', zh: '你在找什么？' },
+    ],
+    exercises: [
+      { question: 'Denk je aan het plan? Ja, ik denk ___.', options: ['eraan', 'erop', 'ervoor'], answer: 0, explanation: 'denken aan 的介词是 aan，指代 het plan 时使用 eraan。' },
+      { question: 'Verwijs rechtstreeks naar de persoon mijn zus: Ik wacht op mijn zus. Ik wacht ___.', options: ['erop', 'op haar', 'eraan'], answer: 1, explanation: '题目要求直接指代具体的人 mijn zus，因此使用 op haar；不是指代“她到来”这一事件。' },
+      { question: 'Ik ben tevreden met het resultaat. Ik ben er tevreden ___.', options: ['aan', 'op', 'mee'], answer: 2, explanation: 'met 组成代副词时对应 mee；分开的形式是 er ... mee。' },
+    ],
+  },
+  {
+    id: 'b1-g15', title: '礼貌询问与间接问句', subtitle: 'Weet u waar ...? Ik weet niet of ...',
+    explanation: '把问题嵌入另一句话时，内部通常使用从句语序：Waar is het station? → Weet u waar het station is?。是非问题可用 of 引导，意为“是否”，不要用 dat 替换这个“是否”。',
+    pattern: 'Weet u + 疑问词 + 主语 + ... + 动词？/ Ik weet niet of ...',
+    examples: [
+      { nl: 'Weet u waar het station is?', zh: '您知道车站在哪里吗？' },
+      { nl: 'Ik weet niet of hij morgen komt.', zh: '我不知道他明天是否来。' },
+      { nl: 'Kun je uitleggen hoe deze app werkt?', zh: '你能解释一下这个应用怎么使用吗？' },
+    ],
+    exercises: [
+      { question: 'Weet u waar ___?', options: ['is de ingang', 'de ingang is', 'de ingang zijn'], answer: 1, explanation: '间接问句里不按直接问句倒装：waar de ingang is。' },
+      { question: 'Vul de indirecte ja/nee-vraag aan: Ik weet niet ___ de winkel morgen open is.', options: ['of', 'dat', 'omdat'], answer: 0, explanation: '题目要求嵌入一个“是否开门”的是非问句，因此用 of。dat 引导陈述内容、omdat 引导原因；它们不能表达这里要求的“是否”。' },
+      { question: 'Kun je zeggen hoe laat de trein ___?', options: ['de vertrekt', 'vertrekken', 'vertrekt'], answer: 2, explanation: 'de trein 是单数，从句末尾放限定动词 vertrekt。' },
+    ],
+  },
+  {
+    id: 'b1-g16', title: '比较与形容词词尾', subtitle: 'Groter dan, even groot als, een groot huis',
+    explanation: '比较级通常和 dan 搭配，表示同等程度常用 even ... als。形容词放在名词前常加 -e，但不定的单数 het 名词有常见例外：een groot huis；定冠词后则是 het grote huis。这里练习常用形式，仍需留意固定表达和特殊词形。',
+    pattern: 'groter dan / even groot als / een groot huis / het grote huis',
+    examples: [
+      { nl: 'Deze kamer is groter dan mijn oude kamer.', zh: '这个房间比我原来的房间大。' },
+      { nl: 'De trein is even snel als de bus.', zh: '火车和公交车一样快。' },
+      { nl: 'We zoeken een groot huis, maar het grote huis daar is te duur.', zh: '我们在找一所大房子，但那边那所大房子太贵了。' },
+    ],
+    exercises: [
+      { question: 'Dit boek is interessanter ___ dat boek.', options: ['als', 'dan', 'zoals'], answer: 1, explanation: '比较级 interessanter 后通常使用 dan。' },
+      { question: 'Zij is even oud ___ haar buurvrouw.', options: ['dan', 'van', 'als'], answer: 2, explanation: '表示“和……一样”使用 even ... als。' },
+      { question: 'We willen een ___ huis huren.', options: ['groot', 'grote', 'groten'], answer: 0, explanation: 'huis 是单数 het 名词，不定冠词 een 后这里用不带 -e 的 groot。' },
+    ],
+  },
+]
+
+const writing = (task) => ({ minWords: 100, maxWords: 150, ...task })
+
+export const writingTasks = [
+  writing({
+    id: 'b1-w01', title: '询问一份兼职工作',
+    scenario: 'Je hebt een vacature gezien en wilt meer informatie over een parttimebaan.',
+    prompt: '给一家商店写邮件，询问兼职岗位。简要介绍自己，说明合适的工作时间，并提出两个具体问题。不要把示例人物经历当成你的真实经历。',
+    requirements: ['简述自己的相关经验或兴趣', '说明每周可以工作的时间', '询问工作内容和申请方式'],
+    checklist: ['三项任务要求都有回应', '使用合适的称呼与结束语', '用连接词组织信息，避免只有短句', '检查主谓一致、动词位置与拼写'],
+    model: `Geachte heer of mevrouw,
+
+Op uw website heb ik de vacature voor winkelmedewerker gezien. Ik ben op zoek naar een parttimebaan en ik zou graag meer over deze functie weten. Op dit moment volg ik een cursus Nederlands. Daarnaast help ik soms in de winkel van een kennis, waar ik klanten ontvang en producten opruim.
+
+Ik ben beschikbaar op woensdagmiddag en de hele zaterdag. Kunt u aangeven hoeveel uur per week u iemand nodig heeft? Ook hoor ik graag of nieuwe medewerkers een korte training krijgen. Ik vind contact met klanten leuk en ik leer nieuwe taken meestal snel.
+
+Wilt u mij laten weten hoe ik kan solliciteren en welke documenten ik moet meesturen? Alvast bedankt voor uw reactie.
+
+Met vriendelijke groet,
+Lin`,
+    modelTranslation: '尊敬的先生或女士：\n\n我在贵公司网站上看到了店员招聘信息。我正在找一份兼职，想进一步了解这个岗位。目前我正在上荷兰语课。此外，我有时在一位熟人的商店帮忙，负责接待顾客和整理商品。\n\n我周三下午和周六全天都有时间。您能说明每周需要员工工作多少小时吗？我也想知道新员工是否会接受短期培训。我喜欢与顾客交流，学习新任务通常也很快。\n\n请告诉我如何申请，以及需要附上哪些材料。提前感谢您的回复。\n\n此致，林',
+  }),
+  writing({
+    id: 'b1-w02', title: '请房东安排维修',
+    scenario: 'Er is een probleem in je woning. Je vraagt de verhuurder om een reparatie.',
+    prompt: '给房东写一封清楚、礼貌的邮件。描述一个住房问题、它对生活的影响，以及你方便配合维修的时间。',
+    requirements: ['说明问题是什么、从何时开始', '解释你已经做了什么以及当前影响', '提出维修请求并提供两个时间段'],
+    checklist: ['问题描述具体，读者能知道要修什么', '表达礼貌，提出可执行的请求', '把已发生的问题和未来安排的时态分清', '检查称呼、段落与结束语'],
+    model: `Beste mevrouw De Vries,
+
+Sinds afgelopen maandag lekt de kraan in mijn keuken. Eerst kwamen er alleen een paar druppels uit, maar inmiddels moet ik steeds een bak onder de kraan zetten. Ik heb gecontroleerd of de kraan goed dicht zit. Dat helpt helaas niet. Daardoor kan ik de keuken niet normaal gebruiken en ben ik bang dat het kastje nat wordt.
+
+Zou u een reparatie kunnen laten uitvoeren? Ik ben dinsdag tussen negen en twaalf uur thuis. Donderdagmiddag na drie uur kan ik ook. Als deze tijden niet geschikt zijn, kunnen we samen een ander moment kiezen. Ik kan u eventueel een foto van het probleem sturen.
+
+Wilt u laten weten wanneer iemand kan komen? Bedankt voor uw hulp.
+
+Met vriendelijke groet,
+Lin`,
+    modelTranslation: 'De Vries 女士您好：\n\n从本周一开始，我厨房的水龙头就在漏水。起初只有几滴水，但现在我必须一直在水龙头下面放一个盆。我检查过水龙头是否已经拧紧，可惜没有帮助。因此我无法正常使用厨房，也担心柜子会被弄湿。\n\n您能安排维修吗？我周二上午九点至十二点在家，周四下午三点以后也可以。如果这些时间不合适，我们可以一起另选时间。如果需要，我可以给您发一张问题部位的照片。\n\n请告诉我何时能有人来维修。谢谢您的帮助。\n\n此致，林',
+  }),
+  writing({
+    id: 'b1-w03', title: '申请调整约定时间',
+    scenario: 'Je kunt een afspraak niet nakomen en stelt een nieuwe datum voor.',
+    prompt: '你原定参加一次课程讨论，但临时不能前往。给负责老师写信，解释情况并主动安排替代方案。',
+    requirements: ['明确指出原来的约定', '简短说明不能到场的原因', '提出两个替代时间并询问是否合适'],
+    checklist: ['读者知道是哪一次约定', '理由清楚，不需要透露不必要的隐私', '有明确的新时间或替代安排', '语气礼貌，注意倒装和从句语序'],
+    model: `Beste docent,
+
+Wij hebben donderdag om tien uur een afspraak om mijn schrijfopdracht te bespreken. Helaas kan ik op dat moment niet naar school komen. Ik moet onverwacht een familielid begeleiden naar een afspraak. Het spijt me dat ik dit pas nu laat weten.
+
+Zou het mogelijk zijn om ons gesprek te verplaatsen? Vrijdag ben ik vanaf twee uur beschikbaar. Op maandag kan ik tussen negen en elf uur. Als u liever een kort videogesprek voert, is dat voor mij ook mogelijk. Ik stuur mijn schrijfopdracht vanavond alvast per e-mail, zodat u die rustig kunt bekijken.
+
+Wilt u laten weten welk moment het beste past? Bedankt voor uw begrip. Ik kijk uit naar uw feedback en wil de opdracht graag verbeteren.
+
+Met vriendelijke groet,
+Lin`,
+    modelTranslation: '老师您好：\n\n我们约好了周四十点讨论我的写作作业。可惜我那时无法来学校。我临时需要陪一位家人去赴约。很抱歉这么晚才通知您。\n\n我们能调整谈话时间吗？周五下午两点后我有空，周一上午九点至十一点也可以。如果您更愿意进行一次简短的视频通话，对我来说也没问题。我今晚先通过邮件发送写作作业，方便您从容查看。\n\n请告诉我哪个时间最合适。感谢您的理解。我期待您的反馈，也希望改进这份作业。\n\n此致，林',
+  }),
+  writing({
+    id: 'b1-w04', title: '说明商品问题并请求解决',
+    scenario: 'Een product dat je onlangs hebt gekocht, werkt niet goed.',
+    prompt: '写邮件给客服，描述商品问题与购买情况，并提出你希望获得的解决办法。不要虚构普遍适用的退货法规。',
+    requirements: ['说明买了什么以及何时购买', '清楚描述故障和已经尝试的办法', '提出合理请求并询问下一步'],
+    checklist: ['事实具体，避免只说“质量不好”', '区分问题说明与个人请求', '邮件有完整开头、正文与结尾', '检查完成时、时间表达和拼写'],
+    model: `Geachte klantenservice,
+
+Vorige week heb ik in uw webwinkel een koptelefoon besteld. Het pakket is vrijdag aangekomen. Helaas werkt de linkerkant niet. Ik heb de koptelefoon op twee verschillende apparaten aangesloten, maar het probleem blijft hetzelfde. De verpakking en de bevestiging van mijn bestelling heb ik nog bewaard.
+
+Ik gebruik een koptelefoon voor mijn online lessen. Daarom zou ik graag snel een oplossing vinden. Kunt u aangeven of ik het product kan laten vervangen of onderzoeken? Als ik de koptelefoon moet terugsturen, ontvang ik graag duidelijke instructies. Ik hoor ook graag hoe lang het ongeveer duurt voordat ik een reactie krijg.
+
+In de bijlage vindt u een foto en het bestelnummer. Alvast bedankt voor uw hulp.
+
+Met vriendelijke groet,
+Lin`,
+    modelTranslation: '尊敬的客服：\n\n上周我在贵网店订购了一副耳机，包裹于周五送达。遗憾的是，左侧耳机无法工作。我已经把耳机连接到两台不同的设备上，但问题依旧。我仍保留着包装和订单确认信息。\n\n我需要用耳机上网课，因此希望尽快找到解决办法。您能告诉我是否可以更换商品，或对商品进行检查吗？如果需要寄回耳机，请提供清晰的操作说明。我也想知道大约多久能收到答复。\n\n附件中有一张照片和订单编号。提前感谢您的帮助。\n\n此致，林',
+  }),
+  writing({
+    id: 'b1-w05', title: '邀请朋友共进晚餐',
+    scenario: 'Je nodigt een paar vrienden uit om samen te eten.',
+    prompt: '给朋友写一封自然的邀请邮件，交代活动、地点和时间，同时询问对方的饮食偏好。',
+    requirements: ['说明为什么邀请对方', '交代具体时间、地点和大致安排', '询问能否参加以及食物方面的需求'],
+    checklist: ['邀请内容明确而友好', '地点、日期、时间表达清楚', '提出需要对方回答的问题', '使用适合朋友关系的称呼和结束语'],
+    model: `Hoi Eva,
+
+Volgende maand woon ik precies een jaar in deze buurt. Dat lijkt me een leuke reden om samen te eten. Heb je zin om zaterdag bij mij te komen? Ik nodig ook twee vrienden van mijn taalcursus uit. Je hebt hen nog niet ontmoet, maar volgens mij kunnen jullie het goed met elkaar vinden.
+
+We beginnen om zes uur en eten gewoon aan de grote tafel in de woonkamer. Ik wil soep en een paar kleine gerechten maken. Eet je vegetarisch of zijn er producten die je niet kunt eten? Laat het me weten, dan houd ik daar rekening mee. Je hoeft niets mee te nemen.
+
+Kun je voor woensdag laten weten of je komt? Ik hoop dat het lukt!
+
+Groetjes,
+Lin`,
+    modelTranslation: '嗨，Eva：\n\n下个月我就在这个社区住满一年了。我觉得这是一起吃饭的好理由。你愿意周六来我家吗？我还邀请了两位语言班的朋友。你还没见过他们，但我觉得你们会相处得很好。\n\n我们六点开始，就在客厅的大桌子旁吃饭。我想做汤和几道小菜。你吃素吗？或者有没有不能吃的食物？请告诉我，我会把这些考虑进去。你什么都不用带。\n\n你能在周三之前告诉我是否来吗？希望你能参加！\n\n祝好，林',
+  }),
+  writing({
+    id: 'b1-w06', title: '讲述一次计划之外的旅行',
+    scenario: 'Je vertelt een vriend over een uitstapje dat anders liep dan verwacht.',
+    prompt: '向朋友描述一次出行经历。交代原来的计划、发生的变化和你最后的感受。',
+    requirements: ['说明原本打算去哪里、和谁一起去', '按先后顺序讲述意外和解决办法', '表达感受，并说明下次会怎样安排'],
+    checklist: ['故事有背景、经过和结果', '使用至少三个连接或时间表达', '过去时和完成时的使用与语境一致', '感受与结论有具体理由'],
+    model: `Hoi Sam,
+
+Afgelopen zondag ben ik met twee vrienden naar Delft geweest. We wilden vroeg vertrekken, zodat we genoeg tijd hadden om rond te lopen. Toen we op het station aankwamen, zagen we dat onze trein niet reed. Eerst waren we teleurgesteld, want we hadden al een plan gemaakt.
+
+Gelukkig vonden we een andere verbinding. We moesten één keer overstappen en kwamen bijna een uur later aan. Daardoor hebben we het museum overgeslagen. In plaats daarvan hebben we door de stad gewandeld en in een klein café geluncht. Daar raakten we aan de praat met een vriendelijke bezoeker.
+
+Uiteindelijk was het toch een gezellige dag. De volgende keer controleer ik de reis eerder en maak ik een minder vol programma. Heb jij onlangs nog een leuke dagtrip gemaakt?
+
+Groetjes,
+Lin`,
+    modelTranslation: '嗨，Sam：\n\n上周日我和两个朋友去了代尔夫特。我们本想早点出发，好有足够的时间四处走走。到车站时，我们看到原来的火车不开了。起初我们很失望，因为已经安排好了计划。\n\n幸运的是，我们找到了另一条路线。我们需要换乘一次，最后晚了将近一小时到达。因此我们没去博物馆，而是在城里散步，并在一家小咖啡馆吃了午饭。我们在那里与一位友好的客人聊了起来。\n\n这一天最终还是很愉快。下次我会更早检查交通情况，也不会把行程排得这么满。你最近有没有愉快的一日游经历？\n\n祝好，林',
+  }),
+  writing({
+    id: 'b1-w07', title: '谈谈你对居家办公的看法',
+    scenario: 'Een cursusforum vraagt naar jouw mening over thuiswerken.',
+    prompt: '为课程论坛写一篇短文，讨论居家办公。说明自己的观点，给出理由，并回应一个不同看法。',
+    requirements: ['提出一个清楚的观点', '用理由和具体例子支持观点', '说明一种不足或不同观点，并作出回应'],
+    checklist: ['观点清楚，理由与观点相关', '有具体例子，不只有抽象判断', '使用 omdat、maar、daarom 等组织论述', '结尾有与前文一致的总结'],
+    model: `Volgens mij is een combinatie van thuiswerken en werken op kantoor vaak prettig. Thuis kan ik me beter concentreren op taken waarvoor ik veel moet lezen. Bovendien verlies ik geen tijd aan reizen. Daardoor kan ik mijn dag rustiger beginnen.
+
+Toch vind ik contact met collega's belangrijk. Op kantoor stel je gemakkelijk een korte vraag en leer je elkaar beter kennen. Sommige mensen denken dat online vergaderen voldoende is. Dat kan helpen, maar voor een nieuwe medewerker is persoonlijk contact volgens mij extra nuttig.
+
+Daarom zou ik het liefst een paar vaste dagen op kantoor werken. De andere dagen kan iedereen, als het werk dat toelaat, zelf kiezen waar hij of zij werkt. Goede afspraken over bereikbaarheid zijn daarbij nodig. Zo blijven zelfstandigheid en samenwerking allebei mogelijk.`,
+    modelTranslation: '我认为，把居家办公和办公室办公结合起来通常很舒服。在家时，我能更专注于需要大量阅读的任务。此外，我不用花时间通勤，因此能更从容地开始一天。\n\n不过，我认为与同事的交流很重要。在办公室里，你可以轻松提出一个简短的问题，也能更好地了解彼此。有些人觉得线上会议已经足够。这确实有帮助，但我认为面对面接触对新员工尤其有用。\n\n因此，我最希望每周有几个固定的办公室工作日。其他日子，如果工作性质允许，每个人可以自行选择在哪里工作。同时，需要就保持联系作出良好约定。这样既能保持自主性，也能开展合作。',
+  }),
+  writing({
+    id: 'b1-w08', title: '提出一个社区活动建议',
+    scenario: 'Je schrijft aan het buurtcentrum over een idee voor de buurt.',
+    prompt: '向社区中心提出一个可实现的小活动建议。解释活动的好处，并说明你愿意怎样参与。',
+    requirements: ['描述观察到的情况或需求', '提出活动并交代大致组织方式', '说明好处及自己能提供的帮助'],
+    checklist: ['建议与提出的需求有关', '组织方案具体，规模合理', '清楚区分计划、希望和已经发生的事实', '语气积极、礼貌，并有明确请求'],
+    model: `Beste medewerkers van het buurtcentrum,
+
+In onze buurt wonen veel mensen die elkaar nauwelijks kennen. Daarom wil ik graag een kleine wandelgroep voorstellen. We zouden op zaterdagochtend samen een uur kunnen wandelen. De route hoeft niet lang te zijn, zodat ook mensen die minder snel lopen kunnen meedoen.
+
+Na afloop kunnen deelnemers in het buurtcentrum iets drinken en verder praten. Volgens mij is dit een eenvoudige manier om nieuwe contacten te leggen. Mensen die Nederlands leren, krijgen bovendien de kans om in een ontspannen situatie te oefenen. Deelname moet natuurlijk vrijwillig zijn.
+
+Ik wil graag helpen met het kiezen van een route en het maken van een uitnodiging. Is er volgende week tijd om dit idee kort te bespreken? Ik hoor graag wat u ervan vindt.
+
+Met vriendelijke groet,
+Lin`,
+    modelTranslation: '社区中心的工作人员，您好：\n\n我们社区有许多居民，彼此却几乎不认识。因此，我想建议组织一个小型散步小组。我们可以在周六上午一起散步一小时。路线不必很长，这样走得较慢的人也能参加。\n\n活动结束后，参加者可以到社区中心喝点东西，继续聊天。我认为，这是一种建立新联系的简单方式。正在学习荷兰语的人，还能在轻松的环境中练习。参加活动当然应当是自愿的。\n\n我愿意帮忙选择路线和制作邀请函。下周能否安排一点时间，简短讨论这个想法？我很期待听听您的意见。\n\n此致，林',
+  }),
+  writing({
+    id: 'b1-w09', title: '询问适合自己的 B1 课程',
+    scenario: 'Je zoekt een taalcursus die bij je niveau, doel en agenda past.',
+    prompt: '给语言学校写咨询邮件。说明当前学习情况与 B1 目标，询问课程安排及如何判断是否适合自己。',
+    requirements: ['介绍目前大致水平和主要学习困难', '交代目标、时间和课程形式偏好', '询问分班方式及实际训练内容'],
+    checklist: ['说明个人需求，而不是只问价格', '问题具体，学校能够直接回答', '正式或半正式语气保持一致', '检查疑问句和间接问句语序'],
+    model: `Geachte heer of mevrouw,
+
+Ik zoek een cursus Nederlands waarmee ik naar niveau B1 kan toewerken. Ik heb eerder een cursus op A2-niveau gevolgd. Korte gesprekken gaan redelijk goed, maar ik vind het nog lastig om mijn mening duidelijk uit te leggen. Ook wil ik langere teksten beter leren begrijpen.
+
+Omdat ik overdag werk, ben ik vooral op dinsdag- en donderdagavond beschikbaar. Een les op locatie heeft mijn voorkeur, maar af en toe een online les is geen probleem. Kunt u vertellen hoe u bepaalt in welke groep een nieuwe cursist past?
+
+Ik hoor ook graag hoeveel aandacht er is voor spreken en schrijven. Krijgen cursisten persoonlijke feedback en huiswerk? Als er een informatieavond is, wil ik daar graag naartoe komen.
+
+Met vriendelijke groet,
+Lin`,
+    modelTranslation: '尊敬的先生或女士：\n\n我想寻找一门能够帮助我向 B1 水平进步的荷兰语课程。我此前上过 A2 课程。进行简短交谈还算顺利，但清楚解释自己的观点对我来说仍然有些困难。我也希望学会更好地理解较长的文章。\n\n因为白天工作，我主要在周二和周四晚上有时间。我更倾向于线下上课，但偶尔上网课也没有问题。您能说明如何判断新学员适合加入哪个班吗？\n\n我也想了解课程对口语和写作投入多少时间。学员能否得到个人反馈和家庭作业？如果有课程说明会，我很愿意前往。\n\n此致，林',
+  }),
+  writing({
+    id: 'b1-w10', title: '礼貌表达不同意见',
+    scenario: 'Een collega stelt een plan voor. Jij ziet een probleem en doet een ander voorstel.',
+    prompt: '回复同事的一项计划。先指出你认可的地方，再解释顾虑，并提出一个折中方案。',
+    requirements: ['准确回应对方的建议', '给出一个有理由的顾虑', '提出可执行的替代或试行方案'],
+    checklist: ['不同意见表达清楚且尊重对方', '顾虑有事实或例子支持', '折中方案回应了原来的目标', '检查转折词、条件句和礼貌表达'],
+    model: `Hoi Noor,
+
+Bedankt voor je voorstel om onze wekelijkse vergadering naar vrijdagmiddag te verplaatsen. Ik begrijp dat je op die manier meer rust op maandagochtend wilt creëren. Dat lijkt me een goed doel. Toch maak ik me zorgen over het gekozen moment, omdat een paar collega's op vrijdag eerder vertrekken.
+
+Als zij niet kunnen deelnemen, moeten we belangrijke informatie later opnieuw bespreken. Dat kost misschien juist extra tijd. Zouden we de vergadering voorlopig op dinsdagochtend kunnen houden? Dan heeft iedereen de planning voor de rest van de week nog voor zich.
+
+We kunnen dit een maand proberen en daarna samen bekijken of het werkt. Als dinsdag voor jou moeilijk is, zoek ik graag mee naar een ander moment. Wat vind je van dit voorstel?
+
+Groet,
+Lin`,
+    modelTranslation: '嗨，Noor：\n\n谢谢你提议把每周会议改到周五下午。我理解，你希望这样能让周一上午更从容一些，我觉得这是个好目标。不过，我对选定的时间有些顾虑，因为几位同事周五会提早下班。\n\n如果他们无法参加，我们就需要稍后再次讨论重要信息，这可能反而更费时间。我们能否暂时把会议放在周二上午？这样每个人都还来得及安排本周剩余的工作。\n\n我们可以试行一个月，然后一起看看效果。如果周二对你来说有困难，我也愿意一起寻找其他时间。你觉得这个建议怎么样？\n\n祝好，林',
+  }),
+  writing({
+    id: 'b1-w11', title: '申请成为志愿者',
+    scenario: 'Een buurtorganisatie zoekt vrijwilligers en jij wilt meedoen.',
+    prompt: '给一家社区机构写信，表达参加志愿活动的意愿。说明动机、适合承担的工作和可用时间。',
+    requirements: ['说明为什么对这项活动感兴趣', '描述可以带来的经验、技能或态度', '交代可用时间并询问接下来的安排'],
+    checklist: ['动机具体，与机构的活动有关', '对自己的能力描述真实、适度', '可用时间和下一步请求清楚', '使用合适的邮件格式和礼貌语气'],
+    model: `Beste vrijwilligerscoördinator,
+
+Via een buurvrouw heb ik gehoord dat uw organisatie vrijwilligers zoekt voor de ontmoetingsmiddag. Ik zou graag willen helpen. Sinds ik in deze buurt woon, probeer ik meer mensen te leren kennen. Tegelijk vind ik het fijn om iets voor anderen te doen.
+
+Ik heb nog niet eerder als vrijwilliger gewerkt, maar ik kan goed luisteren en ik help graag met praktische taken. Ik kan bijvoorbeeld bezoekers ontvangen, tafels klaarzetten of koffie en thee schenken. Mijn Nederlands is nog in ontwikkeling. Daarom hoor ik het graag als ik iets niet goed begrijp.
+
+Op woensdagmiddag ben ik meestal beschikbaar. Is het mogelijk om eerst een keer te komen kijken en kennis te maken? Ik ontvang graag informatie over de taken en de voorbereiding.
+
+Met vriendelijke groet,
+Lin`,
+    modelTranslation: '志愿者协调员，您好：\n\n我通过一位女邻居得知，贵机构正在为交流活动下午场招募志愿者。我很愿意帮忙。自从搬到这个社区以来，我一直想认识更多人。同时，我也乐意为他人做些事情。\n\n我还没有做过志愿者，但我善于倾听，也喜欢协助处理实际事务。例如，我可以接待来访者、布置桌椅，或倒咖啡和茶。我的荷兰语还在提高中。因此，如果有不理解的地方，我希望对方能提醒我。\n\n周三下午我通常有空。我能否先去参观一次，和大家认识一下？希望收到有关工作任务与准备事项的信息。\n\n此致，林',
+  }),
+  writing({
+    id: 'b1-w12', title: '为社区活动写一篇总结',
+    scenario: 'Je beschrijft voor de buurtwebsite hoe een gezamenlijke activiteit is verlopen.',
+    prompt: '为社区网站写一篇简短活动总结，交代活动内容、参加者的体验，以及下一次可以改进的地方。',
+    requirements: ['说明何时、何地、举行了什么活动', '描述两个具体活动细节或参加者反应', '提出一项下次活动的改进建议'],
+    checklist: ['开头直接交代活动背景', '用具体细节支持评价', '叙述时态清楚，先后顺序合理', '建议与活动中发现的问题相关'],
+    model: `Afgelopen zaterdag organiseerden bewoners een kleine ontmoetingsmiddag in het buurtcentrum. Het doel was om nieuwe en oude buren met elkaar in contact te brengen. Ongeveer twintig mensen kwamen langs. Iedereen kon iets te eten meenemen, maar dat was niet verplicht.
+
+Aan het begin vertelden een paar bewoners kort iets over zichzelf. Daarna speelden we in kleine groepen een eenvoudig spel. Daardoor kwamen ook mensen die elkaar niet kenden gemakkelijk met elkaar in gesprek. Vooral de rustige sfeer werd gewaardeerd. Een nieuwe bewoner zei dat hij zich nu meer thuis voelde in de buurt.
+
+Volgende keer kunnen we de uitnodiging wat eerder verspreiden. Sommige mensen hadden het bericht pas op de laatste dag gezien. Toch kijken we terug op een geslaagde middag, die we graag nog eens willen organiseren.`,
+    modelTranslation: '上周六，居民们在社区中心组织了一场小型交流活动。活动目的是让新老邻居相互认识。大约二十人前来参加。每个人都可以带些食物，但这不是必须的。\n\n活动开始时，几位居民简短介绍了自己。随后，我们分成小组玩了一个简单的游戏。这样一来，即使原本互不认识的人也很容易聊起来。大家尤其喜欢这种轻松平和的氛围。一位新居民说，他现在对这个社区更有归属感了。\n\n下次我们可以更早发出邀请。有些人直到活动前最后一天才看到消息。不过，回顾这次下午活动，我们认为它很成功，也很愿意再次举办。',
+  }),
+]
+
+const speaking = (task) => ({ prepSeconds: 30, speakSeconds: 90, ...task })
+const speakingChecklist = [
+  '回应所有提示，而不是只列关键词',
+  '给出理由、例子或具体经历',
+  '用连接词和适当时态形成连贯表达',
+  '表达不清楚时能换一种说法继续说',
+]
+
+export const speakingTasks = [
+  speaking({
+    id: 'b1-s01', title: '介绍自己与学习目标',
+    scenario: 'Je ontmoet een nieuwe cursist en vertelt over jezelf en je taaldoel.',
+    prompts: ['介绍你现在的日常生活或学习情况', '说明你为什么想学到 B1', '举例说明一个困难和一个可执行的改进办法'],
+    phrases: [
+      { nl: 'Ik woon hier sinds ...', zh: '我从……起住在这里。' },
+      { nl: 'Ik wil mijn Nederlands verbeteren, omdat ...', zh: '我想提高荷兰语，因为……' },
+      { nl: 'Wat ik nog lastig vind, is ...', zh: '我仍然觉得困难的是……' },
+    ],
+    checklist: speakingChecklist,
+    model: `Ik heet Lin en ik woon sinds een jaar in Nederland. Overdag werk ik en 's avonds probeer ik tijd te maken voor Nederlands. Mijn doel is om in gewone gesprekken zelfstandiger te worden. Ik wil bijvoorbeeld mijn mening kunnen uitleggen tijdens een vergadering. Lezen gaat steeds beter, maar als mensen snel praten, mis ik soms belangrijke woorden. Daarom luister ik elke dag naar een kort fragment en vertel ik daarna hardop wat ik heb begrepen. Ook vraag ik mijn collega's om moeilijke zinnen te herhalen.`,
+    modelTranslation: '我叫林，在荷兰住了一年。我白天工作，晚上努力腾出时间学习荷兰语。我的目标是在普通交谈中更加独立。例如，我希望能够在会议上解释自己的观点。我的阅读越来越好了，但别人说得快时，我有时会漏掉重要词语。因此，我每天听一段短音频，然后大声复述自己理解的内容。我也请同事重复难懂的句子。',
+  }),
+  speaking({
+    id: 'b1-s02', title: '向客服描述收货问题',
+    scenario: 'Je belt een webwinkel omdat je bestelling niet compleet is.',
+    prompts: ['清楚说明订单和缺少的商品', '描述你已经检查过什么', '礼貌询问解决办法与预计回复时间'],
+    phrases: [
+      { nl: 'Ik bel over mijn bestelling.', zh: '我打电话是想咨询我的订单。' },
+      { nl: 'Er ontbreekt een onderdeel.', zh: '缺少一个零件。' },
+      { nl: 'Kunt u aangeven wat de volgende stap is?', zh: '您能说明下一步该怎么做吗？' },
+    ],
+    checklist: speakingChecklist,
+    model: `Goedemiddag, ik bel over mijn bestelling die gisteren is bezorgd. Ik heb een bureaulamp besteld, maar de kabel zit niet in de doos. Ik heb de verpakking goed gecontroleerd en ook onder het papier gekeken. De lamp zelf lijkt in orde, maar zonder kabel kan ik hem niet gebruiken. Kunt u het ontbrekende onderdeel opsturen of vertellen hoe ik dit kan oplossen? Ik heb het bestelnummer bij de hand. Ook hoor ik graag wanneer ik ongeveer een reactie kan verwachten.`,
+    modelTranslation: '下午好，我打电话想咨询昨天送达的订单。我订了一盏台灯，但箱子里没有电源线。我仔细检查了包装，也看过填充纸下面。灯本身看起来没有问题，但没有线就不能使用。您能寄来缺少的零件，或者告诉我该怎样解决吗？我的订单编号就在手边。我也想了解大约什么时候能收到回复。',
+  }),
+  speaking({
+    id: 'b1-s03', title: '说明一个新养成的习惯',
+    scenario: 'Je vertelt aan een vriend over een gewoonte die je wilt veranderen.',
+    prompts: ['描述你以前的习惯及其影响', '说明你现在如何改变', '解释目前的结果，以及接下来的计划'],
+    phrases: [
+      { nl: 'Vroeger deed ik vaak ...', zh: '以前我经常……' },
+      { nl: 'Sinds kort probeer ik ...', zh: '最近我开始尝试……' },
+      { nl: 'Het lukt nog niet altijd, maar ...', zh: '虽然还不是每次都能做到，但是……' },
+    ],
+    checklist: speakingChecklist,
+    model: `Vroeger pakte ik na het avondeten meteen mijn telefoon. Daardoor bleef ik vaak langer zitten dan ik wilde. Sinds kort maak ik eerst een korte wandeling. Ik kies een route door de buurt en laat mijn telefoon meestal in mijn tas. Het lukt nog niet iedere dag, vooral niet als ik laat thuis ben. Toch voel ik me daarna rustiger. Bovendien spreek ik onderweg soms een buurman. Volgende maand wil ik een vriend vragen om twee keer per week mee te lopen.`,
+    modelTranslation: '以前晚饭后，我马上就拿起手机，因此常常比原本打算的坐得更久。最近，我会先散一小会儿步。我选择一条社区里的路线，通常把手机留在包里。这还不是每天都能做到，尤其是晚回家时。不过，散步后我感觉更平静。而且，我途中有时会和男邻居说几句话。下个月我想邀请一位朋友每周陪我走两次。',
+  }),
+  speaking({
+    id: 'b1-s04', title: '比较居家与办公室办公',
+    scenario: 'Je collega vraagt of je liever thuis of op kantoor werkt.',
+    prompts: ['提出你的偏好', '比较两种方式的优点或不足', '用一个具体例子说明你希望如何安排'],
+    phrases: [
+      { nl: 'Aan de ene kant ..., aan de andere kant ...', zh: '一方面……，另一方面……' },
+      { nl: 'Voor mij hangt het af van ...', zh: '对我而言，这取决于……' },
+      { nl: 'Ik zou het liefst ...', zh: '我最希望……' },
+    ],
+    checklist: speakingChecklist,
+    model: `Voor mij hangt het af van de taak. Als ik een lang verslag moet schrijven, werk ik liever thuis, omdat ik me daar beter kan concentreren. Aan de andere kant vind ik het prettig om mijn collega's op kantoor te ontmoeten. Een probleem kun je soms sneller samen bespreken dan via berichten. Daarom zou ik het liefst twee vaste dagen op kantoor werken. Voor andere taken kunnen we per week bekijken wat nodig is. Zo hebben we contact en houden we toch wat vrijheid.`,
+    modelTranslation: '对我而言，这取决于任务。如果要写一份长报告，我更喜欢在家工作，因为我在那里更能集中注意力。另一方面，我也很喜欢在办公室与同事见面。有时，一起讨论问题比通过消息交流更快。因此，我最希望每周有两个固定的办公室工作日。对于其他任务，我们可以每周看看有什么需要。这样既能保持联系，也保留一些自由。',
+  }),
+  speaking({
+    id: 'b1-s05', title: '和邻居讨论噪声',
+    scenario: 'Je wilt met een buur over geluid praten en samen een oplossing zoeken.',
+    prompts: ['不带指责地描述具体情况', '解释对你的影响', '提出一个折中方案，并询问对方意见'],
+    phrases: [
+      { nl: 'Heb je even tijd om iets te bespreken?', zh: '你有时间讨论一件事吗？' },
+      { nl: 'Ik begrijp dat ..., maar ...', zh: '我理解……，不过……' },
+      { nl: 'Zouden we kunnen afspreken dat ...?', zh: '我们能否约定……？' },
+    ],
+    checklist: speakingChecklist,
+    model: `Hoi, heb je even tijd om iets te bespreken? De afgelopen twee avonden hoorde ik vrij laat nog harde muziek. Ik begrijp dat je graag naar muziek luistert. Alleen begint mijn werk vroeg en kon ik daardoor moeilijk slapen. Zouden we kunnen afspreken dat de muziek na tien uur wat zachter gaat? Als je een keer vrienden uitnodigt, kun je het misschien vooraf laten weten. Dan kunnen we samen een oplossing zoeken. Ik wil vooral prettig contact houden. Hoe zie jij dat?`,
+    modelTranslation: '嗨，你有空讨论一件事吗？过去两天晚上，我在很晚的时候还听到很响的音乐。我理解你喜欢听音乐，只是我上班很早，因此当时很难入睡。我们能否约定，十点之后把音乐调小一些？如果你有时邀请朋友，可以考虑提前告诉我，这样我们可以一起想办法。我主要是想保持良好的邻里关系。你怎么看？',
+  }),
+  speaking({
+    id: 'b1-s06', title: '电话中调整预约',
+    scenario: 'Je belt om een bestaande afspraak naar een andere dag te verplaatsen.',
+    prompts: ['说明原定预约的日期和时间', '简述调整原因并表达歉意', '提供可用时间，最后确认新的安排'],
+    phrases: [
+      { nl: 'Ik heb een afspraak op ... om ...', zh: '我在……的……点有一个预约。' },
+      { nl: 'Helaas kan ik dan niet komen.', zh: '可惜我那个时候无法前来。' },
+      { nl: 'Dus we spreken af op ..., klopt dat?', zh: '那么我们约在……，对吗？' },
+    ],
+    checklist: speakingChecklist,
+    model: `Goedemorgen, ik heb donderdag om half elf een afspraak voor een kennismakingsgesprek. Helaas kan ik dan niet komen, omdat ik onverwacht moet werken. Het spijt me dat ik zo kort van tevoren bel. Is het mogelijk om een nieuwe afspraak te maken? Vrijdagmiddag ben ik beschikbaar en maandag kan ik de hele ochtend. Een online gesprek zou ook kunnen als dat gemakkelijker is. Kunt u de nieuwe datum per e-mail bevestigen? Dan kan ik controleren of ik alles goed heb genoteerd.`,
+    modelTranslation: '早上好，我周四十点半预约了一次初次见面谈话。可惜临时需要工作，那个时候无法前来。很抱歉到这么临近的时候才打电话。可以重新预约吗？我周五下午有空，周一整个上午也可以。如果更方便的话，也能进行线上谈话。您能通过邮件确认新的日期吗？这样我可以检查自己是否把所有信息都记对了。',
+  }),
+  speaking({
+    id: 'b1-s07', title: '讲述一次志愿服务经历',
+    scenario: 'Je vertelt een medecursist over een keer dat je anderen hebt geholpen.',
+    prompts: ['交代活动的背景和你的任务', '描述一个困难及解决办法', '说明感受和你学到的东西'],
+    phrases: [
+      { nl: 'Mijn taak was om ...', zh: '我的任务是……' },
+      { nl: 'In het begin vond ik ...', zh: '一开始我觉得……' },
+      { nl: 'Daar heb ik van geleerd dat ...', zh: '我从中学到了……' },
+    ],
+    checklist: speakingChecklist,
+    model: `Vorige maand heb ik geholpen bij een ontmoetingsmiddag in het buurtcentrum. Mijn taak was om bezoekers te ontvangen en uit te leggen waar ze konden zitten. In het begin vond ik dat spannend, want ik kende bijna niemand. Toen iemand heel snel sprak, vroeg ik rustig of hij de vraag wilde herhalen. Daarna ging het gesprek beter. Aan het einde hielpen we samen met opruimen. Ik was moe, maar ook tevreden. Ik heb geleerd dat ik niet perfect hoef te spreken om contact te maken.`,
+    modelTranslation: '上个月，我在社区中心的一次交流活动中帮了忙。我的任务是接待来访者，说明他们可以坐在哪里。一开始我觉得有些紧张，因为我几乎谁都不认识。当有人说得很快时，我平静地请他重复问题，之后交谈就顺利多了。活动结束时，我们一起帮忙收拾。我虽然累，却也很满足。我学到了，即使说得不完美，也能与别人建立联系。',
+  }),
+  speaking({
+    id: 'b1-s08', title: '和朋友商量一次出行',
+    scenario: 'Je maakt samen met een vriend een plan voor een dagje uit.',
+    prompts: ['提出目的地和出行原因', '比较交通、预算和时间安排', '准备一个天气不好或交通变化时的替代方案'],
+    phrases: [
+      { nl: 'Zullen we ...?', zh: '我们……好吗？' },
+      { nl: 'Als dat niet lukt, kunnen we ...', zh: '如果那样不行，我们可以……' },
+      { nl: 'Wat heeft jouw voorkeur?', zh: '你更倾向哪一种？' },
+    ],
+    checklist: speakingChecklist,
+    model: `Zullen we zaterdag een stad bezoeken waar we allebei nog niet zijn geweest? Ik zou graag met de trein gaan, zodat niemand hoeft te rijden. Als we rond negen uur vertrekken, hebben we genoeg tijd om rustig rond te lopen. We kunnen vooraf een bedrag voor lunch en vervoer afspreken. Bij goed weer wil ik vooral buiten wandelen. Als het regent, kunnen we een museum kiezen of ergens binnen iets drinken. Ik controleer vrijdag de verbindingen. Wil jij alvast twee mogelijke bestemmingen zoeken?`,
+    modelTranslation: '我们周六去一座两个人都没去过的城市好吗？我想坐火车，这样谁都不用开车。如果九点左右出发，我们就有足够时间从容地四处走走。我们可以提前约定午餐和交通的预算。天气好时，我主要想在户外散步；下雨的话，可以挑一家博物馆，或者在室内喝点东西。我周五检查交通连接情况。你愿意先找两个可能的目的地吗？',
+  }),
+  speaking({
+    id: 'b1-s09', title: '比较两门语言课程',
+    scenario: 'Je kiest tussen een online cursus en een cursus op locatie.',
+    prompts: ['说明你的学习目标与时间限制', '比较两种课程的至少两个方面', '作出选择并解释适合自己的理由'],
+    phrases: [
+      { nl: 'Deze cursus past beter bij mij, omdat ...', zh: '这门课更适合我，因为……' },
+      { nl: 'Een voordeel daarvan is ...', zh: '它的一个优点是……' },
+      { nl: 'Ik twijfel nog over ...', zh: '我对……还在犹豫。' },
+    ],
+    checklist: speakingChecklist,
+    model: `Ik twijfel tussen een online cursus en een avondcursus op school. Online les is handig, omdat ik geen reistijd heb. Bovendien kan ik thuis rustig aantekeningen maken. Toch past de cursus op school op dit moment beter bij mij. Ik wil vooral spontaner leren spreken en nieuwe mensen ontmoeten. In een lokaal begin ik gemakkelijker een kort gesprek tijdens de pauze. De school is wel verder weg. Daarom moet ik vooraf bekijken of de lestijden bij mijn werk passen. Ik vraag ook hoeveel persoonlijke feedback we krijgen.`,
+    modelTranslation: '我在网课和学校的晚间课程之间犹豫。网课很方便，因为没有通勤时间，而且我可以在家安静地做笔记。不过，目前学校的课程更适合我。我尤其希望学会更自然地说话，也想认识新朋友。在教室里，我更容易在课间开始一段简短交谈。只是学校比较远，因此我必须提前看看上课时间是否和工作匹配。我也会询问能得到多少个人反馈。',
+  }),
+  speaking({
+    id: 'b1-s10', title: '向朋友转述活动信息',
+    scenario: 'Je hebt informatie over een buurtactiviteit gelezen en vertelt die door.',
+    prompts: ['说明活动目的、时间和地点', '选择对朋友有用的两个细节', '区分已经知道的信息和仍需确认的信息'],
+    phrases: [
+      { nl: 'Volgens de uitnodiging ...', zh: '根据邀请函……' },
+      { nl: 'Wat handig is om te weten: ...', zh: '有一点值得知道：……' },
+      { nl: 'Dat weet ik nog niet zeker; ik zal het navragen.', zh: '这点我还不确定，我会去问一下。' },
+    ],
+    checklist: speakingChecklist,
+    model: `Ik heb een uitnodiging voor een buurtmiddag gelezen. De activiteit is volgende zaterdag in het buurtcentrum en begint om twee uur. Het doel is dat nieuwe bewoners hun buren leren kennen. Volgens de uitnodiging zijn er kleine spelletjes en is er ruimte om rustig te praten. Je mag iets te eten meenemen, maar dat hoeft niet. Wat ik nog niet zeker weet, is of je je vooraf moet aanmelden. Dat zal ik navragen. Lijkt het je leuk om samen te gaan?`,
+    modelTranslation: '我读到了一份社区下午活动的邀请函。活动下周六在社区中心举行，两点开始，目的是让新居民认识邻居。根据邀请函，现场有小游戏，也有安静聊天的空间。可以带些食物，但不是必须的。我还不确定是否需要提前报名，会去问一下。你愿意一起去吗？',
+  }),
+  speaking({
+    id: 'b1-s11', title: '在团队中提出折中建议',
+    scenario: 'Een collega wil iets veranderen. Jij reageert en zoekt een compromis.',
+    prompts: ['先准确概括你理解的对方建议', '说明你认可的部分以及一个顾虑', '提出试行方案，并邀请对方回应'],
+    phrases: [
+      { nl: 'Als ik je goed begrijp, wil je ...', zh: '如果我理解得对，你希望……' },
+      { nl: 'Ik zie het voordeel, maar ik vraag me af of ...', zh: '我看到了这个好处，但我想知道是否……' },
+      { nl: 'Misschien kunnen we eerst ...', zh: '也许我们可以先……' },
+    ],
+    checklist: speakingChecklist,
+    model: `Als ik je goed begrijp, wil je dat we voortaan alle informatie in één groepschat delen. Ik zie het voordeel: iedereen krijgt het bericht op hetzelfde moment. Toch vraag ik me af of belangrijke documenten dan gemakkelijk terug te vinden zijn. In een druk gesprek verdwijnen berichten soms snel. Misschien kunnen we de chat gebruiken voor korte vragen en de documenten in een vaste map bewaren. We kunnen dit twee weken proberen en daarna bespreken wat goed gaat. Zou dat voor jou ook werken?`,
+    modelTranslation: '如果我理解得对，你希望今后把所有信息都发在同一个群聊里。我看到了好处：每个人都能同时收到消息。不过，我想知道重要文档是否还能容易地找到。在消息很多的聊天中，内容有时很快就被淹没了。也许我们可以用群聊处理简短问题，把文档保存在一个固定文件夹里。我们可以试行两周，再讨论效果。这样对你来说也可行吗？',
+  }),
+  speaking({
+    id: 'b1-s12', title: '讨论网上信息与判断依据',
+    scenario: 'Een vriend deelt een verrassend bericht en vraagt wat jij ervan vindt.',
+    prompts: ['表达初步看法，同时说明不确定之处', '提出核实信息时会看哪些方面', '用一个例子解释为什么不急于转发'],
+    phrases: [
+      { nl: 'Ik weet niet zeker of dat klopt.', zh: '我不确定这是否正确。' },
+      { nl: 'Voordat ik het deel, wil ik weten ...', zh: '转发之前，我想知道……' },
+      { nl: 'Een andere verklaring zou kunnen zijn dat ...', zh: '另一种解释可能是……' },
+    ],
+    checklist: speakingChecklist,
+    model: `Dat bericht klinkt opvallend, maar ik weet niet zeker of het klopt. Voordat ik het deel, wil ik weten wie het heeft geschreven en wanneer het is gepubliceerd. Soms wordt een oude foto bij een nieuw verhaal gebruikt. Ook probeer ik hetzelfde nieuws op een andere betrouwbare plek te vinden. Vorige week zag ik bijvoorbeeld een bericht zonder datum. Later bleek dat het over een situatie van jaren geleden ging. Daarom stel ik liever eerst een paar vragen dan dat ik het meteen doorstuur.`,
+    modelTranslation: '这条消息听起来很引人注意，但我不确定它是否正确。转发之前，我想知道是谁写的、何时发布的。有时，旧照片会被放到新故事旁边。我也会尝试在另一个可靠的地方找到相同的新闻。例如，上周我看到一条没有日期的消息，后来才发现讲的是多年前的情况。因此，我更愿意先提出几个问题，而不是马上转发。',
+  }),
+]

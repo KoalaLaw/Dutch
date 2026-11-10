@@ -1,5 +1,6 @@
 <script setup lang="ts">
-import { computed, ref } from 'vue'
+import { computed, ref, watch } from 'vue'
+import summary from '@/data/course-summary.json'
 import curriculum from '@/data/dutch-curriculum.json'
 import { useBaseStore } from '@/core/stores/base'
 import { useSettingStore } from '@/core/stores/setting'
@@ -17,6 +18,10 @@ import Logo from '@/components/Logo.vue'
 const store = useBaseStore()
 const settings = useSettingStore()
 const router = useRouter()
+const route = useRoute()
+const stage = ref('progression')
+const stages = [{id:'progression',label:'A2→B1 进阶'},{id:'b1',label:'B1 专题'},{id:'foundation',label:'基础复习'},{id:'all',label:'全部'}]
+watch(() => route.query.stage, value => { if (stages.some(item=>item.id === value)) stage.value = String(value) }, {immediate:true})
 const play = usePlayWordAudio()
 const persistence = usePracticeWordPersistence()
 const busy = ref('')
@@ -25,16 +30,19 @@ const demoInput = ref('')
 const demoIndex = ref(0)
 const demoMode = ref('跟写')
 const demo = [
-  { word: 'goedemorgen', meaning: '早上好', sentence: 'Goedemorgen, hoe gaat het met je?', translation: '早上好，你最近怎么样？' },
-  { word: 'de fiets', meaning: '自行车 · de-woord', sentence: 'Ik ga met de fiets naar mijn werk.', translation: '我骑自行车去上班。' },
-  { word: 'alsjeblieft', meaning: '请；给你 · 非正式', sentence: 'Een kopje thee, alsjeblieft.', translation: '请给我一杯茶。' },
-  { word: 'gezellig', meaning: '温馨的；愉快的', sentence: 'Wat een gezellige avond!', translation: '多么愉快的夜晚！' },
-  { word: 'één', meaning: '一个（重读形式）', sentence: 'Eén koffie, alstublieft.', translation: '请来一杯咖啡。' },
+  { word:'volgens mij',meaning:'我认为；依我看',sentence:'Volgens mij moeten we eerst de oorzaak onderzoeken.',translation:'我认为我们应当先调查原因。' },
+  { word:'de verantwoordelijkheid',meaning:'责任；职责 · de-woord',sentence:'Wie draagt de verantwoordelijkheid voor dit project?',translation:'谁对这个项目负责？' },
+  { word:'rekening houden met',meaning:'考虑到；顾及',sentence:'We moeten rekening houden met verschillende meningen.',translation:'我们必须考虑不同的意见。' },
+  { word:'hoewel',meaning:'虽然 · 从句连接词',sentence:'Hoewel het regent, gaan we toch naar buiten.',translation:'虽然下雨，我们还是要出门。' },
+  { word:'de ontwikkeling',meaning:'发展；变化 · de-woord',sentence:'Ik volg de ontwikkelingen omdat dit onderwerp belangrijk is.',translation:'我关注这些进展，因为这个话题很重要。' },
 ]
+
 const current = computed(() => demo[demoIndex.value])
 const correct = computed(() => normalizeDutchInput(demoInput.value) === current.value.word)
-const filtered = computed(() => curriculum.filter(pack => `${pack.name} ${pack.subtitle} ${pack.level}`.toLowerCase().includes(search.value.toLowerCase())))
-const learned = computed(() => store.word.bookList.slice(3).reduce((sum, pack) => sum + (pack.complete ? pack.length : Math.min(pack.lastLearnIndex || 0, pack.length)), 0))
+const filtered = computed(() => curriculum.filter(pack =>
+  (stage.value === 'all' || (stage.value === 'foundation' ? pack.stage === 'foundation' : stage.value === 'b1' ? pack.stage === 'b1' : pack.stage !== 'foundation')) &&
+  `${pack.name} ${pack.subtitle} ${pack.level}`.toLowerCase().includes(search.value.toLowerCase())))
+const learned = computed(() => store.word.bookList.filter(pack => curriculum.some(item=>item.id === pack.id)).reduce((sum, pack) => sum + (pack.complete ? pack.length : Math.min(pack.lastLearnIndex || 0, pack.length)), 0))
 const today = computed(() => {
   const key = new Date().toLocaleDateString()
   return store.word.bookList.flatMap(pack => pack.statistics ?? [])
@@ -71,11 +79,11 @@ async function openPack(pack = curriculum[0]) {
 }
 function continueStudy() {
   if (store.word.studyIndex >= 3) router.push('/words')
-  else openPack()
+  else openPack(curriculum.find(pack=>pack.stage !== 'foundation')!)
 }
 function nextDemo() { demoIndex.value = (demoIndex.value + 1) % demo.length; demoInput.value = '' }
 function setDemoMode(mode: string) { demoMode.value = mode; demoInput.value = ''; if (mode === '听写') play(current.value.word) }
-useSeoMeta({ title: 'Type Dutch · 每天敲一点荷兰语', description: '为中文使用者设计的荷兰语入门练习。180 个主题词汇、双语对话、荷兰语发音与间隔复习。' })
+useSeoMeta({ title: 'Type Dutch · 每天敲一点荷兰语', description: `${summary.wordCount} 条词汇与搭配、B1 语法、阅读理解、写作与口语训练。`  })
 </script>
 
 <template>
@@ -84,16 +92,16 @@ useSeoMeta({ title: 'Type Dutch · 每天敲一点荷兰语', description: '为�
     <main class="home-main">
       <section class="intro-grid">
         <div class="intro-copy">
-          <div class="eyebrow"><span class="flag"><i></i><i></i><i></i></span>从第一句 Hallo 开始</div>
-          <h1>每天敲一点，<br>离荷兰语<span>近一点。</span></h1>
-          <p class="intro-desc">听一遍，敲一遍，再记住一点。<br>用真实生活里的词和句子，慢慢把荷兰语变成日常。</p>
-          <div class="intro-actions"><button class="primary-button" :disabled="!store.load || !!busy" @click="continueStudy">{{ busy ? '正在打开…' : store.word.studyIndex >= 3 ? '继续我的学习' : '开始第一课' }} <span>↗</span></button><NuxtLink to="/articles" class="text-button">练习生活对话 <span>→</span></NuxtLink></div>
-          <div class="intro-foot"><span class="tiny-dot"></span> A1–A2 入门 <span>·</span> 中文释义 <span>·</span> 每天 10 个词</div>
+          <div class="eyebrow"><span class="flag"><i></i><i></i><i></i></span>你的下一站 · B1</div>
+          <h1>不只记住单词，<br>开始用荷兰语<span>表达自己。</span></h1>
+          <p class="intro-desc">从词汇和句型，到理解、写作与口语。<br>围绕真实的生活与工作场景，一步步走向 B1。</p>
+          <div class="intro-actions"><NuxtLink to="/b1" class="primary-button">进入 B1 学习中心 <span>↗</span></NuxtLink><button class="text-button" @click="continueStudy" :disabled="!store.load || !!busy">继续词汇练习 <span>→</span></button></div>
+          <div class="intro-foot"><span class="tiny-dot"></span> A1→B1 路线 <span>·</span> 中文辅助 <span>·</span> 读写说练习</div>
         </div>
         <div class="demo-card">
           <div class="demo-top"><span><i class="live-dot"></i> 现在就试一试</span><span class="demo-count">{{ String(demoIndex + 1).padStart(2, '0') }} / 05</span></div>
           <div class="demo-tabs" role="group" aria-label="体验练习模式"><button v-for="mode in ['跟写', '听写', '默写']" :key="mode" :class="{ selected: demoMode === mode }" @click="setDemoMode(mode)">{{ mode }}</button></div>
-          <div class="demo-word" lang="nl"><template v-if="demoMode === '跟写' || correct"><span v-for="(letter, i) in current.word" :key="i" :class="{ typed: demoInput[i] === letter, mistaken: demoInput[i] && demoInput[i] !== letter }">{{ letter }}</span></template><span v-else class="masked">{{ demoMode === '听写' ? '听一听，写下来' : '想一想，写下来' }}</span><button class="speak-button" aria-label="播放荷兰语发音" title="播放荷兰语发音" @click="play(current.word)"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.6"><path d="M11 5 6 9H3v6h3l5 4zM15 8a6 6 0 0 1 0 8m3-11a10 10 0 0 1 0 14"/></svg></button></div>
+          <div class="demo-word" lang="nl" :style="{fontSize:current.word.length > 18 ? 'clamp(16px, 1.8vw, 24px)' : undefined}"><template v-if="demoMode === '跟写' || correct"><span v-for="(letter, i) in current.word" :key="i" :class="{ typed: demoInput[i] === letter, mistaken: demoInput[i] && demoInput[i] !== letter }">{{ letter }}</span></template><span v-else class="masked">{{ demoMode === '听写' ? '听一听，写下来' : '想一想，写下来' }}</span><button class="speak-button" aria-label="播放荷兰语发音" title="播放荷兰语发音" @click="play(current.word)"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.6"><path d="M11 5 6 9H3v6h3l5 4zM15 8a6 6 0 0 1 0 8m3-11a10 10 0 0 1 0 14"/></svg></button></div>
           <div class="demo-meaning">{{ current.meaning }}</div>
           <label class="demo-input-label"><span class="sr-only">输入荷兰语单词</span><input v-model="demoInput" lang="nl" autocomplete="off" autocapitalize="off" spellcheck="false" aria-label="输入荷兰语单词" placeholder="在这里输入荷兰语…" :class="{ complete: correct }" @keydown.enter.prevent="correct ? nextDemo() : play(current.word)"/><span v-if="correct" class="success-mark">Goed zo! ✓</span></label>
           <div v-if="demoMode === '跟写' || correct" class="demo-example"><span lang="nl">{{ current.sentence }}</span><small>{{ current.translation }}</small></div><div v-else class="demo-example"><span>把听到的或记得的单词输入上方</span><small>需要提示时，切换回「跟写」</small></div>
@@ -102,22 +110,24 @@ useSeoMeta({ title: 'Type Dutch · 每天敲一点荷兰语', description: '为�
       </section>
       <section class="progress-strip" aria-label="学习概览">
         <div class="daily-progress"><div class="progress-ring" :style="{ '--progress': `${Math.min(today / goal, 1) * 100}%` }"><span>{{ Math.min(today, goal) }}<small>/{{ goal }}</small></span></div><div><strong>一点点，也算进步。</strong><p>今日已练习 {{ today }} 个词 · 目标 {{ goal }} 个</p></div></div>
-        <div class="stat"><strong>{{ learned }}<small>/ 180</small></strong><span>已学词汇</span></div>
+        <div class="stat"><strong>{{ learned }}<small>/ {{ summary.wordCount }}</small></strong><span>已学词汇</span></div>
         <NuxtLink to="/words" class="stat stat-link"><strong>{{ store.wrong?.words?.length ?? 0 }}<small>个</small></strong><span>错词，值得再见一面 <b>↗</b></span></NuxtLink>
         <NuxtLink to="/setting?index=4" class="audio-tip"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5"><path d="M4 14v-3a8 8 0 0 1 16 0v3M4 12h3v8H4zm13 0h3v8h-3z"/></svg><div>先听见，再记住<small>设置你的荷兰语语音 →</small></div></NuxtLink>
       </section>
       <section class="course-section">
-        <div class="section-heading"><div><span class="section-kicker">JE EERSTE WOORDEN</span><h2>从生活里，认识荷兰语</h2><p>六个主题，每组 30 词。名词连同 de / het 一起学。</p></div><label class="course-search"><svg viewBox="0 0 20 20" fill="none" stroke="currentColor" stroke-width="1.5"><circle cx="8.5" cy="8.5" r="5.5"/><path d="m13 13 4 4"/></svg><input v-model="search" aria-label="搜索主题词库" placeholder="找一个感兴趣的主题"/></label></div>
-        <div class="course-grid"><button v-for="pack in filtered" :key="pack.id" class="course-card" :class="pack.color" :disabled="!!busy || !store.load" @click="openPack(pack)"><div class="course-card-top"><span class="course-number">{{ pack.icon }}</span><span class="level">{{ pack.level }}</span></div><span class="course-dutch" lang="nl">{{ pack.subtitle }}</span><h3>{{ pack.name }}</h3><p>{{ pack.description }}</p><div class="course-progress"><span :style="{ width: `${lessonProgress(pack.id) / pack.length * 100}%` }"></span></div><div class="course-card-bottom"><span>{{ lessonProgress(pack.id) }} / {{ pack.length }} 词</span><span class="course-arrow">{{ busy === pack.id ? '…' : '↗' }}</span></div></button></div>
-        <p v-if="!filtered.length" class="empty-search">没有找到这个主题，试试“家庭”“交通”或“A1”。</p>
+        <div class="section-heading"><div><span class="section-kicker">JE EERSTE WOORDEN</span><h2>把生活，变成你的词汇库</h2><p>{{ summary.packCount }} 个主题 · {{ summary.wordCount }} 条词汇与搭配，每条配双语例句。</p></div><label class="course-search"><svg viewBox="0 0 20 20" fill="none" stroke="currentColor" stroke-width="1.5"><circle cx="8.5" cy="8.5" r="5.5"/><path d="m13 13 4 4"/></svg><input v-model="search" aria-label="搜索主题词库" placeholder="找一个感兴趣的主题"/></label></div>
+        <div class="stage-filters" role="group" aria-label="词库学习阶段"><button v-for="item in stages" :key="item.id" :aria-pressed="stage === item.id" :class="{active:stage === item.id}" @click="stage=item.id">{{ item.label }}</button><span>当前 {{ filtered.length }} 组</span></div><div class="course-grid"><button v-for="pack in filtered" :key="pack.id" class="course-card" :class="pack.color" :disabled="!!busy || !store.load" @click="openPack(pack)"><div class="course-card-top"><span class="course-number">{{ pack.icon }}</span><span class="level">{{ pack.level }}</span></div><span class="course-dutch" lang="nl">{{ pack.subtitle }}</span><h3>{{ pack.name }}</h3><p>{{ pack.description }}</p><div class="course-progress"><span :style="{ width: `${lessonProgress(pack.id) / pack.length * 100}%` }"></span></div><div class="course-card-bottom"><span>{{ lessonProgress(pack.id) }} / {{ pack.length }} 词</span><span class="course-arrow">{{ busy === pack.id ? '…' : '↗' }}</span></div></button></div>
+        <p v-if="!filtered.length" class="empty-search">当前阶段没有找到这个主题。可以切换到“全部”，或搜索“工作”“住房”“环境”。</p>
       </section>
-      <section class="dialogue-banner"><div class="dialogue-art" aria-hidden="true"><span>“</span><b>Hoi!</b><i>Hallo.</i></div><div><span class="section-kicker">VAN WOORD NAAR GESPREK</span><h2>把单词，放进对话里。</h2><p>咖啡馆、火车站、看医生……8 段双语短对话，练习真正用得上的句子。</p></div><NuxtLink to="/articles">开始对话练习 <span>→</span></NuxtLink></section>
+      <section class="b1-banner"><div><span class="section-kicker">VAN WOORD NAAR VAARDIGHEID</span><h2>B1，需要把词连成自己的表达。</h2><p>{{ summary.grammarCount }} 个语法单元 · {{ summary.readingCount }} 篇阅读 · {{ summary.writingCount }} 个写作任务 · {{ summary.speakingCount }} 个口语任务</p></div><NuxtLink to="/b1">打开完整学习路线 →</NuxtLink></section><section class="dialogue-banner"><div class="dialogue-art" aria-hidden="true"><span>“</span><b>Hoi!</b><i>Hallo.</i></div><div><span class="section-kicker">VAN WOORD NAAR GESPREK</span><h2>把单词，放进对话里。</h2><p>咖啡馆、火车站、看医生……8 段双语短对话，练习真正用得上的句子。</p></div><NuxtLink to="/articles">开始对话练习 <span>→</span></NuxtLink></section>
       <footer class="home-footer"><span>Rustig aan. Elke dag een beetje. <small>慢慢来，每天一点点。</small></span><a href="https://github.com/zyronon/TypeWords" target="_blank" rel="noopener noreferrer">基于 TypeWords · GPL-3.0</a><a href="https://github.com/KoalaLaw/Dutch" target="_blank" rel="noopener noreferrer">GitHub ↗</a></footer>
     </main>
   </div>
 </template>
 
 <style scoped>
+.stage-filters{display:flex;gap:8px;align-items:center;flex-wrap:wrap;margin:-5px 0 22px}.stage-filters button{border:1px solid #e1e6d7;background:#fffefa;color:#91a07e;border-radius:20px;padding:7px 13px;font-size:11px}.stage-filters button.active{background:#e8efdf;color:#5e7b4b;border-color:#b9cc9f}.stage-filters>span{font-size:10px;color:#a2ad92;margin-left:auto}.text-button{border:0;background:transparent;padding:0;cursor:pointer}.b1-banner{display:flex;align-items:center;gap:20px;padding:26px 28px;margin-bottom:24px;background:#f6e9db;border:1px solid #efddc8;border-radius:9px}.b1-banner h2{font-size:21px;font-weight:600;margin:8px 0;color:#835d3e}.b1-banner p{font-size:11px;color:#b39775;line-height:1.9}.b1-banner>a{margin-left:auto;font-size:11px;white-space:nowrap;padding:11px 15px;border:1px solid #dfc4a3;border-radius:6px;color:#a77b4c;background:#fffaf1}@media(max-width:760px){.b1-banner{flex-wrap:wrap;padding:20px}.b1-banner h2{font-size:18px}.b1-banner>a{margin-left:0}.intro-actions{flex-wrap:wrap}}
+
 .dutch-home{--ink:#253b37;--muted:#73817a;--line:#e6e7dc;--orange:#dc653b;background:#fafaf5;color:var(--ink);font-family:Inter,"Segoe UI","Microsoft YaHei",sans-serif;height:100%;overflow:auto;font-size:14px}
 *{box-sizing:border-box}button,input{font:inherit}button,a,input{outline-offset:5px}button{cursor:pointer}button:disabled{opacity:.55;cursor:wait}a{text-decoration:none;color:inherit}button{color:inherit}button:focus-visible,a:focus-visible{outline:2px solid var(--orange)}
 .home-top{max-width:1240px;margin:auto;display:flex;align-items:center;gap:24px;padding:25px 40px;border-bottom:1px solid var(--line)}.edition{font-size:9px;letter-spacing:2px;color:#8d978e}.quiet-link{margin-left:auto;font-size:12px;color:#63756b}.quiet-link span{margin-left:12px}.home-main{max-width:1240px;margin:auto;padding:0 40px}.intro-grid{display:grid;grid-template-columns:1.1fr 1fr;gap:65px;padding:60px 0 46px;align-items:center}.eyebrow{display:flex;gap:10px;align-items:center;color:#7d7c63;font-size:12px;letter-spacing:1px}.flag{display:flex;flex-direction:column;width:20px;height:14px;border:1px solid #d6d8d0;transform:rotate(-4deg)}.flag i{height:33.333%;background:#bc4743}.flag i:nth-child(2){background:white}.flag i:last-child{background:#304d72}h1{font-size:clamp(30px,3.2vw,48px);font-weight:650;line-height:1.5;letter-spacing:-1.5px;margin:17px 0}h1>span{color:var(--orange)}.intro-desc{line-height:2;color:#7a847b;font-size:13px;margin:12px 0 25px}.intro-actions{display:flex;align-items:center;gap:23px}.primary-button{display:flex;align-items:center;gap:30px;background:var(--orange);color:white;border:0;border-radius:7px;padding:13px 22px;font-weight:600;box-shadow:0 4px 9px #dc653b12}.primary-button:hover{background:#c65630}.text-button{font-size:12px;font-weight:500}.text-button span{margin-left:10px}.intro-foot{font-size:10px;display:flex;gap:11px;align-items:center;color:#8e9485;margin-top:19px}.tiny-dot{background:#6f907c;width:5px;height:5px;border-radius:50%}

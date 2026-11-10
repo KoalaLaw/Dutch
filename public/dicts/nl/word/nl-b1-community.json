@@ -1,0 +1,782 @@
+[
+  {
+    "id": "nl-b1-community-1",
+    "word": "de bewoner",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "居民"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "De bewoners mogen zelf ideeën voor het plein voorstellen.",
+        "cn": "居民可以自己提出广场改造的想法。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-b1-community-2",
+    "word": "de inwoner",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "（某地的）居民"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Nieuwe inwoners kunnen tijdens de bijeenkomst kennismaken met verenigingen.",
+        "cn": "新居民可以在聚会上了解当地协会。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-b1-community-3",
+    "word": "de vrijwilliger",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "志愿者"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Een vrijwilliger helpt mij om de brieven te begrijpen.",
+        "cn": "一位志愿者帮助我理解这些信件。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-b1-community-4",
+    "word": "het vrijwilligerswerk",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "志愿服务"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Door vrijwilligerswerk leer je mensen uit je omgeving kennen.",
+        "cn": "通过志愿服务，你可以结识周围的人。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-b1-community-5",
+    "word": "de vereniging",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "协会；社团"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Bij de vereniging kun je sporten en nieuwe contacten leggen.",
+        "cn": "在社团里，你可以运动并结交新朋友。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-b1-community-6",
+    "word": "het buurthuis",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "社区活动中心"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "In het buurthuis worden iedere week verschillende activiteiten georganiseerd.",
+        "cn": "社区活动中心每周都会组织不同的活动。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-b1-community-7",
+    "word": "de bijeenkomst",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "聚会；会议"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Tijdens de bijeenkomst vertelden bewoners waar ze behoefte aan hebben.",
+        "cn": "聚会上，居民说了他们有哪些需求。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-b1-community-8",
+    "word": "het evenement",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "活动；大型事件"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Voor het evenement zoeken we mensen die willen helpen.",
+        "cn": "我们正在为这次活动寻找愿意帮忙的人。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-b1-community-9",
+    "word": "de deelnemer",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "参加者"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Elke deelnemer mag aan het einde een vraag stellen.",
+        "cn": "每位参加者在最后都可以提问。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-b1-community-10",
+    "word": "de deelname",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "参与；参加"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Voor deelname hoef je geen ervaring te hebben.",
+        "cn": "参加这项活动不需要经验。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-b1-community-11",
+    "word": "de activiteit",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "活动"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Welke activiteit zou u graag in de buurt willen organiseren?",
+        "cn": "您希望在社区组织什么活动？"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-b1-community-12",
+    "word": "het initiatief",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "倡议；主动行动"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Het initiatief kwam van een groep ouders uit de wijk.",
+        "cn": "这个倡议来自街区里的一群家长。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-b1-community-13",
+    "word": "de ontmoeting",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "会面；相遇"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "De ontmoeting was gezellig omdat iedereen iets had meegenomen.",
+        "cn": "因为每个人都带了些东西，这次聚会很愉快。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-b1-community-14",
+    "word": "de uitnodiging",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "邀请"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "In de uitnodiging staat dat kinderen ook welkom zijn.",
+        "cn": "邀请中写明也欢迎孩子参加。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-b1-community-15",
+    "word": "de aanmelding",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "报名；登记"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Na je aanmelding krijg je een bericht met meer informatie.",
+        "cn": "报名后，你会收到一条包含更多信息的消息。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-b1-community-16",
+    "word": "de omgeving",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "周围环境"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Sinds ik meer wandel, ken ik mijn omgeving een stuk beter.",
+        "cn": "自从散步多了之后，我更熟悉周围的环境了。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-b1-community-17",
+    "word": "de samenleving",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "社会"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Taal helpt je om actief aan de samenleving deel te nemen.",
+        "cn": "语言能帮助你积极参与社会生活。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-b1-community-18",
+    "word": "de behoefte",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "需求"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Er is in onze wijk behoefte aan meer rustige ontmoetingsplekken.",
+        "cn": "我们的街区需要更多安静的会面场所。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-b1-community-19",
+    "word": "de bijdrage",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "贡献；费用分摊"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Iedereen levert op zijn eigen manier een bijdrage.",
+        "cn": "每个人都以自己的方式作出贡献。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-b1-community-20",
+    "word": "een afspraak maken",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "搭配",
+        "cn": "约定；预约"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "We willen een afspraak maken om de plannen verder te bespreken.",
+        "cn": "我们想约个时间，进一步讨论这些计划。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-b1-community-21",
+    "word": "deelnemen aan",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "搭配",
+        "cn": "参加……"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Ik wil deelnemen aan een activiteit waarbij ik Nederlands kan oefenen.",
+        "cn": "我想参加一项可以练习荷兰语的活动。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-b1-community-22",
+    "word": "bijdragen aan",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "搭配",
+        "cn": "为……作出贡献"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Met een paar uur per week kun je bijdragen aan een prettige buurt.",
+        "cn": "每周花几个小时，你就能为营造宜人的社区作出贡献。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-b1-community-23",
+    "word": "aanmelden voor",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "搭配",
+        "cn": "报名参加……"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Je kunt je aanmelden voor de bijeenkomst via de website.",
+        "cn": "你可以通过网站报名参加聚会。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-b1-community-24",
+    "word": "kennismaken met",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "搭配",
+        "cn": "认识；初次了解"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Tijdens de eerste avond maken we kennis met elkaar.",
+        "cn": "第一晚，我们互相认识一下。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-b1-community-25",
+    "word": "uitnodigen",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "",
+        "cn": "邀请"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "We nodigen ook mensen uit die pas in de buurt wonen.",
+        "cn": "我们也邀请刚搬来这个街区的人。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-b1-community-26",
+    "word": "meedoen",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "",
+        "cn": "参与；一起做"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Je mag ook meedoen als je nog weinig Nederlands spreekt.",
+        "cn": "即使你说的荷兰语还不多，也可以参加。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-b1-community-27",
+    "word": "ondersteunen",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "",
+        "cn": "支持；协助"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "De vrijwilligers ondersteunen bewoners bij eenvoudige vragen.",
+        "cn": "志愿者协助居民处理一些简单的问题。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-b1-community-28",
+    "word": "samenwerken",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "",
+        "cn": "合作"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Verschillende verenigingen werken samen om het feest te organiseren.",
+        "cn": "不同的协会合作组织这次庆祝活动。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-b1-community-29",
+    "word": "toegankelijk",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "",
+        "cn": "容易进入的；易懂的"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "We zoeken een locatie die voor alle deelnemers toegankelijk is.",
+        "cn": "我们在寻找一个所有参加者都方便进入的地点。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-b1-community-30",
+    "word": "vrijwillig",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "",
+        "cn": "自愿的"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Deelname is vrijwillig, dus je kunt zelf beslissen of je komt.",
+        "cn": "参加是自愿的，因此你可以自己决定是否前来。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  }
+]

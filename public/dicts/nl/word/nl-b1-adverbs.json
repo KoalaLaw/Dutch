@@ -1,0 +1,782 @@
+[
+  {
+    "id": "nl-b1-adverbs-1",
+    "word": "vermoedelijk",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "",
+        "cn": "推测；很可能"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "De bijeenkomst wordt vermoedelijk verplaatst, omdat de zaal niet beschikbaar is.",
+        "cn": "由于场地无法使用，聚会很可能会改期。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-b1-adverbs-2",
+    "word": "blijkbaar",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "",
+        "cn": "显然；看来"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "De winkel is blijkbaar gesloten, want er hangt een briefje op de deur.",
+        "cn": "商店看来已经关门了，因为门上贴着一张告示。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-b1-adverbs-3",
+    "word": "kennelijk",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "",
+        "cn": "显然；看来"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Kennelijk was mijn uitleg niet duidelijk, want iedereen stelde dezelfde vraag.",
+        "cn": "我的说明显然不够清楚，因为每个人都问了同样的问题。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-b1-adverbs-4",
+    "word": "nauwelijks",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "",
+        "cn": "几乎不；几乎没有"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Ik kon de spreker nauwelijks verstaan doordat er veel achtergrondgeluid was.",
+        "cn": "由于背景噪声很大，我几乎听不清发言者的话。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-b1-adverbs-5",
+    "word": "bijna",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "",
+        "cn": "几乎；差一点"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Ik was bijna vergeten dat we vandaag een afspraak hadden.",
+        "cn": "我差点忘了我们今天有约。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-b1-adverbs-6",
+    "word": "ongeveer",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "",
+        "cn": "大约"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Het duurt ongeveer een halfuur voordat je bij het museum bent.",
+        "cn": "到博物馆大约需要半个小时。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-b1-adverbs-7",
+    "word": "precies",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "",
+        "cn": "准确地；恰好"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Kun je precies uitleggen op welk moment het probleem ontstaat?",
+        "cn": "你能准确说明问题是在什么时候出现的吗？"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-b1-adverbs-8",
+    "word": "minstens",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "",
+        "cn": "至少"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Voor deze opdracht moet je minstens twee redenen noemen.",
+        "cn": "这个任务要求你至少说出两个理由。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-b1-adverbs-9",
+    "word": "hoogstens",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "",
+        "cn": "最多"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "We kunnen hoogstens acht mensen meenemen, omdat de bus niet groter is.",
+        "cn": "我们最多能带八个人，因为车没有更大的空间。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-b1-adverbs-10",
+    "word": "regelmatig",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "",
+        "cn": "定期地；经常地"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Ik oefen regelmatig, ook als ik maar tien minuten tijd heb.",
+        "cn": "即使只有十分钟，我也会经常练习。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-b1-adverbs-11",
+    "word": "geleidelijk",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "",
+        "cn": "逐渐地"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Geleidelijk werd het makkelijker om langere gesprekken te voeren.",
+        "cn": "进行较长对话逐渐变得容易了。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-b1-adverbs-12",
+    "word": "vooral",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "",
+        "cn": "尤其；主要"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Ik vind deze cursus vooral nuttig omdat we veel zelf moeten spreken.",
+        "cn": "我觉得这门课尤其有用，因为我们需要自己大量开口说话。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-b1-adverbs-13",
+    "word": "eigenlijk",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "",
+        "cn": "其实；实际上"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Eigenlijk wilde ik thuisblijven, maar ik ben toch meegegaan.",
+        "cn": "其实我本来想待在家里，但还是一起去了。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-b1-adverbs-14",
+    "word": "immers",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "",
+        "cn": "毕竟；因为本来就……"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "We moeten duidelijk communiceren; niet iedereen kent immers het hele verhaal.",
+        "cn": "我们必须沟通清楚，毕竟不是每个人都了解事情的全貌。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-b1-adverbs-15",
+    "word": "overigens",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "",
+        "cn": "顺便说一下；此外"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Overigens kun je de materialen ook na de cursus blijven gebruiken.",
+        "cn": "顺便说一下，课程结束后你也可以继续使用这些材料。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-b1-adverbs-16",
+    "word": "daarentegen",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "",
+        "cn": "相反；相比之下"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Mijn broer houdt van drukke steden; ik zoek daarentegen liever de rust op.",
+        "cn": "我兄弟喜欢热闹的城市，而我更愿意寻找清静的地方。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-b1-adverbs-17",
+    "word": "inmiddels",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "",
+        "cn": "到现在；这期间已经"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Toen ik aankwam, waren de andere deelnemers inmiddels al begonnen.",
+        "cn": "我到达时，其他参加者已经开始了。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-b1-adverbs-18",
+    "word": "onmiddellijk",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "",
+        "cn": "立即；马上"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Laat het ons onmiddellijk weten als er iets verandert.",
+        "cn": "如果有变化，请立即告诉我们。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-b1-adverbs-19",
+    "word": "voortdurend",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "",
+        "cn": "不断地；持续地"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Het is lastig om te lezen als je voortdurend wordt onderbroken.",
+        "cn": "如果不断被打断，阅读会很困难。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-b1-adverbs-20",
+    "word": "tot nu toe",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "搭配",
+        "cn": "到目前为止"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Tot nu toe heb ik vooral korte teksten geschreven, maar ik wil meer oefenen.",
+        "cn": "到目前为止，我主要写过短文，但我想多练习。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-b1-adverbs-21",
+    "word": "opnieuw",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "",
+        "cn": "再次；重新"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "We bekijken het plan opnieuw nadat we de reacties hebben verzameld.",
+        "cn": "收集完反馈后，我们会重新审视这个计划。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-b1-adverbs-22",
+    "word": "gedeeltelijk",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "",
+        "cn": "部分地"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "De bijeenkomst wordt gedeeltelijk online gehouden, zodat meer mensen kunnen deelnemen.",
+        "cn": "聚会将部分在线进行，让更多人能够参加。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-b1-adverbs-23",
+    "word": "uitvoerig",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "",
+        "cn": "详尽地；详细的"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "De begeleider legde uitvoerig uit waarom de aanpak was veranderd.",
+        "cn": "辅导员详细解释了为什么改变了处理方式。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-b1-adverbs-24",
+    "word": "uitsluitend",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "",
+        "cn": "仅限于；只"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Deze ruimte wordt uitsluitend gebruikt voor activiteiten van de vereniging.",
+        "cn": "这个场所仅用于协会的活动。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-b1-adverbs-25",
+    "word": "eventueel",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "",
+        "cn": "必要时；如果需要；可能地"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "We kunnen eventueel een tweede afspraak maken als er nog vragen zijn.",
+        "cn": "如果还有问题，我们必要时可以再约一次。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-b1-adverbs-26",
+    "word": "meestal",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "",
+        "cn": "通常；大多时候"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Meestal begrijp ik de hoofdgedachte, ook als ik niet elk woord ken.",
+        "cn": "即使不是每个词都认识，我通常也能理解主要意思。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-b1-adverbs-27",
+    "word": "zelden",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "",
+        "cn": "很少；难得"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Ik reis zelden met de auto, omdat het station vlakbij is.",
+        "cn": "我很少开车出行，因为车站就在附近。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-b1-adverbs-28",
+    "word": "tamelijk",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "",
+        "cn": "相当；比较"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "De opdracht was tamelijk moeilijk, maar met de voorbeelden lukte het.",
+        "cn": "任务比较难，不过借助例子还是完成了。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-b1-adverbs-29",
+    "word": "behoorlijk",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "",
+        "cn": "相当；颇为"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Sinds ik dagelijks oefen, is mijn woordenschat behoorlijk gegroeid.",
+        "cn": "自从每天练习以来，我的词汇量增长了不少。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-b1-adverbs-30",
+    "word": "ondertussen",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "",
+        "cn": "与此同时；在此期间"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Jij kunt de tekst lezen; ondertussen zet ik de vragen klaar.",
+        "cn": "你可以先读文章，与此同时我把问题准备好。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  }
+]

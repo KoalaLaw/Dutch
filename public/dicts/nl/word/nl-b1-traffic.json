@@ -1,0 +1,782 @@
+[
+  {
+    "id": "nl-b1-traffic-1",
+    "word": "het verkeer",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "交通；车流"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Omdat het verkeer druk was, kwamen we later aan dan verwacht.",
+        "cn": "因为交通拥堵，我们比预期更晚到达。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-b1-traffic-2",
+    "word": "de verkeersregel",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "交通规则"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Ook als je haast hebt, moet je de verkeersregels volgen.",
+        "cn": "即使赶时间，你也必须遵守交通规则。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-b1-traffic-3",
+    "word": "het kruispunt",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "十字路口；交叉路口"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Bij het volgende kruispunt moet je goed naar de borden kijken.",
+        "cn": "到下一个路口时，你要仔细看路标。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-b1-traffic-4",
+    "word": "de rotonde",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "环岛"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "We nemen de tweede afslag op de rotonde en rijden daarna rechtdoor.",
+        "cn": "我们从环岛的第二个出口驶出，然后直行。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-b1-traffic-5",
+    "word": "het stoplicht",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "交通信号灯"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Hij stopte op tijd toen het stoplicht op rood sprong.",
+        "cn": "信号灯变红时，他及时停了下来。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-b1-traffic-6",
+    "word": "het fietspad",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "自行车道"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Het fietspad is tijdelijk afgesloten omdat er aan de brug wordt gewerkt.",
+        "cn": "由于桥梁施工，自行车道暂时关闭。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-b1-traffic-7",
+    "word": "het zebrapad",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "人行横道；斑马线"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "De kinderen wachten bij het zebrapad totdat de auto's stoppen.",
+        "cn": "孩子们在人行横道旁等到汽车停下。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-b1-traffic-8",
+    "word": "de stoep",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "人行道"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Laat genoeg ruimte op de stoep, zodat anderen erlangs kunnen.",
+        "cn": "在人行道上留出足够的空间，让别人可以通过。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-b1-traffic-9",
+    "word": "de voetganger",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "行人"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "De bestuurder zag de voetganger pas toen die bijna bij de overkant was.",
+        "cn": "司机直到行人快走到对面时才看见对方。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-b1-traffic-10",
+    "word": "de bestuurder",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "驾驶员"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "De bestuurder verlaagde zijn snelheid omdat het zicht slecht was.",
+        "cn": "由于视线不好，驾驶员降低了车速。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-b1-traffic-11",
+    "word": "het rijbewijs",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "驾驶执照"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Ze wil haar rijbewijs halen voordat ze naar een kleiner dorp verhuist.",
+        "cn": "她想在搬到一个较小的村庄前考取驾照。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-b1-traffic-12",
+    "word": "de veiligheid",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "安全"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Bij het ontwerp van het nieuwe plein staat de veiligheid voorop.",
+        "cn": "新广场的设计首先考虑安全。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-b1-traffic-13",
+    "word": "de snelheid",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "速度"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Pas je snelheid aan wanneer het wegdek nat of glad is.",
+        "cn": "路面湿滑时，请调整车速。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-b1-traffic-14",
+    "word": "de voorrang",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "优先通行权"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Ik twijfelde even wie er op dit kruispunt voorrang had.",
+        "cn": "我一时不确定在这个路口谁有优先通行权。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-b1-traffic-15",
+    "word": "de verkeersboete",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "交通罚款"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Hij kreeg een verkeersboete omdat hij verkeerd had geparkeerd.",
+        "cn": "他因为停车不当而收到交通罚款。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-b1-traffic-16",
+    "word": "de file",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "交通堵塞；堵车队伍"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Volgens de radio staat er een lange file op de snelweg.",
+        "cn": "据广播报道，高速公路上排起了长长的车队。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-b1-traffic-17",
+    "word": "de omleiding",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "绕行路线"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Door de omleiding duurt de reis ongeveer twintig minuten langer.",
+        "cn": "由于绕行，行程大约多花二十分钟。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-b1-traffic-18",
+    "word": "het ongeval",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "事故"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Na het ongeval bleef een deel van de weg afgesloten.",
+        "cn": "事故发生后，部分道路仍然关闭。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-b1-traffic-19",
+    "word": "de veiligheidsgordel",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "安全带"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Controleer voor vertrek of iedereen zijn veiligheidsgordel draagt.",
+        "cn": "出发前，检查所有人是否都系上了安全带。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-b1-traffic-20",
+    "word": "de spits",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "交通高峰期"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Als ik buiten de spits reis, is het meestal rustiger.",
+        "cn": "如果避开高峰期出行，通常会更清静。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-b1-traffic-21",
+    "word": "oversteken",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "",
+        "cn": "横穿；过马路"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Kijk goed naar beide kanten voordat je de straat oversteekt.",
+        "cn": "过马路之前，仔细看看两边。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-b1-traffic-22",
+    "word": "inhalen",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "",
+        "cn": "超车；赶上"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "De chauffeur haalde de fietser pas in toen er genoeg ruimte was.",
+        "cn": "司机直到有足够空间时才超过骑车人。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-b1-traffic-23",
+    "word": "afremmen",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "",
+        "cn": "减速；刹车"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Je moet eerder afremmen wanneer de weg glad is.",
+        "cn": "路面湿滑时，你必须提前减速。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-b1-traffic-24",
+    "word": "uitwijken",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "",
+        "cn": "避让；改变行进方向"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "De fietser moest uitwijken voor een doos die op het fietspad lag.",
+        "cn": "骑车人不得不避让自行车道上的一个箱子。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-b1-traffic-25",
+    "word": "voorrang verlenen",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "搭配",
+        "cn": "让行"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Bij dit bord moet je voorrang verlenen aan het verkeer op de andere weg.",
+        "cn": "看到这个标志时，你必须给另一条路上的车辆让行。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-b1-traffic-26",
+    "word": "zich aan de regels houden",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "搭配",
+        "cn": "遵守规则"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Iedereen moet zich aan de regels houden, ook op een rustige weg.",
+        "cn": "即使在安静的道路上，每个人也都应该遵守规则。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-b1-traffic-27",
+    "word": "de richtingaanwijzer",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "转向灯"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Gebruik je richtingaanwijzer om duidelijk te maken welke kant je opgaat.",
+        "cn": "使用转向灯，明确表示你要往哪个方向走。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-b1-traffic-28",
+    "word": "het wegdek",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "路面"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Het wegdek is beschadigd, waardoor fietsers extra moeten opletten.",
+        "cn": "路面受损，因此骑车人需要格外注意。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-b1-traffic-29",
+    "word": "de wegwerkzaamheden",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "道路施工"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Vanwege wegwerkzaamheden rijdt de bus deze week een andere route.",
+        "cn": "由于道路施工，公交车这周改走另一条路线。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-b1-traffic-30",
+    "word": "verkeersveilig",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "",
+        "cn": "交通安全的"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Bewoners willen een verkeersveilige straat waar kinderen zelfstandig kunnen fietsen.",
+        "cn": "居民们希望街道交通安全，让孩子们可以独立骑车。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  }
+]

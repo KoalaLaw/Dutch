@@ -1,0 +1,782 @@
+[
+  {
+    "id": "nl-b1-projects-1",
+    "word": "het project",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "项目"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Het project is groter geworden dan we eerst hadden verwacht.",
+        "cn": "这个项目比我们最初预想的更大了。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-b1-projects-2",
+    "word": "het doel",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "目标"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Ons doel is dat klanten sneller een duidelijk antwoord krijgen.",
+        "cn": "我们的目标是让客户更快获得清晰的答复。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-b1-projects-3",
+    "word": "de planning",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "计划安排"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "We passen de planning aan omdat een collega ziek is.",
+        "cn": "因为一位同事生病了，我们调整了安排。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-b1-projects-4",
+    "word": "de deadline",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "截止日期"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Als we samenwerken, kunnen we de deadline halen.",
+        "cn": "如果我们合作，就能赶上截止日期。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-b1-projects-5",
+    "word": "de voortgang",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "进展"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Elke vrijdag bespreken we kort de voortgang van het project.",
+        "cn": "每周五，我们简要讨论项目进展。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-b1-projects-6",
+    "word": "de taak",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "任务"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Het is belangrijk dat iedereen weet wat zijn taak is.",
+        "cn": "每个人都知道自己的任务是什么，这很重要。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-b1-projects-7",
+    "word": "de opdracht",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "委派的任务；作业"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Lees de opdracht goed voordat je met het werk begint.",
+        "cn": "开始工作之前，要仔细阅读任务要求。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-b1-projects-8",
+    "word": "het onderdeel",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "部分；部件"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Dit onderdeel vraagt meer tijd dan de andere stappen.",
+        "cn": "这个部分比其他步骤需要更多时间。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-b1-projects-9",
+    "word": "de fase",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "阶段"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "In deze fase verzamelen we vooral ideeën en informatie.",
+        "cn": "在这个阶段，我们主要收集想法和信息。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-b1-projects-10",
+    "word": "de voorbereiding",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "准备"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Een goede voorbereiding voorkomt dat je later tijd verliest.",
+        "cn": "充分的准备可以避免以后浪费时间。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-b1-projects-11",
+    "word": "de uitvoering",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "执行；实施"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Bij de uitvoering bleek dat sommige afspraken onduidelijk waren.",
+        "cn": "实施时发现，一些约定并不清楚。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-b1-projects-12",
+    "word": "het resultaat",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "结果"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Het resultaat was beter nadat we de werkwijze hadden aangepast.",
+        "cn": "调整工作方式之后，结果更好了。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-b1-projects-13",
+    "word": "de oplossing",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "解决办法"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "We zoeken een oplossing die voor beide partijen werkt.",
+        "cn": "我们在寻找对双方都可行的解决办法。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-b1-projects-14",
+    "word": "het probleem",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "问题；难题"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Het probleem is niet nieuw, maar we moeten het nu aanpakken.",
+        "cn": "这个问题并不新，但我们现在必须处理它。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-b1-projects-15",
+    "word": "de oorzaak",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "原因"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "We onderzoeken de oorzaak voordat we het plan veranderen.",
+        "cn": "改变计划之前，我们会先调查原因。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-b1-projects-16",
+    "word": "het risico",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "风险"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Bespreek vooraf welke risico's bij deze keuze horen.",
+        "cn": "提前讨论这个选择涉及哪些风险。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-b1-projects-17",
+    "word": "de prioriteit",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "优先事项"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Op dit moment heeft veiligheid de hoogste prioriteit.",
+        "cn": "目前，安全是最优先考虑的事情。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-b1-projects-18",
+    "word": "de afspraak nakomen",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "搭配",
+        "cn": "履行约定"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Je kunt op haar vertrouwen omdat ze haar afspraken nakomt.",
+        "cn": "你可以信赖她，因为她会履行约定。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-b1-projects-19",
+    "word": "plannen",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "",
+        "cn": "计划；安排"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "We plannen voldoende tijd om elkaars werk te controleren.",
+        "cn": "我们安排足够的时间来互相检查工作。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-b1-projects-20",
+    "word": "organiseren",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "",
+        "cn": "组织"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "We organiseren een bijeenkomst waar bewoners hun ideeën kunnen delen.",
+        "cn": "我们组织一次居民可以分享想法的聚会。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-b1-projects-21",
+    "word": "uitvoeren",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "",
+        "cn": "执行；实施"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Wie gaat de controles uitvoeren als het systeem klaar is?",
+        "cn": "系统准备好后，谁来执行检查？"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-b1-projects-22",
+    "word": "afronden",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "",
+        "cn": "完成；收尾"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "We hopen het project voor het einde van de maand af te ronden.",
+        "cn": "我们希望在月底前完成项目。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-b1-projects-23",
+    "word": "verdelen",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "",
+        "cn": "分配"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "We verdelen de taken op basis van ieders ervaring.",
+        "cn": "我们根据每个人的经验分配任务。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-b1-projects-24",
+    "word": "controleren",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "",
+        "cn": "检查；核对"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Controleer of alle gegevens kloppen voordat je verdergaat.",
+        "cn": "继续之前，检查所有资料是否正确。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-b1-projects-25",
+    "word": "aanpassen",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "",
+        "cn": "调整；适应"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "We moeten het schema aanpassen aan de nieuwe openingstijden.",
+        "cn": "我们必须根据新的开放时间调整日程。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-b1-projects-26",
+    "word": "uitstellen",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "",
+        "cn": "推迟"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Vanwege het slechte weer hebben we het evenement uitgesteld.",
+        "cn": "由于天气不好，我们推迟了活动。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-b1-projects-27",
+    "word": "halen",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "",
+        "cn": "达到；赶上"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Met deze aanpak halen we ons doel zonder extra kosten.",
+        "cn": "采用这个办法，我们不用增加费用就能实现目标。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-b1-projects-28",
+    "word": "vaststellen",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "",
+        "cn": "确定；查明"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Eerst stellen we vast welke informatie nog ontbreekt.",
+        "cn": "我们首先确定还缺少哪些信息。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-b1-projects-29",
+    "word": "evalueren",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "",
+        "cn": "评估；回顾"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Na afloop evalueren we wat goed ging en wat beter kan.",
+        "cn": "结束后，我们回顾哪些做得好，哪些可以改进。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-b1-projects-30",
+    "word": "stap voor stap",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "搭配",
+        "cn": "一步一步地"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "We voeren de veranderingen stap voor stap in.",
+        "cn": "我们逐步实施这些改变。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  }
+]

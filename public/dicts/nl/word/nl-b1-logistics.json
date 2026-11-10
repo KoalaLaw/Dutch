@@ -1,0 +1,782 @@
+[
+  {
+    "id": "nl-b1-logistics-1",
+    "word": "de bestelling",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "订单"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Mijn bestelling is nog niet aangekomen, hoewel ik een bevestiging heb.",
+        "cn": "虽然我收到了确认信息，但订单还没有送达。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-b1-logistics-2",
+    "word": "de levering",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "交付；送货"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "De levering is uitgesteld omdat een onderdeel ontbreekt.",
+        "cn": "由于缺少一个部件，交货被推迟了。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-b1-logistics-3",
+    "word": "de leverancier",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "供应商"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "We hebben de leverancier gevraagd wanneer de producten beschikbaar zijn.",
+        "cn": "我们问供应商产品何时有货。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-b1-logistics-4",
+    "word": "het pakket",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "包裹"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Het pakket was beschadigd toen ik het ontving.",
+        "cn": "我收到包裹时，它已经损坏了。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-b1-logistics-5",
+    "word": "de zending",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "货件；寄送物"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "U kunt de zending volgen met het nummer in de e-mail.",
+        "cn": "您可以用邮件中的号码追踪货件。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-b1-logistics-6",
+    "word": "de voorraad",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "库存"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Volgens het systeem zijn er nog vijf stuks op voorraad.",
+        "cn": "系统显示，库存中还有五件。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-b1-logistics-7",
+    "word": "het magazijn",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "仓库"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "In het magazijn worden de producten voor verzending klaargezet.",
+        "cn": "仓库里正在准备待发货的产品。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-b1-logistics-8",
+    "word": "de verpakking",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "包装"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "De verpakking moet stevig genoeg zijn om het product te beschermen.",
+        "cn": "包装必须足够坚固，才能保护产品。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-b1-logistics-9",
+    "word": "de inhoud",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "内容；内装物"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Controleer eerst of de inhoud overeenkomt met de bestelling.",
+        "cn": "先检查包裹内的物品是否与订单一致。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-b1-logistics-10",
+    "word": "het gewicht",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "重量"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "De verzendkosten hangen onder andere af van het gewicht.",
+        "cn": "运费取决于重量等因素。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-b1-logistics-11",
+    "word": "de afmeting",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "尺寸"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "De afmetingen van de doos staan op het etiket.",
+        "cn": "箱子的尺寸写在标签上。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-b1-logistics-12",
+    "word": "het etiket",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "标签"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Op het etiket staat voor welke klant de doos bestemd is.",
+        "cn": "标签上写着箱子是给哪位客户的。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-b1-logistics-13",
+    "word": "de vrachtwagen",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "卡车"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "De vrachtwagen kan hier pas na negen uur lossen.",
+        "cn": "卡车九点以后才能在这里卸货。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-b1-logistics-14",
+    "word": "het vervoer",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "运输；交通"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "We zoeken naar vervoer dat zowel snel als betaalbaar is.",
+        "cn": "我们在寻找既快捷又负担得起的运输方式。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-b1-logistics-15",
+    "word": "de bestemming",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "目的地"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Door het verkeerde adres bereikte het pakket zijn bestemming niet.",
+        "cn": "由于地址错误，包裹未能到达目的地。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-b1-logistics-16",
+    "word": "de verzendkosten",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "运费（复数）"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "De verzendkosten worden apart op de factuur vermeld.",
+        "cn": "运费会单独列在发票上。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-b1-logistics-17",
+    "word": "de levertijd",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "交货时间；交期"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Kunt u aangeven wat de verwachte levertijd is?",
+        "cn": "您能告知预计的交货时间吗？"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-b1-logistics-18",
+    "word": "de ontvangst",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "接收；收到"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Na ontvangst controleren we of alle onderdelen aanwezig zijn.",
+        "cn": "收到后，我们会检查所有部件是否齐全。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-b1-logistics-19",
+    "word": "de afzender",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "寄件人"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Neem contact op met de afzender als het adres niet klopt.",
+        "cn": "如果地址不对，请联系寄件人。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-b1-logistics-20",
+    "word": "de ontvanger",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "收件人"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "De ontvanger was niet thuis toen de bezorger langskwam.",
+        "cn": "快递员上门时，收件人不在家。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-b1-logistics-21",
+    "word": "bestellen",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "",
+        "cn": "订购"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "We bestellen pas meer materiaal als de voorraad bijna op is.",
+        "cn": "只有库存快用完时，我们才订购更多材料。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-b1-logistics-22",
+    "word": "leveren",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "",
+        "cn": "交付；供应"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "De leverancier kan de ontbrekende onderdelen morgen leveren.",
+        "cn": "供应商明天可以交付缺少的部件。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-b1-logistics-23",
+    "word": "verzenden",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "",
+        "cn": "寄送；发货"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Zodra de betaling binnen is, verzenden we de bestelling.",
+        "cn": "付款一到账，我们就发出订单。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-b1-logistics-24",
+    "word": "ontvangen",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "",
+        "cn": "接收；收到"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Laat het ons weten als u het pakket heeft ontvangen.",
+        "cn": "您收到包裹后，请告知我们。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-b1-logistics-25",
+    "word": "inpakken",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "",
+        "cn": "打包"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Breekbare producten moet je zorgvuldig inpakken.",
+        "cn": "易碎产品需要仔细包装。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-b1-logistics-26",
+    "word": "uitpakken",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "",
+        "cn": "拆包；打开行李"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Maak een foto voordat je de beschadigde doos uitpakt.",
+        "cn": "拆开损坏的箱子之前，先拍一张照片。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-b1-logistics-27",
+    "word": "laden",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "",
+        "cn": "装载"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "We laden de zware dozen eerst in de vrachtwagen.",
+        "cn": "我们先把重箱子装上卡车。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-b1-logistics-28",
+    "word": "lossen",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "",
+        "cn": "卸载"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "De chauffeur wacht totdat hij veilig kan lossen.",
+        "cn": "司机等到可以安全卸货时才卸货。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-b1-logistics-29",
+    "word": "ontbreken",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "",
+        "cn": "缺少"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Er ontbreekt één onderdeel, waardoor we niet verder kunnen.",
+        "cn": "缺少一个部件，因此我们无法继续。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-b1-logistics-30",
+    "word": "breekbaar",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "",
+        "cn": "易碎的"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Op de doos staat duidelijk dat de inhoud breekbaar is.",
+        "cn": "箱子上明确标示着内装物品易碎。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  }
+]

@@ -1,0 +1,782 @@
+[
+  {
+    "id": "nl-b1-administration-1",
+    "word": "de aanvraag",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "申请"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Ik heb de aanvraag ingediend nadat ik alle documenten had verzameld.",
+        "cn": "收集好所有文件后，我提交了申请。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-b1-administration-2",
+    "word": "de procedure",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "程序；流程"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Kunt u uitleggen hoe de procedure precies verloopt?",
+        "cn": "您能解释一下流程具体是怎样的吗？"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-b1-administration-3",
+    "word": "de voorwaarde",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "条件"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Op de website staan de voorwaarden voor deelname.",
+        "cn": "网站上列出了参加的条件。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-b1-administration-4",
+    "word": "de gegevens",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "资料；数据（复数）"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Controleer uw gegevens voordat u het formulier verstuurt.",
+        "cn": "发送表格之前，请核对您的资料。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-b1-administration-5",
+    "word": "het document",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "文件"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Welk document moet ik bij de aanvraag toevoegen?",
+        "cn": "我需要在申请中附上哪个文件？"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-b1-administration-6",
+    "word": "het bewijs",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "证明；证据"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "De medewerker vroeg of ik een bewijs van betaling had.",
+        "cn": "工作人员问我是否有付款证明。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-b1-administration-7",
+    "word": "de handtekening",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "签名"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Zonder handtekening kan de organisatie het formulier niet verwerken.",
+        "cn": "没有签名，机构就无法处理表格。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-b1-administration-8",
+    "word": "het identiteitsbewijs",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "身份证件"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "In de uitnodiging staat welk identiteitsbewijs ik moet meenemen.",
+        "cn": "邀请函写明了我需要携带什么身份证件。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-b1-administration-9",
+    "word": "de balie",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "服务柜台"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Bij de balie kunt u vragen waar u moet zijn.",
+        "cn": "您可以在服务柜台询问应该去哪里。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-b1-administration-10",
+    "word": "de medewerker",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "工作人员"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "De medewerker legde rustig uit welke informatie nog ontbrak.",
+        "cn": "工作人员耐心地说明还缺少哪些信息。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-b1-administration-11",
+    "word": "de instantie",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "机构；主管部门"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Neem contact op met de juiste instantie voordat je de aanvraag verstuurt.",
+        "cn": "发送申请之前，请先联系相应机构。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-b1-administration-12",
+    "word": "de overheid",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "政府；公共当局"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "De tekst gaat over de manier waarop de overheid informatie geeft.",
+        "cn": "这篇文章介绍政府提供信息的方式。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-b1-administration-13",
+    "word": "het loket",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "办事窗口"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Bij dit loket kunnen bewoners algemene vragen stellen.",
+        "cn": "居民可以在这个窗口咨询一般问题。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-b1-administration-14",
+    "word": "de inschrijving",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "注册；登记"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Na de inschrijving ontvangt u een bevestiging per e-mail.",
+        "cn": "登记后，您将通过邮件收到确认。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-b1-administration-15",
+    "word": "de wijziging",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "变更"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Geef een wijziging van uw adres op tijd door.",
+        "cn": "请及时告知地址变更。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-b1-administration-16",
+    "word": "de vergunning",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "许可证"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "De organisatie vroeg welke vergunning voor het evenement nodig is.",
+        "cn": "组织方询问举办活动需要哪种许可证。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-b1-administration-17",
+    "word": "de beslissing",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "决定"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Ik krijg een brief zodra er een beslissing is genomen.",
+        "cn": "作出决定后，我会收到一封信。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-b1-administration-18",
+    "word": "de toestemming",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "许可；同意"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Voor gebruik van de foto vragen we eerst om toestemming.",
+        "cn": "使用照片之前，我们会先征求同意。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-b1-administration-19",
+    "word": "de termijn",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "期限"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "In de brief staat binnen welke termijn ik moet reageren.",
+        "cn": "信中写明了我必须在多长期限内回复。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-b1-administration-20",
+    "word": "de kopie",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "复印件；副本"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Bewaar een kopie van de documenten die u heeft verstuurd.",
+        "cn": "请保留所发送文件的副本。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-b1-administration-21",
+    "word": "aanvragen",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "",
+        "cn": "申请"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Ik wil informatie aanvragen over de beschikbare cursussen.",
+        "cn": "我想申请获取有关可选课程的信息。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-b1-administration-22",
+    "word": "indienen",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "",
+        "cn": "提交"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "U kunt het formulier online of per post indienen.",
+        "cn": "您可以在线或通过邮寄提交表格。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-b1-administration-23",
+    "word": "invullen",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "",
+        "cn": "填写"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Vul alleen de gegevens in die voor deze aanvraag nodig zijn.",
+        "cn": "只填写此次申请所需的资料。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-b1-administration-24",
+    "word": "toevoegen",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "",
+        "cn": "添加；附上"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Vergeet niet de gevraagde bijlage toe te voegen.",
+        "cn": "别忘了附上所要求的附件。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-b1-administration-25",
+    "word": "verwerken",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "",
+        "cn": "处理"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "De organisatie verwerkt de aanvragen in volgorde van ontvangst.",
+        "cn": "机构按照收到申请的顺序进行处理。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-b1-administration-26",
+    "word": "goedkeuren",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "",
+        "cn": "批准；认可"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "De aanvraag werd goedgekeurd nadat de gegevens waren gecontroleerd.",
+        "cn": "资料核对完后，申请获批了。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-b1-administration-27",
+    "word": "afwijzen",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "",
+        "cn": "拒绝；驳回"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "In de brief werd uitgelegd waarom het verzoek was afgewezen.",
+        "cn": "信中解释了请求被拒绝的原因。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-b1-administration-28",
+    "word": "reageren",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "",
+        "cn": "回应；回复"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Ik wil graag schriftelijk op deze brief reageren.",
+        "cn": "我想以书面形式回复这封信。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-b1-administration-29",
+    "word": "geldig",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "",
+        "cn": "有效的"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Controleer of het document nog geldig is op de datum van uw afspraak.",
+        "cn": "请检查预约当天文件是否仍然有效。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-b1-administration-30",
+    "word": "volledig",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "",
+        "cn": "完整的"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Uw aanvraag is volledig zodra alle bijlagen zijn ontvangen.",
+        "cn": "收到全部附件后，您的申请才算完整。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  }
+]
