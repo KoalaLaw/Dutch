@@ -1,9 +1,10 @@
+<!-- Type Dutch adaptation: modified 2026-11-11. Upstream: zyronon/TypeWords, GPL-3.0. -->
 <script setup lang="ts">
 import type { Word } from '@/core/types/types.ts'
 import { getDefaultWord } from '@/core/types/func.ts'
 import { WordPlayTrigger, WordPracticeType } from '@/core/types/enum.ts'
 import { useSettingStore } from '@/core/stores/setting.ts'
-import { resetActiveWordPlayCount, usePlayBeep, usePlayCorrect, usePlayKeyboardAudio } from '@/core/hooks/sound.ts'
+import { usePlayBeep, usePlayCorrect, usePlayKeyboardAudio } from '@/core/hooks/sound.ts'
 import { emitter, EventKey } from '@/core/utils/eventBus.ts'
 import { onUnmounted, watch } from 'vue'
 import Space from '@/components/article/Space.vue'
@@ -59,9 +60,7 @@ const typing = usePracticeWordTyping({
     }),
   playBeep,
   playCorrect,
-  playKeyboardAudio,
-  resetWordPlayCount: resetActiveWordPlayCount,
-})
+  playKeyboardAudio,})
 
 const {
   input,

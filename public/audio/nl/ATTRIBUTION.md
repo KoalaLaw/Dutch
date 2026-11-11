@@ -1,57 +1,53 @@
-# Dutch pronunciation assets
+# Dutch pronunciation assets — Microsoft Edge Fenna
 
-These MP3 clips are generated from Type Dutch's built-in, original Dutch learning
-texts. They are static website files: playback needs neither a paid API nor an
-installed Dutch operating-system voice.
+The current pronunciation set uses **Microsoft Edge `nl-NL-FennaNeural`**, whose
+locale is **nl-NL (Dutch, Netherlands)**. Voice identity is also recorded in
+`app/data/dutch-audio-source.json` so the site can display the actual source.
 
-Generation uses [Piper TTS 1.8.0](https://github.com/OHF-Voice/piper1-gpl), an offline
-speech synthesizer distributed under GPL-3.0, with the Netherlands Dutch voice
-[`nl_NL-mls-medium`](https://huggingface.co/rhasspy/piper-voices/tree/main/nl/nl_NL/mls/medium)
-published by Michael Hansen / Rhasspy. A fixed speaker, MLS 7432 (speaker_id 6),
-is used consistently. Output is mono MP3, 64 kbit/s, with 22,050 Hz input audio.
-The synthesis length scale is 1.05 for a slightly measured learning pace.
-The downloaded model's SHA-256 is
-`88312e0fbf505b87caf2373d94c1384892e86b1bf2ee482cf65dc8ba179cc7d3`.
+These are synthesized readings of Type Dutch's original learning texts, created
+at build time using [edge-tts 7.3.1](https://github.com/rany2/edge-tts). The library
+is licensed under LGPL-3.0; the Microsoft voice/service is a separate source and
+is not represented here as an open-source voice model. The source service
+identifies the voice as Fenna. Microsoft has not reviewed or endorsed this site.
 
-The voice's [original model card](https://huggingface.co/rhasspy/piper-voices/blob/main/nl/nl_NL/mls/medium/MODEL_CARD)
-identifies its training dataset as [Multilingual LibriSpeech (OpenSLR 94)](https://www.openslr.org/94/)
-under [Creative Commons Attribution 4.0](https://creativecommons.org/licenses/by/4.0/).
-Credit and source links are retained here. These are synthetic readings, not
-recordings of a person reading the Type Dutch course, and no endorsement is
-implied by the source authors.
+The service returns **24,000 Hz, 48 kbit/s, mono MP3**. Rate is `+0%`, volume is
+`+0%`, and pitch is `+0Hz`. Playback uses static files hosted with the site and
+does not call a TTS API or require a Dutch operating-system voice.
+
+The previous Piper clips were replaced after user feedback about pronunciation.
+File validation confirms completeness, decoding and nonzero sound. It does not
+establish phonetic correctness of every word; targeted listening feedback is
+still useful for individual terms, names, abbreviations and ambiguous words.
 
 ## Regeneration
 
-From the repository root, install build-only Python dependencies into the ignored
-cache (Python 3.13 on Windows is supported by the chosen versions):
+From the repository root, install build-only dependencies into ignored caches:
 
-    python -m pip install --target .cache/dutch-audio/python piper-tts==1.8.0 lameenc==1.9.0
-
-Download the voice model and configuration into `.cache/dutch-audio/`:
-
-- [nl_NL-mls-medium.onnx](https://huggingface.co/rhasspy/piper-voices/resolve/main/nl/nl_NL/mls/medium/nl_NL-mls-medium.onnx)
-- [nl_NL-mls-medium.onnx.json](https://huggingface.co/rhasspy/piper-voices/resolve/main/nl/nl_NL/mls/medium/nl_NL-mls-medium.onnx.json)
-
-Then run:
-
-    python scripts/generate-dutch-audio.py --workers 6
-
-For a complete decode/non-silence verification, install the build-only decoder
-and run the verification mode:
-
+    python -m pip install --target .cache/dutch-audio/edge-python edge-tts==7.3.1
     python -m pip install --target .cache/dutch-audio/verify-python miniaudio==1.73
-    python scripts/generate-dutch-audio.py --verify-only --skip-collect
 
-The builder collects the course's actual headwords, examples, reading sentences
-and paragraphs, grammar examples, model answers, demonstration text and
-individual clickable words. It writes the expected manifest up front so the
-site can build while assets are prepared, then generates all referenced files.
-Complete generation and verify every referenced file before publishing.
-The manifest maps normalized text to root-relative URLs in `app/data/dutch-audio.json`.
-Text keys use NFC, straight quotes, collapsed whitespace, trimming and Dutch
-lowercasing. Asset filenames hash both text and voice-generation settings.
+Generate with the conservative default of three parallel requests and a global
+0.2 second minimum request-start interval. Network access is needed at generation time:
 
-Generation resumes existing files. Models, temporary PCM/MP3 data, dependency
-packages and generation reports stay under the ignored `.cache` directory and
-are not deployed. Only this attribution, the compressed clips and manifest are
-needed in the deployed site.
+    python scripts/generate-dutch-audio-edge.py --workers 3 --verify
+
+For this corpus a bounded six-worker run may be used with `--interval 0.25`,
+which still allows at most four request starts per second. Lower concurrency
+if the service returns rate limits; do not bypass service restrictions.
+
+Resume existing completed files, or verify without regeneration:
+
+    python scripts/generate-dutch-audio-edge.py --workers 3 --skip-collect --verify
+    python scripts/generate-dutch-audio-edge.py --verify-only --skip-collect
+
+The builder backs off on transient errors and rate limits. It stops after
+repeated failures instead of flooding the service. Do not publish an incomplete
+set: the manifest is written before generation to enable a parallel site build,
+then every referenced file must be generated and checked.
+
+`scripts/generate-dutch-audio.mjs` collects built-in headwords, examples, reading
+sentences and paragraphs, grammar examples, model answers, demonstrations and
+individual clickable words. Text keys use NFC, straight quotes, collapsed
+whitespace, trimming and Dutch lowercasing. Filenames hash the text and engine
+tag `edge-tts|nl-NL-FennaNeural|rate+0%|mp3-v1`, so they cannot reuse the old Piper
+URLs. Temporary files and reports stay in ignored `.cache/dutch-audio`.

@@ -119,6 +119,9 @@ test('stopping while system voices load removes the listener and suppresses dela
 })
 
 test('built-in Dutch texts and clickable words have complete, nonempty MP3 assets', async () => {
+  const source = await json('app/data/dutch-audio-source.json')
+  assert.equal(source.locale, 'nl-NL', 'Course recordings must use Netherlands Dutch')
+  assert.ok(source.voice.startsWith(source.locale + '-'), 'Voice and source language must agree')
   const manifest = await json('app/data/dutch-audio.json')
   const expected = ['Hallo! Ik leer Nederlands. Hoe gaat het met je?']
   const words = await json('public/dicts/nl/word/all.json')

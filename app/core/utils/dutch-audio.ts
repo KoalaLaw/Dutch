@@ -99,6 +99,7 @@ export function createDutchAudioPlayer(runtime: AudioRuntime) {
     }
     element.src = src
     element.volume = Math.min(1, Math.max(0, options.volume ?? 1))
+    element.preservesPitch = true
     element.playbackRate = Math.min(3, Math.max(0.5, options.rate ?? 1))
     element.onplaying = () => { if (current()) options.onPlay?.() }
     element.onended = end

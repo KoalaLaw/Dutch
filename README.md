@@ -10,7 +10,7 @@
 - B1 学习中心：16 个语法单元与 48 道选择题、12 个写作任务与范文、12 个口语任务与表达示范。
 - 写作草稿、阅读/语法答案和自评记录保存在原有学习数据的 noteData 中，可随备份导出；无需新账号或服务器。
 - 保留跟写、听写、默写、自测、错词本与复习。
-- 使用设备提供的 nl-NL / nl-BE 语音；不会回退到英语发音。没有荷兰语语音时会提示。
+- 内置内容播放随网站发布的 Fenna 荷兰语音频；自定义文本使用设备提供的 nl-NL / nl-BE 语音。
 - 本地保存学习数据，支持原项目的备份导入导出。
 - GitHub Pages 自动部署，兼容 /Dutch/ 子目录与刷新后的页面导航。
 
@@ -73,7 +73,9 @@ PowerShell 示例：
 
 ## 发音与数据
 
-内置课程使用随网站发布的荷兰标准语 MP3，优先播放同源音频，不依赖系统语音包或在线 TTS 接口。音频生成方法和归属见 public/audio/nl/ATTRIBUTION.md；音频索引为 app/data/dutch-audio.json。播放失败会尝试设备的荷兰语语音，仍无法播放时显示可重试的提示。
+内置课程使用 Microsoft Edge 的 `nl-NL-FennaNeural` 生成并随网站发布的荷兰标准语 MP3，优先播放同源音频，不依赖系统语音包或在线 TTS 接口。生成音频使用 scripts/generate-dutch-audio-edge.py；生成时需要联网，学习时直接播放静态文件。音频生成方法和归属见 public/audio/nl/ATTRIBUTION.md；音频索引为 app/data/dutch-audio.json，音源信息为 app/data/dutch-audio-source.json。播放失败会尝试设备的荷兰语语音，仍无法播放时显示可重试的提示。
+
+语音名称与地区依据 [Microsoft 的语音列表](https://learn.microsoft.com/azure/ai-services/speech-service/language-support)。文件解码、非静音和播放检查只验证技术完整性，不等同于逐字发音准确性审核；发现个别词读音有误时，需要核对具体文本与读音。
 
 额外添加的自定义文本使用浏览器提供的荷兰语语音。在「设置 → 音效设置」可试听课程发音，或为自定义内容选择荷兰语系统语音。
 

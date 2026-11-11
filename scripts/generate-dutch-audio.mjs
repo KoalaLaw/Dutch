@@ -1,5 +1,5 @@
-// Static Dutch audio corpus builder. The Python companion performs offline synthesis.
-// Models/dependencies and intermediate data stay in ignored .cache/dutch-audio.
+// Static Dutch audio corpus builder. The Edge companion generates the MP3 files.
+// Build-time dependencies/intermediate data stay in ignored .cache/dutch-audio.
 import { readFile, writeFile, mkdir } from 'node:fs/promises'
 import { createHash } from 'node:crypto'
 import { dirname, resolve } from 'node:path'
@@ -9,7 +9,7 @@ import { tokenizeDutchSentence } from '../app/core/utils/dutch-tokenizer.ts'
 const root = resolve(dirname(fileURLToPath(import.meta.url)), '..')
 const jobs = new Map()
 const tokens = new Set()
-const voiceVersion = 'piper-1.8.0|nl_NL-mls-medium|speaker-7432-6|length-1.05|mp3-64'
+const voiceVersion = 'edge-tts|nl-NL-FennaNeural|rate+0%|mp3-v1'
 export function normalizeAudioText(value) {
   return String(value).normalize('NFC').replace(/[‘’‚‛]/g, "'")
     .replace(/[“”„‟]/g, '"').replace(/\s+/g, ' ').trim().toLocaleLowerCase('nl')
@@ -96,6 +96,7 @@ const manifestPath = resolve(root, 'app/data/dutch-audio.json')
 const expectedManifest = Object.fromEntries([...output].sort((a,b) => a.key < b.key ? -1 : a.key > b.key ? 1 : 0).map(job => [job.key, '/audio/nl/' + job.filename]))
 const manifestText = JSON.stringify(expectedManifest, null, 2) + '\n'
 if (await readFile(manifestPath, 'utf8').catch(() => '') !== manifestText) await writeFile(manifestPath, manifestText)
+await writeFile(resolve(root, 'app/data/dutch-audio-source.json'), JSON.stringify({provider:'Microsoft Edge', voice:'nl-NL-FennaNeural', locale:'nl-NL', label:'Fenna · 荷兰语（荷兰）'}, null, 2) + '\n')
 const categories = {}
 for (const job of output) categories[job.category] = (categories[job.category] ?? 0) + 1
 console.log(JSON.stringify({ jobs: output.length, categories, output: '.cache/dutch-audio/jobs.json', voiceVersion }))

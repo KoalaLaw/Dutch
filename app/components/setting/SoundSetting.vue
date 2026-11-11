@@ -1,8 +1,9 @@
-<!-- Type Dutch adaptation: modified 2026-11-10. Upstream: zyronon/TypeWords, GPL-3.0. -->
+<!-- Type Dutch adaptation: modified 2026-11-11. Upstream: zyronon/TypeWords, GPL-3.0. -->
 <script setup lang="ts">
 import { computed, onMounted, ref } from 'vue'
 import { Option, Select, Slider, Switch, VolumeIcon } from '@/base'
 import SettingItem from './SettingItem.vue'
+import courseVoice from '@/data/dutch-audio-source.json'
 import SoundMasterControl from './SoundMasterControl.vue'
 import { useSettingStore } from '@/core/stores/setting.ts'
 import { ENV, SoundFileOptions } from '@/core/config/env.ts'
@@ -115,7 +116,7 @@ function previewTtsVoice(voiceName: string) {
     <SettingItem :title="$t('word_auto_pronunciation')">
       <Switch v-model="settingStore.wordSound" />
     </SettingItem>
-    <SettingItem title="课程发音" desc="内置内容使用荷兰标准语（nl-NL）音频，无需安装系统语音包。">
+    <SettingItem :title="'课程发音 · ' + courseVoice.label" desc="内置课程使用荷兰标准语音，无需安装语音包。重复播放保持当前倍速。">
       <button type="button" class="text-link" @click="playCourseAudio(exampleText, { rate: settingStore.sentenceSoundSpeed, volume: settingStore.sentenceSoundVolume / 100 })">试听课程发音 ▶</button>
     </SettingItem>
     <SettingItem v-if="showVolumeSubsInSections" :title="$t('volume')">

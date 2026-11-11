@@ -1,4 +1,4 @@
-// Type Dutch adaptation: modified 2026-11-10. Upstream: zyronon/TypeWords, GPL-3.0.
+// Type Dutch adaptation: modified 2026-11-11. Upstream: zyronon/TypeWords, GPL-3.0.
 import { createDutchAudioPlayer, normalizeDutchAudioText } from '../utils/dutch-audio'
 import dutchAudio from '@/data/dutch-audio.json'
 import { withAppBaseURL } from '../utils/base-url'
@@ -145,14 +145,6 @@ export function usePlayCorrect() {
   return playAudio
 }
 
-const activeWordPlayCountMap = new Map<string, number>()
-let resetWordPlayCountTimer = -1
-
-export function resetActiveWordPlayCount(word: string) {
-  if (!word) return
-  activeWordPlayCountMap.delete(word.trim().toLowerCase())
-}
-
 let dutchPlayer: ReturnType<typeof createDutchAudioPlayer> | undefined
 let lastAudioWarning = 0
 function getDutchPlayer() {
@@ -189,12 +181,9 @@ export function cancelWordPracticeAudio() {
 export function usePlayWordAudio() {
   const settingStore = useSettingStore()
   const speak = useTTsPlayAudio()
-  return (word: string, handle = true, onEnd?: () => void, onPlay?: () => void) => {
+  return (word: string, _handle = true, onEnd?: () => void, onPlay?: () => void) => {
     cancelWordPracticeAudio()
-    const key = word.trim().toLocaleLowerCase('nl')
-    const count = activeWordPlayCountMap.get(key) ?? 0
-    activeWordPlayCountMap.set(key, count + 1)
-    const rate = settingStore.wordSoundSpeed * (handle && count % 3 !== 0 ? 0.75 : 1)
+    const rate = settingStore.wordSoundSpeed
     speak(word, { rate, onEnd, onPlay })
   }
 }
