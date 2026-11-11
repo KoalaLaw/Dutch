@@ -42,9 +42,9 @@ apps/TypeWordsMiniApp
 *.tsbuildinfo
 
 # Private account-service databases, invitations and local tests
-data/
-deploy/data/
-deploy/registration-code.txt
+/data/
+/deploy/data/
+/deploy/registration-code.txt
 *.sqlite
 *.sqlite-wal
 *.sqlite-shm
