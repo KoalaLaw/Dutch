@@ -17,6 +17,7 @@ import { tokenizeDutchSentence } from '../app/core/utils/dutch-tokenizer.ts'
 import { dutchHeadword, dutchDictionaryURL, dutchTranslationURL, dutchDictionaryLinks } from '../app/core/utils/dutch-dictionary.ts'
 import { createDutchAudioPlayer, normalizeDutchAudioText } from '../app/core/utils/dutch-audio.ts'
 import { isWholePracticeInputCorrect } from '../app/core/composables/practice-words/visible-word-typing.ts'
+import { getDutchGrammar } from '../app/core/utils/dutch-grammar.ts'
 
 const json = async path => JSON.parse(await readFile(new URL('../' + path, import.meta.url), 'utf8'))
 
@@ -181,7 +182,7 @@ test('every visible course loads a complete Dutch word dictionary with Chinese e
       assert.ok(word.sentences[0].c)
       assert.ok(word.sentences[0].cn)
       assert.equal(word.langType, 'nl')
-      if (word.trans[0].pos === '名词') assert.match(word.word, /^(de|het) /)
+      if (word.trans[0].pos === '名词' && !getDutchGrammar(word)?.bare) assert.match(word.word, /^(de|het) /)
     }
   }
   assert.equal(total, 2160)

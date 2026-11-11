@@ -224,7 +224,7 @@ export function useEventListener(type: string, listener: EventListenerOrEventLis
         if (!(window.location.pathname + window.location.hash).includes('/practice')) return
         const typingWord = target.closest('#PracticeArea')
         if (!typingWord) return
-        if (target.closest('input, textarea, select, [contenteditable="true"]')) return false
+        if (target.closest('input, textarea, select, [contenteditable="true"], .dutch-grammar, .word-lookup-popover')) return false
         if (!getSelectedText()) {
           window.setTimeout(() => hiddenInput.focus(), 160)
         }
@@ -320,6 +320,7 @@ export function useStartKeyboardEventListener() {
   const settingStore = useSettingStore()
 
   useEventListener('keydown', (e: KeyboardEvent) => {
+    if ((e.target as HTMLElement | null)?.closest?.('.dutch-grammar, .word-lookup-popover')) return
     // console.log('keydown', e)
     // debugger
     //解决无法复制、全选的问题
@@ -380,6 +381,7 @@ export function useStartKeyboardEventListener() {
     }
   })
   useEventListener('keyup', (e: KeyboardEvent) => {
+    if ((e.target as HTMLElement | null)?.closest?.('.dutch-grammar, .word-lookup-popover')) return
     if (!window?.disableEventListener) {
       emitter.emit(EventKey.keyup, e)
     }

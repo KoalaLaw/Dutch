@@ -8,7 +8,7 @@
     "generate": "nuxt generate",
     "preview": "nuxt preview",
     "i18n:write": "gulp i18nWrite",
-    "test": "node --test tests/dutch.test.mjs tests/cloud.test.mjs",
+    "test": "node --test tests/dutch.test.mjs tests/cloud.test.mjs tests/dutch-grammar.test.mjs",
     "course:generate": "node scripts/generate-dutch.mjs",
     "preview:static": "node scripts/preview-static.mjs",
     "server:start": "node server/start.mjs",

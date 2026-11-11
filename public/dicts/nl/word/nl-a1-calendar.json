@@ -7,7 +7,7 @@
     "langType": "nl",
     "trans": [
       {
-        "pos": "",
+        "pos": "名词",
         "cn": "一月"
       }
     ],
@@ -33,7 +33,7 @@
     "langType": "nl",
     "trans": [
       {
-        "pos": "",
+        "pos": "名词",
         "cn": "二月"
       }
     ],
@@ -59,7 +59,7 @@
     "langType": "nl",
     "trans": [
       {
-        "pos": "",
+        "pos": "名词",
         "cn": "三月"
       }
     ],
@@ -85,7 +85,7 @@
     "langType": "nl",
     "trans": [
       {
-        "pos": "",
+        "pos": "名词",
         "cn": "四月"
       }
     ],
@@ -111,7 +111,7 @@
     "langType": "nl",
     "trans": [
       {
-        "pos": "",
+        "pos": "名词",
         "cn": "五月"
       }
     ],
@@ -137,7 +137,7 @@
     "langType": "nl",
     "trans": [
       {
-        "pos": "",
+        "pos": "名词",
         "cn": "六月"
       }
     ],
@@ -163,7 +163,7 @@
     "langType": "nl",
     "trans": [
       {
-        "pos": "",
+        "pos": "名词",
         "cn": "七月"
       }
     ],
@@ -189,7 +189,7 @@
     "langType": "nl",
     "trans": [
       {
-        "pos": "",
+        "pos": "名词",
         "cn": "八月"
       }
     ],
@@ -215,7 +215,7 @@
     "langType": "nl",
     "trans": [
       {
-        "pos": "",
+        "pos": "名词",
         "cn": "九月"
       }
     ],
@@ -241,7 +241,7 @@
     "langType": "nl",
     "trans": [
       {
-        "pos": "",
+        "pos": "名词",
         "cn": "十月"
       }
     ],
@@ -267,7 +267,7 @@
     "langType": "nl",
     "trans": [
       {
-        "pos": "",
+        "pos": "名词",
         "cn": "十一月"
       }
     ],
@@ -293,7 +293,7 @@
     "langType": "nl",
     "trans": [
       {
-        "pos": "",
+        "pos": "名词",
         "cn": "十二月"
       }
     ],
@@ -579,7 +579,7 @@
     "langType": "nl",
     "trans": [
       {
-        "pos": "",
+        "pos": "副词",
         "cn": "后天"
       }
     ],
@@ -605,7 +605,7 @@
     "langType": "nl",
     "trans": [
       {
-        "pos": "",
+        "pos": "副词",
         "cn": "前天"
       }
     ],
@@ -657,7 +657,7 @@
     "langType": "nl",
     "trans": [
       {
-        "pos": "",
+        "pos": "数词",
         "cn": "第一的"
       }
     ],
@@ -683,7 +683,7 @@
     "langType": "nl",
     "trans": [
       {
-        "pos": "",
+        "pos": "数词",
         "cn": "最后的"
       }
     ],
@@ -709,7 +709,7 @@
     "langType": "nl",
     "trans": [
       {
-        "pos": "",
+        "pos": "副词",
         "cn": "早；早的"
       }
     ],
@@ -735,7 +735,7 @@
     "langType": "nl",
     "trans": [
       {
-        "pos": "",
+        "pos": "副词",
         "cn": "晚；迟的"
       }
     ],
@@ -761,7 +761,7 @@
     "langType": "nl",
     "trans": [
       {
-        "pos": "搭配",
+        "pos": "副词 / 介词短语",
         "cn": "准时；及时"
       }
     ],

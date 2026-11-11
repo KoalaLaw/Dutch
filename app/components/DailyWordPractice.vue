@@ -3,6 +3,8 @@ import { computed, nextTick, onMounted, onUnmounted, ref, watch } from 'vue'
 import type { Word } from '@/core/types'
 import type { DailyWordSession } from '@/core/utils/daily-learning'
 import { normalizeDutchInput } from '@/core/utils/dutch'
+import { getDutchGrammar } from '@/core/utils/dutch-grammar'
+import DutchGrammarPanel from '@/components/word/DutchGrammarPanel.vue'
 import { usePlayWordAudio, useTTsPlayAudio, cancelWordPracticeAudio } from '@/core/hooks/sound'
 const props = defineProps<{ words: Word[]; session: DailyWordSession; busy?: boolean; review?: boolean }>()
 const emit = defineEmits<{
@@ -55,6 +57,8 @@ onUnmounted(cancelWordPracticeAudio)
       <div class="mini-progress"><i :style="{width:(session.index/session.ids.length*100)+'%'}" /></div>
       <div class="practice-word-row"><h3 lang="nl">{{ learning || hint ? word.word : '听一听，写下来' }}</h3><button type="button" class="play" aria-label="播放当前荷兰语单词" @click="speak(word.word,false)">▶ 试听</button></div>
       <p class="meaning">{{ word.trans.map(item=>item.cn).join('；') }}</p>
+      <DutchGrammarPanel v-if="learning || hint" :word="word.word" />
+      <p v-else class="round-tip">词性：{{ getDutchGrammar(word)?.pos || word.trans[0]?.pos }}</p>
       <p class="round-tip">{{ learning ? '先听，再输入完整词语；名词连同 de / het 一起记。' : '根据发音和中文回想单词。需要帮助时可以显示原词。' }}</p>
       <form @submit.prevent="submit">
         <label for="daily-word-input">输入荷兰语</label>

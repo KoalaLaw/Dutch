@@ -8,3 +8,9 @@ license are preserved. New course material, homepage, Dutch speech selection,
 Unicode tokenization, local lookup and deployment configuration were added.
 Original English resources and original documentation remain for provenance;
 the Dutch course lists load only the new Dutch resources.
+
+Dutch word grammar added 2026-11-11: POS annotations, articles, person/tense
+tables and authored usage notes. The selected and corrected verb principal
+parts derive in part from Pattern (University of Antwerp / CLiPS), BSD-3-Clause.
+The full third-party notice is preserved in content/grammar/PATTERN-LICENSE.txt;
+the pinned source and modifications are recorded in content/grammar/source.json.

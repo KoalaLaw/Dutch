@@ -13,6 +13,7 @@
 - 内置内容播放随网站发布的 Fenna 荷兰语音频；自定义文本使用设备提供的 nl-NL / nl-BE 语音。
 - 本地保存学习数据，支持原项目的备份导入导出。
 - 可选个人账号与跨电脑同步：前端仍在 GitHub Pages，独立 Linux 后端使用 SQLite。每人独立进度、本机缓存、版本冲突选择与备份；配置及安装见 [deploy/README.md](deploy/README.md)。服务器未连接时继续访客学习，不会显示已云同步。
+- 全部 2,160 条词汇与搭配标注词性；名词可查看 de / het、复数和不定冠词用法。461 个动词词条/搭配对应 394 个原形，提供七组主语与现在、过去、现在完成、过去完成、将来及 zou 假设/委婉表达，含可分前缀、反身代词和倒装提示。
 - GitHub Pages 自动部署，兼容 /Dutch/ 子目录与刷新后的页面导航。
 
 A1 / A2 / B1 是内容学习路线参考，不是官方考试词表，也不以词数或练习完成数认证语言能力。写作和口语采用自检，不进行自动评分。B1 能力方向参考 [Nederlandse Taalunie 的 ERK 描述](https://erk-nederlands.taalunie.org/erk-niveau/b1/)。原项目文档保存在 [docs/README.upstream.md](docs/README.upstream.md)。
@@ -65,6 +66,16 @@ PowerShell 示例：
 周末和阶段检查属于自评，不是官方 B1 认证。该路线是材料与练习安排，达标还需要真实听说读写。新词汇主题库在 `/vocabulary`，可搜索中文/荷兰语、看词表、选小节或进入原自由练习。
 
 ## 更新学习材料
+
+### 单词的词性与语法
+
+在每日跟写、自由练习和点词查词中打开「冠词怎么用」或「人称与时态变化」。词汇主题的词表也显示词性。听写 / 回想轮在揭示原词之前隐藏语法详情，避免变位表透露答案。
+
+词性按当前课程释义标注，并非自动句法分析。星期/月名词保留其通常省冠词的时间表达；不把以 de / het 开头的动词短语误当名词。完成时助动词由含义决定；可选 hebben / zijn 的词条会显示解释和选择。非人称用法不强行显示不自然的第一、第二人称。
+
+维护源：`content/dutch-grammar.mjs` 的词性/短语模板、`content/dutch-verbs.json` 的固定主要变位。运行 `pnpm course:generate` 更新词库和 `app/data/dutch-grammar.json`；浏览器不在线调用外部词形服务。已有词条 ID、文本、例句、音频、FSRS 和学习路线记录保持兼容。旧缓存词条通过按词文本查询的语法索引显示新信息，无需清空进度或导入新数据库。
+
+动词数据选取并修订自 University of Antwerp / CLiPS 的 Pattern（BSD-3-Clause）；来源版本、许可及修订范围见 [content/grammar](content/grammar)。手工补充现代借词、常用标准词形、变音符号、前缀分离及助动词语义限制。语法依据和验证边界见 [docs/dutch-word-grammar.md](docs/dutch-word-grammar.md)。
 
 内容来源：
 

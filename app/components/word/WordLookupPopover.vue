@@ -9,10 +9,12 @@ import { openWordCollectPicker } from '@/core/hooks/useWordCollectPicker.ts'
 import { getDefaultWord } from '@/core/types/func.ts'
 import { dutchDictionaryLinks } from '@/core/utils/dutch-dictionary'
 import TranslationList from './TranslationList.vue'
+import DutchGrammarPanel from './DutchGrammarPanel.vue'
 
 const { t: $t } = useI18n()
 const playWordAudio = usePlayWordAudio()
 const popover = ref<HTMLElement | null>(null)
+let sizeObserver: ResizeObserver | undefined
 const dictionaryLinks = computed(() => dutchDictionaryLinks(wordLookupState.queryWord))
 const isExternalLookup = computed(() => !wordLookupState.loading && wordLookupState.notFound)
 const style = computed(() => ({
@@ -40,17 +42,20 @@ function updatePopoverPosition() {
   el.style.top = Math.max(padding, Math.min(top, window.innerHeight - rect.height - padding)) + 'px'
 }
 onMounted(() => {
+  sizeObserver = new ResizeObserver(updatePopoverPosition)
   document.addEventListener('click', onDocumentClick)
   document.addEventListener('keydown', onKeydown)
   window.addEventListener('resize', updatePopoverPosition)
 })
 onUnmounted(() => {
+  sizeObserver?.disconnect()
   document.removeEventListener('click', onDocumentClick)
   document.removeEventListener('keydown', onKeydown)
   window.removeEventListener('resize', updatePopoverPosition)
 })
 watch(() => [wordLookupState.visible, wordLookupState.x, wordLookupState.y, wordLookupState.loading, wordLookupState.notFound], () => {
-  if (wordLookupState.visible) nextTick(updatePopoverPosition)
+  sizeObserver?.disconnect()
+  if (wordLookupState.visible) nextTick(() => { updatePopoverPosition(); if (popover.value) sizeObserver?.observe(popover.value) })
 })
 </script>
 
@@ -68,6 +73,8 @@ watch(() => [wordLookupState.visible, wordLookupState.x, wordLookupState.y, word
             <BaseIcon v-if="collectTarget" @click="openCollect" :title="$t('collect_to_dict')"><IconFluentStarAdd16Regular /></BaseIcon>
           </div>
           <TranslationList v-if="wordLookupState.data?.trans?.length" class="mt-2" :word="wordLookupState.data" :show-full="true" :pos-space="false" />
+          <DutchGrammarPanel v-if="wordLookupState.data" :word="wordLookupState.data.word" expanded />
+          <div v-if="wordLookupState.data?.sentences?.[0]" class="lookup-example"><p lang="nl">{{ wordLookupState.data.sentences[0].c }}</p><small>{{ wordLookupState.data.sentences[0].cn }}</small></div>
           <p v-if="wordLookupState.notFound" class="lookup-note">课程词库中暂未收录。可在新窗口查看中文翻译或荷兰语释义。</p>
           <nav class="dictionary-links" aria-label="荷兰语词典">
             <span class="lookup-language">源语言：荷兰语（Nederlands）</span>
@@ -84,8 +91,8 @@ watch(() => [wordLookupState.visible, wordLookupState.x, wordLookupState.y, word
   position: fixed;
   z-index: 10000;
   box-sizing: border-box;
-  width: max-content;
-  max-width: min(22rem, calc(100vw - 16px));
+  width: min(32rem, calc(100vw - 16px));
+  max-width: min(32rem, calc(100vw - 16px));
   min-width: min(15rem, calc(100vw - 16px));
   max-height: calc(100dvh - 16px);
   overflow: auto;
@@ -97,6 +104,8 @@ watch(() => [wordLookupState.visible, wordLookupState.x, wordLookupState.y, word
   pointer-events: auto;
 }
 .word-lookup-popover--external { transform: translate(-50%, -50%); width: min(28rem, calc(100vw - 16px)); max-width: min(28rem, calc(100vw - 16px)); }
+.lookup-example { background: color-mix(in srgb, #94aa70 9%, transparent); padding: 10px 12px; border-radius: 7px; margin-top: 10px; font-size: 12px; line-height: 1.8; }
+.lookup-example p { margin: 0 0 4px; } .lookup-example small { color: #75816c; font-size: 11px; }
 .dictionary-links {
   display: flex; flex-direction: column; align-items: flex-start; gap: 0.6rem;
   margin-top: 0.85rem; padding-top: 0.7rem; border-top: 1px solid var(--color-item-border);

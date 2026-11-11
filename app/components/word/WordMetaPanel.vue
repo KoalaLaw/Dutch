@@ -17,6 +17,7 @@ import ClickableWord from '@/components/word/ClickableWord.vue'
 import { VolumeIcon } from '@/base'
 import { useI18n } from 'vue-i18n'
 import TranslationList from '@/components/word/TranslationList.vue'
+import DutchGrammarPanel from '@/components/word/DutchGrammarPanel.vue'
 import TypingSentence from '~/components/practice-sentences/TypingSentence.vue'
 import type { PracticeViewState } from '@/core/composables/practice-words/practice-flow-types.ts'
 import { useEventsByWatch } from '@/core/utils/eventBus.ts'
@@ -132,6 +133,8 @@ defineExpose({ startPracticeSentence, playSentence })
         <TranslationList :word="word" :showFull="!effective.isWordMasked" />
       </div>
     </template>
+
+    <DutchGrammarPanel v-if="effective.revealAll || (showDetails && !effective.isWordMasked)" :word="word.word" />
 
     <!-- 例句列表 -->
     <template v-if="word?.sentences?.length">

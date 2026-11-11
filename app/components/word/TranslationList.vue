@@ -2,6 +2,7 @@
 import type { Word } from '@/core/types'
 import { onMounted, watch } from 'vue'
 import SentenceHightLightWord from './SentenceHightLightWord.vue'
+import { getDutchGrammar } from '@/core/utils/dutch-grammar'
 
 const props = withDefaults(
   defineProps<{
@@ -25,7 +26,8 @@ let posList = $ref<{ pos: string; trans: { cn: string; frequency?: number }[]; t
 let noposTrans = $ref<{ cn: string; frequency?: number }[]>([])
 
 function init() {
-  const trans = props.word.trans
+  const grammar = getDutchGrammar(props.word)
+  const trans = props.word.trans.map(item => grammar ? { ...item, pos: grammar.pos } : item)
   let posMap = new Map<string, { pos: string; cn: string; frequency?: number }[]>()
   let emptyPos: { cn: string; frequency?: number }[] = []
   trans.forEach(item => {

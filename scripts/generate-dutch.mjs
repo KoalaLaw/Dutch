@@ -1,4 +1,4 @@
-import { mkdir, writeFile } from 'node:fs/promises'
+import { mkdir, writeFile, readFile } from 'node:fs/promises'
 import { fileURLToPath } from 'node:url'
 import { dirname } from 'node:path'
 import { packs as foundationPacks, dialogues } from '../content/dutch-course.mjs'
@@ -9,6 +9,10 @@ import { dailyPacksB } from '../content/daily-vocabulary-b.mjs'
 import { dailySkills } from '../content/daily-skills.mjs'
 import { b1Readings } from '../content/b1-readings.mjs'
 import { grammarUnits, writingTasks, speakingTasks } from '../content/b1-skills.mjs'
+import { annotateWord } from '../content/dutch-grammar.mjs'
+
+const verbs = JSON.parse(await readFile(new URL('../content/dutch-verbs.json', import.meta.url), 'utf8'))
+const wordGrammar = {}
 
 const writeJSON = async (file, data) => {
   const url = new URL('../' + file, import.meta.url)
@@ -26,8 +30,11 @@ for (const pack of packs) {
     const normalized = word.normalize('NFC').toLocaleLowerCase('nl')
     if (seen.has(normalized)) throw new Error('Duplicate Dutch entry: ' + word)
     seen.add(normalized)
+    const grammar = annotateWord(word, verbs)
+    if (grammar.kind === 'verb' && !verbs[grammar.lemma]) throw Error('Missing conjugation: ' + word)
+    wordGrammar[normalized] = grammar
     return { id: pack.id + '-' + (index + 1), word, phonetic0: '', phonetic1: '',
-      langType: 'nl', trans: [{ pos: /^(de|het) /.test(word) && word.split(' ').length === 2 ? '名词' : word.includes(' ') && !foundationPacks.includes(pack) ? '搭配' : '', cn }],
+      langType: 'nl', trans: [{ pos: grammar.pos, cn }],
       sentences: [{ c: sentence, cn: translation }], phrases: [], synos: [],
       relWords: { root: '', rels: [] }, etymology: [] }
   })
@@ -42,6 +49,7 @@ for (const pack of packs) {
     version: 1, type: 'word', recommended: true })
 }
 await writeJSON('public/dicts/nl/word/all.json', all)
+await writeJSON('app/data/dutch-grammar.json', { version: 1, entries: wordGrammar, verbs })
 await writeJSON('app/data/dutch-curriculum.json', resources)
 await writeJSON('public/list/word.json', resources)
 await writeJSON('public/list/recommend_word.json', resources.filter(pack => pack.stage !== 'foundation').slice(0, 9))
@@ -75,7 +83,11 @@ const summary = { wordCount: all.length, packCount: packs.length, foundationCoun
   progressionCount: resources.filter(pack=>pack.stage!=='foundation').length * 30, dialogueCount: articles.length,
   readingCount: advanced.length, readingQuestionCount: b1Readings.reduce((n, r) => n + r.questions.length, 0),
   grammarCount: grammarUnits.length, grammarExerciseCount: grammarUnits.reduce((n, unit) => n + unit.exercises.length, 0),
-  writingCount: writingTasks.length, speakingCount: speakingTasks.length }
+  writingCount: writingTasks.length, speakingCount: speakingTasks.length,
+  grammarWordCount: Object.keys(wordGrammar).length,
+  verbEntryCount: Object.values(wordGrammar).filter(entry => entry.kind === 'verb').length,
+  verbLemmaCount: Object.keys(verbs).length,
+  nounArticleCount: Object.values(wordGrammar).filter(entry => entry.kind === 'noun' && entry.article).length }
 await writeJSON('app/data/course-summary.json', summary)
 await writeJSON('public/course-summary.json', summary)
 console.log(JSON.stringify(summary))

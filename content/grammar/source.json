@@ -1,0 +1,9 @@
+{
+  "name": "Pattern Dutch verb lexicon, selected and corrected for Type Dutch",
+  "author": "University of Antwerp / CLiPS",
+  "revision": "af754685cca3713db0abc4f020f2e94467c19d85",
+  "url": "https://github.com/clips/pattern/blob/af754685cca3713db0abc4f020f2e94467c19d85/pattern/text/nl/nl-verbs.txt",
+  "license": "BSD-3-Clause",
+  "modified": "2026-11-11",
+  "modifications": "Selected course lemmas, modern standard forms, diacritics, explicit separable prefixes and meaning-dependent auxiliaries. No raw external lexicon is loaded at runtime."
+}
