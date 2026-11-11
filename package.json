@@ -8,9 +8,11 @@
     "generate": "nuxt generate",
     "preview": "nuxt preview",
     "i18n:write": "gulp i18nWrite",
-    "test": "node --test tests/dutch.test.mjs",
+    "test": "node --test tests/dutch.test.mjs tests/cloud.test.mjs",
     "course:generate": "node scripts/generate-dutch.mjs",
-    "preview:static": "node scripts/preview-static.mjs"
+    "preview:static": "node scripts/preview-static.mjs",
+    "server:start": "node server/start.mjs",
+    "server:test": "node --test tests/cloud.test.mjs"
   },
   "dependencies": {
     "@floating-ui/dom": "^1.7.4",

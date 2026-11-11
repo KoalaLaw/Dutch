@@ -1,0 +1,8 @@
+*
+!server
+!server/**
+!shared
+!shared/**
+!deploy
+!deploy/Dockerfile
+!deploy/Dockerfile.dockerignore

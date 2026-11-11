@@ -1,0 +1,45 @@
+name: type-dutch-sync
+services:
+  backend:
+    build:
+      context: ..
+      dockerfile: deploy/Dockerfile
+    restart: unless-stopped
+    init: true
+    read_only: true
+    cap_drop: [ALL]
+    security_opt: [no-new-privileges:true]
+    tmpfs: [/tmp]
+    environment:
+      ALLOWED_ORIGINS: https://koalalaw.github.io
+      REGISTRATION_MODE: ${REGISTRATION_MODE:-invite}
+      REGISTRATION_CODE: ${REGISTRATION_CODE:?Configure REGISTRATION_CODE in .env}
+      TRUST_PROXY: "1"
+    volumes:
+      - ./data:/data
+    ports:
+      - "127.0.0.1:5580:5580"
+    healthcheck:
+      test: [CMD, node, -e, "fetch('http://127.0.0.1:5580/api/v1/health').then(r=>process.exit(r.ok?0:1)).catch(()=>process.exit(1))"]
+      interval: 30s
+      timeout: 5s
+      retries: 3
+  caddy:
+    image: caddy:2-alpine
+    restart: unless-stopped
+    environment:
+      API_HOST: ${API_HOST:?Configure API_HOST in .env}
+    ports:
+      - "80:80"
+      - "443:443"
+      - "443:443/udp"
+    volumes:
+      - ./Caddyfile:/etc/caddy/Caddyfile:ro
+      - caddy_data:/data
+      - caddy_config:/config
+    depends_on:
+      backend:
+        condition: service_healthy
+volumes:
+  caddy_data:
+  caddy_config:

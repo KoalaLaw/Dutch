@@ -3,7 +3,7 @@
 import { withAppBaseURL } from '@/core/utils/base-url'
 import type { Article } from '@/core/types'
 import { ref, watch } from 'vue'
-import { get } from 'idb-keyval'
+import { get } from '@/core/utils/local-db'
 import { Audio } from '@/base'
 import { ENV, LOCAL_FILE_KEY } from '@/core/config/env.ts'
 

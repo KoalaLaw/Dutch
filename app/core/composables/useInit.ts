@@ -7,15 +7,19 @@ import { ensureHashGuardBeforeInit, useDataSyncPersistence } from './useDataSync
 import { SyncDataType } from '../types'
 import type { SubscriptionCallbackMutation } from 'pinia'
 import { onUnmounted } from 'vue'
+import { bootstrapAccount,registerStoreFlush,notifyAccountMutation,accountState } from '../utils/cloud-account'
 
 let unsub = null
 let unsub2 = null
+let unsubAccount = null
+let unsubAccountSetting = null
 
 export function useInit() {
   const store = useBaseStore()
   const settingStore = useSettingStore()
   const runtimeStore = useRuntimeStore()
   const dataSync = useDataSyncPersistence()
+  const cloudApiURL=String(useRuntimeConfig().public.cloudApiURL||'')
   let initializing = false // 标记是否正在初始化
   let focus = true
   let fetching = false
@@ -48,11 +52,15 @@ export function useInit() {
   async function init() {
     if (initializing) return
     initializing = true
+    await bootstrapAccount(cloudApiURL)
+    if(accountState.switching)return
     console.time('init')
 
     //先清理副作用，避免重复监听
     unsub?.()
     unsub2?.()
+    unsubAccount?.()
+    unsubAccountSetting?.()
     document.removeEventListener('visibilitychange', onvisibilitychange)
 
     await ensureHashGuardBeforeInit()
@@ -69,6 +77,16 @@ export function useInit() {
     store.load = true
     console.timeEnd('init')
     initializing = false // 初始化完成，允许保存数据
+    registerStoreFlush(async()=>{
+      await dataSync.saveDictState(store.$state,{pullWhenRemoteNewer:false})
+      await dataSync.saveLocalAndSync(SyncDataType.setting,settingStore.$state,{canSyncRemote:false})
+    })
+    const changed=(mutation:any,data:any)=>{
+      if(!data.load||data._ignoreWatch||mutation.events?.key==='_ignoreWatch')return
+      notifyAccountMutation()
+    }
+    unsubAccount=store.$subscribe(changed,{flush:'sync'})
+    unsubAccountSetting=settingStore.$subscribe(changed,{flush:'sync'})
 
     //等数据全部准备好，再开启监听，避免循环保存-同步
     document.addEventListener('visibilitychange', onvisibilitychange)

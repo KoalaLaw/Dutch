@@ -15,7 +15,7 @@ import {
   LOCAL_FILE_KEY,
   Origin,
 } from '@/core/config/env'
-import { get, set } from 'idb-keyval'
+import { get, set } from '@/core/utils/local-db'
 import { useRuntimeStore } from '@/core/stores/runtime'
 import { useExport } from '@/core/hooks/export'
 import Log from '@/components/setting/Log.vue'
@@ -666,62 +666,7 @@ function disable360() {
             </div>
           </div>
 
-          <div v-if="tabIndex === 6">
-            <p class="text-red font-bold">过时功能：由于经常同步失败，不再推荐继续使用，请等待官方同步功能</p>
-            <!--          Supabase 设置  -->
-            <SettingItem :title="$t('supabase_config')" :desc="$t('supabase_config_desc')">
-              <div v-if="sbStatus.status !== 'idle'" class="mt-2 text-sm">
-                <span v-if="sbStatus.status === 'success'" class="text-green">{{ $t('sync_status_running') }}</span>
-                <span v-else-if="sbStatus.status === 'error'" class="text-red">
-                  {{ $t('sync_status_failed') }}{{ sbStatus.statusMessage ? `（${sbStatus.statusMessage}）` : '' }}
-                </span>
-                <span v-else-if="sbStatus.status === 'syncing'">{{ $t('sync_status_syncing') }}</span>
-              </div>
-            </SettingItem>
-
-            <div class="mb-6">
-              <div>
-                {{ $t('supabase_website') }}
-                <a href="https://supabase.com/" target="_blank">https://supabase.com/</a>
-              </div>
-              <div>
-                {{ $t('supabase_tutorial') }}
-                <a href="https://www.kdocs.cn/l/cduLx52XXXgw" target="_blank">https://www.kdocs.cn/l/cduLx52XXXgw</a>
-              </div>
-              <div>
-                {{ $t('supabase_intro', { appName: APP_NAME }) }}
-              </div>
-            </div>
-
-            <div class="relative">
-              <Form ref="sbFormRef" :rules="sbFormRules" :model="sbForm">
-                <FormItem label="Url" prop="url">
-                  <BaseInput v-model="sbForm.url" />
-                </FormItem>
-                <FormItem label="Key" prop="key">
-                  <BaseInput v-model="sbForm.key" />
-                </FormItem>
-              </Form>
-              <div class="flex justify-end">
-                <BaseButton size="large" @click="removeSbConfig" :disabled="!canSyncToServe">{{
-                  $t('delete_config')
-                }}</BaseButton>
-                <BaseButton
-                  size="large"
-                  @click="openSupabaseSaveGate"
-                  :loading="configLoading"
-                  :disabled="!canSyncToServe"
-                  >{{ runtimeStore.isError ? $t('retry') : $t('save_config') }}</BaseButton
-                >
-              </div>
-              <div
-                class="absolute top-0 left-0 w-full h-full bg-white opacity-80 cursor-not-allowed z-10 center rounded-md"
-                v-if="!canSyncToServe"
-              >
-                <div class="text-red">{{ $t('custom_audio_sync_disabled') }}</div>
-              </div>
-            </div>
-          </div>
+          <div v-if="tabIndex === 6"><h2>个人账号与跨电脑同步</h2><p>使用自己的账号保存每日路线、词汇复习和写作笔记。</p><NuxtLink to="/account">打开账号与同步 →</NuxtLink></div>
 
           <div class="body" v-if="tabIndex === 7">
             <div class="row">

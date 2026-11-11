@@ -2,6 +2,7 @@
 <script setup lang="ts">
 import { BaseIcon, ToastComponent } from '@/base'
 import Logo from '@/components/Logo.vue'
+import AccountSyncStatus from '@/components/AccountSyncStatus.vue'
 import IeDialog from '@/components/dialog/IeDialog.vue'
 import useTheme from '@/core/hooks/theme.ts'
 import { useRuntimeStore } from '@/core/stores/runtime.ts'
@@ -105,6 +106,7 @@ function onMouseLeave() {
         <!--        </div>-->
       </div>
       <div class="px-4 pb-2 border-0 border-t-1 border-solid border-[var(--color-line)]">
+        <AccountSyncStatus class="mb-3" v-if="expand"/><NuxtLink to="/account" class="row" v-else><IconFluentPerson20Regular/><span>账号与同步</span></NuxtLink>
         <NuxtLink to="/setting" class="row">
           <IconFluentSettings20Regular />
           <span>{{ $t('setting') }}</span>
@@ -115,7 +117,7 @@ function onMouseLeave() {
 
     <!-- 移动端顶部菜单栏 -->
     <div class="mobile-top-nav" :class="{ collapsed: settingStore.mobileNavCollapsed }">
-      <div class="nav-items">
+      <div class="nav-items"><div class="nav-item" @click="router.push('/account')" :class="{active:route.path==='/account'}"><IconFluentPerson20Regular/><span>账号</span></div>
         <div class="nav-item" @click="router.push('/')" :class="{ active: route.path === '/' }">
           <IconFluentHome20Regular />
           <span>{{ $t('home_page') }}</span>
@@ -249,19 +251,19 @@ function onMouseLeave() {
   transition: all 0.3s ease;
 
   .nav-items {
-    display: flex;
-    justify-content: space-around;
+    display: grid;
+    grid-template-columns: repeat(7, minmax(0, 1fr));
     padding: 0.5rem 0;
 
     .nav-item {
       display: flex;
       flex-direction: column;
       align-items: center;
-      padding: 0.5rem;
+      padding: 0.5rem 2px;
       cursor: pointer;
       transition: all 0.2s;
       min-height: 44px;
-      min-width: 44px;
+      min-width: 0;
       justify-content: center;
       position: relative;
 
@@ -273,6 +275,7 @@ function onMouseLeave() {
 
       span {
         font-size: 0.7rem;
+        white-space: nowrap;
         color: var(--color-main-text);
         text-align: center;
       }

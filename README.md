@@ -12,6 +12,7 @@
 - 保留跟写、听写、默写、自测、错词本与复习。
 - 内置内容播放随网站发布的 Fenna 荷兰语音频；自定义文本使用设备提供的 nl-NL / nl-BE 语音。
 - 本地保存学习数据，支持原项目的备份导入导出。
+- 可选个人账号与跨电脑同步：前端仍在 GitHub Pages，独立 Linux 后端使用 SQLite。每人独立进度、本机缓存、版本冲突选择与备份；配置及安装见 [deploy/README.md](deploy/README.md)。服务器未连接时继续访客学习，不会显示已云同步。
 - GitHub Pages 自动部署，兼容 /Dutch/ 子目录与刷新后的页面导航。
 
 A1 / A2 / B1 是内容学习路线参考，不是官方考试词表，也不以词数或练习完成数认证语言能力。写作和口语采用自检，不进行自动评分。B1 能力方向参考 [Nederlandse Taalunie 的 ERK 描述](https://erk-nederlands.taalunie.org/erk-niveau/b1/)。原项目文档保存在 [docs/README.upstream.md](docs/README.upstream.md)。
@@ -24,6 +25,8 @@ A1 / A2 / B1 是内容学习路线参考，不是官方考试词表，也不以�
     pnpm dev
 
 打开终端显示的本地地址（默认端口 5567）。
+
+账号功能本地验证：设置 `REGISTRATION_MODE=open`、`ALLOWED_ORIGINS=http://127.0.0.1:5567`、`DATA_DIRECTORY=.cache/account-preview` 后运行 `node server/start.mjs`；前端设置 `NUXT_PUBLIC_CLOUD_API_URL=http://127.0.0.1:5580/api/v1` 再启动。生产环境使用 `app/data/cloud-config.json` 中的 HTTPS 地址和服务器生成的注册码。开发会话、密码和 SQLite 文件均不提交。
 
 ## 部署到 KoalaLaw/Dutch
 

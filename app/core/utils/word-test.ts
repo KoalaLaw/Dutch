@@ -1,4 +1,4 @@
-import { get } from "idb-keyval";
+import { get } from "@/core/utils/local-db";
 import type { Candidate, Question, Word } from "../types";
 import { shuffle } from "../utils";
 

@@ -1,5 +1,6 @@
 <!-- Type Dutch adaptation: modified 2026-11-10. Upstream: zyronon/TypeWords, GPL-3.0. -->
 <script setup lang="ts">
+import { accountState } from '@/core/utils/cloud-account'
 const route = useRoute()
 const runtimeConfig = useRuntimeConfig()
 const siteOrigin = String(runtimeConfig.public.origin || 'https://koalalaw.github.io').replace(/\/$/, '')
@@ -8,6 +9,7 @@ const canonicalURL = $computed(() => `${siteOrigin}${runtimeConfig.app.baseURL}#
 
 const nonIndexableRoutePrefixes = [
   '/fsrs',
+  '/account',
   '/import',
   '/practice-articles',
   '/practice-sentences',
@@ -52,4 +54,6 @@ useHead(() => ({
   <NuxtLayout>
     <NuxtPage />
   </NuxtLayout>
+  <div v-if="accountState.switching" class="account-switching" role="status">正在切换个人学习空间…</div>
 </template>
+<style scoped>.account-switching{position:fixed;inset:0;z-index:999999;display:grid;place-items:center;background:#fafaf4;color:#35513c;font:16px 'Segoe UI','Microsoft YaHei',sans-serif}</style>

@@ -112,6 +112,7 @@ export default defineNuxtConfig({
   // 运行时配置
   runtimeConfig: {
     public: {
+      cloudApiURL: process.env.NUXT_PUBLIC_CLOUD_API_URL || '',
       apiBase: process.env.API_BASE || 'http://localhost/',
       origin: siteOrigin,
       host: process.env.HOST || 'localhost',

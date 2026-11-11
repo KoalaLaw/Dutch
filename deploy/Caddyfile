@@ -1,0 +1,18 @@
+{$API_HOST} {
+  tls {
+    issuer acme {
+      dir https://acme-v02.api.letsencrypt.org/directory
+      profile shortlived
+    }
+  }
+  @api path /api/v1/*
+  handle @api {
+    reverse_proxy backend:5580 {
+      header_up X-Dutch-Client-IP {remote_host}
+    }
+  }
+  handle {
+    respond "Type Dutch sync service" 200
+  }
+  header X-Content-Type-Options nosniff
+}
