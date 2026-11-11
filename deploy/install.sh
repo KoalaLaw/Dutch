@@ -43,6 +43,8 @@ fi
 cd "$install_root/deploy"
 if [[ -f data/dutch.sqlite ]]; then docker compose exec -T backend node server/admin.mjs backup || { printf 'Could not back up the running database. Update cancelled.\n' >&2; exit 1; }; fi
 docker compose up -d --build
+# Recreate the proxy so an updated bind-mounted Caddyfile is read even when its inode changed.
+docker compose up -d --force-recreate caddy
 printf '\nBackend started. Wait for automatic HTTPS, then check:\nhttps://%s/api/v1/health\n' "$api_host"
 printf 'Your private registration code is in %s/registration-code.txt (root-only).\n' "$install_root"
 printf 'Service logs: cd %s/deploy && docker compose logs --tail=50\n' "$install_root"

@@ -1,3 +1,7 @@
+{
+  default_sni {$API_HOST}
+}
+
 {$API_HOST} {
   tls {
     issuer acme {

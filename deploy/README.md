@@ -19,6 +19,8 @@ bash /tmp/type-dutch-install.sh COMMIT_SHA 8.220.72.103
 
 检查 `https://8.220.72.103/api/v1/health` 返回 `ok: true` 后，将前端 `app/data/cloud-config.json` 的 `apiURL` 配置为 `https://8.220.72.103/api/v1`，再发布 GitHub Pages。证书不受信任时不要绕过警告使用登录。
 
+公网 IP 访问通常不带 TLS SNI，因此 Caddy 全局块设置 `default_sni {$API_HOST}`，使容器内的代理能正确选择公网 IP 的证书。早期安装可运行 `deploy/fix-ip-https.sh`：先备份配置，保留文件 inode，校验后热加载，并用普通 HTTPS 请求验收；不会修改账号、注册码和进度。
+
 ## 已有 Nginx / HTTPS 服务
 
 只运行后端：`docker compose up -d --build backend`。在已正确配置 HTTPS 的服务器块加入：
