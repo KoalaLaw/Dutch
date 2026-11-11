@@ -6,7 +6,7 @@ import SettingItem from './SettingItem.vue'
 import SoundMasterControl from './SoundMasterControl.vue'
 import { useSettingStore } from '@/core/stores/setting.ts'
 import { ENV, SoundFileOptions } from '@/core/config/env.ts'
-import { getBrowserKey, getAudioFileUrl, usePlayAudio } from '@/core/hooks/sound.ts'
+import { getBrowserKey, getAudioFileUrl, usePlayAudio, useTTsPlayAudio, cancelWordPracticeAudio } from '@/core/hooks/sound.ts'
 import {
   useSoundMasterSettings,
   SOUND_VOLUME_ITEMS,
@@ -66,10 +66,13 @@ const currentTtsVoice = computed({
 })
 
 const exampleText = 'Hallo! Ik leer Nederlands. Hoe gaat het met je?'
+const playCourseAudio = useTTsPlayAudio()
 
 function previewTtsVoice(voiceName: string) {
   if (typeof speechSynthesis === 'undefined') return
+  cancelWordPracticeAudio()
   speechSynthesis.cancel()
+  speechSynthesis.resume()
   const msg = new SpeechSynthesisUtterance(exampleText)
   msg.lang = 'nl-NL'
   msg.volume = settingStore.sentenceSoundVolume / 100
@@ -112,11 +115,8 @@ function previewTtsVoice(voiceName: string) {
     <SettingItem :title="$t('word_auto_pronunciation')">
       <Switch v-model="settingStore.wordSound" />
     </SettingItem>
-    <SettingItem :title="$t('pronunciation_accent')" :desc="$t('pronunciation_accent_desc')">
-      <Select v-model="settingStore.soundType" :placeholder="$t('please_select')" class="w-50!">
-        <Option :label="$t('us_accent')" value="us" />
-        <Option :label="$t('uk_accent')" value="uk" />
-      </Select>
+    <SettingItem title="课程发音" desc="内置内容使用荷兰标准语（nl-NL）音频，无需安装系统语音包。">
+      <button type="button" class="text-link" @click="playCourseAudio(exampleText, { rate: settingStore.sentenceSoundSpeed, volume: settingStore.sentenceSoundVolume / 100 })">试听课程发音 ▶</button>
     </SettingItem>
     <SettingItem v-if="showVolumeSubsInSections" :title="$t('volume')">
       <Slider v-model="settingStore.wordSoundVolume" showText showValue unit="%" />
@@ -137,11 +137,11 @@ function previewTtsVoice(voiceName: string) {
     <SettingItem v-if="showSpeedSubsInSections" :title="$t('sentence_speed')">
       <Slider v-model="settingStore.sentenceSoundSpeed" :step="0.1" :min="0.5" :max="3" showText showValue />
     </SettingItem>
-    <SettingItem :title="$t('tts_voice_setting_title')" :desc="$t('tts_voice_setting_desc')">
+    <SettingItem title="自定义文本语音（可选）" desc="仅用于课程音频未覆盖的自定义内容，选择设备提供的荷兰语语音。">
       <Select
         :key="ttsSelectKey"
         v-model="currentTtsVoice"
-        :placeholder="ttsVoiceList.length ? $t('tts_select_placeholder') : $t('tts_no_voice_available')"
+        :placeholder="ttsVoiceList.length ? $t('tts_select_placeholder') : '设备未提供荷兰语语音'"
         class="w-80!"
       >
         <Option v-for="voice in ttsVoiceList" :key="voice.name" :label="voice.name" :value="voice.name">
@@ -155,9 +155,7 @@ function previewTtsVoice(voiceName: string) {
       </Select>
     </SettingItem>
     <div>{{ $t('tts_voice_preview_sentence') }}{{ exampleText }}</div>
-    <div v-if="!currentTtsVoice" class="text-sm text-orange-500 mt-1 mb-2">
-      {{ $t('tts_no_voice_warning') }}
-    </div>
+    <div v-if="!ttsVoiceList.length" class="text-sm color-gray mt-1 mb-2">课程发音可直接播放；只有额外添加的自定义文本需要系统荷兰语语音。</div>
 
     <!-- 文章音效 -->
     <div class="line"></div>

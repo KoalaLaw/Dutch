@@ -1,4 +1,5 @@
 <script setup lang="ts">
+import { dutchDictionaryURL, dutchTranslationURL } from '@/core/utils/dutch-dictionary'
 /**
  * TypingSentence — 句子练习包装组件
  */
@@ -109,18 +110,18 @@ function onContextMenu(e: MouseEvent, word: ArticleWord, wordIndex: number) {
         },
       },
       {
-        label: $t('youdao_translate'),
+        label: '荷兰语查词 / 翻译',
         children: [
           {
             label: $t('translate_word'),
             onClick: () => {
-              window.open(`https://www.youdao.com/result?word=${word.word}&lang=en`, '_blank')
+              window.open(dutchDictionaryURL(word.word), '_blank', 'noopener,noreferrer')
             },
           },
           {
             label: $t('translate_sentence'),
             onClick: () => {
-              window.open(`https://www.youdao.com/result?word=${data.text}&lang=en`, '_blank')
+              window.open(dutchTranslationURL(data.text), '_blank', 'noopener,noreferrer')
             },
           },
         ],

@@ -1,5 +1,6 @@
 // Type Dutch adaptation: modified 2026-11-10. Upstream: zyronon/TypeWords, GPL-3.0.
-import { selectDutchVoice } from '../utils/dutch'
+import { createDutchAudioPlayer, normalizeDutchAudioText } from '../utils/dutch-audio'
+import dutchAudio from '@/data/dutch-audio.json'
 import { withAppBaseURL } from '../utils/base-url'
 import { onMounted, watchEffect } from 'vue'
 import { useSettingStore } from '../stores/setting'
@@ -152,31 +153,37 @@ export function resetActiveWordPlayCount(word: string) {
   activeWordPlayCountMap.delete(word.trim().toLowerCase())
 }
 
-let cachedWordAudio: HTMLAudioElement | null = null
-let wordPlaybackGeneration = 0
-let ttsPlaybackGeneration = 0
-
-function getCachedWordAudio(): HTMLAudioElement | null {
-  if (!cachedWordAudio && typeof Audio !== 'undefined') {
-    cachedWordAudio = new Audio()
-  }
-  return cachedWordAudio
+let dutchPlayer: ReturnType<typeof createDutchAudioPlayer> | undefined
+let lastAudioWarning = 0
+function getDutchPlayer() {
+  dutchPlayer ??= createDutchAudioPlayer({
+    source: text => {
+      const path = (dutchAudio as Record<string, string>)[normalizeDutchAudioText(text)]
+      return path ? withAppBaseURL(path) : undefined
+    },
+    createAudio: () => {
+      const audio = document.createElement('audio')
+      audio.id = 'dutch-pronunciation-audio'
+      audio.hidden = true
+      audio.preload = 'auto'
+      document.body.appendChild(audio)
+      return audio
+    },
+    speech: typeof speechSynthesis === 'undefined' ? undefined : speechSynthesis,
+    createUtterance: typeof SpeechSynthesisUtterance === 'undefined' ? undefined : text => new SpeechSynthesisUtterance(text),
+    onError: hasRecording => {
+      if (Date.now() - lastAudioWarning < 5000) return
+      lastAudioWarning = Date.now()
+      Toast.warning(hasRecording
+        ? '音频未能播放，请检查网络和浏览器声音权限后点击重试。'
+        : '此自定义文本暂无课程音频，需要设备提供荷兰语语音。课程内置内容可直接播放。', { duration: 6000 })
+    },
+  })
+  return dutchPlayer
 }
 
 export function cancelWordPracticeAudio() {
-  wordPlaybackGeneration++
-  ttsPlaybackGeneration++
-  if (typeof speechSynthesis !== 'undefined') {
-    speechSynthesis.pause()
-    speechSynthesis.cancel()
-  }
-  const wordAudio = getCachedWordAudio()
-  if (wordAudio) {
-    wordAudio.onended = null
-    wordAudio.onerror = null
-    wordAudio.pause()
-    wordAudio.currentTime = 0
-  }
+  dutchPlayer?.stop()
 }
 
 export function usePlayWordAudio() {
@@ -192,21 +199,6 @@ export function usePlayWordAudio() {
   }
 }
 
-function getVoicesAsync(): Promise<SpeechSynthesisVoice[]> {
-  return new Promise(resolve => {
-    const voices = speechSynthesis.getVoices()
-    if (voices.length) return resolve(voices)
-    let timer: ReturnType<typeof setTimeout>
-    const done = () => {
-      clearTimeout(timer)
-      speechSynthesis.removeEventListener('voiceschanged', done)
-      resolve(speechSynthesis.getVoices())
-    }
-    speechSynthesis.addEventListener('voiceschanged', done)
-    timer = setTimeout(done, 1500)
-  })
-}
-
 export interface TTsPlayOptions {
   rate?: number
   volume?: number
@@ -216,41 +208,16 @@ export interface TTsPlayOptions {
   onPlay?: () => void
 }
 
-let lastVoiceWarning = 0
 export function useTTsPlayAudio() {
   const settingStore = useSettingStore()
   return (text: string, options: TTsPlayOptions = {}) => {
-    if (!text) { options.onEnd?.(); return }
-    if (typeof speechSynthesis === 'undefined') {
-      Toast.warning('此浏览器不支持语音。请使用支持荷兰语语音的浏览器。')
-      options.onEnd?.()
-      return
-    }
-    const generation = ++ttsPlaybackGeneration
-    speechSynthesis.cancel()
-    getVoicesAsync().then(voices => {
-      if (generation !== ttsPlaybackGeneration) return
-      const saved = settingStore.ttsVoiceMap?.find(item => item.key === getBrowserKey())?.voice
-      const preferred = settingStore.soundType === 'uk' ? 'nl-BE' : 'nl-NL'
-      const voice = selectDutchVoice(voices, saved, preferred)
-      if (!voice) {
-        if (Date.now() - lastVoiceWarning > 10000) {
-          lastVoiceWarning = Date.now()
-          Toast.warning('未找到荷兰语语音。请在系统中添加荷兰语语音包，或用 Edge 打开后在「设置 → 音效」中试听。', { duration: 8000 })
-        }
-        options.onEnd?.()
-        return
-      }
-      const utterance = new SpeechSynthesisUtterance(text)
-      utterance.lang = voice.lang
-      utterance.voice = voice
-      utterance.rate = options.rate ?? settingStore.wordSoundSpeed
-      utterance.volume = options.volume ?? settingStore.wordSoundVolume / 100
-      utterance.pitch = options.pitch ?? 1
-      utterance.onstart = () => { if (generation === ttsPlaybackGeneration) options.onPlay?.() }
-      utterance.onend = () => { if (generation === ttsPlaybackGeneration) options.onEnd?.() }
-      utterance.onerror = () => { if (generation === ttsPlaybackGeneration) options.onEnd?.() }
-      speechSynthesis.speak(utterance)
+    const saved = settingStore.ttsVoiceMap?.find(item => item.key === getBrowserKey())?.voice
+    getDutchPlayer().play(text, {
+      ...options,
+      rate: options.rate ?? settingStore.wordSoundSpeed,
+      volume: options.volume ?? settingStore.wordSoundVolume / 100,
+      voiceName: saved,
+      preferredLanguage: settingStore.soundType === 'uk' ? 'nl-BE' : 'nl-NL',
     })
   }
 }

@@ -33,6 +33,7 @@ import { get } from 'idb-keyval'
 import { nanoid } from 'nanoid'
 import { saveHashSnapshot } from '../composables/useDataSyncPersistence'
 import { withAppBaseURL } from './base-url'
+import { dutchDictionaryURL } from './dutch-dictionary'
 
 dayjs.extend(duration)
 
@@ -818,5 +819,5 @@ export function normalizeWord(word: string) {
 }
 
 export function goYoudao(word: string) {
-  window.open(`https://nl.wiktionary.org/wiki/${encodeURIComponent(word)}`, '_blank', 'noopener,noreferrer')
+  window.open(dutchDictionaryURL(word), '_blank', 'noopener,noreferrer')
 }

@@ -1,4 +1,5 @@
 <script setup lang="ts">
+import { dutchDictionaryURL, dutchTranslationURL } from '@/core/utils/dutch-dictionary'
 import { BaseButton, Toast, VolumeIcon } from '@/base'
 import { openWordCollectPicker } from '@/core/hooks/useWordCollectPicker.ts'
 import { usePlayBeep, usePlayKeyboardAudio, usePlayWordAudio } from '@/core/hooks/sound'
@@ -18,7 +19,6 @@ import { _dateFormat, _nextTick, isMobile, msToHourMinute, total, debounce } fro
 import { emitter, EventKey, useEvents } from '@/core/utils/eventBus'
 import ContextMenu from '@imengyu/vue3-context-menu'
 import '@imengyu/vue3-context-menu/lib/vue3-context-menu.css'
-import nlp from 'compromise/three'
 import { nanoid } from 'nanoid'
 import { inject, onMounted, onUnmounted, watch } from 'vue'
 
@@ -615,17 +615,7 @@ function onContextMenu(e: MouseEvent, sentence: Sentence, i, j, w) {
         label: $t('collect_word'),
         onClick: () => {
           let word = props.article.sections[i][j].words[w]
-          let text = word.word
-          let doc = nlp(text)
-          // 优先判断是不是动词
-          if (doc.verbs().found) {
-            text = doc.verbs().toInfinitive().text()
-          }
-          // 如果是名词（复数 → 单数）
-          if (doc.nouns().found) {
-            text = doc.nouns().toSingular().text()
-          }
-          if (!text.length) text = word.word
+          const text = word.word
           setTimeout(() => {
             openWordCollectPicker(getDefaultWord({ word: text, id: nanoid() }), { x: e.x, y: e.y })
           },300)
@@ -677,19 +667,19 @@ function onContextMenu(e: MouseEvent, sentence: Sentence, i, j, w) {
         },
       },
       {
-        label: $t('youdao_translate'),
+        label: '荷兰语查词 / 翻译',
         children: [
           {
             label: $t('translate_word'),
             onClick: () => {
               let word = props.article.sections[i][j].words[w]
-              window.open(`https://www.youdao.com/result?word=${word.word}&lang=en`, '_blank')
+              window.open(dutchDictionaryURL(word.word), '_blank', 'noopener,noreferrer')
             },
           },
           {
             label: $t('translate_sentence'),
             onClick: () => {
-              window.open(`https://www.youdao.com/result?word=${sentence.text}&lang=en`, '_blank')
+              window.open(dutchTranslationURL(sentence.text), '_blank', 'noopener,noreferrer')
             },
           },
         ],

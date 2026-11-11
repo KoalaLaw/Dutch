@@ -3,7 +3,7 @@ import { tokenizeDutchSentence } from '../utils/dutch-tokenizer'
 import type { Article, Sentence } from '../types'
 import { getDefaultArticleWord, getDefaultDict, PracticeArticleWordType } from '../types'
 import { _nextTick, cloneDeep, ensureCustomDictCopy } from '../utils'
-import { usePlayWordAudio, useTTsPlayAudio } from './sound'
+import { usePlayWordAudio, useTTsPlayAudio, cancelWordPracticeAudio } from './sound'
 import { getSentenceAllText, getSentenceAllTranslateText } from './translate'
 import { useBaseStore } from '../stores/base'
 import { useRuntimeStore } from '../stores/runtime'
@@ -339,7 +339,7 @@ export function usePlayArticleTextAudio() {
     clearTimeout(timer)
 
     if (hasValidArticleTextAudioPosition(target) && ref?.src) {
-      if (typeof speechSynthesis !== 'undefined') speechSynthesis.cancel()
+      cancelWordPracticeAudio()
       ref.pause()
       let start = Number(target.start)
       ref.volume = settingStore.articleSoundVolume / 100

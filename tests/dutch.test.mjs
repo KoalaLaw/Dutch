@@ -10,9 +10,147 @@ import { parseB1State, countDutchWords, isWritingReady, emptyB1State } from '../
 import { withAppBaseURL } from '../app/core/utils/base-url.ts'
 import { selectDutchVoice, normalizeDutchInput, isDutchPrintableKey } from '../app/core/utils/dutch.ts'
 import { tokenizeDutchSentence } from '../app/core/utils/dutch-tokenizer.ts'
+import { dutchHeadword, dutchDictionaryURL, dutchTranslationURL, dutchDictionaryLinks } from '../app/core/utils/dutch-dictionary.ts'
+import { createDutchAudioPlayer, normalizeDutchAudioText } from '../app/core/utils/dutch-audio.ts'
 import { isWholePracticeInputCorrect } from '../app/core/composables/practice-words/visible-word-typing.ts'
 
 const json = async path => JSON.parse(await readFile(new URL('../' + path, import.meta.url), 'utf8'))
+
+test('dictionary links explicitly use Dutch, preserve accents and safely encode phrases', () => {
+  assert.equal(dutchHeadword('  De verantwoordelijkheid! '), 'verantwoordelijkheid')
+  assert.equal(dutchHeadword('het eens zijn'), 'het eens zijn')
+  assert.equal(dutchHeadword('cafe\u0301'), 'café')
+  assert.equal(dutchDictionaryURL('de bank'), 'https://www.woorden.org/woord/bank')
+  const translation = new URL(dutchTranslationURL('bank & werk?'))
+  assert.equal(translation.searchParams.get('sl'), 'nl')
+  assert.equal(translation.searchParams.get('tl'), 'zh-CN')
+  assert.equal(translation.searchParams.get('text'), 'bank & werk?')
+  const links = dutchDictionaryLinks('café')
+  assert.equal(new URL(links[2].href).hostname, 'nl.wiktionary.org')
+  assert.equal(new URL(links[2].href).hash, '#Nederlands')
+})
+
+function audioFixture({ speech, reject = false, sources = { hallo: '/Dutch/audio/nl/hallo.mp3' } } = {}) {
+  const events = []
+  const audio = {
+    src: '', volume: 0, playbackRate: 0, currentTime: 0,
+    pause() { events.push('pause') },
+    play() { events.push('play'); return reject ? Promise.reject(Error('media failed')) : Promise.resolve() },
+  }
+  const player = createDutchAudioPlayer({
+    source: text => sources[normalizeDutchAudioText(text)], createAudio: () => audio,
+    speech, createUtterance: text => ({ text }), onError: () => events.push('error'),
+  })
+  return { player, audio, events }
+}
+
+test('built-in Dutch audio plays immediately without system voices, with volume/speed and real playback callbacks', () => {
+  const { player, audio, events } = audioFixture()
+  player.play('Hallo', { volume: .4, rate: .75, onPlay: () => events.push('started'), onEnd: () => events.push('ended') })
+  assert.equal(audio.src, '/Dutch/audio/nl/hallo.mp3')
+  assert.equal(audio.volume, .4)
+  assert.equal(audio.playbackRate, .75)
+  assert.deepEqual(events, ['play'])
+  audio.onplaying()
+  audio.onended()
+  audio.onended()
+  assert.deepEqual(events, ['play', 'started', 'ended'])
+  assert.equal(normalizeDutchAudioText('  “CAFE\u0301”\n en ’s morgens '), '"café" en \'s morgens')
+})
+
+test('replacing or stopping a clip suppresses stale end/error callbacks', () => {
+  const { player, audio, events } = audioFixture()
+  player.play('hallo', { onEnd: () => events.push('old-ended') })
+  const oldEnd = audio.onended
+  const oldError = audio.onerror
+  player.play('hallo', { onEnd: () => events.push('new-ended') })
+  oldEnd()
+  oldError()
+  assert.ok(!events.includes('old-ended'))
+  assert.ok(!events.includes('error'))
+  const newEnd = audio.onended
+  player.stop()
+  newEnd()
+  assert.ok(!events.includes('new-ended'))
+  assert.equal(audio.currentTime, 0)
+})
+
+test('failed media can use a Dutch voice and resumes a previously paused synthesizer', async () => {
+  const spoken = []
+  const speech = {
+    paused: true,
+    cancel() {}, resume() { this.paused = false },
+    getVoices: () => [{ name: 'English', lang: 'en-US' }, { name: 'Dutch', lang: 'nl-NL' }],
+    speak(utterance) { assert.equal(this.paused, false); spoken.push(utterance) },
+  }
+  const { player, events } = audioFixture({ speech, reject: true })
+  player.play('hallo', { onEnd: () => events.push('ended') })
+  await Promise.resolve()
+  assert.equal(spoken.length, 1)
+  assert.equal(spoken[0].lang, 'nl-NL')
+  assert.equal(spoken[0].voice.name, 'Dutch')
+  spoken[0].onend()
+  assert.ok(events.includes('ended'))
+})
+
+test('missing custom-text Dutch voice gives a visible failure and never uses English', () => {
+  const speech = { cancel() {}, getVoices: () => [{ name: 'English', lang: 'en-US' }], speak() { assert.fail('English voice must not be used') } }
+  const { player, events } = audioFixture({ speech })
+  player.play('custom text', { onEnd: () => events.push('ended') })
+  assert.deepEqual(events, ['error', 'ended'])
+})
+
+test('stopping while system voices load removes the listener and suppresses delayed playback', () => {
+  let pending
+  const listeners = new Set()
+  const speech = {
+    cancel() {}, getVoices: () => [],
+    addEventListener(event, listener) { pending = listener; listeners.add(listener) },
+    removeEventListener(event, listener) { listeners.delete(listener) },
+    speak() { assert.fail('Cancelled text must not play') },
+  }
+  const { player, events } = audioFixture({ speech })
+  player.play('custom text', { onEnd: () => events.push('ended') })
+  assert.equal(listeners.size, 1)
+  player.stop()
+  assert.equal(listeners.size, 0)
+  pending()
+  assert.deepEqual(events, [])
+})
+
+test('built-in Dutch texts and clickable words have complete, nonempty MP3 assets', async () => {
+  const manifest = await json('app/data/dutch-audio.json')
+  const expected = ['Hallo! Ik leer Nederlands. Hoe gaat het met je?']
+  const words = await json('public/dicts/nl/word/all.json')
+  for (const word of words) expected.push(word.word, ...word.sentences.map(item => item.c))
+  for (const reading of b1Readings) {
+    for (const paragraph of reading.paragraphs) expected.push(paragraph.map(pair => pair[0]).join(' '), ...paragraph.map(pair => pair[0]))
+  }
+  for (const unit of grammarUnits) expected.push(...unit.examples.map(item => item.nl))
+  for (const task of [...writingTasks, ...speakingTasks]) expected.push(task.model)
+  for (const task of speakingTasks) expected.push(...task.phrases.map(item => item.nl))
+  for (const book of await json('public/list/article.json')) {
+    for (const article of await json(`public/dicts/nl/article/${book.url}`)) expected.push(...article.text.split('\n').filter(Boolean))
+  }
+  for (const text of expected) {
+    assert.ok(manifest[normalizeDutchAudioText(text)], `Missing audio: ${text}`)
+    for (const token of tokenizeDutchSentence(text)) {
+      if (token.kind === 'word') assert.ok(manifest[normalizeDutchAudioText(token.word)], `Missing clicked-word audio: ${token.word}`)
+    }
+  }
+  assert.ok(Object.keys(manifest).length >= 4500)
+  const entries = Object.entries(manifest)
+  for (let offset = 0; offset < entries.length; offset += 64) {
+    await Promise.all(entries.slice(offset, offset + 64).map(async ([key, path]) => {
+      assert.equal(key, normalizeDutchAudioText(key))
+      assert.match(path, /^\/audio\/nl\/[a-f\d]{24}\.mp3$/)
+      const bytes = await readFile(new URL('../public' + path, import.meta.url))
+      assert.ok(bytes.length > 200, `Empty clip: ${key}`)
+      assert.equal(bytes[0], 0xff, `Invalid MP3: ${key}`)
+      assert.equal(bytes[1] & 0xe0, 0xe0, `Invalid MP3 frame: ${key}`)
+    }))
+  }
+})
 test('every visible course loads a complete Dutch word dictionary with Chinese examples', async () => {
   const resources = await json('public/list/word.json')
   assert.equal(resources.length, 36)

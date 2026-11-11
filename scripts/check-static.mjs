@@ -7,6 +7,8 @@ for (const path of ['index.html', 'dutch-icon.svg', 'list/word.json', 'list/arti
 const index = await readFile(resolve(root, 'index.html'), 'utf8')
 if (!index.includes('_nuxt/')) throw new Error('Missing built application assets')
 const words = JSON.parse(await readFile(resolve(root, 'dicts/nl/word/all.json'), 'utf8'))
+const audio = JSON.parse(await readFile('app/data/dutch-audio.json', 'utf8'))
+await Promise.all(Object.values(audio).map(path => access(resolve(root, '.' + path))))
 const summary = JSON.parse(await readFile(resolve(root, 'course-summary.json'), 'utf8'))
 if (words.length !== summary.wordCount || summary.progressionCount < 900) throw new Error('Dutch content is incomplete')
 const books = JSON.parse(await readFile(resolve(root, 'list/article.json'), 'utf8'))
@@ -15,4 +17,4 @@ for (const book of books) {
   if (items.length !== book.length) throw new Error('Incomplete reading book: ' + book.id)
 }
 await writeFile(resolve(root, '.nojekyll'), '')
-console.log('Static output verified: application, Dutch dictionaries and dialogues present.')
+console.log('Static output verified: application, Dutch dictionaries, readings and ' + Object.keys(audio).length + ' Dutch audio clips present.')
