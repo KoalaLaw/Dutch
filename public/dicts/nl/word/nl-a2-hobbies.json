@@ -1,0 +1,782 @@
+[
+  {
+    "id": "nl-a2-hobbies-1",
+    "word": "het bordspel",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "棋盘游戏；桌游"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "We spelen op vrijdagavond graag een bordspel.",
+        "cn": "我们喜欢周五晚上玩桌游。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-a2-hobbies-2",
+    "word": "het kaartspel",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "纸牌游戏"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Ken je een kaartspel voor vier personen?",
+        "cn": "你知道一种适合四个人玩的纸牌游戏吗？"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-a2-hobbies-3",
+    "word": "de puzzel",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "拼图；谜题"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Deze puzzel heeft duizend stukjes.",
+        "cn": "这幅拼图有一千块。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-a2-hobbies-4",
+    "word": "de dobbelsteen",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "骰子"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Gooi de dobbelsteen om te zien hoeveel stappen je mag zetten.",
+        "cn": "掷骰子看看你可以走几步。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-a2-hobbies-5",
+    "word": "de pion",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "棋子；兵卒"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Zet je pion op het blauwe vakje.",
+        "cn": "把你的棋子放到蓝色方格上。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-a2-hobbies-6",
+    "word": "de beurt",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "轮次；轮到的机会"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Nu is het jouw beurt.",
+        "cn": "现在轮到你了。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-a2-hobbies-7",
+    "word": "de spelregel",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "游戏规则"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "We lezen eerst de spelregels voordat we beginnen.",
+        "cn": "我们先读游戏规则，再开始玩。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-a2-hobbies-8",
+    "word": "het schaakbord",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "国际象棋棋盘"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Er staat een schaakbord op de tafel.",
+        "cn": "桌子上摆着一个国际象棋棋盘。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-a2-hobbies-9",
+    "word": "het schaakstuk",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "国际象棋棋子"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Er ontbreekt een schaakstuk in de doos.",
+        "cn": "盒子里少了一枚国际象棋棋子。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-a2-hobbies-10",
+    "word": "de speler",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "玩家；选手"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Elke speler krijgt vijf kaarten.",
+        "cn": "每位玩家拿到五张牌。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-a2-hobbies-11",
+    "word": "de gitaar",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "吉他"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Mijn buurman speelt elke avond gitaar.",
+        "cn": "我的男邻居每天晚上弹吉他。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-a2-hobbies-12",
+    "word": "de piano",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "钢琴"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Als kind wilde ik graag piano leren spelen.",
+        "cn": "小时候，我很想学弹钢琴。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-a2-hobbies-13",
+    "word": "het instrument",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "乐器；仪器"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Welk instrument zou je willen leren spelen?",
+        "cn": "你想学演奏哪一种乐器？"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-a2-hobbies-14",
+    "word": "het lied",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "歌曲"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "We zingen samen een Nederlands lied.",
+        "cn": "我们一起唱一首荷兰语歌。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-a2-hobbies-15",
+    "word": "de melodie",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "旋律"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Ik ken de melodie, maar niet de woorden.",
+        "cn": "我知道旋律，却不知道歌词。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-a2-hobbies-16",
+    "word": "het koor",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "合唱团"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Zij zingt sinds kort in een koor.",
+        "cn": "她最近开始在合唱团唱歌。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-a2-hobbies-17",
+    "word": "de repetitie",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "排练"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "De repetitie begint om half acht.",
+        "cn": "排练七点半开始。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-a2-hobbies-18",
+    "word": "het ritme",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "节奏"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Dit lied heeft een rustig ritme.",
+        "cn": "这首歌的节奏很舒缓。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-a2-hobbies-19",
+    "word": "de foto",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "照片"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Op deze foto staan mijn vrienden.",
+        "cn": "这张照片上是我的朋友们。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-a2-hobbies-20",
+    "word": "de camera",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "照相机；摄像机"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Ik neem mijn camera mee op de wandeling.",
+        "cn": "我散步时带上照相机。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-a2-hobbies-21",
+    "word": "de schilder",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "画家；油漆工"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "De schilder laat zijn nieuwe werk zien.",
+        "cn": "画家展示自己的新作品。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-a2-hobbies-22",
+    "word": "het schilderij",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "画作；油画"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Boven de bank hangt een schilderij.",
+        "cn": "沙发上方挂着一幅画。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-a2-hobbies-23",
+    "word": "het penseel",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "画笔；毛笔"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Met een dun penseel schildert zij de lijnen.",
+        "cn": "她用一支细画笔描绘线条。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-a2-hobbies-24",
+    "word": "de verf",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "颜料；油漆"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Er zit groene verf op mijn handen.",
+        "cn": "我的手上沾了绿色颜料。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-a2-hobbies-25",
+    "word": "de draad",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "线；细绳"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Ik gebruik een blauwe draad om de knoop vast te maken.",
+        "cn": "我用蓝线把纽扣缝好。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-a2-hobbies-26",
+    "word": "de naald",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "针"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "De naald ligt naast het doosje met draad.",
+        "cn": "针放在装线的小盒子旁边。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-a2-hobbies-27",
+    "word": "tekenen",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "",
+        "cn": "画；绘制"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Ik teken graag mensen in mijn vrije tijd.",
+        "cn": "空闲时我喜欢画人物。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-a2-hobbies-28",
+    "word": "schilderen",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "",
+        "cn": "绘画；刷油漆"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Op zaterdag schilder ik in een klein atelier.",
+        "cn": "周六我在一间小画室里画画。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-a2-hobbies-29",
+    "word": "fotograferen",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "",
+        "cn": "拍照；摄影"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Zij fotografeert vooral gebouwen en straten.",
+        "cn": "她主要拍摄建筑和街道。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-a2-hobbies-30",
+    "word": "tuinieren",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "",
+        "cn": "做园艺；打理花园"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Mijn ouders tuinieren graag wanneer het mooi weer is.",
+        "cn": "天气好时，我父母喜欢打理花园。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  }
+]

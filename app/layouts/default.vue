@@ -85,10 +85,11 @@ function onMouseLeave() {
           </BaseIcon>
         </div>
         <NuxtLink to="/" class="row"><IconFluentHome20Regular /><span>学习首页</span></NuxtLink>
+        <NuxtLink to="/plan" class="row"><IconFluentCalendarLtr20Regular /><span>每日学习路线</span></NuxtLink>
         <NuxtLink to="/b1" class="row"><IconFluentBookNumber20Filled /><span>B1 学习中心</span></NuxtLink>
-        <NuxtLink to="/words" class="row">
+        <NuxtLink to="/vocabulary" class="row">
           <IconFluentTextUnderlineDouble20Regular />
-          <span>{{ $t('words') }}</span>
+          <span>词汇主题</span>
         </NuxtLink>
         <NuxtLink id="article" to="/articles" class="row">
           <IconFluentBookLetter20Regular />
@@ -119,8 +120,9 @@ function onMouseLeave() {
           <IconFluentHome20Regular />
           <span>{{ $t('home_page') }}</span>
         </div>
+        <div class="nav-item" @click="router.push('/plan')" :class="{active:route.path==='/plan'}"><IconFluentCalendarLtr20Regular/><span>每日路线</span></div>
         <div class="nav-item" @click="router.push('/b1')" :class="{ active:route.path === '/b1' }"><IconFluentBookNumber20Filled /><span>B1 训练</span></div>
-        <div class="nav-item" @click="router.push('/words')" :class="{ active: route.path?.includes('/words') }">
+        <div class="nav-item" @click="router.push('/vocabulary')" :class="{ active: route.path?.includes('/words') || route.path === '/vocabulary' }">
           <IconFluentTextUnderlineDouble20Regular />
           <span>{{ $t('words') }}</span>
         </div>

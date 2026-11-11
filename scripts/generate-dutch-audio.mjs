@@ -73,6 +73,8 @@ for (const task of skills.speakingTasks) {
   add(task.scenario, 5, 'speaking-scenario')
   for (const phrase of task.phrases) add(phrase.nl, 2, 'speaking-phrase')
 }
+const dailySkills = await json('app/data/daily-skills.json')
+for (const lesson of dailySkills) for (const example of lesson.examples) add(example.nl, 2, 'daily-skill-example')
 for (const sourcePath of ['app/components/DutchHome.vue', 'app/components/DutchGuide.vue', 'app/components/setting/SoundSetting.vue']) {
   const source = await readFile(resolve(root, sourcePath), 'utf8')
   for (const match of source.matchAll(/(?:word|sentence|example)\s*:\s*(['"])((?:\\.|(?!\1).)*)\1/g)) {

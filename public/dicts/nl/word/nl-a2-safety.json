@@ -1,0 +1,782 @@
+[
+  {
+    "id": "nl-a2-safety-1",
+    "word": "de noodsituatie",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "紧急情况"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Tijdens de les oefenen we hoe je een noodsituatie beschrijft.",
+        "cn": "课堂上，我们练习如何描述紧急情况。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-a2-safety-2",
+    "word": "de noodmelding",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "紧急报告；报警信息"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "De medewerker vraagt welke informatie in de noodmelding staat.",
+        "cn": "工作人员询问紧急报告中有哪些信息。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-a2-safety-3",
+    "word": "het gevaar",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "危险"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Op het bord staat een waarschuwing voor gevaar.",
+        "cn": "牌子上写着危险警告。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-a2-safety-4",
+    "word": "de dreiging",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "威胁"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "In het gesprek beschreef zij de dreiging die ze voelde.",
+        "cn": "谈话中，她描述了自己感受到的威胁。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-a2-safety-5",
+    "word": "de waarschuwing",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "警告；提醒"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Ik heb de waarschuwing op het scherm gelezen.",
+        "cn": "我读过屏幕上的警告。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-a2-safety-6",
+    "word": "de rook",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "烟；烟雾"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "De getuige vertelde dat er rook uit het raam kwam.",
+        "cn": "目击者说有烟从窗户冒出来。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-a2-safety-7",
+    "word": "de vonk",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "火花"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Hij zag een vonk en meldde dat aan de medewerker.",
+        "cn": "他看到一个火花，并向工作人员报告了情况。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-a2-safety-8",
+    "word": "de vlam",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "火焰"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Op de foto zijn vlammen te zien.",
+        "cn": "照片中可以看到火焰。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-a2-safety-9",
+    "word": "de verwonding",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "伤口；受伤"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "De hulpverlener vroeg naar de verwonding.",
+        "cn": "救助人员询问了伤势。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-a2-safety-10",
+    "word": "het slachtoffer",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "受害者；伤者"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Een omstander vertelde waar het slachtoffer was.",
+        "cn": "一位旁观者说明了伤者在哪里。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-a2-safety-11",
+    "word": "de getuige",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "目击者；证人"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "De getuige beschreef wat hij had gezien.",
+        "cn": "目击者描述了自己看到的情况。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-a2-safety-12",
+    "word": "eerste hulp",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "搭配",
+        "cn": "急救；初步救助"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Op de cursus kwam het onderwerp eerste hulp aan bod.",
+        "cn": "课程中涉及了急救这个主题。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-a2-safety-13",
+    "word": "de hulpverlener",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "救助人员；援助人员"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "De hulpverlener stelde een paar korte vragen.",
+        "cn": "救助人员问了几个简短的问题。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-a2-safety-14",
+    "word": "de noodkreet",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "求救声；紧急呼吁"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "De bewoners hoorden een noodkreet vanaf de straat.",
+        "cn": "居民们听到街上传来求救声。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-a2-safety-15",
+    "word": "de sirene",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "警笛；警报声"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "We hoorden in de verte een sirene.",
+        "cn": "我们听到远处有警笛声。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-a2-safety-16",
+    "word": "het veiligheidshesje",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "安全背心；反光背心"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "De medewerker met het veiligheidshesje geeft uitleg.",
+        "cn": "穿反光背心的工作人员正在说明情况。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-a2-safety-17",
+    "word": "het verzamelpunt",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "集合地点；疏散集合点"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "De organisator wijst op de kaart het verzamelpunt aan.",
+        "cn": "组织者在地图上指出集合地点。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-a2-safety-18",
+    "word": "de brandblusser",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "灭火器"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Op de plattegrond staat waar de brandblusser hangt.",
+        "cn": "平面图上标出了灭火器的位置。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-a2-safety-19",
+    "word": "de locatie",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "位置；地点"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Kunt u de locatie nog eens duidelijk omschrijven?",
+        "cn": "您能再次清楚地说明地点吗？"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-a2-safety-20",
+    "word": "schrikken",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "",
+        "cn": "受到惊吓；吃惊"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Ik schrok van het harde geluid.",
+        "cn": "那声巨响把我吓了一跳。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-a2-safety-21",
+    "word": "schreeuwen",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "",
+        "cn": "大喊；尖叫"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "De getuige hoorde iemand om hulp schreeuwen.",
+        "cn": "目击者听到有人大喊求救。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-a2-safety-22",
+    "word": "roepen",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "",
+        "cn": "呼喊；叫"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Zij riep de naam van haar vriend.",
+        "cn": "她大声叫了朋友的名字。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-a2-safety-23",
+    "word": "wegrennen",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "",
+        "cn": "跑开；跑掉"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Volgens de getuige rende de man weg.",
+        "cn": "据目击者说，那名男子跑开了。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-a2-safety-24",
+    "word": "vluchten",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "",
+        "cn": "逃离；避难"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "In het verhaal vluchten de bewoners uit hun huizen.",
+        "cn": "故事中，居民们从家中逃离。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-a2-safety-25",
+    "word": "handelen",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "",
+        "cn": "采取行动；处理"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Na afloop bespraken we hoe de medewerkers hadden gehandeld.",
+        "cn": "事后，我们讨论了工作人员当时是怎样处理的。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-a2-safety-26",
+    "word": "onveilig",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "",
+        "cn": "不安全的"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "De bewoner zei dat hij zich daar onveilig voelde.",
+        "cn": "那位居民说，他在那里没有安全感。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-a2-safety-27",
+    "word": "gewond",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "",
+        "cn": "受伤的"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "De medewerker vroeg of er iemand gewond was.",
+        "cn": "工作人员询问是否有人受伤。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-a2-safety-28",
+    "word": "bewusteloos",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "",
+        "cn": "失去知觉的；昏迷的"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "De getuige zei dat de man bewusteloos leek.",
+        "cn": "目击者说，那名男子似乎失去了知觉。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-a2-safety-29",
+    "word": "kalmeren",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "",
+        "cn": "使平静；平静下来"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Zijn rustige stem hielp om het kind te kalmeren.",
+        "cn": "他平静的声音帮助孩子安静下来。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-a2-safety-30",
+    "word": "geruststellen",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "",
+        "cn": "使安心；安慰"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "De medewerker probeerde de bezorgde bezoekers gerust te stellen.",
+        "cn": "工作人员试着让担忧的来访者安心。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  }
+]

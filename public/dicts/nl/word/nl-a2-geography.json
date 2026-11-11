@@ -1,0 +1,782 @@
+[
+  {
+    "id": "nl-a2-geography-1",
+    "word": "het noorden",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "北方；北部"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "De stad ligt in het noorden van het land.",
+        "cn": "这座城市位于该国北部。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-a2-geography-2",
+    "word": "het zuiden",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "南方；南部"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Volgende week reizen we naar het zuiden.",
+        "cn": "下周我们去南部旅行。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-a2-geography-3",
+    "word": "het oosten",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "东方；东部"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "In het oosten van de provincie zijn veel kleine dorpen.",
+        "cn": "该省东部有许多小村庄。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-a2-geography-4",
+    "word": "het westen",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "西方；西部"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "De zon zakt langzaam in het westen.",
+        "cn": "太阳在西边缓缓落下。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-a2-geography-5",
+    "word": "de provincie",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "省"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "In welke provincie woon je?",
+        "cn": "你住在哪个省？"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-a2-geography-6",
+    "word": "de hoofdstad",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "首都；省会"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "We bezoeken de hoofdstad en blijven daar twee nachten.",
+        "cn": "我们去参观首都，并在那里住两晚。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-a2-geography-7",
+    "word": "het land",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "国家；陆地"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Ik wil meer leren over het land waar ik nu woon.",
+        "cn": "我想更多地了解自己现在居住的国家。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-a2-geography-8",
+    "word": "de grens",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "边界；国境"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Na een uur rijden waren we al bij de grens.",
+        "cn": "开车一小时后，我们已经到了边境。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-a2-geography-9",
+    "word": "de kust",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "海岸；沿海地区"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Aan de kust waait het vaak harder dan in het binnenland.",
+        "cn": "沿海地区的风常常比内陆更大。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-a2-geography-10",
+    "word": "het eiland",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "岛屿"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Op het eiland kun je veel plaatsen met de fiets bereiken.",
+        "cn": "在岛上，许多地方骑车就能到达。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-a2-geography-11",
+    "word": "het schiereiland",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "半岛"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Het schiereiland is aan één kant met het vasteland verbonden.",
+        "cn": "这个半岛有一侧与大陆相连。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-a2-geography-12",
+    "word": "de riviermonding",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "河口；入海口"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Bij de riviermonding kijken we naar de schepen die voorbijvaren.",
+        "cn": "我们在河口观看经过的船只。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-a2-geography-13",
+    "word": "de gracht",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "城内运河；护城河"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Langs de gracht staan oude huizen met smalle gevels.",
+        "cn": "运河边矗立着外立面狭窄的老房子。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-a2-geography-14",
+    "word": "de haven",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "港口"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Vanaf de brug kun je de haven goed zien.",
+        "cn": "从桥上可以清楚地看到港口。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-a2-geography-15",
+    "word": "het binnenland",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "内陆；国内地区"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Tijdens deze reis blijven we vooral in het binnenland.",
+        "cn": "这次旅行我们主要待在内陆地区。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-a2-geography-16",
+    "word": "de afstand",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "距离"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "De afstand tussen de twee dorpen is ongeveer acht kilometer.",
+        "cn": "两个村庄之间的距离大约为八公里。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-a2-geography-17",
+    "word": "de ligging",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "位置；地理位置"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Door de ligging bij het station is het hotel makkelijk te bereiken.",
+        "cn": "酒店位于车站旁，因此很容易到达。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-a2-geography-18",
+    "word": "de hoogte",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "高度；海拔"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Op de kaart staat de hoogte van de heuvel aangegeven.",
+        "cn": "地图上标出了这座山丘的海拔。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-a2-geography-19",
+    "word": "het laagland",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "低地；低海拔地区"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "In het laagland zie je brede velden en veel water.",
+        "cn": "在低地地区，可以看到宽阔的田野和大片水域。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-a2-geography-20",
+    "word": "de streek",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "地区；地方"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Deze streek staat in mijn reisgids beschreven.",
+        "cn": "我的旅行指南中介绍了这个地区。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-a2-geography-21",
+    "word": "de regio",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "区域；地区"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Er werken mensen uit de hele regio in dit ziekenhuis.",
+        "cn": "来自整个地区的人们在这家医院工作。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-a2-geography-22",
+    "word": "de landkaart",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "地图；区域地图"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Met een landkaart kunnen we zien hoe de steden ten opzichte van elkaar liggen.",
+        "cn": "通过地图，我们可以看到各城市之间的相对位置。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-a2-geography-23",
+    "word": "het kompas",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "指南针"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Op het kompas zie ik in welke richting het noorden ligt.",
+        "cn": "通过指南针，我能看出北方在哪个方向。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-a2-geography-24",
+    "word": "de plaatsnaam",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "地名"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "De plaatsnaam op het bord is anders gespeld dan ik dacht.",
+        "cn": "路牌上的地名拼写和我原来想的不一样。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-a2-geography-25",
+    "word": "de gemeentegrens",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "市镇边界"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Het fietspad loopt precies langs de gemeentegrens.",
+        "cn": "这条自行车道正好沿着市镇边界延伸。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-a2-geography-26",
+    "word": "het industrieterrein",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "工业区"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Het bedrijf is naar een industrieterrein buiten de stad verhuisd.",
+        "cn": "公司搬到了城外的工业区。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-a2-geography-27",
+    "word": "het buitengebied",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "市镇外围的乡村地区；城郊非建成区"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "In het buitengebied zijn minder winkels dan in het centrum.",
+        "cn": "城郊乡村地区的商店比市中心少。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-a2-geography-28",
+    "word": "de zijstraat",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "岔街；支路"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Na de brug neem je de tweede zijstraat.",
+        "cn": "过桥后，走第二条支路。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-a2-geography-29",
+    "word": "het oriëntatiepunt",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "辨认方向的参照物；地标"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "De hoge toren is een handig oriëntatiepunt als je de weg zoekt.",
+        "cn": "找路时，那座高塔是一个方便辨认方向的地标。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-a2-geography-30",
+    "word": "de doorgaande weg",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "搭配",
+        "cn": "主干通行道路；贯通道路"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Ons huis ligt niet aan de doorgaande weg, maar in een rustige zijstraat.",
+        "cn": "我们家不在主干道旁，而在一条安静的支路上。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  }
+]

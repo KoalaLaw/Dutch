@@ -1,0 +1,782 @@
+[
+  {
+    "id": "nl-a2-lost-1",
+    "word": "het verlies",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "丢失；损失"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Na het verlies van mijn tas moest ik veel dingen regelen.",
+        "cn": "丢失包之后，我需要处理很多事情。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-a2-lost-2",
+    "word": "het voorwerp",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "物品；东西"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Kunt u het voorwerp beschrijven dat u zoekt?",
+        "cn": "您能描述一下正在寻找的物品吗？"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-a2-lost-3",
+    "word": "het eigendom",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "所有物；所有权"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Hij herkende zijn eigendom aan een klein merkteken.",
+        "cn": "他通过一个小标记认出了自己的物品。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-a2-lost-4",
+    "word": "de eigenaar",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "物主；所有者"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "We proberen de eigenaar van de tas te vinden.",
+        "cn": "我们正在设法找到包的主人。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-a2-lost-5",
+    "word": "de vindplaats",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "发现地点；找到物品的地方"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "De vinder heeft de vindplaats precies beschreven.",
+        "cn": "发现者准确描述了找到物品的地点。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-a2-lost-6",
+    "word": "de vinder",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "发现者；拾到物品的人"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Ik wil de vinder graag bedanken.",
+        "cn": "我想感谢拾到物品的人。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-a2-lost-7",
+    "word": "de tas",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "包；袋子"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Mijn tas stond onder de stoel in de bus.",
+        "cn": "我的包原来放在公交车座椅下面。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-a2-lost-8",
+    "word": "de portemonnee",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "钱包"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Ik ben mijn portemonnee waarschijnlijk in de winkel verloren.",
+        "cn": "我可能把钱包丢在商店里了。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-a2-lost-9",
+    "word": "de sleutelbos",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "一串钥匙"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Aan mijn sleutelbos zit een blauwe hanger.",
+        "cn": "我的一串钥匙上挂着一个蓝色挂件。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-a2-lost-10",
+    "word": "de sleutelhanger",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "钥匙扣；钥匙挂件"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Ik herken mijn sleutel aan de sleutelhanger.",
+        "cn": "我通过钥匙扣认出了自己的钥匙。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-a2-lost-11",
+    "word": "de bril",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "眼镜"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Zonder mijn bril kan ik de kleine letters niet lezen.",
+        "cn": "没有眼镜，我看不清小字。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-a2-lost-12",
+    "word": "de zonnebril",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "太阳镜"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Mijn zonnebril ligt nog op het tafeltje buiten.",
+        "cn": "我的太阳镜还放在外面的小桌子上。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-a2-lost-13",
+    "word": "de paraplu",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "雨伞"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Heeft iemand een zwarte paraplu gevonden?",
+        "cn": "有人捡到一把黑雨伞吗？"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-a2-lost-14",
+    "word": "de pasjeshouder",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "卡包；卡片夹"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Mijn betaalpas zat in een kleine pasjeshouder.",
+        "cn": "我的银行卡放在一个小卡包里。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-a2-lost-15",
+    "word": "de ketting",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "项链；链条"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Deze ketting heb ik van mijn moeder gekregen.",
+        "cn": "这条项链是母亲送给我的。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-a2-lost-16",
+    "word": "de ring",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "戒指；环"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Ik heb mijn ring bij de wastafel laten liggen.",
+        "cn": "我把戒指落在了洗手池旁。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-a2-lost-17",
+    "word": "het horloge",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "手表"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Kunt u aangeven waar u het horloge het laatst zag?",
+        "cn": "您能说明最后在哪里见过这块手表吗？"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-a2-lost-18",
+    "word": "het sieraad",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "首饰；饰品"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "In het doosje zit een sieraad dat ik van mijn zus kreeg.",
+        "cn": "盒子里装着一件姐妹送给我的首饰。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-a2-lost-19",
+    "word": "de kleur",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "颜色"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Welke kleur heeft de tas die u bent kwijtgeraakt?",
+        "cn": "您丢失的包是什么颜色的？"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-a2-lost-20",
+    "word": "de vorm",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "形状；形式"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "De hanger heeft de vorm van een hart.",
+        "cn": "这个挂件呈心形。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-a2-lost-21",
+    "word": "de plek",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "地方；位置"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "We zoeken eerst op de plek waar we hebben gezeten.",
+        "cn": "我们先在刚才坐过的地方找找。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-a2-lost-22",
+    "word": "verliezen",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "",
+        "cn": "丢失；输掉"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Ik wil mijn nieuwe sleutel niet weer verliezen.",
+        "cn": "我不想再把新钥匙丢了。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-a2-lost-23",
+    "word": "kwijtraken",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "",
+        "cn": "遗失；弄丢"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Tijdens de reis ben ik een handschoen kwijtgeraakt.",
+        "cn": "旅途中我弄丢了一只手套。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-a2-lost-24",
+    "word": "terugvinden",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "",
+        "cn": "重新找到；找回"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Gelukkig heb ik mijn bril in mijn jaszak teruggevonden.",
+        "cn": "幸好我在外套口袋里找回了眼镜。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-a2-lost-25",
+    "word": "bewaren",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "",
+        "cn": "保留；保存；保管"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Bewaar deze brief, je hebt hem later misschien nodig.",
+        "cn": "保留这封信，你以后可能会需要它。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-a2-lost-26",
+    "word": "bewijzen",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "",
+        "cn": "证明"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Kun je bewijzen dat deze tas van jou is?",
+        "cn": "你能证明这个包是你的吗？"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-a2-lost-27",
+    "word": "opsporen",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "",
+        "cn": "查找；追踪找到"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Met de code konden we het pakket opsporen.",
+        "cn": "我们通过编号找到了包裹的去向。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-a2-lost-28",
+    "word": "markeren",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "",
+        "cn": "标记；做记号"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Ik markeer op de kaart waar ik mijn tas voor het laatst bij me had.",
+        "cn": "我在地图上标出最后还带着包的位置。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-a2-lost-29",
+    "word": "aangeven",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "",
+        "cn": "说明；指出；申报"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Kunt u aangeven wanneer u uw sleutel bent verloren?",
+        "cn": "您能说明是什么时候丢的钥匙吗？"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-a2-lost-30",
+    "word": "nalopen",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "",
+        "cn": "逐一检查；复查"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "De medewerker loopt de lijst met gevonden voorwerpen na.",
+        "cn": "工作人员逐项检查失物清单。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  }
+]

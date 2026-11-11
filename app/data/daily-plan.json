@@ -1,0 +1,7954 @@
+{
+  "version": 1,
+  "minutes": "20–30",
+  "days": [
+    {
+      "id": "d001",
+      "number": 1,
+      "week": 1,
+      "weekday": 1,
+      "stage": "foundation",
+      "review": false,
+      "packId": "nl-basics",
+      "offset": 0,
+      "wordIds": [
+        "nl-basics-1",
+        "nl-basics-2",
+        "nl-basics-3",
+        "nl-basics-4",
+        "nl-basics-5",
+        "nl-basics-6",
+        "nl-basics-7",
+        "nl-basics-8",
+        "nl-basics-9",
+        "nl-basics-10"
+      ],
+      "title": "你好，荷兰语 · 第1小节",
+      "minutes": 23,
+      "skill": {
+        "kind": "micro",
+        "id": "daily-f01",
+        "title": "短练习 · 冠词：de、het 和 een"
+      }
+    },
+    {
+      "id": "d002",
+      "number": 2,
+      "week": 1,
+      "weekday": 2,
+      "stage": "foundation",
+      "review": false,
+      "packId": "nl-basics",
+      "offset": 10,
+      "wordIds": [
+        "nl-basics-11",
+        "nl-basics-12",
+        "nl-basics-13",
+        "nl-basics-14",
+        "nl-basics-15",
+        "nl-basics-16",
+        "nl-basics-17",
+        "nl-basics-18",
+        "nl-basics-19",
+        "nl-basics-20"
+      ],
+      "title": "你好，荷兰语 · 第2小节",
+      "minutes": 23,
+      "skill": {
+        "kind": "micro",
+        "id": "daily-f02",
+        "title": "短练习 · 人称代词：我、你、我们"
+      }
+    },
+    {
+      "id": "d003",
+      "number": 3,
+      "week": 1,
+      "weekday": 3,
+      "stage": "foundation",
+      "review": false,
+      "packId": "nl-basics",
+      "offset": 20,
+      "wordIds": [
+        "nl-basics-21",
+        "nl-basics-22",
+        "nl-basics-23",
+        "nl-basics-24",
+        "nl-basics-25",
+        "nl-basics-26",
+        "nl-basics-27",
+        "nl-basics-28",
+        "nl-basics-29",
+        "nl-basics-30"
+      ],
+      "title": "你好，荷兰语 · 第3小节",
+      "minutes": 23,
+      "skill": {
+        "kind": "micro",
+        "id": "daily-f03",
+        "title": "短练习 · zijn：我是、你是、他们是"
+      }
+    },
+    {
+      "id": "d004",
+      "number": 4,
+      "week": 1,
+      "weekday": 4,
+      "stage": "foundation",
+      "review": false,
+      "packId": "nl-a1-profile",
+      "offset": 0,
+      "wordIds": [
+        "nl-a1-profile-1",
+        "nl-a1-profile-2",
+        "nl-a1-profile-3",
+        "nl-a1-profile-4",
+        "nl-a1-profile-5",
+        "nl-a1-profile-6",
+        "nl-a1-profile-7",
+        "nl-a1-profile-8",
+        "nl-a1-profile-9",
+        "nl-a1-profile-10"
+      ],
+      "title": "介绍自己与填写资料 · 第1小节",
+      "minutes": 23,
+      "skill": {
+        "kind": "micro",
+        "id": "daily-f04",
+        "title": "短练习 · hebben：我有、我们有"
+      }
+    },
+    {
+      "id": "d005",
+      "number": 5,
+      "week": 1,
+      "weekday": 5,
+      "stage": "foundation",
+      "review": false,
+      "packId": "nl-a1-profile",
+      "offset": 10,
+      "wordIds": [
+        "nl-a1-profile-11",
+        "nl-a1-profile-12",
+        "nl-a1-profile-13",
+        "nl-a1-profile-14",
+        "nl-a1-profile-15",
+        "nl-a1-profile-16",
+        "nl-a1-profile-17",
+        "nl-a1-profile-18",
+        "nl-a1-profile-19",
+        "nl-a1-profile-20"
+      ],
+      "title": "介绍自己与填写资料 · 第2小节",
+      "minutes": 23,
+      "skill": {
+        "kind": "dialogue",
+        "id": "nl-dialogue-1",
+        "title": "听说对话 · 认识一下"
+      }
+    },
+    {
+      "id": "d006",
+      "number": 6,
+      "week": 1,
+      "weekday": 6,
+      "stage": "foundation",
+      "review": false,
+      "packId": "nl-a1-profile",
+      "offset": 20,
+      "wordIds": [
+        "nl-a1-profile-21",
+        "nl-a1-profile-22",
+        "nl-a1-profile-23",
+        "nl-a1-profile-24",
+        "nl-a1-profile-25",
+        "nl-a1-profile-26",
+        "nl-a1-profile-27",
+        "nl-a1-profile-28",
+        "nl-a1-profile-29",
+        "nl-a1-profile-30"
+      ],
+      "title": "介绍自己与填写资料 · 第3小节",
+      "minutes": 23,
+      "skill": {
+        "kind": "micro",
+        "id": "daily-f21",
+        "title": "短练习 · 开口第一步：问候和名字"
+      }
+    },
+    {
+      "id": "d007",
+      "number": 7,
+      "week": 1,
+      "weekday": 7,
+      "stage": "foundation",
+      "review": true,
+      "packId": "",
+      "offset": 0,
+      "wordIds": [],
+      "title": "本周复习与能力自检",
+      "minutes": 25,
+      "skill": {
+        "kind": "micro",
+        "id": "daily-f21",
+        "title": "短练习 · 开口第一步：问候和名字"
+      }
+    },
+    {
+      "id": "d008",
+      "number": 8,
+      "week": 2,
+      "weekday": 1,
+      "stage": "foundation",
+      "review": false,
+      "packId": "nl-a1-routines",
+      "offset": 0,
+      "wordIds": [
+        "nl-a1-routines-1",
+        "nl-a1-routines-2",
+        "nl-a1-routines-3",
+        "nl-a1-routines-4",
+        "nl-a1-routines-5",
+        "nl-a1-routines-6",
+        "nl-a1-routines-7",
+        "nl-a1-routines-8",
+        "nl-a1-routines-9",
+        "nl-a1-routines-10"
+      ],
+      "title": "一天里的常用动作 · 第1小节",
+      "minutes": 23,
+      "skill": {
+        "kind": "micro",
+        "id": "daily-f05",
+        "title": "短练习 · 现在时：woon、woont、wonen"
+      }
+    },
+    {
+      "id": "d009",
+      "number": 9,
+      "week": 2,
+      "weekday": 2,
+      "stage": "foundation",
+      "review": false,
+      "packId": "nl-a1-routines",
+      "offset": 10,
+      "wordIds": [
+        "nl-a1-routines-11",
+        "nl-a1-routines-12",
+        "nl-a1-routines-13",
+        "nl-a1-routines-14",
+        "nl-a1-routines-15",
+        "nl-a1-routines-16",
+        "nl-a1-routines-17",
+        "nl-a1-routines-18",
+        "nl-a1-routines-19",
+        "nl-a1-routines-20"
+      ],
+      "title": "一天里的常用动作 · 第2小节",
+      "minutes": 23,
+      "skill": {
+        "kind": "micro",
+        "id": "daily-f06",
+        "title": "短练习 · 主句：先主语，再动词"
+      }
+    },
+    {
+      "id": "d010",
+      "number": 10,
+      "week": 2,
+      "weekday": 3,
+      "stage": "foundation",
+      "review": false,
+      "packId": "nl-a1-routines",
+      "offset": 20,
+      "wordIds": [
+        "nl-a1-routines-21",
+        "nl-a1-routines-22",
+        "nl-a1-routines-23",
+        "nl-a1-routines-24",
+        "nl-a1-routines-25",
+        "nl-a1-routines-26",
+        "nl-a1-routines-27",
+        "nl-a1-routines-28",
+        "nl-a1-routines-29",
+        "nl-a1-routines-30"
+      ],
+      "title": "一天里的常用动作 · 第3小节",
+      "minutes": 23,
+      "skill": {
+        "kind": "micro",
+        "id": "daily-f07",
+        "title": "短练习 · 疑问词：谁、什么、哪里"
+      }
+    },
+    {
+      "id": "d011",
+      "number": 11,
+      "week": 2,
+      "weekday": 4,
+      "stage": "foundation",
+      "review": false,
+      "packId": "nl-home",
+      "offset": 0,
+      "wordIds": [
+        "nl-home-1",
+        "nl-home-2",
+        "nl-home-3",
+        "nl-home-4",
+        "nl-home-5",
+        "nl-home-6",
+        "nl-home-7",
+        "nl-home-8",
+        "nl-home-9",
+        "nl-home-10"
+      ],
+      "title": "家与身边的人 · 第1小节",
+      "minutes": 23,
+      "skill": {
+        "kind": "micro",
+        "id": "daily-f08",
+        "title": "短练习 · 是非问句与 je 后置"
+      }
+    },
+    {
+      "id": "d012",
+      "number": 12,
+      "week": 2,
+      "weekday": 5,
+      "stage": "foundation",
+      "review": false,
+      "packId": "nl-home",
+      "offset": 10,
+      "wordIds": [
+        "nl-home-11",
+        "nl-home-12",
+        "nl-home-13",
+        "nl-home-14",
+        "nl-home-15",
+        "nl-home-16",
+        "nl-home-17",
+        "nl-home-18",
+        "nl-home-19",
+        "nl-home-20"
+      ],
+      "title": "家与身边的人 · 第2小节",
+      "minutes": 23,
+      "skill": {
+        "kind": "dialogue",
+        "id": "nl-dialogue-2",
+        "title": "听说对话 · 在咖啡馆"
+      }
+    },
+    {
+      "id": "d013",
+      "number": 13,
+      "week": 2,
+      "weekday": 6,
+      "stage": "foundation",
+      "review": false,
+      "packId": "nl-home",
+      "offset": 20,
+      "wordIds": [
+        "nl-home-21",
+        "nl-home-22",
+        "nl-home-23",
+        "nl-home-24",
+        "nl-home-25",
+        "nl-home-26",
+        "nl-home-27",
+        "nl-home-28",
+        "nl-home-29",
+        "nl-home-30"
+      ],
+      "title": "家与身边的人 · 第3小节",
+      "minutes": 23,
+      "skill": {
+        "kind": "micro",
+        "id": "daily-f22",
+        "title": "短练习 · 介绍住处：在哪里、和谁住"
+      }
+    },
+    {
+      "id": "d014",
+      "number": 14,
+      "week": 2,
+      "weekday": 7,
+      "stage": "foundation",
+      "review": true,
+      "packId": "",
+      "offset": 0,
+      "wordIds": [],
+      "title": "本周复习与能力自检",
+      "minutes": 25,
+      "skill": {
+        "kind": "micro",
+        "id": "daily-f22",
+        "title": "短练习 · 介绍住处：在哪里、和谁住"
+      }
+    },
+    {
+      "id": "d015",
+      "number": 15,
+      "week": 3,
+      "weekday": 1,
+      "stage": "foundation",
+      "review": false,
+      "packId": "nl-a1-rooms",
+      "offset": 0,
+      "wordIds": [
+        "nl-a1-rooms-1",
+        "nl-a1-rooms-2",
+        "nl-a1-rooms-3",
+        "nl-a1-rooms-4",
+        "nl-a1-rooms-5",
+        "nl-a1-rooms-6",
+        "nl-a1-rooms-7",
+        "nl-a1-rooms-8",
+        "nl-a1-rooms-9",
+        "nl-a1-rooms-10"
+      ],
+      "title": "房间与家具 · 第1小节",
+      "minutes": 23,
+      "skill": {
+        "kind": "micro",
+        "id": "daily-f09",
+        "title": "短练习 · 否定：geen 和 niet"
+      }
+    },
+    {
+      "id": "d016",
+      "number": 16,
+      "week": 3,
+      "weekday": 2,
+      "stage": "foundation",
+      "review": false,
+      "packId": "nl-a1-rooms",
+      "offset": 10,
+      "wordIds": [
+        "nl-a1-rooms-11",
+        "nl-a1-rooms-12",
+        "nl-a1-rooms-13",
+        "nl-a1-rooms-14",
+        "nl-a1-rooms-15",
+        "nl-a1-rooms-16",
+        "nl-a1-rooms-17",
+        "nl-a1-rooms-18",
+        "nl-a1-rooms-19",
+        "nl-a1-rooms-20"
+      ],
+      "title": "房间与家具 · 第2小节",
+      "minutes": 23,
+      "skill": {
+        "kind": "micro",
+        "id": "daily-f10",
+        "title": "短练习 · 名词复数：fietsen 和 auto’s"
+      }
+    },
+    {
+      "id": "d017",
+      "number": 17,
+      "week": 3,
+      "weekday": 3,
+      "stage": "foundation",
+      "review": false,
+      "packId": "nl-a1-rooms",
+      "offset": 20,
+      "wordIds": [
+        "nl-a1-rooms-21",
+        "nl-a1-rooms-22",
+        "nl-a1-rooms-23",
+        "nl-a1-rooms-24",
+        "nl-a1-rooms-25",
+        "nl-a1-rooms-26",
+        "nl-a1-rooms-27",
+        "nl-a1-rooms-28",
+        "nl-a1-rooms-29",
+        "nl-a1-rooms-30"
+      ],
+      "title": "房间与家具 · 第3小节",
+      "minutes": 23,
+      "skill": {
+        "kind": "micro",
+        "id": "daily-f11",
+        "title": "短练习 · 物主词：我的、你的、她的"
+      }
+    },
+    {
+      "id": "d018",
+      "number": 18,
+      "week": 3,
+      "weekday": 4,
+      "stage": "foundation",
+      "review": false,
+      "packId": "nl-a1-kitchen",
+      "offset": 0,
+      "wordIds": [
+        "nl-a1-kitchen-1",
+        "nl-a1-kitchen-2",
+        "nl-a1-kitchen-3",
+        "nl-a1-kitchen-4",
+        "nl-a1-kitchen-5",
+        "nl-a1-kitchen-6",
+        "nl-a1-kitchen-7",
+        "nl-a1-kitchen-8",
+        "nl-a1-kitchen-9",
+        "nl-a1-kitchen-10"
+      ],
+      "title": "厨房与餐具 · 第1小节",
+      "minutes": 23,
+      "skill": {
+        "kind": "micro",
+        "id": "daily-f12",
+        "title": "短练习 · 指示词：deze、die、dit、dat"
+      }
+    },
+    {
+      "id": "d019",
+      "number": 19,
+      "week": 3,
+      "weekday": 5,
+      "stage": "foundation",
+      "review": false,
+      "packId": "nl-a1-kitchen",
+      "offset": 10,
+      "wordIds": [
+        "nl-a1-kitchen-11",
+        "nl-a1-kitchen-12",
+        "nl-a1-kitchen-13",
+        "nl-a1-kitchen-14",
+        "nl-a1-kitchen-15",
+        "nl-a1-kitchen-16",
+        "nl-a1-kitchen-17",
+        "nl-a1-kitchen-18",
+        "nl-a1-kitchen-19",
+        "nl-a1-kitchen-20"
+      ],
+      "title": "厨房与餐具 · 第2小节",
+      "minutes": 23,
+      "skill": {
+        "kind": "dialogue",
+        "id": "nl-dialogue-3",
+        "title": "听说对话 · 在火车站"
+      }
+    },
+    {
+      "id": "d020",
+      "number": 20,
+      "week": 3,
+      "weekday": 6,
+      "stage": "foundation",
+      "review": false,
+      "packId": "nl-a1-kitchen",
+      "offset": 20,
+      "wordIds": [
+        "nl-a1-kitchen-21",
+        "nl-a1-kitchen-22",
+        "nl-a1-kitchen-23",
+        "nl-a1-kitchen-24",
+        "nl-a1-kitchen-25",
+        "nl-a1-kitchen-26",
+        "nl-a1-kitchen-27",
+        "nl-a1-kitchen-28",
+        "nl-a1-kitchen-29",
+        "nl-a1-kitchen-30"
+      ],
+      "title": "厨房与餐具 · 第3小节",
+      "minutes": 23,
+      "skill": {
+        "kind": "micro",
+        "id": "daily-f23",
+        "title": "短练习 · 礼貌点单：graag 和 alstublieft"
+      }
+    },
+    {
+      "id": "d021",
+      "number": 21,
+      "week": 3,
+      "weekday": 7,
+      "stage": "foundation",
+      "review": true,
+      "packId": "",
+      "offset": 0,
+      "wordIds": [],
+      "title": "本周复习与能力自检",
+      "minutes": 25,
+      "skill": {
+        "kind": "micro",
+        "id": "daily-f23",
+        "title": "短练习 · 礼貌点单：graag 和 alstublieft"
+      }
+    },
+    {
+      "id": "d022",
+      "number": 22,
+      "week": 4,
+      "weekday": 1,
+      "stage": "foundation",
+      "review": false,
+      "packId": "nl-food",
+      "offset": 0,
+      "wordIds": [
+        "nl-food-1",
+        "nl-food-2",
+        "nl-food-3",
+        "nl-food-4",
+        "nl-food-5",
+        "nl-food-6",
+        "nl-food-7",
+        "nl-food-8",
+        "nl-food-9",
+        "nl-food-10"
+      ],
+      "title": "一杯咖啡的日常 · 第1小节",
+      "minutes": 23,
+      "skill": {
+        "kind": "micro",
+        "id": "daily-f13",
+        "title": "短练习 · 地点介词：in、op、naast"
+      }
+    },
+    {
+      "id": "d023",
+      "number": 23,
+      "week": 4,
+      "weekday": 2,
+      "stage": "foundation",
+      "review": false,
+      "packId": "nl-food",
+      "offset": 10,
+      "wordIds": [
+        "nl-food-11",
+        "nl-food-12",
+        "nl-food-13",
+        "nl-food-14",
+        "nl-food-15",
+        "nl-food-16",
+        "nl-food-17",
+        "nl-food-18",
+        "nl-food-19",
+        "nl-food-20"
+      ],
+      "title": "一杯咖啡的日常 · 第2小节",
+      "minutes": 23,
+      "skill": {
+        "kind": "micro",
+        "id": "daily-f14",
+        "title": "短练习 · 时间：om negen uur 与 half acht"
+      }
+    },
+    {
+      "id": "d024",
+      "number": 24,
+      "week": 4,
+      "weekday": 3,
+      "stage": "foundation",
+      "review": false,
+      "packId": "nl-food",
+      "offset": 20,
+      "wordIds": [
+        "nl-food-21",
+        "nl-food-22",
+        "nl-food-23",
+        "nl-food-24",
+        "nl-food-25",
+        "nl-food-26",
+        "nl-food-27",
+        "nl-food-28",
+        "nl-food-29",
+        "nl-food-30"
+      ],
+      "title": "一杯咖啡的日常 · 第3小节",
+      "minutes": 23,
+      "skill": {
+        "kind": "micro",
+        "id": "daily-f15",
+        "title": "短练习 · 情态动词：能、想、必须"
+      }
+    },
+    {
+      "id": "d025",
+      "number": 25,
+      "week": 4,
+      "weekday": 4,
+      "stage": "foundation",
+      "review": false,
+      "packId": "nl-a1-produce",
+      "offset": 0,
+      "wordIds": [
+        "nl-a1-produce-1",
+        "nl-a1-produce-2",
+        "nl-a1-produce-3",
+        "nl-a1-produce-4",
+        "nl-a1-produce-5",
+        "nl-a1-produce-6",
+        "nl-a1-produce-7",
+        "nl-a1-produce-8",
+        "nl-a1-produce-9",
+        "nl-a1-produce-10"
+      ],
+      "title": "蔬果与常见食材 · 第1小节",
+      "minutes": 23,
+      "skill": {
+        "kind": "micro",
+        "id": "daily-f16",
+        "title": "短练习 · 形容词：een klein huis"
+      }
+    },
+    {
+      "id": "d026",
+      "number": 26,
+      "week": 4,
+      "weekday": 5,
+      "stage": "foundation",
+      "review": false,
+      "packId": "nl-a1-produce",
+      "offset": 10,
+      "wordIds": [
+        "nl-a1-produce-11",
+        "nl-a1-produce-12",
+        "nl-a1-produce-13",
+        "nl-a1-produce-14",
+        "nl-a1-produce-15",
+        "nl-a1-produce-16",
+        "nl-a1-produce-17",
+        "nl-a1-produce-18",
+        "nl-a1-produce-19",
+        "nl-a1-produce-20"
+      ],
+      "title": "蔬果与常见食材 · 第2小节",
+      "minutes": 23,
+      "skill": {
+        "kind": "dialogue",
+        "id": "nl-dialogue-4",
+        "title": "听说对话 · 预约看医生"
+      }
+    },
+    {
+      "id": "d027",
+      "number": 27,
+      "week": 4,
+      "weekday": 6,
+      "stage": "foundation",
+      "review": false,
+      "packId": "nl-a1-produce",
+      "offset": 20,
+      "wordIds": [
+        "nl-a1-produce-21",
+        "nl-a1-produce-22",
+        "nl-a1-produce-23",
+        "nl-a1-produce-24",
+        "nl-a1-produce-25",
+        "nl-a1-produce-26",
+        "nl-a1-produce-27",
+        "nl-a1-produce-28",
+        "nl-a1-produce-29",
+        "nl-a1-produce-30"
+      ],
+      "title": "蔬果与常见食材 · 第3小节",
+      "minutes": 23,
+      "skill": {
+        "kind": "micro",
+        "id": "daily-f24",
+        "title": "短练习 · 说说一天：时间加活动"
+      }
+    },
+    {
+      "id": "d028",
+      "number": 28,
+      "week": 4,
+      "weekday": 7,
+      "stage": "foundation",
+      "review": true,
+      "packId": "",
+      "offset": 0,
+      "wordIds": [],
+      "title": "本周复习与能力自检",
+      "minutes": 25,
+      "skill": {
+        "kind": "micro",
+        "id": "daily-f24",
+        "title": "短练习 · 说说一天：时间加活动"
+      }
+    },
+    {
+      "id": "d029",
+      "number": 29,
+      "week": 5,
+      "weekday": 1,
+      "stage": "foundation",
+      "review": false,
+      "packId": "nl-a1-supermarket",
+      "offset": 0,
+      "wordIds": [
+        "nl-a1-supermarket-1",
+        "nl-a1-supermarket-2",
+        "nl-a1-supermarket-3",
+        "nl-a1-supermarket-4",
+        "nl-a1-supermarket-5",
+        "nl-a1-supermarket-6",
+        "nl-a1-supermarket-7",
+        "nl-a1-supermarket-8",
+        "nl-a1-supermarket-9",
+        "nl-a1-supermarket-10"
+      ],
+      "title": "超市里的数量与包装 · 第1小节",
+      "minutes": 23,
+      "skill": {
+        "kind": "micro",
+        "id": "daily-f17",
+        "title": "短练习 · 听懂买东西：先抓物品"
+      }
+    },
+    {
+      "id": "d030",
+      "number": 30,
+      "week": 5,
+      "weekday": 2,
+      "stage": "foundation",
+      "review": false,
+      "packId": "nl-a1-supermarket",
+      "offset": 10,
+      "wordIds": [
+        "nl-a1-supermarket-11",
+        "nl-a1-supermarket-12",
+        "nl-a1-supermarket-13",
+        "nl-a1-supermarket-14",
+        "nl-a1-supermarket-15",
+        "nl-a1-supermarket-16",
+        "nl-a1-supermarket-17",
+        "nl-a1-supermarket-18",
+        "nl-a1-supermarket-19",
+        "nl-a1-supermarket-20"
+      ],
+      "title": "超市里的数量与包装 · 第2小节",
+      "minutes": 23,
+      "skill": {
+        "kind": "micro",
+        "id": "daily-f18",
+        "title": "短练习 · 听懂车站信息：时间和站台"
+      }
+    },
+    {
+      "id": "d031",
+      "number": 31,
+      "week": 5,
+      "weekday": 3,
+      "stage": "foundation",
+      "review": false,
+      "packId": "nl-a1-supermarket",
+      "offset": 20,
+      "wordIds": [
+        "nl-a1-supermarket-21",
+        "nl-a1-supermarket-22",
+        "nl-a1-supermarket-23",
+        "nl-a1-supermarket-24",
+        "nl-a1-supermarket-25",
+        "nl-a1-supermarket-26",
+        "nl-a1-supermarket-27",
+        "nl-a1-supermarket-28",
+        "nl-a1-supermarket-29",
+        "nl-a1-supermarket-30"
+      ],
+      "title": "超市里的数量与包装 · 第3小节",
+      "minutes": 23,
+      "skill": {
+        "kind": "micro",
+        "id": "daily-f19",
+        "title": "短练习 · 听懂上课通知：带什么"
+      }
+    },
+    {
+      "id": "d032",
+      "number": 32,
+      "week": 5,
+      "weekday": 4,
+      "stage": "foundation",
+      "review": false,
+      "packId": "nl-a1-clothing",
+      "offset": 0,
+      "wordIds": [
+        "nl-a1-clothing-1",
+        "nl-a1-clothing-2",
+        "nl-a1-clothing-3",
+        "nl-a1-clothing-4",
+        "nl-a1-clothing-5",
+        "nl-a1-clothing-6",
+        "nl-a1-clothing-7",
+        "nl-a1-clothing-8",
+        "nl-a1-clothing-9",
+        "nl-a1-clothing-10"
+      ],
+      "title": "衣物与穿着 · 第1小节",
+      "minutes": 23,
+      "skill": {
+        "kind": "micro",
+        "id": "daily-f20",
+        "title": "短练习 · 听懂语音留言：谁、哪里、几点"
+      }
+    },
+    {
+      "id": "d033",
+      "number": 33,
+      "week": 5,
+      "weekday": 5,
+      "stage": "foundation",
+      "review": false,
+      "packId": "nl-a1-clothing",
+      "offset": 10,
+      "wordIds": [
+        "nl-a1-clothing-11",
+        "nl-a1-clothing-12",
+        "nl-a1-clothing-13",
+        "nl-a1-clothing-14",
+        "nl-a1-clothing-15",
+        "nl-a1-clothing-16",
+        "nl-a1-clothing-17",
+        "nl-a1-clothing-18",
+        "nl-a1-clothing-19",
+        "nl-a1-clothing-20"
+      ],
+      "title": "衣物与穿着 · 第2小节",
+      "minutes": 23,
+      "skill": {
+        "kind": "dialogue",
+        "id": "nl-dialogue-5",
+        "title": "听说对话 · 与邻居聊天"
+      }
+    },
+    {
+      "id": "d034",
+      "number": 34,
+      "week": 5,
+      "weekday": 6,
+      "stage": "foundation",
+      "review": false,
+      "packId": "nl-a1-clothing",
+      "offset": 20,
+      "wordIds": [
+        "nl-a1-clothing-21",
+        "nl-a1-clothing-22",
+        "nl-a1-clothing-23",
+        "nl-a1-clothing-24",
+        "nl-a1-clothing-25",
+        "nl-a1-clothing-26",
+        "nl-a1-clothing-27",
+        "nl-a1-clothing-28",
+        "nl-a1-clothing-29",
+        "nl-a1-clothing-30"
+      ],
+      "title": "衣物与穿着 · 第3小节",
+      "minutes": 23,
+      "skill": {
+        "kind": "micro",
+        "id": "daily-f21",
+        "title": "短练习 · 开口第一步：问候和名字"
+      }
+    },
+    {
+      "id": "d035",
+      "number": 35,
+      "week": 5,
+      "weekday": 7,
+      "stage": "foundation",
+      "review": true,
+      "packId": "",
+      "offset": 0,
+      "wordIds": [],
+      "title": "本周复习与能力自检",
+      "minutes": 25,
+      "skill": {
+        "kind": "micro",
+        "id": "daily-f21",
+        "title": "短练习 · 开口第一步：问候和名字"
+      }
+    },
+    {
+      "id": "d036",
+      "number": 36,
+      "week": 6,
+      "weekday": 1,
+      "stage": "foundation",
+      "review": false,
+      "packId": "nl-time",
+      "offset": 0,
+      "wordIds": [
+        "nl-time-1",
+        "nl-time-2",
+        "nl-time-3",
+        "nl-time-4",
+        "nl-time-5",
+        "nl-time-6",
+        "nl-time-7",
+        "nl-time-8",
+        "nl-time-9",
+        "nl-time-10"
+      ],
+      "title": "时间与小雨天 · 第1小节",
+      "minutes": 23,
+      "skill": {
+        "kind": "micro",
+        "id": "daily-f21",
+        "title": "短练习 · 开口第一步：问候和名字"
+      }
+    },
+    {
+      "id": "d037",
+      "number": 37,
+      "week": 6,
+      "weekday": 2,
+      "stage": "foundation",
+      "review": false,
+      "packId": "nl-time",
+      "offset": 10,
+      "wordIds": [
+        "nl-time-11",
+        "nl-time-12",
+        "nl-time-13",
+        "nl-time-14",
+        "nl-time-15",
+        "nl-time-16",
+        "nl-time-17",
+        "nl-time-18",
+        "nl-time-19",
+        "nl-time-20"
+      ],
+      "title": "时间与小雨天 · 第2小节",
+      "minutes": 23,
+      "skill": {
+        "kind": "micro",
+        "id": "daily-f22",
+        "title": "短练习 · 介绍住处：在哪里、和谁住"
+      }
+    },
+    {
+      "id": "d038",
+      "number": 38,
+      "week": 6,
+      "weekday": 3,
+      "stage": "foundation",
+      "review": false,
+      "packId": "nl-time",
+      "offset": 20,
+      "wordIds": [
+        "nl-time-21",
+        "nl-time-22",
+        "nl-time-23",
+        "nl-time-24",
+        "nl-time-25",
+        "nl-time-26",
+        "nl-time-27",
+        "nl-time-28",
+        "nl-time-29",
+        "nl-time-30"
+      ],
+      "title": "时间与小雨天 · 第3小节",
+      "minutes": 23,
+      "skill": {
+        "kind": "micro",
+        "id": "daily-f23",
+        "title": "短练习 · 礼貌点单：graag 和 alstublieft"
+      }
+    },
+    {
+      "id": "d039",
+      "number": 39,
+      "week": 6,
+      "weekday": 4,
+      "stage": "foundation",
+      "review": false,
+      "packId": "nl-a1-calendar",
+      "offset": 0,
+      "wordIds": [
+        "nl-a1-calendar-1",
+        "nl-a1-calendar-2",
+        "nl-a1-calendar-3",
+        "nl-a1-calendar-4",
+        "nl-a1-calendar-5",
+        "nl-a1-calendar-6",
+        "nl-a1-calendar-7",
+        "nl-a1-calendar-8",
+        "nl-a1-calendar-9",
+        "nl-a1-calendar-10"
+      ],
+      "title": "日期与季节 · 第1小节",
+      "minutes": 23,
+      "skill": {
+        "kind": "micro",
+        "id": "daily-f24",
+        "title": "短练习 · 说说一天：时间加活动"
+      }
+    },
+    {
+      "id": "d040",
+      "number": 40,
+      "week": 6,
+      "weekday": 5,
+      "stage": "foundation",
+      "review": false,
+      "packId": "nl-a1-calendar",
+      "offset": 10,
+      "wordIds": [
+        "nl-a1-calendar-11",
+        "nl-a1-calendar-12",
+        "nl-a1-calendar-13",
+        "nl-a1-calendar-14",
+        "nl-a1-calendar-15",
+        "nl-a1-calendar-16",
+        "nl-a1-calendar-17",
+        "nl-a1-calendar-18",
+        "nl-a1-calendar-19",
+        "nl-a1-calendar-20"
+      ],
+      "title": "日期与季节 · 第2小节",
+      "minutes": 23,
+      "skill": {
+        "kind": "dialogue",
+        "id": "nl-dialogue-6",
+        "title": "听说对话 · 我的工作日"
+      }
+    },
+    {
+      "id": "d041",
+      "number": 41,
+      "week": 6,
+      "weekday": 6,
+      "stage": "foundation",
+      "review": false,
+      "packId": "nl-a1-calendar",
+      "offset": 20,
+      "wordIds": [
+        "nl-a1-calendar-21",
+        "nl-a1-calendar-22",
+        "nl-a1-calendar-23",
+        "nl-a1-calendar-24",
+        "nl-a1-calendar-25",
+        "nl-a1-calendar-26",
+        "nl-a1-calendar-27",
+        "nl-a1-calendar-28",
+        "nl-a1-calendar-29",
+        "nl-a1-calendar-30"
+      ],
+      "title": "日期与季节 · 第3小节",
+      "minutes": 23,
+      "skill": {
+        "kind": "micro",
+        "id": "daily-f22",
+        "title": "短练习 · 介绍住处：在哪里、和谁住"
+      }
+    },
+    {
+      "id": "d042",
+      "number": 42,
+      "week": 6,
+      "weekday": 7,
+      "stage": "foundation",
+      "review": true,
+      "packId": "",
+      "offset": 0,
+      "wordIds": [],
+      "title": "本周复习与能力自检",
+      "minutes": 25,
+      "skill": {
+        "kind": "micro",
+        "id": "daily-f22",
+        "title": "短练习 · 介绍住处：在哪里、和谁住"
+      }
+    },
+    {
+      "id": "d043",
+      "number": 43,
+      "week": 7,
+      "weekday": 1,
+      "stage": "foundation",
+      "review": false,
+      "packId": "nl-a1-care",
+      "offset": 0,
+      "wordIds": [
+        "nl-a1-care-1",
+        "nl-a1-care-2",
+        "nl-a1-care-3",
+        "nl-a1-care-4",
+        "nl-a1-care-5",
+        "nl-a1-care-6",
+        "nl-a1-care-7",
+        "nl-a1-care-8",
+        "nl-a1-care-9",
+        "nl-a1-care-10"
+      ],
+      "title": "身体与日常护理 · 第1小节",
+      "minutes": 23,
+      "skill": {
+        "kind": "micro",
+        "id": "daily-f01",
+        "title": "短练习 · 冠词：de、het 和 een"
+      }
+    },
+    {
+      "id": "d044",
+      "number": 44,
+      "week": 7,
+      "weekday": 2,
+      "stage": "foundation",
+      "review": false,
+      "packId": "nl-a1-care",
+      "offset": 10,
+      "wordIds": [
+        "nl-a1-care-11",
+        "nl-a1-care-12",
+        "nl-a1-care-13",
+        "nl-a1-care-14",
+        "nl-a1-care-15",
+        "nl-a1-care-16",
+        "nl-a1-care-17",
+        "nl-a1-care-18",
+        "nl-a1-care-19",
+        "nl-a1-care-20"
+      ],
+      "title": "身体与日常护理 · 第2小节",
+      "minutes": 23,
+      "skill": {
+        "kind": "micro",
+        "id": "daily-f02",
+        "title": "短练习 · 人称代词：我、你、我们"
+      }
+    },
+    {
+      "id": "d045",
+      "number": 45,
+      "week": 7,
+      "weekday": 3,
+      "stage": "foundation",
+      "review": false,
+      "packId": "nl-a1-care",
+      "offset": 20,
+      "wordIds": [
+        "nl-a1-care-21",
+        "nl-a1-care-22",
+        "nl-a1-care-23",
+        "nl-a1-care-24",
+        "nl-a1-care-25",
+        "nl-a1-care-26",
+        "nl-a1-care-27",
+        "nl-a1-care-28",
+        "nl-a1-care-29",
+        "nl-a1-care-30"
+      ],
+      "title": "身体与日常护理 · 第3小节",
+      "minutes": 23,
+      "skill": {
+        "kind": "micro",
+        "id": "daily-f03",
+        "title": "短练习 · zijn：我是、你是、他们是"
+      }
+    },
+    {
+      "id": "d046",
+      "number": 46,
+      "week": 7,
+      "weekday": 4,
+      "stage": "foundation",
+      "review": false,
+      "packId": "nl-a1-directions",
+      "offset": 0,
+      "wordIds": [
+        "nl-a1-directions-1",
+        "nl-a1-directions-2",
+        "nl-a1-directions-3",
+        "nl-a1-directions-4",
+        "nl-a1-directions-5",
+        "nl-a1-directions-6",
+        "nl-a1-directions-7",
+        "nl-a1-directions-8",
+        "nl-a1-directions-9",
+        "nl-a1-directions-10"
+      ],
+      "title": "位置与方向 · 第1小节",
+      "minutes": 23,
+      "skill": {
+        "kind": "micro",
+        "id": "daily-f04",
+        "title": "短练习 · hebben：我有、我们有"
+      }
+    },
+    {
+      "id": "d047",
+      "number": 47,
+      "week": 7,
+      "weekday": 5,
+      "stage": "foundation",
+      "review": false,
+      "packId": "nl-a1-directions",
+      "offset": 10,
+      "wordIds": [
+        "nl-a1-directions-11",
+        "nl-a1-directions-12",
+        "nl-a1-directions-13",
+        "nl-a1-directions-14",
+        "nl-a1-directions-15",
+        "nl-a1-directions-16",
+        "nl-a1-directions-17",
+        "nl-a1-directions-18",
+        "nl-a1-directions-19",
+        "nl-a1-directions-20"
+      ],
+      "title": "位置与方向 · 第2小节",
+      "minutes": 23,
+      "skill": {
+        "kind": "dialogue",
+        "id": "nl-dialogue-7",
+        "title": "听说对话 · 两张票与特殊字母"
+      }
+    },
+    {
+      "id": "d048",
+      "number": 48,
+      "week": 7,
+      "weekday": 6,
+      "stage": "foundation",
+      "review": false,
+      "packId": "nl-a1-directions",
+      "offset": 20,
+      "wordIds": [
+        "nl-a1-directions-21",
+        "nl-a1-directions-22",
+        "nl-a1-directions-23",
+        "nl-a1-directions-24",
+        "nl-a1-directions-25",
+        "nl-a1-directions-26",
+        "nl-a1-directions-27",
+        "nl-a1-directions-28",
+        "nl-a1-directions-29",
+        "nl-a1-directions-30"
+      ],
+      "title": "位置与方向 · 第3小节",
+      "minutes": 23,
+      "skill": {
+        "kind": "micro",
+        "id": "daily-f23",
+        "title": "短练习 · 礼貌点单：graag 和 alstublieft"
+      }
+    },
+    {
+      "id": "d049",
+      "number": 49,
+      "week": 7,
+      "weekday": 7,
+      "stage": "foundation",
+      "review": true,
+      "packId": "",
+      "offset": 0,
+      "wordIds": [],
+      "title": "本周复习与能力自检",
+      "minutes": 25,
+      "skill": {
+        "kind": "micro",
+        "id": "daily-f23",
+        "title": "短练习 · 礼貌点单：graag 和 alstublieft"
+      }
+    },
+    {
+      "id": "d050",
+      "number": 50,
+      "week": 8,
+      "weekday": 1,
+      "stage": "foundation",
+      "review": false,
+      "packId": "nl-travel",
+      "offset": 0,
+      "wordIds": [
+        "nl-travel-1",
+        "nl-travel-2",
+        "nl-travel-3",
+        "nl-travel-4",
+        "nl-travel-5",
+        "nl-travel-6",
+        "nl-travel-7",
+        "nl-travel-8",
+        "nl-travel-9",
+        "nl-travel-10"
+      ],
+      "title": "骑车去看这座城 · 第1小节",
+      "minutes": 23,
+      "skill": {
+        "kind": "micro",
+        "id": "daily-f05",
+        "title": "短练习 · 现在时：woon、woont、wonen"
+      }
+    },
+    {
+      "id": "d051",
+      "number": 51,
+      "week": 8,
+      "weekday": 2,
+      "stage": "foundation",
+      "review": false,
+      "packId": "nl-travel",
+      "offset": 10,
+      "wordIds": [
+        "nl-travel-11",
+        "nl-travel-12",
+        "nl-travel-13",
+        "nl-travel-14",
+        "nl-travel-15",
+        "nl-travel-16",
+        "nl-travel-17",
+        "nl-travel-18",
+        "nl-travel-19",
+        "nl-travel-20"
+      ],
+      "title": "骑车去看这座城 · 第2小节",
+      "minutes": 23,
+      "skill": {
+        "kind": "micro",
+        "id": "daily-f06",
+        "title": "短练习 · 主句：先主语，再动词"
+      }
+    },
+    {
+      "id": "d052",
+      "number": 52,
+      "week": 8,
+      "weekday": 3,
+      "stage": "foundation",
+      "review": false,
+      "packId": "nl-travel",
+      "offset": 20,
+      "wordIds": [
+        "nl-travel-21",
+        "nl-travel-22",
+        "nl-travel-23",
+        "nl-travel-24",
+        "nl-travel-25",
+        "nl-travel-26",
+        "nl-travel-27",
+        "nl-travel-28",
+        "nl-travel-29",
+        "nl-travel-30"
+      ],
+      "title": "骑车去看这座城 · 第3小节",
+      "minutes": 23,
+      "skill": {
+        "kind": "micro",
+        "id": "daily-f07",
+        "title": "短练习 · 疑问词：谁、什么、哪里"
+      }
+    },
+    {
+      "id": "d053",
+      "number": 53,
+      "week": 8,
+      "weekday": 4,
+      "stage": "foundation",
+      "review": false,
+      "packId": "nl-a1-nature",
+      "offset": 0,
+      "wordIds": [
+        "nl-a1-nature-1",
+        "nl-a1-nature-2",
+        "nl-a1-nature-3",
+        "nl-a1-nature-4",
+        "nl-a1-nature-5",
+        "nl-a1-nature-6",
+        "nl-a1-nature-7",
+        "nl-a1-nature-8",
+        "nl-a1-nature-9",
+        "nl-a1-nature-10"
+      ],
+      "title": "动物与户外 · 第1小节",
+      "minutes": 23,
+      "skill": {
+        "kind": "micro",
+        "id": "daily-f08",
+        "title": "短练习 · 是非问句与 je 后置"
+      }
+    },
+    {
+      "id": "d054",
+      "number": 54,
+      "week": 8,
+      "weekday": 5,
+      "stage": "foundation",
+      "review": false,
+      "packId": "nl-a1-nature",
+      "offset": 10,
+      "wordIds": [
+        "nl-a1-nature-11",
+        "nl-a1-nature-12",
+        "nl-a1-nature-13",
+        "nl-a1-nature-14",
+        "nl-a1-nature-15",
+        "nl-a1-nature-16",
+        "nl-a1-nature-17",
+        "nl-a1-nature-18",
+        "nl-a1-nature-19",
+        "nl-a1-nature-20"
+      ],
+      "title": "动物与户外 · 第2小节",
+      "minutes": 23,
+      "skill": {
+        "kind": "dialogue",
+        "id": "nl-dialogue-8",
+        "title": "听说对话 · 周末计划"
+      }
+    },
+    {
+      "id": "d055",
+      "number": 55,
+      "week": 8,
+      "weekday": 6,
+      "stage": "foundation",
+      "review": false,
+      "packId": "nl-a1-nature",
+      "offset": 20,
+      "wordIds": [
+        "nl-a1-nature-21",
+        "nl-a1-nature-22",
+        "nl-a1-nature-23",
+        "nl-a1-nature-24",
+        "nl-a1-nature-25",
+        "nl-a1-nature-26",
+        "nl-a1-nature-27",
+        "nl-a1-nature-28",
+        "nl-a1-nature-29",
+        "nl-a1-nature-30"
+      ],
+      "title": "动物与户外 · 第3小节",
+      "minutes": 23,
+      "skill": {
+        "kind": "micro",
+        "id": "daily-f24",
+        "title": "短练习 · 说说一天：时间加活动"
+      }
+    },
+    {
+      "id": "d056",
+      "number": 56,
+      "week": 8,
+      "weekday": 7,
+      "stage": "foundation",
+      "review": true,
+      "packId": "",
+      "offset": 0,
+      "wordIds": [],
+      "title": "本周复习与能力自检",
+      "minutes": 25,
+      "skill": {
+        "kind": "micro",
+        "id": "daily-f24",
+        "title": "短练习 · 说说一天：时间加活动"
+      }
+    },
+    {
+      "id": "d057",
+      "number": 57,
+      "week": 9,
+      "weekday": 1,
+      "stage": "foundation",
+      "review": false,
+      "packId": "nl-a1-school",
+      "offset": 0,
+      "wordIds": [
+        "nl-a1-school-1",
+        "nl-a1-school-2",
+        "nl-a1-school-3",
+        "nl-a1-school-4",
+        "nl-a1-school-5",
+        "nl-a1-school-6",
+        "nl-a1-school-7",
+        "nl-a1-school-8",
+        "nl-a1-school-9",
+        "nl-a1-school-10"
+      ],
+      "title": "学校与儿童生活 · 第1小节",
+      "minutes": 23,
+      "skill": {
+        "kind": "micro",
+        "id": "daily-f09",
+        "title": "短练习 · 否定：geen 和 niet"
+      }
+    },
+    {
+      "id": "d058",
+      "number": 58,
+      "week": 9,
+      "weekday": 2,
+      "stage": "foundation",
+      "review": false,
+      "packId": "nl-a1-school",
+      "offset": 10,
+      "wordIds": [
+        "nl-a1-school-11",
+        "nl-a1-school-12",
+        "nl-a1-school-13",
+        "nl-a1-school-14",
+        "nl-a1-school-15",
+        "nl-a1-school-16",
+        "nl-a1-school-17",
+        "nl-a1-school-18",
+        "nl-a1-school-19",
+        "nl-a1-school-20"
+      ],
+      "title": "学校与儿童生活 · 第2小节",
+      "minutes": 23,
+      "skill": {
+        "kind": "micro",
+        "id": "daily-f10",
+        "title": "短练习 · 名词复数：fietsen 和 auto’s"
+      }
+    },
+    {
+      "id": "d059",
+      "number": 59,
+      "week": 9,
+      "weekday": 3,
+      "stage": "foundation",
+      "review": false,
+      "packId": "nl-a1-school",
+      "offset": 20,
+      "wordIds": [
+        "nl-a1-school-21",
+        "nl-a1-school-22",
+        "nl-a1-school-23",
+        "nl-a1-school-24",
+        "nl-a1-school-25",
+        "nl-a1-school-26",
+        "nl-a1-school-27",
+        "nl-a1-school-28",
+        "nl-a1-school-29",
+        "nl-a1-school-30"
+      ],
+      "title": "学校与儿童生活 · 第3小节",
+      "minutes": 23,
+      "skill": {
+        "kind": "micro",
+        "id": "daily-f11",
+        "title": "短练习 · 物主词：我的、你的、她的"
+      }
+    },
+    {
+      "id": "d060",
+      "number": 60,
+      "week": 9,
+      "weekday": 4,
+      "stage": "foundation",
+      "review": false,
+      "packId": "nl-life",
+      "offset": 0,
+      "wordIds": [
+        "nl-life-1",
+        "nl-life-2",
+        "nl-life-3",
+        "nl-life-4",
+        "nl-life-5",
+        "nl-life-6",
+        "nl-life-7",
+        "nl-life-8",
+        "nl-life-9",
+        "nl-life-10"
+      ],
+      "title": "在这里生活 · 第1小节",
+      "minutes": 23,
+      "skill": {
+        "kind": "micro",
+        "id": "daily-f12",
+        "title": "短练习 · 指示词：deze、die、dit、dat"
+      }
+    },
+    {
+      "id": "d061",
+      "number": 61,
+      "week": 9,
+      "weekday": 5,
+      "stage": "foundation",
+      "review": false,
+      "packId": "nl-life",
+      "offset": 10,
+      "wordIds": [
+        "nl-life-11",
+        "nl-life-12",
+        "nl-life-13",
+        "nl-life-14",
+        "nl-life-15",
+        "nl-life-16",
+        "nl-life-17",
+        "nl-life-18",
+        "nl-life-19",
+        "nl-life-20"
+      ],
+      "title": "在这里生活 · 第2小节",
+      "minutes": 23,
+      "skill": {
+        "kind": "dialogue",
+        "id": "nl-dialogue-1",
+        "title": "听说对话 · 认识一下"
+      }
+    },
+    {
+      "id": "d062",
+      "number": 62,
+      "week": 9,
+      "weekday": 6,
+      "stage": "foundation",
+      "review": false,
+      "packId": "nl-life",
+      "offset": 20,
+      "wordIds": [
+        "nl-life-21",
+        "nl-life-22",
+        "nl-life-23",
+        "nl-life-24",
+        "nl-life-25",
+        "nl-life-26",
+        "nl-life-27",
+        "nl-life-28",
+        "nl-life-29",
+        "nl-life-30"
+      ],
+      "title": "在这里生活 · 第3小节",
+      "minutes": 23,
+      "skill": {
+        "kind": "micro",
+        "id": "daily-f21",
+        "title": "短练习 · 开口第一步：问候和名字"
+      }
+    },
+    {
+      "id": "d063",
+      "number": 63,
+      "week": 9,
+      "weekday": 7,
+      "stage": "foundation",
+      "review": true,
+      "packId": "",
+      "offset": 0,
+      "wordIds": [],
+      "title": "本周复习与能力自检",
+      "minutes": 25,
+      "skill": {
+        "kind": "micro",
+        "id": "daily-f21",
+        "title": "短练习 · 开口第一步：问候和名字"
+      }
+    },
+    {
+      "id": "d064",
+      "number": 64,
+      "week": 10,
+      "weekday": 1,
+      "stage": "bridge",
+      "review": false,
+      "packId": "nl-b1-verbs",
+      "offset": 0,
+      "wordIds": [
+        "nl-b1-verbs-1",
+        "nl-b1-verbs-2",
+        "nl-b1-verbs-3",
+        "nl-b1-verbs-4",
+        "nl-b1-verbs-5",
+        "nl-b1-verbs-6",
+        "nl-b1-verbs-7",
+        "nl-b1-verbs-8",
+        "nl-b1-verbs-9",
+        "nl-b1-verbs-10"
+      ],
+      "title": "把事情说清楚 · 第1小节",
+      "minutes": 23,
+      "skill": {
+        "kind": "micro",
+        "id": "daily-a01",
+        "title": "短练习 · 完成时：我做过什么"
+      }
+    },
+    {
+      "id": "d065",
+      "number": 65,
+      "week": 10,
+      "weekday": 2,
+      "stage": "bridge",
+      "review": false,
+      "packId": "nl-b1-verbs",
+      "offset": 10,
+      "wordIds": [
+        "nl-b1-verbs-11",
+        "nl-b1-verbs-12",
+        "nl-b1-verbs-13",
+        "nl-b1-verbs-14",
+        "nl-b1-verbs-15",
+        "nl-b1-verbs-16",
+        "nl-b1-verbs-17",
+        "nl-b1-verbs-18",
+        "nl-b1-verbs-19",
+        "nl-b1-verbs-20"
+      ],
+      "title": "把事情说清楚 · 第2小节",
+      "minutes": 23,
+      "skill": {
+        "kind": "micro",
+        "id": "daily-a02",
+        "title": "短练习 · 过去时入门：was 和 had"
+      }
+    },
+    {
+      "id": "d066",
+      "number": 66,
+      "week": 10,
+      "weekday": 3,
+      "stage": "bridge",
+      "review": false,
+      "packId": "nl-b1-verbs",
+      "offset": 20,
+      "wordIds": [
+        "nl-b1-verbs-21",
+        "nl-b1-verbs-22",
+        "nl-b1-verbs-23",
+        "nl-b1-verbs-24",
+        "nl-b1-verbs-25",
+        "nl-b1-verbs-26",
+        "nl-b1-verbs-27",
+        "nl-b1-verbs-28",
+        "nl-b1-verbs-29",
+        "nl-b1-verbs-30"
+      ],
+      "title": "把事情说清楚 · 第3小节",
+      "minutes": 23,
+      "skill": {
+        "kind": "micro",
+        "id": "daily-a03",
+        "title": "短练习 · 可分动词：opstaan 和 opruimen"
+      }
+    },
+    {
+      "id": "d067",
+      "number": 67,
+      "week": 10,
+      "weekday": 4,
+      "stage": "bridge",
+      "review": false,
+      "packId": "nl-a2-classroom",
+      "offset": 0,
+      "wordIds": [
+        "nl-a2-classroom-1",
+        "nl-a2-classroom-2",
+        "nl-a2-classroom-3",
+        "nl-a2-classroom-4",
+        "nl-a2-classroom-5",
+        "nl-a2-classroom-6",
+        "nl-a2-classroom-7",
+        "nl-a2-classroom-8",
+        "nl-a2-classroom-9",
+        "nl-a2-classroom-10"
+      ],
+      "title": "学习方法与课堂 · 第1小节",
+      "minutes": 23,
+      "skill": {
+        "kind": "micro",
+        "id": "daily-a04",
+        "title": "短练习 · 不定式前的 te"
+      }
+    },
+    {
+      "id": "d068",
+      "number": 68,
+      "week": 10,
+      "weekday": 5,
+      "stage": "bridge",
+      "review": false,
+      "packId": "nl-a2-classroom",
+      "offset": 10,
+      "wordIds": [
+        "nl-a2-classroom-11",
+        "nl-a2-classroom-12",
+        "nl-a2-classroom-13",
+        "nl-a2-classroom-14",
+        "nl-a2-classroom-15",
+        "nl-a2-classroom-16",
+        "nl-a2-classroom-17",
+        "nl-a2-classroom-18",
+        "nl-a2-classroom-19",
+        "nl-a2-classroom-20"
+      ],
+      "title": "学习方法与课堂 · 第2小节",
+      "minutes": 23,
+      "skill": {
+        "kind": "dialogue",
+        "id": "nl-dialogue-1",
+        "title": "听说对话 · 认识一下"
+      }
+    },
+    {
+      "id": "d069",
+      "number": 69,
+      "week": 10,
+      "weekday": 6,
+      "stage": "bridge",
+      "review": false,
+      "packId": "nl-a2-classroom",
+      "offset": 20,
+      "wordIds": [
+        "nl-a2-classroom-21",
+        "nl-a2-classroom-22",
+        "nl-a2-classroom-23",
+        "nl-a2-classroom-24",
+        "nl-a2-classroom-25",
+        "nl-a2-classroom-26",
+        "nl-a2-classroom-27",
+        "nl-a2-classroom-28",
+        "nl-a2-classroom-29",
+        "nl-a2-classroom-30"
+      ],
+      "title": "学习方法与课堂 · 第3小节",
+      "minutes": 23,
+      "skill": {
+        "kind": "micro",
+        "id": "daily-a19",
+        "title": "短练习 · 回顾昨天：两件事加一个感受"
+      }
+    },
+    {
+      "id": "d070",
+      "number": 70,
+      "week": 10,
+      "weekday": 7,
+      "stage": "bridge",
+      "review": true,
+      "packId": "",
+      "offset": 0,
+      "wordIds": [],
+      "title": "本周复习与能力自检",
+      "minutes": 25,
+      "skill": {
+        "kind": "micro",
+        "id": "daily-a19",
+        "title": "短练习 · 回顾昨天：两件事加一个感受"
+      }
+    },
+    {
+      "id": "d071",
+      "number": 71,
+      "week": 11,
+      "weekday": 1,
+      "stage": "bridge",
+      "review": false,
+      "packId": "nl-b1-describing",
+      "offset": 0,
+      "wordIds": [
+        "nl-b1-describing-1",
+        "nl-b1-describing-2",
+        "nl-b1-describing-3",
+        "nl-b1-describing-4",
+        "nl-b1-describing-5",
+        "nl-b1-describing-6",
+        "nl-b1-describing-7",
+        "nl-b1-describing-8",
+        "nl-b1-describing-9",
+        "nl-b1-describing-10"
+      ],
+      "title": "描述、程度与变化 · 第1小节",
+      "minutes": 23,
+      "skill": {
+        "kind": "micro",
+        "id": "daily-a05",
+        "title": "短练习 · 用 omdat 说明原因"
+      }
+    },
+    {
+      "id": "d072",
+      "number": 72,
+      "week": 11,
+      "weekday": 2,
+      "stage": "bridge",
+      "review": false,
+      "packId": "nl-b1-describing",
+      "offset": 10,
+      "wordIds": [
+        "nl-b1-describing-11",
+        "nl-b1-describing-12",
+        "nl-b1-describing-13",
+        "nl-b1-describing-14",
+        "nl-b1-describing-15",
+        "nl-b1-describing-16",
+        "nl-b1-describing-17",
+        "nl-b1-describing-18",
+        "nl-b1-describing-19",
+        "nl-b1-describing-20"
+      ],
+      "title": "描述、程度与变化 · 第2小节",
+      "minutes": 23,
+      "skill": {
+        "kind": "micro",
+        "id": "daily-a06",
+        "title": "短练习 · 比较：groter dan 和 beter"
+      }
+    },
+    {
+      "id": "d073",
+      "number": 73,
+      "week": 11,
+      "weekday": 3,
+      "stage": "bridge",
+      "review": false,
+      "packId": "nl-b1-describing",
+      "offset": 20,
+      "wordIds": [
+        "nl-b1-describing-21",
+        "nl-b1-describing-22",
+        "nl-b1-describing-23",
+        "nl-b1-describing-24",
+        "nl-b1-describing-25",
+        "nl-b1-describing-26",
+        "nl-b1-describing-27",
+        "nl-b1-describing-28",
+        "nl-b1-describing-29",
+        "nl-b1-describing-30"
+      ],
+      "title": "描述、程度与变化 · 第3小节",
+      "minutes": 23,
+      "skill": {
+        "kind": "micro",
+        "id": "daily-a07",
+        "title": "短练习 · 时间放前面：主句倒装"
+      }
+    },
+    {
+      "id": "d074",
+      "number": 74,
+      "week": 11,
+      "weekday": 4,
+      "stage": "bridge",
+      "review": false,
+      "packId": "nl-a2-hobbies",
+      "offset": 0,
+      "wordIds": [
+        "nl-a2-hobbies-1",
+        "nl-a2-hobbies-2",
+        "nl-a2-hobbies-3",
+        "nl-a2-hobbies-4",
+        "nl-a2-hobbies-5",
+        "nl-a2-hobbies-6",
+        "nl-a2-hobbies-7",
+        "nl-a2-hobbies-8",
+        "nl-a2-hobbies-9",
+        "nl-a2-hobbies-10"
+      ],
+      "title": "兴趣与周末 · 第1小节",
+      "minutes": 23,
+      "skill": {
+        "kind": "micro",
+        "id": "daily-a08",
+        "title": "短练习 · 指令和礼貌请求"
+      }
+    },
+    {
+      "id": "d075",
+      "number": 75,
+      "week": 11,
+      "weekday": 5,
+      "stage": "bridge",
+      "review": false,
+      "packId": "nl-a2-hobbies",
+      "offset": 10,
+      "wordIds": [
+        "nl-a2-hobbies-11",
+        "nl-a2-hobbies-12",
+        "nl-a2-hobbies-13",
+        "nl-a2-hobbies-14",
+        "nl-a2-hobbies-15",
+        "nl-a2-hobbies-16",
+        "nl-a2-hobbies-17",
+        "nl-a2-hobbies-18",
+        "nl-a2-hobbies-19",
+        "nl-a2-hobbies-20"
+      ],
+      "title": "兴趣与周末 · 第2小节",
+      "minutes": 23,
+      "skill": {
+        "kind": "dialogue",
+        "id": "nl-dialogue-2",
+        "title": "听说对话 · 在咖啡馆"
+      }
+    },
+    {
+      "id": "d076",
+      "number": 76,
+      "week": 11,
+      "weekday": 6,
+      "stage": "bridge",
+      "review": false,
+      "packId": "nl-a2-hobbies",
+      "offset": 20,
+      "wordIds": [
+        "nl-a2-hobbies-21",
+        "nl-a2-hobbies-22",
+        "nl-a2-hobbies-23",
+        "nl-a2-hobbies-24",
+        "nl-a2-hobbies-25",
+        "nl-a2-hobbies-26",
+        "nl-a2-hobbies-27",
+        "nl-a2-hobbies-28",
+        "nl-a2-hobbies-29",
+        "nl-a2-hobbies-30"
+      ],
+      "title": "兴趣与周末 · 第3小节",
+      "minutes": 23,
+      "skill": {
+        "kind": "micro",
+        "id": "daily-a20",
+        "title": "短练习 · 表达看法：观点加一个原因"
+      }
+    },
+    {
+      "id": "d077",
+      "number": 77,
+      "week": 11,
+      "weekday": 7,
+      "stage": "bridge",
+      "review": true,
+      "packId": "",
+      "offset": 0,
+      "wordIds": [],
+      "title": "本周复习与能力自检",
+      "minutes": 25,
+      "skill": {
+        "kind": "micro",
+        "id": "daily-a20",
+        "title": "短练习 · 表达看法：观点加一个原因"
+      }
+    },
+    {
+      "id": "d078",
+      "number": 78,
+      "week": 12,
+      "weekday": 1,
+      "stage": "bridge",
+      "review": false,
+      "packId": "nl-b1-habits",
+      "offset": 0,
+      "wordIds": [
+        "nl-b1-habits-1",
+        "nl-b1-habits-2",
+        "nl-b1-habits-3",
+        "nl-b1-habits-4",
+        "nl-b1-habits-5",
+        "nl-b1-habits-6",
+        "nl-b1-habits-7",
+        "nl-b1-habits-8",
+        "nl-b1-habits-9",
+        "nl-b1-habits-10"
+      ],
+      "title": "饮食与生活习惯 · 第1小节",
+      "minutes": 23,
+      "skill": {
+        "kind": "micro",
+        "id": "daily-a09",
+        "title": "短练习 · er：引出新出现的东西"
+      }
+    },
+    {
+      "id": "d079",
+      "number": 79,
+      "week": 12,
+      "weekday": 2,
+      "stage": "bridge",
+      "review": false,
+      "packId": "nl-b1-habits",
+      "offset": 10,
+      "wordIds": [
+        "nl-b1-habits-11",
+        "nl-b1-habits-12",
+        "nl-b1-habits-13",
+        "nl-b1-habits-14",
+        "nl-b1-habits-15",
+        "nl-b1-habits-16",
+        "nl-b1-habits-17",
+        "nl-b1-habits-18",
+        "nl-b1-habits-19",
+        "nl-b1-habits-20"
+      ],
+      "title": "饮食与生活习惯 · 第2小节",
+      "minutes": 23,
+      "skill": {
+        "kind": "micro",
+        "id": "daily-a10",
+        "title": "短练习 · 数量：ik heb er twee"
+      }
+    },
+    {
+      "id": "d080",
+      "number": 80,
+      "week": 12,
+      "weekday": 3,
+      "stage": "bridge",
+      "review": false,
+      "packId": "nl-b1-habits",
+      "offset": 20,
+      "wordIds": [
+        "nl-b1-habits-21",
+        "nl-b1-habits-22",
+        "nl-b1-habits-23",
+        "nl-b1-habits-24",
+        "nl-b1-habits-25",
+        "nl-b1-habits-26",
+        "nl-b1-habits-27",
+        "nl-b1-habits-28",
+        "nl-b1-habits-29",
+        "nl-b1-habits-30"
+      ],
+      "title": "饮食与生活习惯 · 第3小节",
+      "minutes": 23,
+      "skill": {
+        "kind": "micro",
+        "id": "daily-a11",
+        "title": "短练习 · 反身代词：me、je、zich、ons"
+      }
+    },
+    {
+      "id": "d081",
+      "number": 81,
+      "week": 12,
+      "weekday": 4,
+      "stage": "bridge",
+      "review": false,
+      "packId": "nl-a2-sports",
+      "offset": 0,
+      "wordIds": [
+        "nl-a2-sports-1",
+        "nl-a2-sports-2",
+        "nl-a2-sports-3",
+        "nl-a2-sports-4",
+        "nl-a2-sports-5",
+        "nl-a2-sports-6",
+        "nl-a2-sports-7",
+        "nl-a2-sports-8",
+        "nl-a2-sports-9",
+        "nl-a2-sports-10"
+      ],
+      "title": "运动与体能 · 第1小节",
+      "minutes": 23,
+      "skill": {
+        "kind": "micro",
+        "id": "daily-a12",
+        "title": "短练习 · 未来计划：gaan 和 zullen"
+      }
+    },
+    {
+      "id": "d082",
+      "number": 82,
+      "week": 12,
+      "weekday": 5,
+      "stage": "bridge",
+      "review": false,
+      "packId": "nl-a2-sports",
+      "offset": 10,
+      "wordIds": [
+        "nl-a2-sports-11",
+        "nl-a2-sports-12",
+        "nl-a2-sports-13",
+        "nl-a2-sports-14",
+        "nl-a2-sports-15",
+        "nl-a2-sports-16",
+        "nl-a2-sports-17",
+        "nl-a2-sports-18",
+        "nl-a2-sports-19",
+        "nl-a2-sports-20"
+      ],
+      "title": "运动与体能 · 第2小节",
+      "minutes": 23,
+      "skill": {
+        "kind": "dialogue",
+        "id": "nl-dialogue-3",
+        "title": "听说对话 · 在火车站"
+      }
+    },
+    {
+      "id": "d083",
+      "number": 83,
+      "week": 12,
+      "weekday": 6,
+      "stage": "bridge",
+      "review": false,
+      "packId": "nl-a2-sports",
+      "offset": 20,
+      "wordIds": [
+        "nl-a2-sports-21",
+        "nl-a2-sports-22",
+        "nl-a2-sports-23",
+        "nl-a2-sports-24",
+        "nl-a2-sports-25",
+        "nl-a2-sports-26",
+        "nl-a2-sports-27",
+        "nl-a2-sports-28",
+        "nl-a2-sports-29",
+        "nl-a2-sports-30"
+      ],
+      "title": "运动与体能 · 第3小节",
+      "minutes": 23,
+      "skill": {
+        "kind": "micro",
+        "id": "daily-a21",
+        "title": "短练习 · 和朋友约时间：提出替代方案"
+      }
+    },
+    {
+      "id": "d084",
+      "number": 84,
+      "week": 12,
+      "weekday": 7,
+      "stage": "bridge",
+      "review": true,
+      "packId": "",
+      "offset": 0,
+      "wordIds": [],
+      "title": "本周复习与能力自检",
+      "minutes": 25,
+      "skill": {
+        "kind": "micro",
+        "id": "daily-a21",
+        "title": "短练习 · 和朋友约时间：提出替代方案"
+      }
+    },
+    {
+      "id": "d085",
+      "number": 85,
+      "week": 13,
+      "weekday": 1,
+      "stage": "bridge",
+      "review": false,
+      "packId": "nl-a2-dining",
+      "offset": 0,
+      "wordIds": [
+        "nl-a2-dining-1",
+        "nl-a2-dining-2",
+        "nl-a2-dining-3",
+        "nl-a2-dining-4",
+        "nl-a2-dining-5",
+        "nl-a2-dining-6",
+        "nl-a2-dining-7",
+        "nl-a2-dining-8",
+        "nl-a2-dining-9",
+        "nl-a2-dining-10"
+      ],
+      "title": "饭店与餐馆沟通 · 第1小节",
+      "minutes": 23,
+      "skill": {
+        "kind": "micro",
+        "id": "daily-a13",
+        "title": "短练习 · 听懂预约变更：旧时间和新时间"
+      }
+    },
+    {
+      "id": "d086",
+      "number": 86,
+      "week": 13,
+      "weekday": 2,
+      "stage": "bridge",
+      "review": false,
+      "packId": "nl-a2-dining",
+      "offset": 10,
+      "wordIds": [
+        "nl-a2-dining-11",
+        "nl-a2-dining-12",
+        "nl-a2-dining-13",
+        "nl-a2-dining-14",
+        "nl-a2-dining-15",
+        "nl-a2-dining-16",
+        "nl-a2-dining-17",
+        "nl-a2-dining-18",
+        "nl-a2-dining-19",
+        "nl-a2-dining-20"
+      ],
+      "title": "饭店与餐馆沟通 · 第2小节",
+      "minutes": 23,
+      "skill": {
+        "kind": "micro",
+        "id": "daily-a14",
+        "title": "短练习 · 听懂出行变化：接下来怎么走"
+      }
+    },
+    {
+      "id": "d087",
+      "number": 87,
+      "week": 13,
+      "weekday": 3,
+      "stage": "bridge",
+      "review": false,
+      "packId": "nl-a2-dining",
+      "offset": 20,
+      "wordIds": [
+        "nl-a2-dining-21",
+        "nl-a2-dining-22",
+        "nl-a2-dining-23",
+        "nl-a2-dining-24",
+        "nl-a2-dining-25",
+        "nl-a2-dining-26",
+        "nl-a2-dining-27",
+        "nl-a2-dining-28",
+        "nl-a2-dining-29",
+        "nl-a2-dining-30"
+      ],
+      "title": "饭店与餐馆沟通 · 第3小节",
+      "minutes": 23,
+      "skill": {
+        "kind": "micro",
+        "id": "daily-a15",
+        "title": "短练习 · 听懂维修留言：约定到访时间"
+      }
+    },
+    {
+      "id": "d088",
+      "number": 88,
+      "week": 13,
+      "weekday": 4,
+      "stage": "bridge",
+      "review": false,
+      "packId": "nl-a2-hosting",
+      "offset": 0,
+      "wordIds": [
+        "nl-a2-hosting-1",
+        "nl-a2-hosting-2",
+        "nl-a2-hosting-3",
+        "nl-a2-hosting-4",
+        "nl-a2-hosting-5",
+        "nl-a2-hosting-6",
+        "nl-a2-hosting-7",
+        "nl-a2-hosting-8",
+        "nl-a2-hosting-9",
+        "nl-a2-hosting-10"
+      ],
+      "title": "烹饪与招待 · 第1小节",
+      "minutes": 23,
+      "skill": {
+        "kind": "micro",
+        "id": "daily-a16",
+        "title": "短练习 · 听懂商品问题：事实和诉求"
+      }
+    },
+    {
+      "id": "d089",
+      "number": 89,
+      "week": 13,
+      "weekday": 5,
+      "stage": "bridge",
+      "review": false,
+      "packId": "nl-a2-hosting",
+      "offset": 10,
+      "wordIds": [
+        "nl-a2-hosting-11",
+        "nl-a2-hosting-12",
+        "nl-a2-hosting-13",
+        "nl-a2-hosting-14",
+        "nl-a2-hosting-15",
+        "nl-a2-hosting-16",
+        "nl-a2-hosting-17",
+        "nl-a2-hosting-18",
+        "nl-a2-hosting-19",
+        "nl-a2-hosting-20"
+      ],
+      "title": "烹饪与招待 · 第2小节",
+      "minutes": 23,
+      "skill": {
+        "kind": "dialogue",
+        "id": "nl-dialogue-4",
+        "title": "听说对话 · 预约看医生"
+      }
+    },
+    {
+      "id": "d090",
+      "number": 90,
+      "week": 13,
+      "weekday": 6,
+      "stage": "bridge",
+      "review": false,
+      "packId": "nl-a2-hosting",
+      "offset": 20,
+      "wordIds": [
+        "nl-a2-hosting-21",
+        "nl-a2-hosting-22",
+        "nl-a2-hosting-23",
+        "nl-a2-hosting-24",
+        "nl-a2-hosting-25",
+        "nl-a2-hosting-26",
+        "nl-a2-hosting-27",
+        "nl-a2-hosting-28",
+        "nl-a2-hosting-29",
+        "nl-a2-hosting-30"
+      ],
+      "title": "烹饪与招待 · 第3小节",
+      "minutes": 23,
+      "skill": {
+        "kind": "micro",
+        "id": "daily-a22",
+        "title": "短练习 · 没听懂时：请求重说和确认"
+      }
+    },
+    {
+      "id": "d091",
+      "number": 91,
+      "week": 13,
+      "weekday": 7,
+      "stage": "bridge",
+      "review": true,
+      "packId": "",
+      "offset": 0,
+      "wordIds": [],
+      "title": "本周复习与能力自检",
+      "minutes": 25,
+      "skill": {
+        "kind": "micro",
+        "id": "daily-a22",
+        "title": "短练习 · 没听懂时：请求重说和确认"
+      }
+    },
+    {
+      "id": "d092",
+      "number": 92,
+      "week": 14,
+      "weekday": 1,
+      "stage": "bridge",
+      "review": false,
+      "packId": "nl-a2-phone",
+      "offset": 0,
+      "wordIds": [
+        "nl-a2-phone-1",
+        "nl-a2-phone-2",
+        "nl-a2-phone-3",
+        "nl-a2-phone-4",
+        "nl-a2-phone-5",
+        "nl-a2-phone-6",
+        "nl-a2-phone-7",
+        "nl-a2-phone-8",
+        "nl-a2-phone-9",
+        "nl-a2-phone-10"
+      ],
+      "title": "手机与网络连接 · 第1小节",
+      "minutes": 23,
+      "skill": {
+        "kind": "micro",
+        "id": "daily-a17",
+        "title": "短练习 · 听懂社区活动：时间和准备"
+      }
+    },
+    {
+      "id": "d093",
+      "number": 93,
+      "week": 14,
+      "weekday": 2,
+      "stage": "bridge",
+      "review": false,
+      "packId": "nl-a2-phone",
+      "offset": 10,
+      "wordIds": [
+        "nl-a2-phone-11",
+        "nl-a2-phone-12",
+        "nl-a2-phone-13",
+        "nl-a2-phone-14",
+        "nl-a2-phone-15",
+        "nl-a2-phone-16",
+        "nl-a2-phone-17",
+        "nl-a2-phone-18",
+        "nl-a2-phone-19",
+        "nl-a2-phone-20"
+      ],
+      "title": "手机与网络连接 · 第2小节",
+      "minutes": 23,
+      "skill": {
+        "kind": "micro",
+        "id": "daily-a18",
+        "title": "短练习 · 听懂信息核对：消息与原始来源"
+      }
+    },
+    {
+      "id": "d094",
+      "number": 94,
+      "week": 14,
+      "weekday": 3,
+      "stage": "bridge",
+      "review": false,
+      "packId": "nl-a2-phone",
+      "offset": 20,
+      "wordIds": [
+        "nl-a2-phone-21",
+        "nl-a2-phone-22",
+        "nl-a2-phone-23",
+        "nl-a2-phone-24",
+        "nl-a2-phone-25",
+        "nl-a2-phone-26",
+        "nl-a2-phone-27",
+        "nl-a2-phone-28",
+        "nl-a2-phone-29",
+        "nl-a2-phone-30"
+      ],
+      "title": "手机与网络连接 · 第3小节",
+      "minutes": 23,
+      "skill": {
+        "kind": "micro",
+        "id": "daily-a19",
+        "title": "短练习 · 回顾昨天：两件事加一个感受"
+      }
+    },
+    {
+      "id": "d095",
+      "number": 95,
+      "week": 14,
+      "weekday": 4,
+      "stage": "bridge",
+      "review": false,
+      "packId": "nl-a2-post",
+      "offset": 0,
+      "wordIds": [
+        "nl-a2-post-1",
+        "nl-a2-post-2",
+        "nl-a2-post-3",
+        "nl-a2-post-4",
+        "nl-a2-post-5",
+        "nl-a2-post-6",
+        "nl-a2-post-7",
+        "nl-a2-post-8",
+        "nl-a2-post-9",
+        "nl-a2-post-10"
+      ],
+      "title": "邮政与寄送物品 · 第1小节",
+      "minutes": 23,
+      "skill": {
+        "kind": "micro",
+        "id": "daily-a20",
+        "title": "短练习 · 表达看法：观点加一个原因"
+      }
+    },
+    {
+      "id": "d096",
+      "number": 96,
+      "week": 14,
+      "weekday": 5,
+      "stage": "bridge",
+      "review": false,
+      "packId": "nl-a2-post",
+      "offset": 10,
+      "wordIds": [
+        "nl-a2-post-11",
+        "nl-a2-post-12",
+        "nl-a2-post-13",
+        "nl-a2-post-14",
+        "nl-a2-post-15",
+        "nl-a2-post-16",
+        "nl-a2-post-17",
+        "nl-a2-post-18",
+        "nl-a2-post-19",
+        "nl-a2-post-20"
+      ],
+      "title": "邮政与寄送物品 · 第2小节",
+      "minutes": 23,
+      "skill": {
+        "kind": "dialogue",
+        "id": "nl-dialogue-5",
+        "title": "听说对话 · 与邻居聊天"
+      }
+    },
+    {
+      "id": "d097",
+      "number": 97,
+      "week": 14,
+      "weekday": 6,
+      "stage": "bridge",
+      "review": false,
+      "packId": "nl-a2-post",
+      "offset": 20,
+      "wordIds": [
+        "nl-a2-post-21",
+        "nl-a2-post-22",
+        "nl-a2-post-23",
+        "nl-a2-post-24",
+        "nl-a2-post-25",
+        "nl-a2-post-26",
+        "nl-a2-post-27",
+        "nl-a2-post-28",
+        "nl-a2-post-29",
+        "nl-a2-post-30"
+      ],
+      "title": "邮政与寄送物品 · 第3小节",
+      "minutes": 23,
+      "skill": {
+        "kind": "micro",
+        "id": "daily-a23",
+        "title": "短练习 · 比较后作选择"
+      }
+    },
+    {
+      "id": "d098",
+      "number": 98,
+      "week": 14,
+      "weekday": 7,
+      "stage": "bridge",
+      "review": true,
+      "packId": "",
+      "offset": 0,
+      "wordIds": [],
+      "title": "本周复习与能力自检",
+      "minutes": 25,
+      "skill": {
+        "kind": "micro",
+        "id": "daily-a23",
+        "title": "短练习 · 比较后作选择"
+      }
+    },
+    {
+      "id": "d099",
+      "number": 99,
+      "week": 15,
+      "weekday": 1,
+      "stage": "bridge",
+      "review": false,
+      "packId": "nl-a2-facilities",
+      "offset": 0,
+      "wordIds": [
+        "nl-a2-facilities-1",
+        "nl-a2-facilities-2",
+        "nl-a2-facilities-3",
+        "nl-a2-facilities-4",
+        "nl-a2-facilities-5",
+        "nl-a2-facilities-6",
+        "nl-a2-facilities-7",
+        "nl-a2-facilities-8",
+        "nl-a2-facilities-9",
+        "nl-a2-facilities-10"
+      ],
+      "title": "城市里的设施与店铺 · 第1小节",
+      "minutes": 23,
+      "skill": {
+        "kind": "micro",
+        "id": "daily-a21",
+        "title": "短练习 · 和朋友约时间：提出替代方案"
+      }
+    },
+    {
+      "id": "d100",
+      "number": 100,
+      "week": 15,
+      "weekday": 2,
+      "stage": "bridge",
+      "review": false,
+      "packId": "nl-a2-facilities",
+      "offset": 10,
+      "wordIds": [
+        "nl-a2-facilities-11",
+        "nl-a2-facilities-12",
+        "nl-a2-facilities-13",
+        "nl-a2-facilities-14",
+        "nl-a2-facilities-15",
+        "nl-a2-facilities-16",
+        "nl-a2-facilities-17",
+        "nl-a2-facilities-18",
+        "nl-a2-facilities-19",
+        "nl-a2-facilities-20"
+      ],
+      "title": "城市里的设施与店铺 · 第2小节",
+      "minutes": 23,
+      "skill": {
+        "kind": "micro",
+        "id": "daily-a22",
+        "title": "短练习 · 没听懂时：请求重说和确认"
+      }
+    },
+    {
+      "id": "d101",
+      "number": 101,
+      "week": 15,
+      "weekday": 3,
+      "stage": "bridge",
+      "review": false,
+      "packId": "nl-a2-facilities",
+      "offset": 20,
+      "wordIds": [
+        "nl-a2-facilities-21",
+        "nl-a2-facilities-22",
+        "nl-a2-facilities-23",
+        "nl-a2-facilities-24",
+        "nl-a2-facilities-25",
+        "nl-a2-facilities-26",
+        "nl-a2-facilities-27",
+        "nl-a2-facilities-28",
+        "nl-a2-facilities-29",
+        "nl-a2-facilities-30"
+      ],
+      "title": "城市里的设施与店铺 · 第3小节",
+      "minutes": 23,
+      "skill": {
+        "kind": "micro",
+        "id": "daily-a23",
+        "title": "短练习 · 比较后作选择"
+      }
+    },
+    {
+      "id": "d102",
+      "number": 102,
+      "week": 15,
+      "weekday": 4,
+      "stage": "bridge",
+      "review": false,
+      "packId": "nl-a2-geography",
+      "offset": 0,
+      "wordIds": [
+        "nl-a2-geography-1",
+        "nl-a2-geography-2",
+        "nl-a2-geography-3",
+        "nl-a2-geography-4",
+        "nl-a2-geography-5",
+        "nl-a2-geography-6",
+        "nl-a2-geography-7",
+        "nl-a2-geography-8",
+        "nl-a2-geography-9",
+        "nl-a2-geography-10"
+      ],
+      "title": "找路与地理位置 · 第1小节",
+      "minutes": 23,
+      "skill": {
+        "kind": "micro",
+        "id": "daily-a24",
+        "title": "短练习 · 一起解决小问题：情况加建议"
+      }
+    },
+    {
+      "id": "d103",
+      "number": 103,
+      "week": 15,
+      "weekday": 5,
+      "stage": "bridge",
+      "review": false,
+      "packId": "nl-a2-geography",
+      "offset": 10,
+      "wordIds": [
+        "nl-a2-geography-11",
+        "nl-a2-geography-12",
+        "nl-a2-geography-13",
+        "nl-a2-geography-14",
+        "nl-a2-geography-15",
+        "nl-a2-geography-16",
+        "nl-a2-geography-17",
+        "nl-a2-geography-18",
+        "nl-a2-geography-19",
+        "nl-a2-geography-20"
+      ],
+      "title": "找路与地理位置 · 第2小节",
+      "minutes": 23,
+      "skill": {
+        "kind": "dialogue",
+        "id": "nl-dialogue-6",
+        "title": "听说对话 · 我的工作日"
+      }
+    },
+    {
+      "id": "d104",
+      "number": 104,
+      "week": 15,
+      "weekday": 6,
+      "stage": "bridge",
+      "review": false,
+      "packId": "nl-a2-geography",
+      "offset": 20,
+      "wordIds": [
+        "nl-a2-geography-21",
+        "nl-a2-geography-22",
+        "nl-a2-geography-23",
+        "nl-a2-geography-24",
+        "nl-a2-geography-25",
+        "nl-a2-geography-26",
+        "nl-a2-geography-27",
+        "nl-a2-geography-28",
+        "nl-a2-geography-29",
+        "nl-a2-geography-30"
+      ],
+      "title": "找路与地理位置 · 第3小节",
+      "minutes": 23,
+      "skill": {
+        "kind": "micro",
+        "id": "daily-a24",
+        "title": "短练习 · 一起解决小问题：情况加建议"
+      }
+    },
+    {
+      "id": "d105",
+      "number": 105,
+      "week": 15,
+      "weekday": 7,
+      "stage": "bridge",
+      "review": true,
+      "packId": "",
+      "offset": 0,
+      "wordIds": [],
+      "title": "本周复习与能力自检",
+      "minutes": 25,
+      "skill": {
+        "kind": "micro",
+        "id": "daily-a24",
+        "title": "短练习 · 一起解决小问题：情况加建议"
+      }
+    },
+    {
+      "id": "d106",
+      "number": 106,
+      "week": 16,
+      "weekday": 1,
+      "stage": "bridge",
+      "review": false,
+      "packId": "nl-a2-transit",
+      "offset": 0,
+      "wordIds": [
+        "nl-a2-transit-1",
+        "nl-a2-transit-2",
+        "nl-a2-transit-3",
+        "nl-a2-transit-4",
+        "nl-a2-transit-5",
+        "nl-a2-transit-6",
+        "nl-a2-transit-7",
+        "nl-a2-transit-8",
+        "nl-a2-transit-9",
+        "nl-a2-transit-10"
+      ],
+      "title": "公共交通细节 · 第1小节",
+      "minutes": 23,
+      "skill": {
+        "kind": "micro",
+        "id": "daily-a01",
+        "title": "短练习 · 完成时：我做过什么"
+      }
+    },
+    {
+      "id": "d107",
+      "number": 107,
+      "week": 16,
+      "weekday": 2,
+      "stage": "bridge",
+      "review": false,
+      "packId": "nl-a2-transit",
+      "offset": 10,
+      "wordIds": [
+        "nl-a2-transit-11",
+        "nl-a2-transit-12",
+        "nl-a2-transit-13",
+        "nl-a2-transit-14",
+        "nl-a2-transit-15",
+        "nl-a2-transit-16",
+        "nl-a2-transit-17",
+        "nl-a2-transit-18",
+        "nl-a2-transit-19",
+        "nl-a2-transit-20"
+      ],
+      "title": "公共交通细节 · 第2小节",
+      "minutes": 23,
+      "skill": {
+        "kind": "micro",
+        "id": "daily-a02",
+        "title": "短练习 · 过去时入门：was 和 had"
+      }
+    },
+    {
+      "id": "d108",
+      "number": 108,
+      "week": 16,
+      "weekday": 3,
+      "stage": "bridge",
+      "review": false,
+      "packId": "nl-a2-transit",
+      "offset": 20,
+      "wordIds": [
+        "nl-a2-transit-21",
+        "nl-a2-transit-22",
+        "nl-a2-transit-23",
+        "nl-a2-transit-24",
+        "nl-a2-transit-25",
+        "nl-a2-transit-26",
+        "nl-a2-transit-27",
+        "nl-a2-transit-28",
+        "nl-a2-transit-29",
+        "nl-a2-transit-30"
+      ],
+      "title": "公共交通细节 · 第3小节",
+      "minutes": 23,
+      "skill": {
+        "kind": "micro",
+        "id": "daily-a03",
+        "title": "短练习 · 可分动词：opstaan 和 opruimen"
+      }
+    },
+    {
+      "id": "d109",
+      "number": 109,
+      "week": 16,
+      "weekday": 4,
+      "stage": "bridge",
+      "review": false,
+      "packId": "nl-a2-outings",
+      "offset": 0,
+      "wordIds": [
+        "nl-a2-outings-1",
+        "nl-a2-outings-2",
+        "nl-a2-outings-3",
+        "nl-a2-outings-4",
+        "nl-a2-outings-5",
+        "nl-a2-outings-6",
+        "nl-a2-outings-7",
+        "nl-a2-outings-8",
+        "nl-a2-outings-9",
+        "nl-a2-outings-10"
+      ],
+      "title": "安排一次短途出游 · 第1小节",
+      "minutes": 23,
+      "skill": {
+        "kind": "micro",
+        "id": "daily-a04",
+        "title": "短练习 · 不定式前的 te"
+      }
+    },
+    {
+      "id": "d110",
+      "number": 110,
+      "week": 16,
+      "weekday": 5,
+      "stage": "bridge",
+      "review": false,
+      "packId": "nl-a2-outings",
+      "offset": 10,
+      "wordIds": [
+        "nl-a2-outings-11",
+        "nl-a2-outings-12",
+        "nl-a2-outings-13",
+        "nl-a2-outings-14",
+        "nl-a2-outings-15",
+        "nl-a2-outings-16",
+        "nl-a2-outings-17",
+        "nl-a2-outings-18",
+        "nl-a2-outings-19",
+        "nl-a2-outings-20"
+      ],
+      "title": "安排一次短途出游 · 第2小节",
+      "minutes": 23,
+      "skill": {
+        "kind": "grammar",
+        "id": "b1-g01",
+        "title": "语法 · 主句语序与倒装"
+      }
+    },
+    {
+      "id": "d111",
+      "number": 111,
+      "week": 16,
+      "weekday": 6,
+      "stage": "bridge",
+      "review": false,
+      "packId": "nl-a2-outings",
+      "offset": 20,
+      "wordIds": [
+        "nl-a2-outings-21",
+        "nl-a2-outings-22",
+        "nl-a2-outings-23",
+        "nl-a2-outings-24",
+        "nl-a2-outings-25",
+        "nl-a2-outings-26",
+        "nl-a2-outings-27",
+        "nl-a2-outings-28",
+        "nl-a2-outings-29",
+        "nl-a2-outings-30"
+      ],
+      "title": "安排一次短途出游 · 第3小节",
+      "minutes": 23,
+      "skill": {
+        "kind": "micro",
+        "id": "daily-a19",
+        "title": "短练习 · 回顾昨天：两件事加一个感受"
+      }
+    },
+    {
+      "id": "d112",
+      "number": 112,
+      "week": 16,
+      "weekday": 7,
+      "stage": "bridge",
+      "review": true,
+      "packId": "",
+      "offset": 0,
+      "wordIds": [],
+      "title": "本周复习与能力自检",
+      "minutes": 25,
+      "skill": {
+        "kind": "micro",
+        "id": "daily-a19",
+        "title": "短练习 · 回顾昨天：两件事加一个感受"
+      }
+    },
+    {
+      "id": "d113",
+      "number": 113,
+      "week": 17,
+      "weekday": 1,
+      "stage": "bridge",
+      "review": false,
+      "packId": "nl-a2-hotel",
+      "offset": 0,
+      "wordIds": [
+        "nl-a2-hotel-1",
+        "nl-a2-hotel-2",
+        "nl-a2-hotel-3",
+        "nl-a2-hotel-4",
+        "nl-a2-hotel-5",
+        "nl-a2-hotel-6",
+        "nl-a2-hotel-7",
+        "nl-a2-hotel-8",
+        "nl-a2-hotel-9",
+        "nl-a2-hotel-10"
+      ],
+      "title": "酒店入住 · 第1小节",
+      "minutes": 23,
+      "skill": {
+        "kind": "micro",
+        "id": "daily-a05",
+        "title": "短练习 · 用 omdat 说明原因"
+      }
+    },
+    {
+      "id": "d114",
+      "number": 114,
+      "week": 17,
+      "weekday": 2,
+      "stage": "bridge",
+      "review": false,
+      "packId": "nl-a2-hotel",
+      "offset": 10,
+      "wordIds": [
+        "nl-a2-hotel-11",
+        "nl-a2-hotel-12",
+        "nl-a2-hotel-13",
+        "nl-a2-hotel-14",
+        "nl-a2-hotel-15",
+        "nl-a2-hotel-16",
+        "nl-a2-hotel-17",
+        "nl-a2-hotel-18",
+        "nl-a2-hotel-19",
+        "nl-a2-hotel-20"
+      ],
+      "title": "酒店入住 · 第2小节",
+      "minutes": 23,
+      "skill": {
+        "kind": "micro",
+        "id": "daily-a06",
+        "title": "短练习 · 比较：groter dan 和 beter"
+      }
+    },
+    {
+      "id": "d115",
+      "number": 115,
+      "week": 17,
+      "weekday": 3,
+      "stage": "bridge",
+      "review": false,
+      "packId": "nl-a2-hotel",
+      "offset": 20,
+      "wordIds": [
+        "nl-a2-hotel-21",
+        "nl-a2-hotel-22",
+        "nl-a2-hotel-23",
+        "nl-a2-hotel-24",
+        "nl-a2-hotel-25",
+        "nl-a2-hotel-26",
+        "nl-a2-hotel-27",
+        "nl-a2-hotel-28",
+        "nl-a2-hotel-29",
+        "nl-a2-hotel-30"
+      ],
+      "title": "酒店入住 · 第3小节",
+      "minutes": 23,
+      "skill": {
+        "kind": "micro",
+        "id": "daily-a07",
+        "title": "短练习 · 时间放前面：主句倒装"
+      }
+    },
+    {
+      "id": "d116",
+      "number": 116,
+      "week": 17,
+      "weekday": 4,
+      "stage": "bridge",
+      "review": false,
+      "packId": "nl-a2-appointments",
+      "offset": 0,
+      "wordIds": [
+        "nl-a2-appointments-1",
+        "nl-a2-appointments-2",
+        "nl-a2-appointments-3",
+        "nl-a2-appointments-4",
+        "nl-a2-appointments-5",
+        "nl-a2-appointments-6",
+        "nl-a2-appointments-7",
+        "nl-a2-appointments-8",
+        "nl-a2-appointments-9",
+        "nl-a2-appointments-10"
+      ],
+      "title": "计划时间与约会安排 · 第1小节",
+      "minutes": 23,
+      "skill": {
+        "kind": "micro",
+        "id": "daily-a08",
+        "title": "短练习 · 指令和礼貌请求"
+      }
+    },
+    {
+      "id": "d117",
+      "number": 117,
+      "week": 17,
+      "weekday": 5,
+      "stage": "bridge",
+      "review": false,
+      "packId": "nl-a2-appointments",
+      "offset": 10,
+      "wordIds": [
+        "nl-a2-appointments-11",
+        "nl-a2-appointments-12",
+        "nl-a2-appointments-13",
+        "nl-a2-appointments-14",
+        "nl-a2-appointments-15",
+        "nl-a2-appointments-16",
+        "nl-a2-appointments-17",
+        "nl-a2-appointments-18",
+        "nl-a2-appointments-19",
+        "nl-a2-appointments-20"
+      ],
+      "title": "计划时间与约会安排 · 第2小节",
+      "minutes": 23,
+      "skill": {
+        "kind": "grammar",
+        "id": "b1-g02",
+        "title": "语法 · 用 omdat 与 dat 连接从句"
+      }
+    },
+    {
+      "id": "d118",
+      "number": 118,
+      "week": 17,
+      "weekday": 6,
+      "stage": "bridge",
+      "review": false,
+      "packId": "nl-a2-appointments",
+      "offset": 20,
+      "wordIds": [
+        "nl-a2-appointments-21",
+        "nl-a2-appointments-22",
+        "nl-a2-appointments-23",
+        "nl-a2-appointments-24",
+        "nl-a2-appointments-25",
+        "nl-a2-appointments-26",
+        "nl-a2-appointments-27",
+        "nl-a2-appointments-28",
+        "nl-a2-appointments-29",
+        "nl-a2-appointments-30"
+      ],
+      "title": "计划时间与约会安排 · 第3小节",
+      "minutes": 23,
+      "skill": {
+        "kind": "micro",
+        "id": "daily-a20",
+        "title": "短练习 · 表达看法：观点加一个原因"
+      }
+    },
+    {
+      "id": "d119",
+      "number": 119,
+      "week": 17,
+      "weekday": 7,
+      "stage": "bridge",
+      "review": true,
+      "packId": "",
+      "offset": 0,
+      "wordIds": [],
+      "title": "本周复习与能力自检",
+      "minutes": 25,
+      "skill": {
+        "kind": "micro",
+        "id": "daily-a20",
+        "title": "短练习 · 表达看法：观点加一个原因"
+      }
+    },
+    {
+      "id": "d120",
+      "number": 120,
+      "week": 18,
+      "weekday": 1,
+      "stage": "bridge",
+      "review": false,
+      "packId": "nl-a2-pharmacy",
+      "offset": 0,
+      "wordIds": [
+        "nl-a2-pharmacy-1",
+        "nl-a2-pharmacy-2",
+        "nl-a2-pharmacy-3",
+        "nl-a2-pharmacy-4",
+        "nl-a2-pharmacy-5",
+        "nl-a2-pharmacy-6",
+        "nl-a2-pharmacy-7",
+        "nl-a2-pharmacy-8",
+        "nl-a2-pharmacy-9",
+        "nl-a2-pharmacy-10"
+      ],
+      "title": "医院与药房里的沟通 · 第1小节",
+      "minutes": 23,
+      "skill": {
+        "kind": "micro",
+        "id": "daily-a09",
+        "title": "短练习 · er：引出新出现的东西"
+      }
+    },
+    {
+      "id": "d121",
+      "number": 121,
+      "week": 18,
+      "weekday": 2,
+      "stage": "bridge",
+      "review": false,
+      "packId": "nl-a2-pharmacy",
+      "offset": 10,
+      "wordIds": [
+        "nl-a2-pharmacy-11",
+        "nl-a2-pharmacy-12",
+        "nl-a2-pharmacy-13",
+        "nl-a2-pharmacy-14",
+        "nl-a2-pharmacy-15",
+        "nl-a2-pharmacy-16",
+        "nl-a2-pharmacy-17",
+        "nl-a2-pharmacy-18",
+        "nl-a2-pharmacy-19",
+        "nl-a2-pharmacy-20"
+      ],
+      "title": "医院与药房里的沟通 · 第2小节",
+      "minutes": 23,
+      "skill": {
+        "kind": "micro",
+        "id": "daily-a10",
+        "title": "短练习 · 数量：ik heb er twee"
+      }
+    },
+    {
+      "id": "d122",
+      "number": 122,
+      "week": 18,
+      "weekday": 3,
+      "stage": "bridge",
+      "review": false,
+      "packId": "nl-a2-pharmacy",
+      "offset": 20,
+      "wordIds": [
+        "nl-a2-pharmacy-21",
+        "nl-a2-pharmacy-22",
+        "nl-a2-pharmacy-23",
+        "nl-a2-pharmacy-24",
+        "nl-a2-pharmacy-25",
+        "nl-a2-pharmacy-26",
+        "nl-a2-pharmacy-27",
+        "nl-a2-pharmacy-28",
+        "nl-a2-pharmacy-29",
+        "nl-a2-pharmacy-30"
+      ],
+      "title": "医院与药房里的沟通 · 第3小节",
+      "minutes": 23,
+      "skill": {
+        "kind": "micro",
+        "id": "daily-a11",
+        "title": "短练习 · 反身代词：me、je、zich、ons"
+      }
+    },
+    {
+      "id": "d123",
+      "number": 123,
+      "week": 18,
+      "weekday": 4,
+      "stage": "bridge",
+      "review": false,
+      "packId": "nl-a2-safety",
+      "offset": 0,
+      "wordIds": [
+        "nl-a2-safety-1",
+        "nl-a2-safety-2",
+        "nl-a2-safety-3",
+        "nl-a2-safety-4",
+        "nl-a2-safety-5",
+        "nl-a2-safety-6",
+        "nl-a2-safety-7",
+        "nl-a2-safety-8",
+        "nl-a2-safety-9",
+        "nl-a2-safety-10"
+      ],
+      "title": "安全与紧急沟通 · 第1小节",
+      "minutes": 23,
+      "skill": {
+        "kind": "micro",
+        "id": "daily-a12",
+        "title": "短练习 · 未来计划：gaan 和 zullen"
+      }
+    },
+    {
+      "id": "d124",
+      "number": 124,
+      "week": 18,
+      "weekday": 5,
+      "stage": "bridge",
+      "review": false,
+      "packId": "nl-a2-safety",
+      "offset": 10,
+      "wordIds": [
+        "nl-a2-safety-11",
+        "nl-a2-safety-12",
+        "nl-a2-safety-13",
+        "nl-a2-safety-14",
+        "nl-a2-safety-15",
+        "nl-a2-safety-16",
+        "nl-a2-safety-17",
+        "nl-a2-safety-18",
+        "nl-a2-safety-19",
+        "nl-a2-safety-20"
+      ],
+      "title": "安全与紧急沟通 · 第2小节",
+      "minutes": 23,
+      "skill": {
+        "kind": "grammar",
+        "id": "b1-g03",
+        "title": "语法 · 表达时间与条件"
+      }
+    },
+    {
+      "id": "d125",
+      "number": 125,
+      "week": 18,
+      "weekday": 6,
+      "stage": "bridge",
+      "review": false,
+      "packId": "nl-a2-safety",
+      "offset": 20,
+      "wordIds": [
+        "nl-a2-safety-21",
+        "nl-a2-safety-22",
+        "nl-a2-safety-23",
+        "nl-a2-safety-24",
+        "nl-a2-safety-25",
+        "nl-a2-safety-26",
+        "nl-a2-safety-27",
+        "nl-a2-safety-28",
+        "nl-a2-safety-29",
+        "nl-a2-safety-30"
+      ],
+      "title": "安全与紧急沟通 · 第3小节",
+      "minutes": 23,
+      "skill": {
+        "kind": "micro",
+        "id": "daily-a21",
+        "title": "短练习 · 和朋友约时间：提出替代方案"
+      }
+    },
+    {
+      "id": "d126",
+      "number": 126,
+      "week": 18,
+      "weekday": 7,
+      "stage": "bridge",
+      "review": true,
+      "packId": "",
+      "offset": 0,
+      "wordIds": [],
+      "title": "本周复习与能力自检",
+      "minutes": 25,
+      "skill": {
+        "kind": "micro",
+        "id": "daily-a21",
+        "title": "短练习 · 和朋友约时间：提出替代方案"
+      }
+    },
+    {
+      "id": "d127",
+      "number": 127,
+      "week": 19,
+      "weekday": 1,
+      "stage": "bridge",
+      "review": false,
+      "packId": "nl-b1-maintenance",
+      "offset": 0,
+      "wordIds": [
+        "nl-b1-maintenance-1",
+        "nl-b1-maintenance-2",
+        "nl-b1-maintenance-3",
+        "nl-b1-maintenance-4",
+        "nl-b1-maintenance-5",
+        "nl-b1-maintenance-6",
+        "nl-b1-maintenance-7",
+        "nl-b1-maintenance-8",
+        "nl-b1-maintenance-9",
+        "nl-b1-maintenance-10"
+      ],
+      "title": "家务与维修沟通 · 第1小节",
+      "minutes": 23,
+      "skill": {
+        "kind": "micro",
+        "id": "daily-a13",
+        "title": "短练习 · 听懂预约变更：旧时间和新时间"
+      }
+    },
+    {
+      "id": "d128",
+      "number": 128,
+      "week": 19,
+      "weekday": 2,
+      "stage": "bridge",
+      "review": false,
+      "packId": "nl-b1-maintenance",
+      "offset": 10,
+      "wordIds": [
+        "nl-b1-maintenance-11",
+        "nl-b1-maintenance-12",
+        "nl-b1-maintenance-13",
+        "nl-b1-maintenance-14",
+        "nl-b1-maintenance-15",
+        "nl-b1-maintenance-16",
+        "nl-b1-maintenance-17",
+        "nl-b1-maintenance-18",
+        "nl-b1-maintenance-19",
+        "nl-b1-maintenance-20"
+      ],
+      "title": "家务与维修沟通 · 第2小节",
+      "minutes": 23,
+      "skill": {
+        "kind": "micro",
+        "id": "daily-a14",
+        "title": "短练习 · 听懂出行变化：接下来怎么走"
+      }
+    },
+    {
+      "id": "d129",
+      "number": 129,
+      "week": 19,
+      "weekday": 3,
+      "stage": "bridge",
+      "review": false,
+      "packId": "nl-b1-maintenance",
+      "offset": 20,
+      "wordIds": [
+        "nl-b1-maintenance-21",
+        "nl-b1-maintenance-22",
+        "nl-b1-maintenance-23",
+        "nl-b1-maintenance-24",
+        "nl-b1-maintenance-25",
+        "nl-b1-maintenance-26",
+        "nl-b1-maintenance-27",
+        "nl-b1-maintenance-28",
+        "nl-b1-maintenance-29",
+        "nl-b1-maintenance-30"
+      ],
+      "title": "家务与维修沟通 · 第3小节",
+      "minutes": 23,
+      "skill": {
+        "kind": "micro",
+        "id": "daily-a15",
+        "title": "短练习 · 听懂维修留言：约定到访时间"
+      }
+    },
+    {
+      "id": "d130",
+      "number": 130,
+      "week": 19,
+      "weekday": 4,
+      "stage": "bridge",
+      "review": false,
+      "packId": "nl-a2-renting",
+      "offset": 0,
+      "wordIds": [
+        "nl-a2-renting-1",
+        "nl-a2-renting-2",
+        "nl-a2-renting-3",
+        "nl-a2-renting-4",
+        "nl-a2-renting-5",
+        "nl-a2-renting-6",
+        "nl-a2-renting-7",
+        "nl-a2-renting-8",
+        "nl-a2-renting-9",
+        "nl-a2-renting-10"
+      ],
+      "title": "租住房细节 · 第1小节",
+      "minutes": 23,
+      "skill": {
+        "kind": "micro",
+        "id": "daily-a16",
+        "title": "短练习 · 听懂商品问题：事实和诉求"
+      }
+    },
+    {
+      "id": "d131",
+      "number": 131,
+      "week": 19,
+      "weekday": 5,
+      "stage": "bridge",
+      "review": false,
+      "packId": "nl-a2-renting",
+      "offset": 10,
+      "wordIds": [
+        "nl-a2-renting-11",
+        "nl-a2-renting-12",
+        "nl-a2-renting-13",
+        "nl-a2-renting-14",
+        "nl-a2-renting-15",
+        "nl-a2-renting-16",
+        "nl-a2-renting-17",
+        "nl-a2-renting-18",
+        "nl-a2-renting-19",
+        "nl-a2-renting-20"
+      ],
+      "title": "租住房细节 · 第2小节",
+      "minutes": 23,
+      "skill": {
+        "kind": "grammar",
+        "id": "b1-g04",
+        "title": "语法 · 完成时：hebben 还是 zijn"
+      }
+    },
+    {
+      "id": "d132",
+      "number": 132,
+      "week": 19,
+      "weekday": 6,
+      "stage": "bridge",
+      "review": false,
+      "packId": "nl-a2-renting",
+      "offset": 20,
+      "wordIds": [
+        "nl-a2-renting-21",
+        "nl-a2-renting-22",
+        "nl-a2-renting-23",
+        "nl-a2-renting-24",
+        "nl-a2-renting-25",
+        "nl-a2-renting-26",
+        "nl-a2-renting-27",
+        "nl-a2-renting-28",
+        "nl-a2-renting-29",
+        "nl-a2-renting-30"
+      ],
+      "title": "租住房细节 · 第3小节",
+      "minutes": 23,
+      "skill": {
+        "kind": "micro",
+        "id": "daily-a22",
+        "title": "短练习 · 没听懂时：请求重说和确认"
+      }
+    },
+    {
+      "id": "d133",
+      "number": 133,
+      "week": 19,
+      "weekday": 7,
+      "stage": "bridge",
+      "review": true,
+      "packId": "",
+      "offset": 0,
+      "wordIds": [],
+      "title": "本周复习与能力自检",
+      "minutes": 25,
+      "skill": {
+        "kind": "micro",
+        "id": "daily-a22",
+        "title": "短练习 · 没听懂时：请求重说和确认"
+      }
+    },
+    {
+      "id": "d134",
+      "number": 134,
+      "week": 20,
+      "weekday": 1,
+      "stage": "bridge",
+      "review": false,
+      "packId": "nl-a2-social",
+      "offset": 0,
+      "wordIds": [
+        "nl-a2-social-1",
+        "nl-a2-social-2",
+        "nl-a2-social-3",
+        "nl-a2-social-4",
+        "nl-a2-social-5",
+        "nl-a2-social-6",
+        "nl-a2-social-7",
+        "nl-a2-social-8",
+        "nl-a2-social-9",
+        "nl-a2-social-10"
+      ],
+      "title": "邀请与社交 · 第1小节",
+      "minutes": 23,
+      "skill": {
+        "kind": "micro",
+        "id": "daily-a17",
+        "title": "短练习 · 听懂社区活动：时间和准备"
+      }
+    },
+    {
+      "id": "d135",
+      "number": 135,
+      "week": 20,
+      "weekday": 2,
+      "stage": "bridge",
+      "review": false,
+      "packId": "nl-a2-social",
+      "offset": 10,
+      "wordIds": [
+        "nl-a2-social-11",
+        "nl-a2-social-12",
+        "nl-a2-social-13",
+        "nl-a2-social-14",
+        "nl-a2-social-15",
+        "nl-a2-social-16",
+        "nl-a2-social-17",
+        "nl-a2-social-18",
+        "nl-a2-social-19",
+        "nl-a2-social-20"
+      ],
+      "title": "邀请与社交 · 第2小节",
+      "minutes": 23,
+      "skill": {
+        "kind": "micro",
+        "id": "daily-a18",
+        "title": "短练习 · 听懂信息核对：消息与原始来源"
+      }
+    },
+    {
+      "id": "d136",
+      "number": 136,
+      "week": 20,
+      "weekday": 3,
+      "stage": "bridge",
+      "review": false,
+      "packId": "nl-a2-social",
+      "offset": 20,
+      "wordIds": [
+        "nl-a2-social-21",
+        "nl-a2-social-22",
+        "nl-a2-social-23",
+        "nl-a2-social-24",
+        "nl-a2-social-25",
+        "nl-a2-social-26",
+        "nl-a2-social-27",
+        "nl-a2-social-28",
+        "nl-a2-social-29",
+        "nl-a2-social-30"
+      ],
+      "title": "邀请与社交 · 第3小节",
+      "minutes": 23,
+      "skill": {
+        "kind": "micro",
+        "id": "daily-a19",
+        "title": "短练习 · 回顾昨天：两件事加一个感受"
+      }
+    },
+    {
+      "id": "d137",
+      "number": 137,
+      "week": 20,
+      "weekday": 4,
+      "stage": "bridge",
+      "review": false,
+      "packId": "nl-a2-celebrations",
+      "offset": 0,
+      "wordIds": [
+        "nl-a2-celebrations-1",
+        "nl-a2-celebrations-2",
+        "nl-a2-celebrations-3",
+        "nl-a2-celebrations-4",
+        "nl-a2-celebrations-5",
+        "nl-a2-celebrations-6",
+        "nl-a2-celebrations-7",
+        "nl-a2-celebrations-8",
+        "nl-a2-celebrations-9",
+        "nl-a2-celebrations-10"
+      ],
+      "title": "生活中的节庆与庆祝 · 第1小节",
+      "minutes": 23,
+      "skill": {
+        "kind": "micro",
+        "id": "daily-a20",
+        "title": "短练习 · 表达看法：观点加一个原因"
+      }
+    },
+    {
+      "id": "d138",
+      "number": 138,
+      "week": 20,
+      "weekday": 5,
+      "stage": "bridge",
+      "review": false,
+      "packId": "nl-a2-celebrations",
+      "offset": 10,
+      "wordIds": [
+        "nl-a2-celebrations-11",
+        "nl-a2-celebrations-12",
+        "nl-a2-celebrations-13",
+        "nl-a2-celebrations-14",
+        "nl-a2-celebrations-15",
+        "nl-a2-celebrations-16",
+        "nl-a2-celebrations-17",
+        "nl-a2-celebrations-18",
+        "nl-a2-celebrations-19",
+        "nl-a2-celebrations-20"
+      ],
+      "title": "生活中的节庆与庆祝 · 第2小节",
+      "minutes": 23,
+      "skill": {
+        "kind": "grammar",
+        "id": "b1-g05",
+        "title": "语法 · 用过去时讲述背景和经历"
+      }
+    },
+    {
+      "id": "d139",
+      "number": 139,
+      "week": 20,
+      "weekday": 6,
+      "stage": "bridge",
+      "review": false,
+      "packId": "nl-a2-celebrations",
+      "offset": 20,
+      "wordIds": [
+        "nl-a2-celebrations-21",
+        "nl-a2-celebrations-22",
+        "nl-a2-celebrations-23",
+        "nl-a2-celebrations-24",
+        "nl-a2-celebrations-25",
+        "nl-a2-celebrations-26",
+        "nl-a2-celebrations-27",
+        "nl-a2-celebrations-28",
+        "nl-a2-celebrations-29",
+        "nl-a2-celebrations-30"
+      ],
+      "title": "生活中的节庆与庆祝 · 第3小节",
+      "minutes": 23,
+      "skill": {
+        "kind": "micro",
+        "id": "daily-a23",
+        "title": "短练习 · 比较后作选择"
+      }
+    },
+    {
+      "id": "d140",
+      "number": 140,
+      "week": 20,
+      "weekday": 7,
+      "stage": "bridge",
+      "review": true,
+      "packId": "",
+      "offset": 0,
+      "wordIds": [],
+      "title": "本周复习与能力自检",
+      "minutes": 25,
+      "skill": {
+        "kind": "micro",
+        "id": "daily-a23",
+        "title": "短练习 · 比较后作选择"
+      }
+    },
+    {
+      "id": "d141",
+      "number": 141,
+      "week": 21,
+      "weekday": 1,
+      "stage": "bridge",
+      "review": false,
+      "packId": "nl-a2-payments",
+      "offset": 0,
+      "wordIds": [
+        "nl-a2-payments-1",
+        "nl-a2-payments-2",
+        "nl-a2-payments-3",
+        "nl-a2-payments-4",
+        "nl-a2-payments-5",
+        "nl-a2-payments-6",
+        "nl-a2-payments-7",
+        "nl-a2-payments-8",
+        "nl-a2-payments-9",
+        "nl-a2-payments-10"
+      ],
+      "title": "收支与账单 · 第1小节",
+      "minutes": 23,
+      "skill": {
+        "kind": "micro",
+        "id": "daily-a21",
+        "title": "短练习 · 和朋友约时间：提出替代方案"
+      }
+    },
+    {
+      "id": "d142",
+      "number": 142,
+      "week": 21,
+      "weekday": 2,
+      "stage": "bridge",
+      "review": false,
+      "packId": "nl-a2-payments",
+      "offset": 10,
+      "wordIds": [
+        "nl-a2-payments-11",
+        "nl-a2-payments-12",
+        "nl-a2-payments-13",
+        "nl-a2-payments-14",
+        "nl-a2-payments-15",
+        "nl-a2-payments-16",
+        "nl-a2-payments-17",
+        "nl-a2-payments-18",
+        "nl-a2-payments-19",
+        "nl-a2-payments-20"
+      ],
+      "title": "收支与账单 · 第2小节",
+      "minutes": 23,
+      "skill": {
+        "kind": "micro",
+        "id": "daily-a22",
+        "title": "短练习 · 没听懂时：请求重说和确认"
+      }
+    },
+    {
+      "id": "d143",
+      "number": 143,
+      "week": 21,
+      "weekday": 3,
+      "stage": "bridge",
+      "review": false,
+      "packId": "nl-a2-payments",
+      "offset": 20,
+      "wordIds": [
+        "nl-a2-payments-21",
+        "nl-a2-payments-22",
+        "nl-a2-payments-23",
+        "nl-a2-payments-24",
+        "nl-a2-payments-25",
+        "nl-a2-payments-26",
+        "nl-a2-payments-27",
+        "nl-a2-payments-28",
+        "nl-a2-payments-29",
+        "nl-a2-payments-30"
+      ],
+      "title": "收支与账单 · 第3小节",
+      "minutes": 23,
+      "skill": {
+        "kind": "micro",
+        "id": "daily-a23",
+        "title": "短练习 · 比较后作选择"
+      }
+    },
+    {
+      "id": "d144",
+      "number": 144,
+      "week": 21,
+      "weekday": 4,
+      "stage": "bridge",
+      "review": false,
+      "packId": "nl-a2-lost",
+      "offset": 0,
+      "wordIds": [
+        "nl-a2-lost-1",
+        "nl-a2-lost-2",
+        "nl-a2-lost-3",
+        "nl-a2-lost-4",
+        "nl-a2-lost-5",
+        "nl-a2-lost-6",
+        "nl-a2-lost-7",
+        "nl-a2-lost-8",
+        "nl-a2-lost-9",
+        "nl-a2-lost-10"
+      ],
+      "title": "失物寻找 · 第1小节",
+      "minutes": 23,
+      "skill": {
+        "kind": "micro",
+        "id": "daily-a24",
+        "title": "短练习 · 一起解决小问题：情况加建议"
+      }
+    },
+    {
+      "id": "d145",
+      "number": 145,
+      "week": 21,
+      "weekday": 5,
+      "stage": "bridge",
+      "review": false,
+      "packId": "nl-a2-lost",
+      "offset": 10,
+      "wordIds": [
+        "nl-a2-lost-11",
+        "nl-a2-lost-12",
+        "nl-a2-lost-13",
+        "nl-a2-lost-14",
+        "nl-a2-lost-15",
+        "nl-a2-lost-16",
+        "nl-a2-lost-17",
+        "nl-a2-lost-18",
+        "nl-a2-lost-19",
+        "nl-a2-lost-20"
+      ],
+      "title": "失物寻找 · 第2小节",
+      "minutes": 23,
+      "skill": {
+        "kind": "grammar",
+        "id": "b1-g06",
+        "title": "语法 · 可分动词的三个位置"
+      }
+    },
+    {
+      "id": "d146",
+      "number": 146,
+      "week": 21,
+      "weekday": 6,
+      "stage": "bridge",
+      "review": false,
+      "packId": "nl-a2-lost",
+      "offset": 20,
+      "wordIds": [
+        "nl-a2-lost-21",
+        "nl-a2-lost-22",
+        "nl-a2-lost-23",
+        "nl-a2-lost-24",
+        "nl-a2-lost-25",
+        "nl-a2-lost-26",
+        "nl-a2-lost-27",
+        "nl-a2-lost-28",
+        "nl-a2-lost-29",
+        "nl-a2-lost-30"
+      ],
+      "title": "失物寻找 · 第3小节",
+      "minutes": 23,
+      "skill": {
+        "kind": "micro",
+        "id": "daily-a24",
+        "title": "短练习 · 一起解决小问题：情况加建议"
+      }
+    },
+    {
+      "id": "d147",
+      "number": 147,
+      "week": 21,
+      "weekday": 7,
+      "stage": "bridge",
+      "review": true,
+      "packId": "",
+      "offset": 0,
+      "wordIds": [],
+      "title": "本周复习与能力自检",
+      "minutes": 25,
+      "skill": {
+        "kind": "micro",
+        "id": "daily-a24",
+        "title": "短练习 · 一起解决小问题：情况加建议"
+      }
+    },
+    {
+      "id": "d148",
+      "number": 148,
+      "week": 22,
+      "weekday": 1,
+      "stage": "b1",
+      "review": false,
+      "packId": "nl-b1-housing",
+      "offset": 0,
+      "wordIds": [
+        "nl-b1-housing-1",
+        "nl-b1-housing-2",
+        "nl-b1-housing-3",
+        "nl-b1-housing-4",
+        "nl-b1-housing-5",
+        "nl-b1-housing-6",
+        "nl-b1-housing-7",
+        "nl-b1-housing-8",
+        "nl-b1-housing-9",
+        "nl-b1-housing-10"
+      ],
+      "title": "租房与居住安排 · 第1小节",
+      "minutes": 23,
+      "skill": {
+        "kind": "grammar",
+        "id": "b1-g01",
+        "title": "语法 · 主句语序与倒装"
+      }
+    },
+    {
+      "id": "d149",
+      "number": 149,
+      "week": 22,
+      "weekday": 2,
+      "stage": "b1",
+      "review": false,
+      "packId": "nl-b1-housing",
+      "offset": 10,
+      "wordIds": [
+        "nl-b1-housing-11",
+        "nl-b1-housing-12",
+        "nl-b1-housing-13",
+        "nl-b1-housing-14",
+        "nl-b1-housing-15",
+        "nl-b1-housing-16",
+        "nl-b1-housing-17",
+        "nl-b1-housing-18",
+        "nl-b1-housing-19",
+        "nl-b1-housing-20"
+      ],
+      "title": "租房与居住安排 · 第2小节",
+      "minutes": 23,
+      "skill": {
+        "kind": "reading",
+        "id": "nl-b1-reading-01",
+        "title": "阅读 · 新家，新街区"
+      }
+    },
+    {
+      "id": "d150",
+      "number": 150,
+      "week": 22,
+      "weekday": 3,
+      "stage": "b1",
+      "review": false,
+      "packId": "nl-b1-housing",
+      "offset": 20,
+      "wordIds": [
+        "nl-b1-housing-21",
+        "nl-b1-housing-22",
+        "nl-b1-housing-23",
+        "nl-b1-housing-24",
+        "nl-b1-housing-25",
+        "nl-b1-housing-26",
+        "nl-b1-housing-27",
+        "nl-b1-housing-28",
+        "nl-b1-housing-29",
+        "nl-b1-housing-30"
+      ],
+      "title": "租房与居住安排 · 第3小节",
+      "minutes": 23,
+      "skill": {
+        "kind": "writing",
+        "id": "b1-w02",
+        "step": "outline",
+        "title": "写作 · 请房东安排维修 · 列提纲"
+      }
+    },
+    {
+      "id": "d151",
+      "number": 151,
+      "week": 22,
+      "weekday": 4,
+      "stage": "b1",
+      "review": false,
+      "packId": "nl-b1-housemates",
+      "offset": 0,
+      "wordIds": [
+        "nl-b1-housemates-1",
+        "nl-b1-housemates-2",
+        "nl-b1-housemates-3",
+        "nl-b1-housemates-4",
+        "nl-b1-housemates-5",
+        "nl-b1-housemates-6",
+        "nl-b1-housemates-7",
+        "nl-b1-housemates-8",
+        "nl-b1-housemates-9",
+        "nl-b1-housemates-10"
+      ],
+      "title": "合住协商 · 第1小节",
+      "minutes": 23,
+      "skill": {
+        "kind": "speaking",
+        "id": "b1-s05",
+        "step": "prepare",
+        "title": "口语 · 和邻居讨论噪声 · 准备要点"
+      }
+    },
+    {
+      "id": "d152",
+      "number": 152,
+      "week": 22,
+      "weekday": 5,
+      "stage": "b1",
+      "review": false,
+      "packId": "nl-b1-housemates",
+      "offset": 10,
+      "wordIds": [
+        "nl-b1-housemates-11",
+        "nl-b1-housemates-12",
+        "nl-b1-housemates-13",
+        "nl-b1-housemates-14",
+        "nl-b1-housemates-15",
+        "nl-b1-housemates-16",
+        "nl-b1-housemates-17",
+        "nl-b1-housemates-18",
+        "nl-b1-housemates-19",
+        "nl-b1-housemates-20"
+      ],
+      "title": "合住协商 · 第2小节",
+      "minutes": 23,
+      "skill": {
+        "kind": "writing",
+        "id": "b1-w02",
+        "step": "draft",
+        "title": "写作 · 请房东安排维修 · 写初稿"
+      }
+    },
+    {
+      "id": "d153",
+      "number": 153,
+      "week": 22,
+      "weekday": 6,
+      "stage": "b1",
+      "review": false,
+      "packId": "nl-b1-housemates",
+      "offset": 20,
+      "wordIds": [
+        "nl-b1-housemates-21",
+        "nl-b1-housemates-22",
+        "nl-b1-housemates-23",
+        "nl-b1-housemates-24",
+        "nl-b1-housemates-25",
+        "nl-b1-housemates-26",
+        "nl-b1-housemates-27",
+        "nl-b1-housemates-28",
+        "nl-b1-housemates-29",
+        "nl-b1-housemates-30"
+      ],
+      "title": "合住协商 · 第3小节",
+      "minutes": 23,
+      "skill": {
+        "kind": "speaking",
+        "id": "b1-s05",
+        "step": "speak",
+        "title": "口语 · 和邻居讨论噪声 · 开口练习"
+      }
+    },
+    {
+      "id": "d154",
+      "number": 154,
+      "week": 22,
+      "weekday": 7,
+      "stage": "b1",
+      "review": true,
+      "packId": "",
+      "offset": 0,
+      "wordIds": [],
+      "title": "本周复习与能力自检",
+      "minutes": 25,
+      "skill": {
+        "kind": "writing",
+        "id": "b1-w02",
+        "step": "revise",
+        "title": "写作 · 请房东安排维修 · 修改定稿"
+      }
+    },
+    {
+      "id": "d155",
+      "number": 155,
+      "week": 23,
+      "weekday": 1,
+      "stage": "b1",
+      "review": false,
+      "packId": "nl-b1-employment",
+      "offset": 0,
+      "wordIds": [
+        "nl-b1-employment-1",
+        "nl-b1-employment-2",
+        "nl-b1-employment-3",
+        "nl-b1-employment-4",
+        "nl-b1-employment-5",
+        "nl-b1-employment-6",
+        "nl-b1-employment-7",
+        "nl-b1-employment-8",
+        "nl-b1-employment-9",
+        "nl-b1-employment-10"
+      ],
+      "title": "求职与职业选择 · 第1小节",
+      "minutes": 23,
+      "skill": {
+        "kind": "grammar",
+        "id": "b1-g02",
+        "title": "语法 · 用 omdat 与 dat 连接从句"
+      }
+    },
+    {
+      "id": "d156",
+      "number": 156,
+      "week": 23,
+      "weekday": 2,
+      "stage": "b1",
+      "review": false,
+      "packId": "nl-b1-employment",
+      "offset": 10,
+      "wordIds": [
+        "nl-b1-employment-11",
+        "nl-b1-employment-12",
+        "nl-b1-employment-13",
+        "nl-b1-employment-14",
+        "nl-b1-employment-15",
+        "nl-b1-employment-16",
+        "nl-b1-employment-17",
+        "nl-b1-employment-18",
+        "nl-b1-employment-19",
+        "nl-b1-employment-20"
+      ],
+      "title": "求职与职业选择 · 第2小节",
+      "minutes": 23,
+      "skill": {
+        "kind": "reading",
+        "id": "nl-b1-reading-02",
+        "title": "阅读 · 更平衡的工作周"
+      }
+    },
+    {
+      "id": "d157",
+      "number": 157,
+      "week": 23,
+      "weekday": 3,
+      "stage": "b1",
+      "review": false,
+      "packId": "nl-b1-employment",
+      "offset": 20,
+      "wordIds": [
+        "nl-b1-employment-21",
+        "nl-b1-employment-22",
+        "nl-b1-employment-23",
+        "nl-b1-employment-24",
+        "nl-b1-employment-25",
+        "nl-b1-employment-26",
+        "nl-b1-employment-27",
+        "nl-b1-employment-28",
+        "nl-b1-employment-29",
+        "nl-b1-employment-30"
+      ],
+      "title": "求职与职业选择 · 第3小节",
+      "minutes": 23,
+      "skill": {
+        "kind": "writing",
+        "id": "b1-w01",
+        "step": "outline",
+        "title": "写作 · 询问一份兼职工作 · 列提纲"
+      }
+    },
+    {
+      "id": "d158",
+      "number": 158,
+      "week": 23,
+      "weekday": 4,
+      "stage": "b1",
+      "review": false,
+      "packId": "nl-b1-workplace",
+      "offset": 0,
+      "wordIds": [
+        "nl-b1-workplace-1",
+        "nl-b1-workplace-2",
+        "nl-b1-workplace-3",
+        "nl-b1-workplace-4",
+        "nl-b1-workplace-5",
+        "nl-b1-workplace-6",
+        "nl-b1-workplace-7",
+        "nl-b1-workplace-8",
+        "nl-b1-workplace-9",
+        "nl-b1-workplace-10"
+      ],
+      "title": "职场沟通与协作 · 第1小节",
+      "minutes": 23,
+      "skill": {
+        "kind": "speaking",
+        "id": "b1-s04",
+        "step": "prepare",
+        "title": "口语 · 比较居家与办公室办公 · 准备要点"
+      }
+    },
+    {
+      "id": "d159",
+      "number": 159,
+      "week": 23,
+      "weekday": 5,
+      "stage": "b1",
+      "review": false,
+      "packId": "nl-b1-workplace",
+      "offset": 10,
+      "wordIds": [
+        "nl-b1-workplace-11",
+        "nl-b1-workplace-12",
+        "nl-b1-workplace-13",
+        "nl-b1-workplace-14",
+        "nl-b1-workplace-15",
+        "nl-b1-workplace-16",
+        "nl-b1-workplace-17",
+        "nl-b1-workplace-18",
+        "nl-b1-workplace-19",
+        "nl-b1-workplace-20"
+      ],
+      "title": "职场沟通与协作 · 第2小节",
+      "minutes": 23,
+      "skill": {
+        "kind": "writing",
+        "id": "b1-w01",
+        "step": "draft",
+        "title": "写作 · 询问一份兼职工作 · 写初稿"
+      }
+    },
+    {
+      "id": "d160",
+      "number": 160,
+      "week": 23,
+      "weekday": 6,
+      "stage": "b1",
+      "review": false,
+      "packId": "nl-b1-workplace",
+      "offset": 20,
+      "wordIds": [
+        "nl-b1-workplace-21",
+        "nl-b1-workplace-22",
+        "nl-b1-workplace-23",
+        "nl-b1-workplace-24",
+        "nl-b1-workplace-25",
+        "nl-b1-workplace-26",
+        "nl-b1-workplace-27",
+        "nl-b1-workplace-28",
+        "nl-b1-workplace-29",
+        "nl-b1-workplace-30"
+      ],
+      "title": "职场沟通与协作 · 第3小节",
+      "minutes": 23,
+      "skill": {
+        "kind": "speaking",
+        "id": "b1-s04",
+        "step": "speak",
+        "title": "口语 · 比较居家与办公室办公 · 开口练习"
+      }
+    },
+    {
+      "id": "d161",
+      "number": 161,
+      "week": 23,
+      "weekday": 7,
+      "stage": "b1",
+      "review": true,
+      "packId": "",
+      "offset": 0,
+      "wordIds": [],
+      "title": "本周复习与能力自检",
+      "minutes": 25,
+      "skill": {
+        "kind": "writing",
+        "id": "b1-w01",
+        "step": "revise",
+        "title": "写作 · 询问一份兼职工作 · 修改定稿"
+      }
+    },
+    {
+      "id": "d162",
+      "number": 162,
+      "week": 24,
+      "weekday": 1,
+      "stage": "b1",
+      "review": false,
+      "packId": "nl-b1-projects",
+      "offset": 0,
+      "wordIds": [
+        "nl-b1-projects-1",
+        "nl-b1-projects-2",
+        "nl-b1-projects-3",
+        "nl-b1-projects-4",
+        "nl-b1-projects-5",
+        "nl-b1-projects-6",
+        "nl-b1-projects-7",
+        "nl-b1-projects-8",
+        "nl-b1-projects-9",
+        "nl-b1-projects-10"
+      ],
+      "title": "计划、项目与目标 · 第1小节",
+      "minutes": 23,
+      "skill": {
+        "kind": "grammar",
+        "id": "b1-g03",
+        "title": "语法 · 表达时间与条件"
+      }
+    },
+    {
+      "id": "d163",
+      "number": 163,
+      "week": 24,
+      "weekday": 2,
+      "stage": "b1",
+      "review": false,
+      "packId": "nl-b1-projects",
+      "offset": 10,
+      "wordIds": [
+        "nl-b1-projects-11",
+        "nl-b1-projects-12",
+        "nl-b1-projects-13",
+        "nl-b1-projects-14",
+        "nl-b1-projects-15",
+        "nl-b1-projects-16",
+        "nl-b1-projects-17",
+        "nl-b1-projects-18",
+        "nl-b1-projects-19",
+        "nl-b1-projects-20"
+      ],
+      "title": "计划、项目与目标 · 第2小节",
+      "minutes": 23,
+      "skill": {
+        "kind": "reading",
+        "id": "nl-b1-reading-03",
+        "title": "阅读 · 换一条路线赴约"
+      }
+    },
+    {
+      "id": "d164",
+      "number": 164,
+      "week": 24,
+      "weekday": 3,
+      "stage": "b1",
+      "review": false,
+      "packId": "nl-b1-projects",
+      "offset": 20,
+      "wordIds": [
+        "nl-b1-projects-21",
+        "nl-b1-projects-22",
+        "nl-b1-projects-23",
+        "nl-b1-projects-24",
+        "nl-b1-projects-25",
+        "nl-b1-projects-26",
+        "nl-b1-projects-27",
+        "nl-b1-projects-28",
+        "nl-b1-projects-29",
+        "nl-b1-projects-30"
+      ],
+      "title": "计划、项目与目标 · 第3小节",
+      "minutes": 23,
+      "skill": {
+        "kind": "writing",
+        "id": "b1-w07",
+        "step": "outline",
+        "title": "写作 · 谈谈你对居家办公的看法 · 列提纲"
+      }
+    },
+    {
+      "id": "d165",
+      "number": 165,
+      "week": 24,
+      "weekday": 4,
+      "stage": "b1",
+      "review": false,
+      "packId": "nl-b1-logistics",
+      "offset": 0,
+      "wordIds": [
+        "nl-b1-logistics-1",
+        "nl-b1-logistics-2",
+        "nl-b1-logistics-3",
+        "nl-b1-logistics-4",
+        "nl-b1-logistics-5",
+        "nl-b1-logistics-6",
+        "nl-b1-logistics-7",
+        "nl-b1-logistics-8",
+        "nl-b1-logistics-9",
+        "nl-b1-logistics-10"
+      ],
+      "title": "订单、运输与交付 · 第1小节",
+      "minutes": 23,
+      "skill": {
+        "kind": "speaking",
+        "id": "b1-s11",
+        "step": "prepare",
+        "title": "口语 · 在团队中提出折中建议 · 准备要点"
+      }
+    },
+    {
+      "id": "d166",
+      "number": 166,
+      "week": 24,
+      "weekday": 5,
+      "stage": "b1",
+      "review": false,
+      "packId": "nl-b1-logistics",
+      "offset": 10,
+      "wordIds": [
+        "nl-b1-logistics-11",
+        "nl-b1-logistics-12",
+        "nl-b1-logistics-13",
+        "nl-b1-logistics-14",
+        "nl-b1-logistics-15",
+        "nl-b1-logistics-16",
+        "nl-b1-logistics-17",
+        "nl-b1-logistics-18",
+        "nl-b1-logistics-19",
+        "nl-b1-logistics-20"
+      ],
+      "title": "订单、运输与交付 · 第2小节",
+      "minutes": 23,
+      "skill": {
+        "kind": "writing",
+        "id": "b1-w07",
+        "step": "draft",
+        "title": "写作 · 谈谈你对居家办公的看法 · 写初稿"
+      }
+    },
+    {
+      "id": "d167",
+      "number": 167,
+      "week": 24,
+      "weekday": 6,
+      "stage": "b1",
+      "review": false,
+      "packId": "nl-b1-logistics",
+      "offset": 20,
+      "wordIds": [
+        "nl-b1-logistics-21",
+        "nl-b1-logistics-22",
+        "nl-b1-logistics-23",
+        "nl-b1-logistics-24",
+        "nl-b1-logistics-25",
+        "nl-b1-logistics-26",
+        "nl-b1-logistics-27",
+        "nl-b1-logistics-28",
+        "nl-b1-logistics-29",
+        "nl-b1-logistics-30"
+      ],
+      "title": "订单、运输与交付 · 第3小节",
+      "minutes": 23,
+      "skill": {
+        "kind": "speaking",
+        "id": "b1-s11",
+        "step": "speak",
+        "title": "口语 · 在团队中提出折中建议 · 开口练习"
+      }
+    },
+    {
+      "id": "d168",
+      "number": 168,
+      "week": 24,
+      "weekday": 7,
+      "stage": "b1",
+      "review": true,
+      "packId": "",
+      "offset": 0,
+      "wordIds": [],
+      "title": "本周复习与能力自检",
+      "minutes": 25,
+      "skill": {
+        "kind": "writing",
+        "id": "b1-w07",
+        "step": "revise",
+        "title": "写作 · 谈谈你对居家办公的看法 · 修改定稿"
+      }
+    },
+    {
+      "id": "d169",
+      "number": 169,
+      "week": 25,
+      "weekday": 1,
+      "stage": "b1",
+      "review": false,
+      "packId": "nl-b1-education",
+      "offset": 0,
+      "wordIds": [
+        "nl-b1-education-1",
+        "nl-b1-education-2",
+        "nl-b1-education-3",
+        "nl-b1-education-4",
+        "nl-b1-education-5",
+        "nl-b1-education-6",
+        "nl-b1-education-7",
+        "nl-b1-education-8",
+        "nl-b1-education-9",
+        "nl-b1-education-10"
+      ],
+      "title": "学习与个人成长 · 第1小节",
+      "minutes": 23,
+      "skill": {
+        "kind": "grammar",
+        "id": "b1-g04",
+        "title": "语法 · 完成时：hebben 还是 zijn"
+      }
+    },
+    {
+      "id": "d170",
+      "number": 170,
+      "week": 25,
+      "weekday": 2,
+      "stage": "b1",
+      "review": false,
+      "packId": "nl-b1-education",
+      "offset": 10,
+      "wordIds": [
+        "nl-b1-education-11",
+        "nl-b1-education-12",
+        "nl-b1-education-13",
+        "nl-b1-education-14",
+        "nl-b1-education-15",
+        "nl-b1-education-16",
+        "nl-b1-education-17",
+        "nl-b1-education-18",
+        "nl-b1-education-19",
+        "nl-b1-education-20"
+      ],
+      "title": "学习与个人成长 · 第2小节",
+      "minutes": 23,
+      "skill": {
+        "kind": "reading",
+        "id": "nl-b1-reading-04",
+        "title": "阅读 · 做好准备再赴约"
+      }
+    },
+    {
+      "id": "d171",
+      "number": 171,
+      "week": 25,
+      "weekday": 3,
+      "stage": "b1",
+      "review": false,
+      "packId": "nl-b1-education",
+      "offset": 20,
+      "wordIds": [
+        "nl-b1-education-21",
+        "nl-b1-education-22",
+        "nl-b1-education-23",
+        "nl-b1-education-24",
+        "nl-b1-education-25",
+        "nl-b1-education-26",
+        "nl-b1-education-27",
+        "nl-b1-education-28",
+        "nl-b1-education-29",
+        "nl-b1-education-30"
+      ],
+      "title": "学习与个人成长 · 第3小节",
+      "minutes": 23,
+      "skill": {
+        "kind": "writing",
+        "id": "b1-w09",
+        "step": "outline",
+        "title": "写作 · 询问适合自己的 B1 课程 · 列提纲"
+      }
+    },
+    {
+      "id": "d172",
+      "number": 172,
+      "week": 25,
+      "weekday": 4,
+      "stage": "b1",
+      "review": false,
+      "packId": "nl-b1-integration",
+      "offset": 0,
+      "wordIds": [
+        "nl-b1-integration-1",
+        "nl-b1-integration-2",
+        "nl-b1-integration-3",
+        "nl-b1-integration-4",
+        "nl-b1-integration-5",
+        "nl-b1-integration-6",
+        "nl-b1-integration-7",
+        "nl-b1-integration-8",
+        "nl-b1-integration-9",
+        "nl-b1-integration-10"
+      ],
+      "title": "融入生活与语言学习 · 第1小节",
+      "minutes": 23,
+      "skill": {
+        "kind": "speaking",
+        "id": "b1-s09",
+        "step": "prepare",
+        "title": "口语 · 比较两门语言课程 · 准备要点"
+      }
+    },
+    {
+      "id": "d173",
+      "number": 173,
+      "week": 25,
+      "weekday": 5,
+      "stage": "b1",
+      "review": false,
+      "packId": "nl-b1-integration",
+      "offset": 10,
+      "wordIds": [
+        "nl-b1-integration-11",
+        "nl-b1-integration-12",
+        "nl-b1-integration-13",
+        "nl-b1-integration-14",
+        "nl-b1-integration-15",
+        "nl-b1-integration-16",
+        "nl-b1-integration-17",
+        "nl-b1-integration-18",
+        "nl-b1-integration-19",
+        "nl-b1-integration-20"
+      ],
+      "title": "融入生活与语言学习 · 第2小节",
+      "minutes": 23,
+      "skill": {
+        "kind": "writing",
+        "id": "b1-w09",
+        "step": "draft",
+        "title": "写作 · 询问适合自己的 B1 课程 · 写初稿"
+      }
+    },
+    {
+      "id": "d174",
+      "number": 174,
+      "week": 25,
+      "weekday": 6,
+      "stage": "b1",
+      "review": false,
+      "packId": "nl-b1-integration",
+      "offset": 20,
+      "wordIds": [
+        "nl-b1-integration-21",
+        "nl-b1-integration-22",
+        "nl-b1-integration-23",
+        "nl-b1-integration-24",
+        "nl-b1-integration-25",
+        "nl-b1-integration-26",
+        "nl-b1-integration-27",
+        "nl-b1-integration-28",
+        "nl-b1-integration-29",
+        "nl-b1-integration-30"
+      ],
+      "title": "融入生活与语言学习 · 第3小节",
+      "minutes": 23,
+      "skill": {
+        "kind": "speaking",
+        "id": "b1-s09",
+        "step": "speak",
+        "title": "口语 · 比较两门语言课程 · 开口练习"
+      }
+    },
+    {
+      "id": "d175",
+      "number": 175,
+      "week": 25,
+      "weekday": 7,
+      "stage": "b1",
+      "review": true,
+      "packId": "",
+      "offset": 0,
+      "wordIds": [],
+      "title": "本周复习与能力自检",
+      "minutes": 25,
+      "skill": {
+        "kind": "writing",
+        "id": "b1-w09",
+        "step": "revise",
+        "title": "写作 · 询问适合自己的 B1 课程 · 修改定稿"
+      }
+    },
+    {
+      "id": "d176",
+      "number": 176,
+      "week": 26,
+      "weekday": 1,
+      "stage": "b1",
+      "review": false,
+      "packId": "nl-b1-health",
+      "offset": 0,
+      "wordIds": [
+        "nl-b1-health-1",
+        "nl-b1-health-2",
+        "nl-b1-health-3",
+        "nl-b1-health-4",
+        "nl-b1-health-5",
+        "nl-b1-health-6",
+        "nl-b1-health-7",
+        "nl-b1-health-8",
+        "nl-b1-health-9",
+        "nl-b1-health-10"
+      ],
+      "title": "健康沟通与身体感受 · 第1小节",
+      "minutes": 23,
+      "skill": {
+        "kind": "grammar",
+        "id": "b1-g05",
+        "title": "语法 · 用过去时讲述背景和经历"
+      }
+    },
+    {
+      "id": "d177",
+      "number": 177,
+      "week": 26,
+      "weekday": 2,
+      "stage": "b1",
+      "review": false,
+      "packId": "nl-b1-health",
+      "offset": 10,
+      "wordIds": [
+        "nl-b1-health-11",
+        "nl-b1-health-12",
+        "nl-b1-health-13",
+        "nl-b1-health-14",
+        "nl-b1-health-15",
+        "nl-b1-health-16",
+        "nl-b1-health-17",
+        "nl-b1-health-18",
+        "nl-b1-health-19",
+        "nl-b1-health-20"
+      ],
+      "title": "健康沟通与身体感受 · 第2小节",
+      "minutes": 23,
+      "skill": {
+        "kind": "reading",
+        "id": "nl-b1-reading-05",
+        "title": "阅读 · 减少垃圾从小选择开始"
+      }
+    },
+    {
+      "id": "d178",
+      "number": 178,
+      "week": 26,
+      "weekday": 3,
+      "stage": "b1",
+      "review": false,
+      "packId": "nl-b1-health",
+      "offset": 20,
+      "wordIds": [
+        "nl-b1-health-21",
+        "nl-b1-health-22",
+        "nl-b1-health-23",
+        "nl-b1-health-24",
+        "nl-b1-health-25",
+        "nl-b1-health-26",
+        "nl-b1-health-27",
+        "nl-b1-health-28",
+        "nl-b1-health-29",
+        "nl-b1-health-30"
+      ],
+      "title": "健康沟通与身体感受 · 第3小节",
+      "minutes": 23,
+      "skill": {
+        "kind": "writing",
+        "id": "b1-w03",
+        "step": "outline",
+        "title": "写作 · 申请调整约定时间 · 列提纲"
+      }
+    },
+    {
+      "id": "d179",
+      "number": 179,
+      "week": 26,
+      "weekday": 4,
+      "stage": "b1",
+      "review": false,
+      "packId": "nl-b1-feelings",
+      "offset": 0,
+      "wordIds": [
+        "nl-b1-feelings-1",
+        "nl-b1-feelings-2",
+        "nl-b1-feelings-3",
+        "nl-b1-feelings-4",
+        "nl-b1-feelings-5",
+        "nl-b1-feelings-6",
+        "nl-b1-feelings-7",
+        "nl-b1-feelings-8",
+        "nl-b1-feelings-9",
+        "nl-b1-feelings-10"
+      ],
+      "title": "情绪、关系与经历 · 第1小节",
+      "minutes": 23,
+      "skill": {
+        "kind": "speaking",
+        "id": "b1-s06",
+        "step": "prepare",
+        "title": "口语 · 电话中调整预约 · 准备要点"
+      }
+    },
+    {
+      "id": "d180",
+      "number": 180,
+      "week": 26,
+      "weekday": 5,
+      "stage": "b1",
+      "review": false,
+      "packId": "nl-b1-feelings",
+      "offset": 10,
+      "wordIds": [
+        "nl-b1-feelings-11",
+        "nl-b1-feelings-12",
+        "nl-b1-feelings-13",
+        "nl-b1-feelings-14",
+        "nl-b1-feelings-15",
+        "nl-b1-feelings-16",
+        "nl-b1-feelings-17",
+        "nl-b1-feelings-18",
+        "nl-b1-feelings-19",
+        "nl-b1-feelings-20"
+      ],
+      "title": "情绪、关系与经历 · 第2小节",
+      "minutes": 23,
+      "skill": {
+        "kind": "writing",
+        "id": "b1-w03",
+        "step": "draft",
+        "title": "写作 · 申请调整约定时间 · 写初稿"
+      }
+    },
+    {
+      "id": "d181",
+      "number": 181,
+      "week": 26,
+      "weekday": 6,
+      "stage": "b1",
+      "review": false,
+      "packId": "nl-b1-feelings",
+      "offset": 20,
+      "wordIds": [
+        "nl-b1-feelings-21",
+        "nl-b1-feelings-22",
+        "nl-b1-feelings-23",
+        "nl-b1-feelings-24",
+        "nl-b1-feelings-25",
+        "nl-b1-feelings-26",
+        "nl-b1-feelings-27",
+        "nl-b1-feelings-28",
+        "nl-b1-feelings-29",
+        "nl-b1-feelings-30"
+      ],
+      "title": "情绪、关系与经历 · 第3小节",
+      "minutes": 23,
+      "skill": {
+        "kind": "speaking",
+        "id": "b1-s06",
+        "step": "speak",
+        "title": "口语 · 电话中调整预约 · 开口练习"
+      }
+    },
+    {
+      "id": "d182",
+      "number": 182,
+      "week": 26,
+      "weekday": 7,
+      "stage": "b1",
+      "review": true,
+      "packId": "",
+      "offset": 0,
+      "wordIds": [],
+      "title": "本周复习与能力自检",
+      "minutes": 25,
+      "skill": {
+        "kind": "writing",
+        "id": "b1-w03",
+        "step": "revise",
+        "title": "写作 · 申请调整约定时间 · 修改定稿"
+      }
+    },
+    {
+      "id": "d183",
+      "number": 183,
+      "week": 27,
+      "weekday": 1,
+      "stage": "b1",
+      "review": false,
+      "packId": "nl-b1-community",
+      "offset": 0,
+      "wordIds": [
+        "nl-b1-community-1",
+        "nl-b1-community-2",
+        "nl-b1-community-3",
+        "nl-b1-community-4",
+        "nl-b1-community-5",
+        "nl-b1-community-6",
+        "nl-b1-community-7",
+        "nl-b1-community-8",
+        "nl-b1-community-9",
+        "nl-b1-community-10"
+      ],
+      "title": "社区与参与 · 第1小节",
+      "minutes": 23,
+      "skill": {
+        "kind": "grammar",
+        "id": "b1-g06",
+        "title": "语法 · 可分动词的三个位置"
+      }
+    },
+    {
+      "id": "d184",
+      "number": 184,
+      "week": 27,
+      "weekday": 2,
+      "stage": "b1",
+      "review": false,
+      "packId": "nl-b1-community",
+      "offset": 10,
+      "wordIds": [
+        "nl-b1-community-11",
+        "nl-b1-community-12",
+        "nl-b1-community-13",
+        "nl-b1-community-14",
+        "nl-b1-community-15",
+        "nl-b1-community-16",
+        "nl-b1-community-17",
+        "nl-b1-community-18",
+        "nl-b1-community-19",
+        "nl-b1-community-20"
+      ],
+      "title": "社区与参与 · 第2小节",
+      "minutes": 23,
+      "skill": {
+        "kind": "reading",
+        "id": "nl-b1-reading-06",
+        "title": "阅读 · 为社区付出几个小时"
+      }
+    },
+    {
+      "id": "d185",
+      "number": 185,
+      "week": 27,
+      "weekday": 3,
+      "stage": "b1",
+      "review": false,
+      "packId": "nl-b1-community",
+      "offset": 20,
+      "wordIds": [
+        "nl-b1-community-21",
+        "nl-b1-community-22",
+        "nl-b1-community-23",
+        "nl-b1-community-24",
+        "nl-b1-community-25",
+        "nl-b1-community-26",
+        "nl-b1-community-27",
+        "nl-b1-community-28",
+        "nl-b1-community-29",
+        "nl-b1-community-30"
+      ],
+      "title": "社区与参与 · 第3小节",
+      "minutes": 23,
+      "skill": {
+        "kind": "writing",
+        "id": "b1-w11",
+        "step": "outline",
+        "title": "写作 · 申请成为志愿者 · 列提纲"
+      }
+    },
+    {
+      "id": "d186",
+      "number": 186,
+      "week": 27,
+      "weekday": 4,
+      "stage": "b1",
+      "review": false,
+      "packId": "nl-b1-administration",
+      "offset": 0,
+      "wordIds": [
+        "nl-b1-administration-1",
+        "nl-b1-administration-2",
+        "nl-b1-administration-3",
+        "nl-b1-administration-4",
+        "nl-b1-administration-5",
+        "nl-b1-administration-6",
+        "nl-b1-administration-7",
+        "nl-b1-administration-8",
+        "nl-b1-administration-9",
+        "nl-b1-administration-10"
+      ],
+      "title": "表格、申请与办事 · 第1小节",
+      "minutes": 23,
+      "skill": {
+        "kind": "speaking",
+        "id": "b1-s07",
+        "step": "prepare",
+        "title": "口语 · 讲述一次志愿服务经历 · 准备要点"
+      }
+    },
+    {
+      "id": "d187",
+      "number": 187,
+      "week": 27,
+      "weekday": 5,
+      "stage": "b1",
+      "review": false,
+      "packId": "nl-b1-administration",
+      "offset": 10,
+      "wordIds": [
+        "nl-b1-administration-11",
+        "nl-b1-administration-12",
+        "nl-b1-administration-13",
+        "nl-b1-administration-14",
+        "nl-b1-administration-15",
+        "nl-b1-administration-16",
+        "nl-b1-administration-17",
+        "nl-b1-administration-18",
+        "nl-b1-administration-19",
+        "nl-b1-administration-20"
+      ],
+      "title": "表格、申请与办事 · 第2小节",
+      "minutes": 23,
+      "skill": {
+        "kind": "writing",
+        "id": "b1-w11",
+        "step": "draft",
+        "title": "写作 · 申请成为志愿者 · 写初稿"
+      }
+    },
+    {
+      "id": "d188",
+      "number": 188,
+      "week": 27,
+      "weekday": 6,
+      "stage": "b1",
+      "review": false,
+      "packId": "nl-b1-administration",
+      "offset": 20,
+      "wordIds": [
+        "nl-b1-administration-21",
+        "nl-b1-administration-22",
+        "nl-b1-administration-23",
+        "nl-b1-administration-24",
+        "nl-b1-administration-25",
+        "nl-b1-administration-26",
+        "nl-b1-administration-27",
+        "nl-b1-administration-28",
+        "nl-b1-administration-29",
+        "nl-b1-administration-30"
+      ],
+      "title": "表格、申请与办事 · 第3小节",
+      "minutes": 23,
+      "skill": {
+        "kind": "speaking",
+        "id": "b1-s07",
+        "step": "speak",
+        "title": "口语 · 讲述一次志愿服务经历 · 开口练习"
+      }
+    },
+    {
+      "id": "d189",
+      "number": 189,
+      "week": 27,
+      "weekday": 7,
+      "stage": "b1",
+      "review": true,
+      "packId": "",
+      "offset": 0,
+      "wordIds": [],
+      "title": "本周复习与能力自检",
+      "minutes": 25,
+      "skill": {
+        "kind": "writing",
+        "id": "b1-w11",
+        "step": "revise",
+        "title": "写作 · 申请成为志愿者 · 修改定稿"
+      }
+    },
+    {
+      "id": "d190",
+      "number": 190,
+      "week": 28,
+      "weekday": 1,
+      "stage": "b1",
+      "review": false,
+      "packId": "nl-b1-finance",
+      "offset": 0,
+      "wordIds": [
+        "nl-b1-finance-1",
+        "nl-b1-finance-2",
+        "nl-b1-finance-3",
+        "nl-b1-finance-4",
+        "nl-b1-finance-5",
+        "nl-b1-finance-6",
+        "nl-b1-finance-7",
+        "nl-b1-finance-8",
+        "nl-b1-finance-9",
+        "nl-b1-finance-10"
+      ],
+      "title": "费用、预算与选择 · 第1小节",
+      "minutes": 23,
+      "skill": {
+        "kind": "grammar",
+        "id": "b1-g07",
+        "title": "语法 · 表达目的与 te 不定式"
+      }
+    },
+    {
+      "id": "d191",
+      "number": 191,
+      "week": 28,
+      "weekday": 2,
+      "stage": "b1",
+      "review": false,
+      "packId": "nl-b1-finance",
+      "offset": 10,
+      "wordIds": [
+        "nl-b1-finance-11",
+        "nl-b1-finance-12",
+        "nl-b1-finance-13",
+        "nl-b1-finance-14",
+        "nl-b1-finance-15",
+        "nl-b1-finance-16",
+        "nl-b1-finance-17",
+        "nl-b1-finance-18",
+        "nl-b1-finance-19",
+        "nl-b1-finance-20"
+      ],
+      "title": "费用、预算与选择 · 第2小节",
+      "minutes": 23,
+      "skill": {
+        "kind": "reading",
+        "id": "nl-b1-reading-07",
+        "title": "阅读 · 填写电子表格时获得帮助"
+      }
+    },
+    {
+      "id": "d192",
+      "number": 192,
+      "week": 28,
+      "weekday": 3,
+      "stage": "b1",
+      "review": false,
+      "packId": "nl-b1-finance",
+      "offset": 20,
+      "wordIds": [
+        "nl-b1-finance-21",
+        "nl-b1-finance-22",
+        "nl-b1-finance-23",
+        "nl-b1-finance-24",
+        "nl-b1-finance-25",
+        "nl-b1-finance-26",
+        "nl-b1-finance-27",
+        "nl-b1-finance-28",
+        "nl-b1-finance-29",
+        "nl-b1-finance-30"
+      ],
+      "title": "费用、预算与选择 · 第3小节",
+      "minutes": 23,
+      "skill": {
+        "kind": "writing",
+        "id": "b1-w04",
+        "step": "outline",
+        "title": "写作 · 说明商品问题并请求解决 · 列提纲"
+      }
+    },
+    {
+      "id": "d193",
+      "number": 193,
+      "week": 28,
+      "weekday": 4,
+      "stage": "b1",
+      "review": false,
+      "packId": "nl-b1-consumer",
+      "offset": 0,
+      "wordIds": [
+        "nl-b1-consumer-1",
+        "nl-b1-consumer-2",
+        "nl-b1-consumer-3",
+        "nl-b1-consumer-4",
+        "nl-b1-consumer-5",
+        "nl-b1-consumer-6",
+        "nl-b1-consumer-7",
+        "nl-b1-consumer-8",
+        "nl-b1-consumer-9",
+        "nl-b1-consumer-10"
+      ],
+      "title": "购物选择与售后沟通 · 第1小节",
+      "minutes": 23,
+      "skill": {
+        "kind": "speaking",
+        "id": "b1-s02",
+        "step": "prepare",
+        "title": "口语 · 向客服描述收货问题 · 准备要点"
+      }
+    },
+    {
+      "id": "d194",
+      "number": 194,
+      "week": 28,
+      "weekday": 5,
+      "stage": "b1",
+      "review": false,
+      "packId": "nl-b1-consumer",
+      "offset": 10,
+      "wordIds": [
+        "nl-b1-consumer-11",
+        "nl-b1-consumer-12",
+        "nl-b1-consumer-13",
+        "nl-b1-consumer-14",
+        "nl-b1-consumer-15",
+        "nl-b1-consumer-16",
+        "nl-b1-consumer-17",
+        "nl-b1-consumer-18",
+        "nl-b1-consumer-19",
+        "nl-b1-consumer-20"
+      ],
+      "title": "购物选择与售后沟通 · 第2小节",
+      "minutes": 23,
+      "skill": {
+        "kind": "writing",
+        "id": "b1-w04",
+        "step": "draft",
+        "title": "写作 · 说明商品问题并请求解决 · 写初稿"
+      }
+    },
+    {
+      "id": "d195",
+      "number": 195,
+      "week": 28,
+      "weekday": 6,
+      "stage": "b1",
+      "review": false,
+      "packId": "nl-b1-consumer",
+      "offset": 20,
+      "wordIds": [
+        "nl-b1-consumer-21",
+        "nl-b1-consumer-22",
+        "nl-b1-consumer-23",
+        "nl-b1-consumer-24",
+        "nl-b1-consumer-25",
+        "nl-b1-consumer-26",
+        "nl-b1-consumer-27",
+        "nl-b1-consumer-28",
+        "nl-b1-consumer-29",
+        "nl-b1-consumer-30"
+      ],
+      "title": "购物选择与售后沟通 · 第3小节",
+      "minutes": 23,
+      "skill": {
+        "kind": "speaking",
+        "id": "b1-s02",
+        "step": "speak",
+        "title": "口语 · 向客服描述收货问题 · 开口练习"
+      }
+    },
+    {
+      "id": "d196",
+      "number": 196,
+      "week": 28,
+      "weekday": 7,
+      "stage": "b1",
+      "review": true,
+      "packId": "",
+      "offset": 0,
+      "wordIds": [],
+      "title": "本周复习与能力自检",
+      "minutes": 25,
+      "skill": {
+        "kind": "writing",
+        "id": "b1-w04",
+        "step": "revise",
+        "title": "写作 · 说明商品问题并请求解决 · 修改定稿"
+      }
+    },
+    {
+      "id": "d197",
+      "number": 197,
+      "week": 29,
+      "weekday": 1,
+      "stage": "b1",
+      "review": false,
+      "packId": "nl-b1-digital",
+      "offset": 0,
+      "wordIds": [
+        "nl-b1-digital-1",
+        "nl-b1-digital-2",
+        "nl-b1-digital-3",
+        "nl-b1-digital-4",
+        "nl-b1-digital-5",
+        "nl-b1-digital-6",
+        "nl-b1-digital-7",
+        "nl-b1-digital-8",
+        "nl-b1-digital-9",
+        "nl-b1-digital-10"
+      ],
+      "title": "数字工具与线上办事 · 第1小节",
+      "minutes": 23,
+      "skill": {
+        "kind": "grammar",
+        "id": "b1-g08",
+        "title": "语法 · 用 die 与 dat 描述人和事物"
+      }
+    },
+    {
+      "id": "d198",
+      "number": 198,
+      "week": 29,
+      "weekday": 2,
+      "stage": "b1",
+      "review": false,
+      "packId": "nl-b1-digital",
+      "offset": 10,
+      "wordIds": [
+        "nl-b1-digital-11",
+        "nl-b1-digital-12",
+        "nl-b1-digital-13",
+        "nl-b1-digital-14",
+        "nl-b1-digital-15",
+        "nl-b1-digital-16",
+        "nl-b1-digital-17",
+        "nl-b1-digital-18",
+        "nl-b1-digital-19",
+        "nl-b1-digital-20"
+      ],
+      "title": "数字工具与线上办事 · 第2小节",
+      "minutes": 23,
+      "skill": {
+        "kind": "reading",
+        "id": "nl-b1-reading-08",
+        "title": "阅读 · 适合自己生活的学习计划"
+      }
+    },
+    {
+      "id": "d199",
+      "number": 199,
+      "week": 29,
+      "weekday": 3,
+      "stage": "b1",
+      "review": false,
+      "packId": "nl-b1-digital",
+      "offset": 20,
+      "wordIds": [
+        "nl-b1-digital-21",
+        "nl-b1-digital-22",
+        "nl-b1-digital-23",
+        "nl-b1-digital-24",
+        "nl-b1-digital-25",
+        "nl-b1-digital-26",
+        "nl-b1-digital-27",
+        "nl-b1-digital-28",
+        "nl-b1-digital-29",
+        "nl-b1-digital-30"
+      ],
+      "title": "数字工具与线上办事 · 第3小节",
+      "minutes": 23,
+      "skill": {
+        "kind": "writing",
+        "id": "b1-w10",
+        "step": "outline",
+        "title": "写作 · 礼貌表达不同意见 · 列提纲"
+      }
+    },
+    {
+      "id": "d200",
+      "number": 200,
+      "week": 29,
+      "weekday": 4,
+      "stage": "b1",
+      "review": false,
+      "packId": "nl-b1-media",
+      "offset": 0,
+      "wordIds": [
+        "nl-b1-media-1",
+        "nl-b1-media-2",
+        "nl-b1-media-3",
+        "nl-b1-media-4",
+        "nl-b1-media-5",
+        "nl-b1-media-6",
+        "nl-b1-media-7",
+        "nl-b1-media-8",
+        "nl-b1-media-9",
+        "nl-b1-media-10"
+      ],
+      "title": "新闻与社会话题 · 第1小节",
+      "minutes": 23,
+      "skill": {
+        "kind": "speaking",
+        "id": "b1-s12",
+        "step": "prepare",
+        "title": "口语 · 讨论网上信息与判断依据 · 准备要点"
+      }
+    },
+    {
+      "id": "d201",
+      "number": 201,
+      "week": 29,
+      "weekday": 5,
+      "stage": "b1",
+      "review": false,
+      "packId": "nl-b1-media",
+      "offset": 10,
+      "wordIds": [
+        "nl-b1-media-11",
+        "nl-b1-media-12",
+        "nl-b1-media-13",
+        "nl-b1-media-14",
+        "nl-b1-media-15",
+        "nl-b1-media-16",
+        "nl-b1-media-17",
+        "nl-b1-media-18",
+        "nl-b1-media-19",
+        "nl-b1-media-20"
+      ],
+      "title": "新闻与社会话题 · 第2小节",
+      "minutes": 23,
+      "skill": {
+        "kind": "writing",
+        "id": "b1-w10",
+        "step": "draft",
+        "title": "写作 · 礼貌表达不同意见 · 写初稿"
+      }
+    },
+    {
+      "id": "d202",
+      "number": 202,
+      "week": 29,
+      "weekday": 6,
+      "stage": "b1",
+      "review": false,
+      "packId": "nl-b1-media",
+      "offset": 20,
+      "wordIds": [
+        "nl-b1-media-21",
+        "nl-b1-media-22",
+        "nl-b1-media-23",
+        "nl-b1-media-24",
+        "nl-b1-media-25",
+        "nl-b1-media-26",
+        "nl-b1-media-27",
+        "nl-b1-media-28",
+        "nl-b1-media-29",
+        "nl-b1-media-30"
+      ],
+      "title": "新闻与社会话题 · 第3小节",
+      "minutes": 23,
+      "skill": {
+        "kind": "speaking",
+        "id": "b1-s12",
+        "step": "speak",
+        "title": "口语 · 讨论网上信息与判断依据 · 开口练习"
+      }
+    },
+    {
+      "id": "d203",
+      "number": 203,
+      "week": 29,
+      "weekday": 7,
+      "stage": "b1",
+      "review": true,
+      "packId": "",
+      "offset": 0,
+      "wordIds": [],
+      "title": "本周复习与能力自检",
+      "minutes": 25,
+      "skill": {
+        "kind": "writing",
+        "id": "b1-w10",
+        "step": "revise",
+        "title": "写作 · 礼貌表达不同意见 · 修改定稿"
+      }
+    },
+    {
+      "id": "d204",
+      "number": 204,
+      "week": 30,
+      "weekday": 1,
+      "stage": "b1",
+      "review": false,
+      "packId": "nl-b1-environment",
+      "offset": 0,
+      "wordIds": [
+        "nl-b1-environment-1",
+        "nl-b1-environment-2",
+        "nl-b1-environment-3",
+        "nl-b1-environment-4",
+        "nl-b1-environment-5",
+        "nl-b1-environment-6",
+        "nl-b1-environment-7",
+        "nl-b1-environment-8",
+        "nl-b1-environment-9",
+        "nl-b1-environment-10"
+      ],
+      "title": "环境与可持续生活 · 第1小节",
+      "minutes": 23,
+      "skill": {
+        "kind": "grammar",
+        "id": "b1-g09",
+        "title": "语法 · 让步与转折：hoewel、toch"
+      }
+    },
+    {
+      "id": "d205",
+      "number": 205,
+      "week": 30,
+      "weekday": 2,
+      "stage": "b1",
+      "review": false,
+      "packId": "nl-b1-environment",
+      "offset": 10,
+      "wordIds": [
+        "nl-b1-environment-11",
+        "nl-b1-environment-12",
+        "nl-b1-environment-13",
+        "nl-b1-environment-14",
+        "nl-b1-environment-15",
+        "nl-b1-environment-16",
+        "nl-b1-environment-17",
+        "nl-b1-environment-18",
+        "nl-b1-environment-19",
+        "nl-b1-environment-20"
+      ],
+      "title": "环境与可持续生活 · 第2小节",
+      "minutes": 23,
+      "skill": {
+        "kind": "reading",
+        "id": "nl-b1-reading-09",
+        "title": "阅读 · 提出投诉，也提出解决办法"
+      }
+    },
+    {
+      "id": "d206",
+      "number": 206,
+      "week": 30,
+      "weekday": 3,
+      "stage": "b1",
+      "review": false,
+      "packId": "nl-b1-environment",
+      "offset": 20,
+      "wordIds": [
+        "nl-b1-environment-21",
+        "nl-b1-environment-22",
+        "nl-b1-environment-23",
+        "nl-b1-environment-24",
+        "nl-b1-environment-25",
+        "nl-b1-environment-26",
+        "nl-b1-environment-27",
+        "nl-b1-environment-28",
+        "nl-b1-environment-29",
+        "nl-b1-environment-30"
+      ],
+      "title": "环境与可持续生活 · 第3小节",
+      "minutes": 23,
+      "skill": {
+        "kind": "writing",
+        "id": "b1-w08",
+        "step": "outline",
+        "title": "写作 · 提出一个社区活动建议 · 列提纲"
+      }
+    },
+    {
+      "id": "d207",
+      "number": 207,
+      "week": 30,
+      "weekday": 4,
+      "stage": "b1",
+      "review": false,
+      "packId": "nl-b1-landscape",
+      "offset": 0,
+      "wordIds": [
+        "nl-b1-landscape-1",
+        "nl-b1-landscape-2",
+        "nl-b1-landscape-3",
+        "nl-b1-landscape-4",
+        "nl-b1-landscape-5",
+        "nl-b1-landscape-6",
+        "nl-b1-landscape-7",
+        "nl-b1-landscape-8",
+        "nl-b1-landscape-9",
+        "nl-b1-landscape-10"
+      ],
+      "title": "自然与景观 · 第1小节",
+      "minutes": 23,
+      "skill": {
+        "kind": "speaking",
+        "id": "b1-s03",
+        "step": "prepare",
+        "title": "口语 · 说明一个新养成的习惯 · 准备要点"
+      }
+    },
+    {
+      "id": "d208",
+      "number": 208,
+      "week": 30,
+      "weekday": 5,
+      "stage": "b1",
+      "review": false,
+      "packId": "nl-b1-landscape",
+      "offset": 10,
+      "wordIds": [
+        "nl-b1-landscape-11",
+        "nl-b1-landscape-12",
+        "nl-b1-landscape-13",
+        "nl-b1-landscape-14",
+        "nl-b1-landscape-15",
+        "nl-b1-landscape-16",
+        "nl-b1-landscape-17",
+        "nl-b1-landscape-18",
+        "nl-b1-landscape-19",
+        "nl-b1-landscape-20"
+      ],
+      "title": "自然与景观 · 第2小节",
+      "minutes": 23,
+      "skill": {
+        "kind": "writing",
+        "id": "b1-w08",
+        "step": "draft",
+        "title": "写作 · 提出一个社区活动建议 · 写初稿"
+      }
+    },
+    {
+      "id": "d209",
+      "number": 209,
+      "week": 30,
+      "weekday": 6,
+      "stage": "b1",
+      "review": false,
+      "packId": "nl-b1-landscape",
+      "offset": 20,
+      "wordIds": [
+        "nl-b1-landscape-21",
+        "nl-b1-landscape-22",
+        "nl-b1-landscape-23",
+        "nl-b1-landscape-24",
+        "nl-b1-landscape-25",
+        "nl-b1-landscape-26",
+        "nl-b1-landscape-27",
+        "nl-b1-landscape-28",
+        "nl-b1-landscape-29",
+        "nl-b1-landscape-30"
+      ],
+      "title": "自然与景观 · 第3小节",
+      "minutes": 23,
+      "skill": {
+        "kind": "speaking",
+        "id": "b1-s03",
+        "step": "speak",
+        "title": "口语 · 说明一个新养成的习惯 · 开口练习"
+      }
+    },
+    {
+      "id": "d210",
+      "number": 210,
+      "week": 30,
+      "weekday": 7,
+      "stage": "b1",
+      "review": true,
+      "packId": "",
+      "offset": 0,
+      "wordIds": [],
+      "title": "本周复习与能力自检",
+      "minutes": 25,
+      "skill": {
+        "kind": "writing",
+        "id": "b1-w08",
+        "step": "revise",
+        "title": "写作 · 提出一个社区活动建议 · 修改定稿"
+      }
+    },
+    {
+      "id": "d211",
+      "number": 211,
+      "week": 31,
+      "weekday": 1,
+      "stage": "b1",
+      "review": false,
+      "packId": "nl-b1-traffic",
+      "offset": 0,
+      "wordIds": [
+        "nl-b1-traffic-1",
+        "nl-b1-traffic-2",
+        "nl-b1-traffic-3",
+        "nl-b1-traffic-4",
+        "nl-b1-traffic-5",
+        "nl-b1-traffic-6",
+        "nl-b1-traffic-7",
+        "nl-b1-traffic-8",
+        "nl-b1-traffic-9",
+        "nl-b1-traffic-10"
+      ],
+      "title": "交通规则与安全 · 第1小节",
+      "minutes": 23,
+      "skill": {
+        "kind": "grammar",
+        "id": "b1-g10",
+        "title": "语法 · 礼貌请求和假设：zou"
+      }
+    },
+    {
+      "id": "d212",
+      "number": 212,
+      "week": 31,
+      "weekday": 2,
+      "stage": "b1",
+      "review": false,
+      "packId": "nl-b1-traffic",
+      "offset": 10,
+      "wordIds": [
+        "nl-b1-traffic-11",
+        "nl-b1-traffic-12",
+        "nl-b1-traffic-13",
+        "nl-b1-traffic-14",
+        "nl-b1-traffic-15",
+        "nl-b1-traffic-16",
+        "nl-b1-traffic-17",
+        "nl-b1-traffic-18",
+        "nl-b1-traffic-19",
+        "nl-b1-traffic-20"
+      ],
+      "title": "交通规则与安全 · 第2小节",
+      "minutes": 23,
+      "skill": {
+        "kind": "reading",
+        "id": "nl-b1-reading-10",
+        "title": "阅读 · 先阅读，再转发"
+      }
+    },
+    {
+      "id": "d213",
+      "number": 213,
+      "week": 31,
+      "weekday": 3,
+      "stage": "b1",
+      "review": false,
+      "packId": "nl-b1-traffic",
+      "offset": 20,
+      "wordIds": [
+        "nl-b1-traffic-21",
+        "nl-b1-traffic-22",
+        "nl-b1-traffic-23",
+        "nl-b1-traffic-24",
+        "nl-b1-traffic-25",
+        "nl-b1-traffic-26",
+        "nl-b1-traffic-27",
+        "nl-b1-traffic-28",
+        "nl-b1-traffic-29",
+        "nl-b1-traffic-30"
+      ],
+      "title": "交通规则与安全 · 第3小节",
+      "minutes": 23,
+      "skill": {
+        "kind": "writing",
+        "id": "b1-w06",
+        "step": "outline",
+        "title": "写作 · 讲述一次计划之外的旅行 · 列提纲"
+      }
+    },
+    {
+      "id": "d214",
+      "number": 214,
+      "week": 31,
+      "weekday": 4,
+      "stage": "b1",
+      "review": false,
+      "packId": "nl-b1-accommodation",
+      "offset": 0,
+      "wordIds": [
+        "nl-b1-accommodation-1",
+        "nl-b1-accommodation-2",
+        "nl-b1-accommodation-3",
+        "nl-b1-accommodation-4",
+        "nl-b1-accommodation-5",
+        "nl-b1-accommodation-6",
+        "nl-b1-accommodation-7",
+        "nl-b1-accommodation-8",
+        "nl-b1-accommodation-9",
+        "nl-b1-accommodation-10"
+      ],
+      "title": "旅行与住宿安排 · 第1小节",
+      "minutes": 23,
+      "skill": {
+        "kind": "speaking",
+        "id": "b1-s08",
+        "step": "prepare",
+        "title": "口语 · 和朋友商量一次出行 · 准备要点"
+      }
+    },
+    {
+      "id": "d215",
+      "number": 215,
+      "week": 31,
+      "weekday": 5,
+      "stage": "b1",
+      "review": false,
+      "packId": "nl-b1-accommodation",
+      "offset": 10,
+      "wordIds": [
+        "nl-b1-accommodation-11",
+        "nl-b1-accommodation-12",
+        "nl-b1-accommodation-13",
+        "nl-b1-accommodation-14",
+        "nl-b1-accommodation-15",
+        "nl-b1-accommodation-16",
+        "nl-b1-accommodation-17",
+        "nl-b1-accommodation-18",
+        "nl-b1-accommodation-19",
+        "nl-b1-accommodation-20"
+      ],
+      "title": "旅行与住宿安排 · 第2小节",
+      "minutes": 23,
+      "skill": {
+        "kind": "writing",
+        "id": "b1-w06",
+        "step": "draft",
+        "title": "写作 · 讲述一次计划之外的旅行 · 写初稿"
+      }
+    },
+    {
+      "id": "d216",
+      "number": 216,
+      "week": 31,
+      "weekday": 6,
+      "stage": "b1",
+      "review": false,
+      "packId": "nl-b1-accommodation",
+      "offset": 20,
+      "wordIds": [
+        "nl-b1-accommodation-21",
+        "nl-b1-accommodation-22",
+        "nl-b1-accommodation-23",
+        "nl-b1-accommodation-24",
+        "nl-b1-accommodation-25",
+        "nl-b1-accommodation-26",
+        "nl-b1-accommodation-27",
+        "nl-b1-accommodation-28",
+        "nl-b1-accommodation-29",
+        "nl-b1-accommodation-30"
+      ],
+      "title": "旅行与住宿安排 · 第3小节",
+      "minutes": 23,
+      "skill": {
+        "kind": "speaking",
+        "id": "b1-s08",
+        "step": "speak",
+        "title": "口语 · 和朋友商量一次出行 · 开口练习"
+      }
+    },
+    {
+      "id": "d217",
+      "number": 217,
+      "week": 31,
+      "weekday": 7,
+      "stage": "b1",
+      "review": true,
+      "packId": "",
+      "offset": 0,
+      "wordIds": [],
+      "title": "本周复习与能力自检",
+      "minutes": 25,
+      "skill": {
+        "kind": "writing",
+        "id": "b1-w06",
+        "step": "revise",
+        "title": "写作 · 讲述一次计划之外的旅行 · 修改定稿"
+      }
+    },
+    {
+      "id": "d218",
+      "number": 218,
+      "week": 32,
+      "weekday": 1,
+      "stage": "b1",
+      "review": false,
+      "packId": "nl-b1-culture",
+      "offset": 0,
+      "wordIds": [
+        "nl-b1-culture-1",
+        "nl-b1-culture-2",
+        "nl-b1-culture-3",
+        "nl-b1-culture-4",
+        "nl-b1-culture-5",
+        "nl-b1-culture-6",
+        "nl-b1-culture-7",
+        "nl-b1-culture-8",
+        "nl-b1-culture-9",
+        "nl-b1-culture-10"
+      ],
+      "title": "文化与休闲活动 · 第1小节",
+      "minutes": 23,
+      "skill": {
+        "kind": "grammar",
+        "id": "b1-g11",
+        "title": "语法 · 被动句：重点放在事情上"
+      }
+    },
+    {
+      "id": "d219",
+      "number": 219,
+      "week": 32,
+      "weekday": 2,
+      "stage": "b1",
+      "review": false,
+      "packId": "nl-b1-culture",
+      "offset": 10,
+      "wordIds": [
+        "nl-b1-culture-11",
+        "nl-b1-culture-12",
+        "nl-b1-culture-13",
+        "nl-b1-culture-14",
+        "nl-b1-culture-15",
+        "nl-b1-culture-16",
+        "nl-b1-culture-17",
+        "nl-b1-culture-18",
+        "nl-b1-culture-19",
+        "nl-b1-culture-20"
+      ],
+      "title": "文化与休闲活动 · 第2小节",
+      "minutes": 23,
+      "skill": {
+        "kind": "reading",
+        "id": "nl-b1-reading-11",
+        "title": "阅读 · 合作时避免各说各话"
+      }
+    },
+    {
+      "id": "d220",
+      "number": 220,
+      "week": 32,
+      "weekday": 3,
+      "stage": "b1",
+      "review": false,
+      "packId": "nl-b1-culture",
+      "offset": 20,
+      "wordIds": [
+        "nl-b1-culture-21",
+        "nl-b1-culture-22",
+        "nl-b1-culture-23",
+        "nl-b1-culture-24",
+        "nl-b1-culture-25",
+        "nl-b1-culture-26",
+        "nl-b1-culture-27",
+        "nl-b1-culture-28",
+        "nl-b1-culture-29",
+        "nl-b1-culture-30"
+      ],
+      "title": "文化与休闲活动 · 第3小节",
+      "minutes": 23,
+      "skill": {
+        "kind": "writing",
+        "id": "b1-w05",
+        "step": "outline",
+        "title": "写作 · 邀请朋友共进晚餐 · 列提纲"
+      }
+    },
+    {
+      "id": "d221",
+      "number": 221,
+      "week": 32,
+      "weekday": 4,
+      "stage": "b1",
+      "review": false,
+      "packId": "nl-b1-rights",
+      "offset": 0,
+      "wordIds": [
+        "nl-b1-rights-1",
+        "nl-b1-rights-2",
+        "nl-b1-rights-3",
+        "nl-b1-rights-4",
+        "nl-b1-rights-5",
+        "nl-b1-rights-6",
+        "nl-b1-rights-7",
+        "nl-b1-rights-8",
+        "nl-b1-rights-9",
+        "nl-b1-rights-10"
+      ],
+      "title": "日常权利与规则语言 · 第1小节",
+      "minutes": 23,
+      "skill": {
+        "kind": "speaking",
+        "id": "b1-s10",
+        "step": "prepare",
+        "title": "口语 · 向朋友转述活动信息 · 准备要点"
+      }
+    },
+    {
+      "id": "d222",
+      "number": 222,
+      "week": 32,
+      "weekday": 5,
+      "stage": "b1",
+      "review": false,
+      "packId": "nl-b1-rights",
+      "offset": 10,
+      "wordIds": [
+        "nl-b1-rights-11",
+        "nl-b1-rights-12",
+        "nl-b1-rights-13",
+        "nl-b1-rights-14",
+        "nl-b1-rights-15",
+        "nl-b1-rights-16",
+        "nl-b1-rights-17",
+        "nl-b1-rights-18",
+        "nl-b1-rights-19",
+        "nl-b1-rights-20"
+      ],
+      "title": "日常权利与规则语言 · 第2小节",
+      "minutes": 23,
+      "skill": {
+        "kind": "writing",
+        "id": "b1-w05",
+        "step": "draft",
+        "title": "写作 · 邀请朋友共进晚餐 · 写初稿"
+      }
+    },
+    {
+      "id": "d223",
+      "number": 223,
+      "week": 32,
+      "weekday": 6,
+      "stage": "b1",
+      "review": false,
+      "packId": "nl-b1-rights",
+      "offset": 20,
+      "wordIds": [
+        "nl-b1-rights-21",
+        "nl-b1-rights-22",
+        "nl-b1-rights-23",
+        "nl-b1-rights-24",
+        "nl-b1-rights-25",
+        "nl-b1-rights-26",
+        "nl-b1-rights-27",
+        "nl-b1-rights-28",
+        "nl-b1-rights-29",
+        "nl-b1-rights-30"
+      ],
+      "title": "日常权利与规则语言 · 第3小节",
+      "minutes": 23,
+      "skill": {
+        "kind": "speaking",
+        "id": "b1-s10",
+        "step": "speak",
+        "title": "口语 · 向朋友转述活动信息 · 开口练习"
+      }
+    },
+    {
+      "id": "d224",
+      "number": 224,
+      "week": 32,
+      "weekday": 7,
+      "stage": "b1",
+      "review": true,
+      "packId": "",
+      "offset": 0,
+      "wordIds": [],
+      "title": "本周复习与能力自检",
+      "minutes": 25,
+      "skill": {
+        "kind": "writing",
+        "id": "b1-w05",
+        "step": "revise",
+        "title": "写作 · 邀请朋友共进晚餐 · 修改定稿"
+      }
+    },
+    {
+      "id": "d225",
+      "number": 225,
+      "week": 33,
+      "weekday": 1,
+      "stage": "b1",
+      "review": false,
+      "packId": "nl-b1-opinions",
+      "offset": 0,
+      "wordIds": [
+        "nl-b1-opinions-1",
+        "nl-b1-opinions-2",
+        "nl-b1-opinions-3",
+        "nl-b1-opinions-4",
+        "nl-b1-opinions-5",
+        "nl-b1-opinions-6",
+        "nl-b1-opinions-7",
+        "nl-b1-opinions-8",
+        "nl-b1-opinions-9",
+        "nl-b1-opinions-10"
+      ],
+      "title": "表达观点与理由 · 第1小节",
+      "minutes": 23,
+      "skill": {
+        "kind": "grammar",
+        "id": "b1-g12",
+        "title": "语法 · 反身与相互：zich、elkaar"
+      }
+    },
+    {
+      "id": "d226",
+      "number": 226,
+      "week": 33,
+      "weekday": 2,
+      "stage": "b1",
+      "review": false,
+      "packId": "nl-b1-opinions",
+      "offset": 10,
+      "wordIds": [
+        "nl-b1-opinions-11",
+        "nl-b1-opinions-12",
+        "nl-b1-opinions-13",
+        "nl-b1-opinions-14",
+        "nl-b1-opinions-15",
+        "nl-b1-opinions-16",
+        "nl-b1-opinions-17",
+        "nl-b1-opinions-18",
+        "nl-b1-opinions-19",
+        "nl-b1-opinions-20"
+      ],
+      "title": "表达观点与理由 · 第2小节",
+      "minutes": 23,
+      "skill": {
+        "kind": "reading",
+        "id": "nl-b1-reading-12",
+        "title": "阅读 · 为重要的事情留出空间"
+      }
+    },
+    {
+      "id": "d227",
+      "number": 227,
+      "week": 33,
+      "weekday": 3,
+      "stage": "b1",
+      "review": false,
+      "packId": "nl-b1-opinions",
+      "offset": 20,
+      "wordIds": [
+        "nl-b1-opinions-21",
+        "nl-b1-opinions-22",
+        "nl-b1-opinions-23",
+        "nl-b1-opinions-24",
+        "nl-b1-opinions-25",
+        "nl-b1-opinions-26",
+        "nl-b1-opinions-27",
+        "nl-b1-opinions-28",
+        "nl-b1-opinions-29",
+        "nl-b1-opinions-30"
+      ],
+      "title": "表达观点与理由 · 第3小节",
+      "minutes": 23,
+      "skill": {
+        "kind": "writing",
+        "id": "b1-w12",
+        "step": "outline",
+        "title": "写作 · 为社区活动写一篇总结 · 列提纲"
+      }
+    },
+    {
+      "id": "d228",
+      "number": 228,
+      "week": 33,
+      "weekday": 4,
+      "stage": "b1",
+      "review": false,
+      "packId": "nl-b1-connectors",
+      "offset": 0,
+      "wordIds": [
+        "nl-b1-connectors-1",
+        "nl-b1-connectors-2",
+        "nl-b1-connectors-3",
+        "nl-b1-connectors-4",
+        "nl-b1-connectors-5",
+        "nl-b1-connectors-6",
+        "nl-b1-connectors-7",
+        "nl-b1-connectors-8",
+        "nl-b1-connectors-9",
+        "nl-b1-connectors-10"
+      ],
+      "title": "连接句子与思路 · 第1小节",
+      "minutes": 23,
+      "skill": {
+        "kind": "speaking",
+        "id": "b1-s01",
+        "step": "prepare",
+        "title": "口语 · 介绍自己与学习目标 · 准备要点"
+      }
+    },
+    {
+      "id": "d229",
+      "number": 229,
+      "week": 33,
+      "weekday": 5,
+      "stage": "b1",
+      "review": false,
+      "packId": "nl-b1-connectors",
+      "offset": 10,
+      "wordIds": [
+        "nl-b1-connectors-11",
+        "nl-b1-connectors-12",
+        "nl-b1-connectors-13",
+        "nl-b1-connectors-14",
+        "nl-b1-connectors-15",
+        "nl-b1-connectors-16",
+        "nl-b1-connectors-17",
+        "nl-b1-connectors-18",
+        "nl-b1-connectors-19",
+        "nl-b1-connectors-20"
+      ],
+      "title": "连接句子与思路 · 第2小节",
+      "minutes": 23,
+      "skill": {
+        "kind": "writing",
+        "id": "b1-w12",
+        "step": "draft",
+        "title": "写作 · 为社区活动写一篇总结 · 写初稿"
+      }
+    },
+    {
+      "id": "d230",
+      "number": 230,
+      "week": 33,
+      "weekday": 6,
+      "stage": "b1",
+      "review": false,
+      "packId": "nl-b1-connectors",
+      "offset": 20,
+      "wordIds": [
+        "nl-b1-connectors-21",
+        "nl-b1-connectors-22",
+        "nl-b1-connectors-23",
+        "nl-b1-connectors-24",
+        "nl-b1-connectors-25",
+        "nl-b1-connectors-26",
+        "nl-b1-connectors-27",
+        "nl-b1-connectors-28",
+        "nl-b1-connectors-29",
+        "nl-b1-connectors-30"
+      ],
+      "title": "连接句子与思路 · 第3小节",
+      "minutes": 23,
+      "skill": {
+        "kind": "speaking",
+        "id": "b1-s01",
+        "step": "speak",
+        "title": "口语 · 介绍自己与学习目标 · 开口练习"
+      }
+    },
+    {
+      "id": "d231",
+      "number": 231,
+      "week": 33,
+      "weekday": 7,
+      "stage": "b1",
+      "review": true,
+      "packId": "",
+      "offset": 0,
+      "wordIds": [],
+      "title": "本周复习与能力自检",
+      "minutes": 25,
+      "skill": {
+        "kind": "writing",
+        "id": "b1-w12",
+        "step": "revise",
+        "title": "写作 · 为社区活动写一篇总结 · 修改定稿"
+      }
+    },
+    {
+      "id": "d232",
+      "number": 232,
+      "week": 34,
+      "weekday": 1,
+      "stage": "b1",
+      "review": false,
+      "packId": "nl-b1-narrative",
+      "offset": 0,
+      "wordIds": [
+        "nl-b1-narrative-1",
+        "nl-b1-narrative-2",
+        "nl-b1-narrative-3",
+        "nl-b1-narrative-4",
+        "nl-b1-narrative-5",
+        "nl-b1-narrative-6",
+        "nl-b1-narrative-7",
+        "nl-b1-narrative-8",
+        "nl-b1-narrative-9",
+        "nl-b1-narrative-10"
+      ],
+      "title": "讲述经历与变化 · 第1小节",
+      "minutes": 23,
+      "skill": {
+        "kind": "grammar",
+        "id": "b1-g13",
+        "title": "语法 · 小词 er 的三个常见用途"
+      }
+    },
+    {
+      "id": "d233",
+      "number": 233,
+      "week": 34,
+      "weekday": 2,
+      "stage": "b1",
+      "review": false,
+      "packId": "nl-b1-narrative",
+      "offset": 10,
+      "wordIds": [
+        "nl-b1-narrative-11",
+        "nl-b1-narrative-12",
+        "nl-b1-narrative-13",
+        "nl-b1-narrative-14",
+        "nl-b1-narrative-15",
+        "nl-b1-narrative-16",
+        "nl-b1-narrative-17",
+        "nl-b1-narrative-18",
+        "nl-b1-narrative-19",
+        "nl-b1-narrative-20"
+      ],
+      "title": "讲述经历与变化 · 第2小节",
+      "minutes": 23,
+      "skill": {
+        "kind": "reading",
+        "id": "nl-b1-reading-01",
+        "title": "阅读 · 新家，新街区"
+      }
+    },
+    {
+      "id": "d234",
+      "number": 234,
+      "week": 34,
+      "weekday": 3,
+      "stage": "b1",
+      "review": false,
+      "packId": "nl-b1-narrative",
+      "offset": 20,
+      "wordIds": [
+        "nl-b1-narrative-21",
+        "nl-b1-narrative-22",
+        "nl-b1-narrative-23",
+        "nl-b1-narrative-24",
+        "nl-b1-narrative-25",
+        "nl-b1-narrative-26",
+        "nl-b1-narrative-27",
+        "nl-b1-narrative-28",
+        "nl-b1-narrative-29",
+        "nl-b1-narrative-30"
+      ],
+      "title": "讲述经历与变化 · 第3小节",
+      "minutes": 23,
+      "skill": {
+        "kind": "writing",
+        "id": "b1-w07",
+        "step": "outline",
+        "title": "写作 · 谈谈你对居家办公的看法 · 列提纲"
+      }
+    },
+    {
+      "id": "d235",
+      "number": 235,
+      "week": 34,
+      "weekday": 4,
+      "stage": "b1",
+      "review": false,
+      "packId": "nl-b1-adverbs",
+      "offset": 0,
+      "wordIds": [
+        "nl-b1-adverbs-1",
+        "nl-b1-adverbs-2",
+        "nl-b1-adverbs-3",
+        "nl-b1-adverbs-4",
+        "nl-b1-adverbs-5",
+        "nl-b1-adverbs-6",
+        "nl-b1-adverbs-7",
+        "nl-b1-adverbs-8",
+        "nl-b1-adverbs-9",
+        "nl-b1-adverbs-10"
+      ],
+      "title": "把意思说得更准确 · 第1小节",
+      "minutes": 23,
+      "skill": {
+        "kind": "speaking",
+        "id": "b1-s09",
+        "step": "prepare",
+        "title": "口语 · 比较两门语言课程 · 准备要点"
+      }
+    },
+    {
+      "id": "d236",
+      "number": 236,
+      "week": 34,
+      "weekday": 5,
+      "stage": "b1",
+      "review": false,
+      "packId": "nl-b1-adverbs",
+      "offset": 10,
+      "wordIds": [
+        "nl-b1-adverbs-11",
+        "nl-b1-adverbs-12",
+        "nl-b1-adverbs-13",
+        "nl-b1-adverbs-14",
+        "nl-b1-adverbs-15",
+        "nl-b1-adverbs-16",
+        "nl-b1-adverbs-17",
+        "nl-b1-adverbs-18",
+        "nl-b1-adverbs-19",
+        "nl-b1-adverbs-20"
+      ],
+      "title": "把意思说得更准确 · 第2小节",
+      "minutes": 23,
+      "skill": {
+        "kind": "writing",
+        "id": "b1-w07",
+        "step": "draft",
+        "title": "写作 · 谈谈你对居家办公的看法 · 写初稿"
+      }
+    },
+    {
+      "id": "d237",
+      "number": 237,
+      "week": 34,
+      "weekday": 6,
+      "stage": "b1",
+      "review": false,
+      "packId": "nl-b1-adverbs",
+      "offset": 20,
+      "wordIds": [
+        "nl-b1-adverbs-21",
+        "nl-b1-adverbs-22",
+        "nl-b1-adverbs-23",
+        "nl-b1-adverbs-24",
+        "nl-b1-adverbs-25",
+        "nl-b1-adverbs-26",
+        "nl-b1-adverbs-27",
+        "nl-b1-adverbs-28",
+        "nl-b1-adverbs-29",
+        "nl-b1-adverbs-30"
+      ],
+      "title": "把意思说得更准确 · 第3小节",
+      "minutes": 23,
+      "skill": {
+        "kind": "speaking",
+        "id": "b1-s09",
+        "step": "speak",
+        "title": "口语 · 比较两门语言课程 · 开口练习"
+      }
+    },
+    {
+      "id": "d238",
+      "number": 238,
+      "week": 34,
+      "weekday": 7,
+      "stage": "b1",
+      "review": true,
+      "packId": "",
+      "offset": 0,
+      "wordIds": [],
+      "title": "本周复习与能力自检",
+      "minutes": 25,
+      "skill": {
+        "kind": "writing",
+        "id": "b1-w07",
+        "step": "revise",
+        "title": "写作 · 谈谈你对居家办公的看法 · 修改定稿"
+      }
+    },
+    {
+      "id": "d239",
+      "number": 239,
+      "week": 35,
+      "weekday": 1,
+      "stage": "b1",
+      "review": false,
+      "packId": "nl-b1-separable",
+      "offset": 0,
+      "wordIds": [
+        "nl-b1-separable-1",
+        "nl-b1-separable-2",
+        "nl-b1-separable-3",
+        "nl-b1-separable-4",
+        "nl-b1-separable-5",
+        "nl-b1-separable-6",
+        "nl-b1-separable-7",
+        "nl-b1-separable-8",
+        "nl-b1-separable-9",
+        "nl-b1-separable-10"
+      ],
+      "title": "可分动词的实际用法 · 第1小节",
+      "minutes": 23,
+      "skill": {
+        "kind": "grammar",
+        "id": "b1-g14",
+        "title": "语法 · 介词搭配与 erop、eraan"
+      }
+    },
+    {
+      "id": "d240",
+      "number": 240,
+      "week": 35,
+      "weekday": 2,
+      "stage": "b1",
+      "review": false,
+      "packId": "nl-b1-separable",
+      "offset": 10,
+      "wordIds": [
+        "nl-b1-separable-11",
+        "nl-b1-separable-12",
+        "nl-b1-separable-13",
+        "nl-b1-separable-14",
+        "nl-b1-separable-15",
+        "nl-b1-separable-16",
+        "nl-b1-separable-17",
+        "nl-b1-separable-18",
+        "nl-b1-separable-19",
+        "nl-b1-separable-20"
+      ],
+      "title": "可分动词的实际用法 · 第2小节",
+      "minutes": 23,
+      "skill": {
+        "kind": "reading",
+        "id": "nl-b1-reading-02",
+        "title": "阅读 · 更平衡的工作周"
+      }
+    },
+    {
+      "id": "d241",
+      "number": 241,
+      "week": 35,
+      "weekday": 3,
+      "stage": "b1",
+      "review": false,
+      "packId": "nl-b1-separable",
+      "offset": 20,
+      "wordIds": [
+        "nl-b1-separable-21",
+        "nl-b1-separable-22",
+        "nl-b1-separable-23",
+        "nl-b1-separable-24",
+        "nl-b1-separable-25",
+        "nl-b1-separable-26",
+        "nl-b1-separable-27",
+        "nl-b1-separable-28",
+        "nl-b1-separable-29",
+        "nl-b1-separable-30"
+      ],
+      "title": "可分动词的实际用法 · 第3小节",
+      "minutes": 23,
+      "skill": {
+        "kind": "writing",
+        "id": "b1-w10",
+        "step": "outline",
+        "title": "写作 · 礼貌表达不同意见 · 列提纲"
+      }
+    },
+    {
+      "id": "d242",
+      "number": 242,
+      "week": 35,
+      "weekday": 4,
+      "stage": "b1",
+      "review": false,
+      "packId": "nl-b1-reflexive",
+      "offset": 0,
+      "wordIds": [
+        "nl-b1-reflexive-1",
+        "nl-b1-reflexive-2",
+        "nl-b1-reflexive-3",
+        "nl-b1-reflexive-4",
+        "nl-b1-reflexive-5",
+        "nl-b1-reflexive-6",
+        "nl-b1-reflexive-7",
+        "nl-b1-reflexive-8",
+        "nl-b1-reflexive-9",
+        "nl-b1-reflexive-10"
+      ],
+      "title": "自己与彼此 · 第1小节",
+      "minutes": 23,
+      "skill": {
+        "kind": "speaking",
+        "id": "b1-s11",
+        "step": "prepare",
+        "title": "口语 · 在团队中提出折中建议 · 准备要点"
+      }
+    },
+    {
+      "id": "d243",
+      "number": 243,
+      "week": 35,
+      "weekday": 5,
+      "stage": "b1",
+      "review": false,
+      "packId": "nl-b1-reflexive",
+      "offset": 10,
+      "wordIds": [
+        "nl-b1-reflexive-11",
+        "nl-b1-reflexive-12",
+        "nl-b1-reflexive-13",
+        "nl-b1-reflexive-14",
+        "nl-b1-reflexive-15",
+        "nl-b1-reflexive-16",
+        "nl-b1-reflexive-17",
+        "nl-b1-reflexive-18",
+        "nl-b1-reflexive-19",
+        "nl-b1-reflexive-20"
+      ],
+      "title": "自己与彼此 · 第2小节",
+      "minutes": 23,
+      "skill": {
+        "kind": "writing",
+        "id": "b1-w10",
+        "step": "draft",
+        "title": "写作 · 礼貌表达不同意见 · 写初稿"
+      }
+    },
+    {
+      "id": "d244",
+      "number": 244,
+      "week": 35,
+      "weekday": 6,
+      "stage": "b1",
+      "review": false,
+      "packId": "nl-b1-reflexive",
+      "offset": 20,
+      "wordIds": [
+        "nl-b1-reflexive-21",
+        "nl-b1-reflexive-22",
+        "nl-b1-reflexive-23",
+        "nl-b1-reflexive-24",
+        "nl-b1-reflexive-25",
+        "nl-b1-reflexive-26",
+        "nl-b1-reflexive-27",
+        "nl-b1-reflexive-28",
+        "nl-b1-reflexive-29",
+        "nl-b1-reflexive-30"
+      ],
+      "title": "自己与彼此 · 第3小节",
+      "minutes": 23,
+      "skill": {
+        "kind": "speaking",
+        "id": "b1-s11",
+        "step": "speak",
+        "title": "口语 · 在团队中提出折中建议 · 开口练习"
+      }
+    },
+    {
+      "id": "d245",
+      "number": 245,
+      "week": 35,
+      "weekday": 7,
+      "stage": "b1",
+      "review": true,
+      "packId": "",
+      "offset": 0,
+      "wordIds": [],
+      "title": "本周复习与能力自检",
+      "minutes": 25,
+      "skill": {
+        "kind": "writing",
+        "id": "b1-w10",
+        "step": "revise",
+        "title": "写作 · 礼貌表达不同意见 · 修改定稿"
+      }
+    },
+    {
+      "id": "d246",
+      "number": 246,
+      "week": 36,
+      "weekday": 1,
+      "stage": "b1",
+      "review": false,
+      "packId": "nl-b1-prepositions",
+      "offset": 0,
+      "wordIds": [
+        "nl-b1-prepositions-1",
+        "nl-b1-prepositions-2",
+        "nl-b1-prepositions-3",
+        "nl-b1-prepositions-4",
+        "nl-b1-prepositions-5",
+        "nl-b1-prepositions-6",
+        "nl-b1-prepositions-7",
+        "nl-b1-prepositions-8",
+        "nl-b1-prepositions-9",
+        "nl-b1-prepositions-10"
+      ],
+      "title": "固定介词搭配 · 第1小节",
+      "minutes": 23,
+      "skill": {
+        "kind": "grammar",
+        "id": "b1-g15",
+        "title": "语法 · 礼貌询问与间接问句"
+      }
+    },
+    {
+      "id": "d247",
+      "number": 247,
+      "week": 36,
+      "weekday": 2,
+      "stage": "b1",
+      "review": false,
+      "packId": "nl-b1-prepositions",
+      "offset": 10,
+      "wordIds": [
+        "nl-b1-prepositions-11",
+        "nl-b1-prepositions-12",
+        "nl-b1-prepositions-13",
+        "nl-b1-prepositions-14",
+        "nl-b1-prepositions-15",
+        "nl-b1-prepositions-16",
+        "nl-b1-prepositions-17",
+        "nl-b1-prepositions-18",
+        "nl-b1-prepositions-19",
+        "nl-b1-prepositions-20"
+      ],
+      "title": "固定介词搭配 · 第2小节",
+      "minutes": 23,
+      "skill": {
+        "kind": "reading",
+        "id": "nl-b1-reading-03",
+        "title": "阅读 · 换一条路线赴约"
+      }
+    },
+    {
+      "id": "d248",
+      "number": 248,
+      "week": 36,
+      "weekday": 3,
+      "stage": "b1",
+      "review": false,
+      "packId": "nl-b1-prepositions",
+      "offset": 20,
+      "wordIds": [
+        "nl-b1-prepositions-21",
+        "nl-b1-prepositions-22",
+        "nl-b1-prepositions-23",
+        "nl-b1-prepositions-24",
+        "nl-b1-prepositions-25",
+        "nl-b1-prepositions-26",
+        "nl-b1-prepositions-27",
+        "nl-b1-prepositions-28",
+        "nl-b1-prepositions-29",
+        "nl-b1-prepositions-30"
+      ],
+      "title": "固定介词搭配 · 第3小节",
+      "minutes": 23,
+      "skill": {
+        "kind": "writing",
+        "id": "b1-w12",
+        "step": "outline",
+        "title": "写作 · 为社区活动写一篇总结 · 列提纲"
+      }
+    },
+    {
+      "id": "d249",
+      "number": 249,
+      "week": 36,
+      "weekday": 4,
+      "stage": "b1",
+      "review": false,
+      "packId": "nl-b1-services",
+      "offset": 0,
+      "wordIds": [
+        "nl-b1-services-1",
+        "nl-b1-services-2",
+        "nl-b1-services-3",
+        "nl-b1-services-4",
+        "nl-b1-services-5",
+        "nl-b1-services-6",
+        "nl-b1-services-7",
+        "nl-b1-services-8",
+        "nl-b1-services-9",
+        "nl-b1-services-10"
+      ],
+      "title": "城市服务与意外情况 · 第1小节",
+      "minutes": 23,
+      "skill": {
+        "kind": "speaking",
+        "id": "b1-s12",
+        "step": "prepare",
+        "title": "口语 · 讨论网上信息与判断依据 · 准备要点"
+      }
+    },
+    {
+      "id": "d250",
+      "number": 250,
+      "week": 36,
+      "weekday": 5,
+      "stage": "b1",
+      "review": false,
+      "packId": "nl-b1-services",
+      "offset": 10,
+      "wordIds": [
+        "nl-b1-services-11",
+        "nl-b1-services-12",
+        "nl-b1-services-13",
+        "nl-b1-services-14",
+        "nl-b1-services-15",
+        "nl-b1-services-16",
+        "nl-b1-services-17",
+        "nl-b1-services-18",
+        "nl-b1-services-19",
+        "nl-b1-services-20"
+      ],
+      "title": "城市服务与意外情况 · 第2小节",
+      "minutes": 23,
+      "skill": {
+        "kind": "writing",
+        "id": "b1-w12",
+        "step": "draft",
+        "title": "写作 · 为社区活动写一篇总结 · 写初稿"
+      }
+    },
+    {
+      "id": "d251",
+      "number": 251,
+      "week": 36,
+      "weekday": 6,
+      "stage": "b1",
+      "review": false,
+      "packId": "nl-b1-services",
+      "offset": 20,
+      "wordIds": [
+        "nl-b1-services-21",
+        "nl-b1-services-22",
+        "nl-b1-services-23",
+        "nl-b1-services-24",
+        "nl-b1-services-25",
+        "nl-b1-services-26",
+        "nl-b1-services-27",
+        "nl-b1-services-28",
+        "nl-b1-services-29",
+        "nl-b1-services-30"
+      ],
+      "title": "城市服务与意外情况 · 第3小节",
+      "minutes": 23,
+      "skill": {
+        "kind": "grammar",
+        "id": "b1-g16",
+        "title": "语法 · 比较与形容词词尾"
+      }
+    },
+    {
+      "id": "d252",
+      "number": 252,
+      "week": 36,
+      "weekday": 7,
+      "stage": "b1",
+      "review": true,
+      "packId": "",
+      "offset": 0,
+      "wordIds": [],
+      "title": "本周复习与能力自检",
+      "minutes": 25,
+      "skill": {
+        "kind": "writing",
+        "id": "b1-w12",
+        "step": "revise",
+        "title": "写作 · 为社区活动写一篇总结 · 修改定稿"
+      }
+    }
+  ],
+  "weeks": [
+    {
+      "number": 1,
+      "stage": "foundation",
+      "title": "初次见面与自我介绍",
+      "packIds": [
+        "nl-basics",
+        "nl-a1-profile"
+      ],
+      "dayIds": [
+        "d001",
+        "d002",
+        "d003",
+        "d004",
+        "d005",
+        "d006",
+        "d007"
+      ],
+      "checkpoint": false,
+      "criteria": [
+        "不看范文介绍自己、家人和一天安排。",
+        "能听懂简短问候、价格、时间与方向。",
+        "用完整短句提问，并使用常见冠词和动词。",
+        "写出 5 句有关自己生活的荷兰语。"
+      ]
+    },
+    {
+      "number": 2,
+      "stage": "foundation",
+      "title": "一天的生活与家人",
+      "packIds": [
+        "nl-a1-routines",
+        "nl-home"
+      ],
+      "dayIds": [
+        "d008",
+        "d009",
+        "d010",
+        "d011",
+        "d012",
+        "d013",
+        "d014"
+      ],
+      "checkpoint": false,
+      "criteria": [
+        "不看范文介绍自己、家人和一天安排。",
+        "能听懂简短问候、价格、时间与方向。",
+        "用完整短句提问，并使用常见冠词和动词。",
+        "写出 5 句有关自己生活的荷兰语。"
+      ]
+    },
+    {
+      "number": 3,
+      "stage": "foundation",
+      "title": "从房间走进厨房",
+      "packIds": [
+        "nl-a1-rooms",
+        "nl-a1-kitchen"
+      ],
+      "dayIds": [
+        "d015",
+        "d016",
+        "d017",
+        "d018",
+        "d019",
+        "d020",
+        "d021"
+      ],
+      "checkpoint": false,
+      "criteria": [
+        "不看范文介绍自己、家人和一天安排。",
+        "能听懂简短问候、价格、时间与方向。",
+        "用完整短句提问，并使用常见冠词和动词。",
+        "写出 5 句有关自己生活的荷兰语。"
+      ]
+    },
+    {
+      "number": 4,
+      "stage": "foundation",
+      "title": "吃什么，买什么",
+      "packIds": [
+        "nl-food",
+        "nl-a1-produce"
+      ],
+      "dayIds": [
+        "d022",
+        "d023",
+        "d024",
+        "d025",
+        "d026",
+        "d027",
+        "d028"
+      ],
+      "checkpoint": false,
+      "criteria": [
+        "不看范文介绍自己、家人和一天安排。",
+        "能听懂简短问候、价格、时间与方向。",
+        "用完整短句提问，并使用常见冠词和动词。",
+        "写出 5 句有关自己生活的荷兰语。"
+      ]
+    },
+    {
+      "number": 5,
+      "stage": "foundation",
+      "title": "在超市与衣柜前",
+      "packIds": [
+        "nl-a1-supermarket",
+        "nl-a1-clothing"
+      ],
+      "dayIds": [
+        "d029",
+        "d030",
+        "d031",
+        "d032",
+        "d033",
+        "d034",
+        "d035"
+      ],
+      "checkpoint": false,
+      "criteria": [
+        "不看范文介绍自己、家人和一天安排。",
+        "能听懂简短问候、价格、时间与方向。",
+        "用完整短句提问，并使用常见冠词和动词。",
+        "写出 5 句有关自己生活的荷兰语。"
+      ]
+    },
+    {
+      "number": 6,
+      "stage": "foundation",
+      "title": "时间、月份与季节",
+      "packIds": [
+        "nl-time",
+        "nl-a1-calendar"
+      ],
+      "dayIds": [
+        "d036",
+        "d037",
+        "d038",
+        "d039",
+        "d040",
+        "d041",
+        "d042"
+      ],
+      "checkpoint": false,
+      "criteria": [
+        "不看范文介绍自己、家人和一天安排。",
+        "能听懂简短问候、价格、时间与方向。",
+        "用完整短句提问，并使用常见冠词和动词。",
+        "写出 5 句有关自己生活的荷兰语。"
+      ]
+    },
+    {
+      "number": 7,
+      "stage": "foundation",
+      "title": "照顾自己，说明位置",
+      "packIds": [
+        "nl-a1-care",
+        "nl-a1-directions"
+      ],
+      "dayIds": [
+        "d043",
+        "d044",
+        "d045",
+        "d046",
+        "d047",
+        "d048",
+        "d049"
+      ],
+      "checkpoint": false,
+      "criteria": [
+        "不看范文介绍自己、家人和一天安排。",
+        "能听懂简短问候、价格、时间与方向。",
+        "用完整短句提问，并使用常见冠词和动词。",
+        "写出 5 句有关自己生活的荷兰语。"
+      ]
+    },
+    {
+      "number": 8,
+      "stage": "foundation",
+      "title": "出门与认识周围",
+      "packIds": [
+        "nl-travel",
+        "nl-a1-nature"
+      ],
+      "dayIds": [
+        "d050",
+        "d051",
+        "d052",
+        "d053",
+        "d054",
+        "d055",
+        "d056"
+      ],
+      "checkpoint": false,
+      "criteria": [
+        "不看范文介绍自己、家人和一天安排。",
+        "能听懂简短问候、价格、时间与方向。",
+        "用完整短句提问，并使用常见冠词和动词。",
+        "写出 5 句有关自己生活的荷兰语。"
+      ]
+    },
+    {
+      "number": 9,
+      "stage": "foundation",
+      "title": "学校与在荷兰的生活",
+      "packIds": [
+        "nl-a1-school",
+        "nl-life"
+      ],
+      "dayIds": [
+        "d057",
+        "d058",
+        "d059",
+        "d060",
+        "d061",
+        "d062",
+        "d063"
+      ],
+      "checkpoint": true,
+      "criteria": [
+        "不看范文介绍自己、家人和一天安排。",
+        "能听懂简短问候、价格、时间与方向。",
+        "用完整短句提问，并使用常见冠词和动词。",
+        "写出 5 句有关自己生活的荷兰语。"
+      ]
+    },
+    {
+      "number": 10,
+      "stage": "bridge",
+      "title": "说清动作，继续学习",
+      "packIds": [
+        "nl-b1-verbs",
+        "nl-a2-classroom"
+      ],
+      "dayIds": [
+        "d064",
+        "d065",
+        "d066",
+        "d067",
+        "d068",
+        "d069",
+        "d070"
+      ],
+      "checkpoint": false,
+      "criteria": [
+        "用过去时或完成时讲述昨天发生的事。",
+        "能在预约、租房或购物情境中说明需要。",
+        "听完短对话后说出人物、时间与主要信息。",
+        "能写 60–80 词、有开头和结尾的生活消息。"
+      ]
+    },
+    {
+      "number": 11,
+      "stage": "bridge",
+      "title": "描述变化与兴趣",
+      "packIds": [
+        "nl-b1-describing",
+        "nl-a2-hobbies"
+      ],
+      "dayIds": [
+        "d071",
+        "d072",
+        "d073",
+        "d074",
+        "d075",
+        "d076",
+        "d077"
+      ],
+      "checkpoint": false,
+      "criteria": [
+        "用过去时或完成时讲述昨天发生的事。",
+        "能在预约、租房或购物情境中说明需要。",
+        "听完短对话后说出人物、时间与主要信息。",
+        "能写 60–80 词、有开头和结尾的生活消息。"
+      ]
+    },
+    {
+      "number": 12,
+      "stage": "bridge",
+      "title": "饮食习惯与运动",
+      "packIds": [
+        "nl-b1-habits",
+        "nl-a2-sports"
+      ],
+      "dayIds": [
+        "d078",
+        "d079",
+        "d080",
+        "d081",
+        "d082",
+        "d083",
+        "d084"
+      ],
+      "checkpoint": false,
+      "criteria": [
+        "用过去时或完成时讲述昨天发生的事。",
+        "能在预约、租房或购物情境中说明需要。",
+        "听完短对话后说出人物、时间与主要信息。",
+        "能写 60–80 词、有开头和结尾的生活消息。"
+      ]
+    },
+    {
+      "number": 13,
+      "stage": "bridge",
+      "title": "点餐与招待朋友",
+      "packIds": [
+        "nl-a2-dining",
+        "nl-a2-hosting"
+      ],
+      "dayIds": [
+        "d085",
+        "d086",
+        "d087",
+        "d088",
+        "d089",
+        "d090",
+        "d091"
+      ],
+      "checkpoint": false,
+      "criteria": [
+        "用过去时或完成时讲述昨天发生的事。",
+        "能在预约、租房或购物情境中说明需要。",
+        "听完短对话后说出人物、时间与主要信息。",
+        "能写 60–80 词、有开头和结尾的生活消息。"
+      ]
+    },
+    {
+      "number": 14,
+      "stage": "bridge",
+      "title": "手机沟通与邮寄",
+      "packIds": [
+        "nl-a2-phone",
+        "nl-a2-post"
+      ],
+      "dayIds": [
+        "d092",
+        "d093",
+        "d094",
+        "d095",
+        "d096",
+        "d097",
+        "d098"
+      ],
+      "checkpoint": false,
+      "criteria": [
+        "用过去时或完成时讲述昨天发生的事。",
+        "能在预约、租房或购物情境中说明需要。",
+        "听完短对话后说出人物、时间与主要信息。",
+        "能写 60–80 词、有开头和结尾的生活消息。"
+      ]
+    },
+    {
+      "number": 15,
+      "stage": "bridge",
+      "title": "城市设施与找路",
+      "packIds": [
+        "nl-a2-facilities",
+        "nl-a2-geography"
+      ],
+      "dayIds": [
+        "d099",
+        "d100",
+        "d101",
+        "d102",
+        "d103",
+        "d104",
+        "d105"
+      ],
+      "checkpoint": false,
+      "criteria": [
+        "用过去时或完成时讲述昨天发生的事。",
+        "能在预约、租房或购物情境中说明需要。",
+        "听完短对话后说出人物、时间与主要信息。",
+        "能写 60–80 词、有开头和结尾的生活消息。"
+      ]
+    },
+    {
+      "number": 16,
+      "stage": "bridge",
+      "title": "搭车和短途出游",
+      "packIds": [
+        "nl-a2-transit",
+        "nl-a2-outings"
+      ],
+      "dayIds": [
+        "d106",
+        "d107",
+        "d108",
+        "d109",
+        "d110",
+        "d111",
+        "d112"
+      ],
+      "checkpoint": false,
+      "criteria": [
+        "用过去时或完成时讲述昨天发生的事。",
+        "能在预约、租房或购物情境中说明需要。",
+        "听完短对话后说出人物、时间与主要信息。",
+        "能写 60–80 词、有开头和结尾的生活消息。"
+      ]
+    },
+    {
+      "number": 17,
+      "stage": "bridge",
+      "title": "住宿和预约安排",
+      "packIds": [
+        "nl-a2-hotel",
+        "nl-a2-appointments"
+      ],
+      "dayIds": [
+        "d113",
+        "d114",
+        "d115",
+        "d116",
+        "d117",
+        "d118",
+        "d119"
+      ],
+      "checkpoint": false,
+      "criteria": [
+        "用过去时或完成时讲述昨天发生的事。",
+        "能在预约、租房或购物情境中说明需要。",
+        "听完短对话后说出人物、时间与主要信息。",
+        "能写 60–80 词、有开头和结尾的生活消息。"
+      ]
+    },
+    {
+      "number": 18,
+      "stage": "bridge",
+      "title": "药房沟通与安全表达",
+      "packIds": [
+        "nl-a2-pharmacy",
+        "nl-a2-safety"
+      ],
+      "dayIds": [
+        "d120",
+        "d121",
+        "d122",
+        "d123",
+        "d124",
+        "d125",
+        "d126"
+      ],
+      "checkpoint": false,
+      "criteria": [
+        "用过去时或完成时讲述昨天发生的事。",
+        "能在预约、租房或购物情境中说明需要。",
+        "听完短对话后说出人物、时间与主要信息。",
+        "能写 60–80 词、有开头和结尾的生活消息。"
+      ]
+    },
+    {
+      "number": 19,
+      "stage": "bridge",
+      "title": "租房与维修细节",
+      "packIds": [
+        "nl-b1-maintenance",
+        "nl-a2-renting"
+      ],
+      "dayIds": [
+        "d127",
+        "d128",
+        "d129",
+        "d130",
+        "d131",
+        "d132",
+        "d133"
+      ],
+      "checkpoint": false,
+      "criteria": [
+        "用过去时或完成时讲述昨天发生的事。",
+        "能在预约、租房或购物情境中说明需要。",
+        "听完短对话后说出人物、时间与主要信息。",
+        "能写 60–80 词、有开头和结尾的生活消息。"
+      ]
+    },
+    {
+      "number": 20,
+      "stage": "bridge",
+      "title": "邀请与庆祝",
+      "packIds": [
+        "nl-a2-social",
+        "nl-a2-celebrations"
+      ],
+      "dayIds": [
+        "d134",
+        "d135",
+        "d136",
+        "d137",
+        "d138",
+        "d139",
+        "d140"
+      ],
+      "checkpoint": false,
+      "criteria": [
+        "用过去时或完成时讲述昨天发生的事。",
+        "能在预约、租房或购物情境中说明需要。",
+        "听完短对话后说出人物、时间与主要信息。",
+        "能写 60–80 词、有开头和结尾的生活消息。"
+      ]
+    },
+    {
+      "number": 21,
+      "stage": "bridge",
+      "title": "账单与处理小意外",
+      "packIds": [
+        "nl-a2-payments",
+        "nl-a2-lost"
+      ],
+      "dayIds": [
+        "d141",
+        "d142",
+        "d143",
+        "d144",
+        "d145",
+        "d146",
+        "d147"
+      ],
+      "checkpoint": true,
+      "criteria": [
+        "用过去时或完成时讲述昨天发生的事。",
+        "能在预约、租房或购物情境中说明需要。",
+        "听完短对话后说出人物、时间与主要信息。",
+        "能写 60–80 词、有开头和结尾的生活消息。"
+      ]
+    },
+    {
+      "number": 22,
+      "stage": "b1",
+      "title": "住房与合住协商",
+      "packIds": [
+        "nl-b1-housing",
+        "nl-b1-housemates"
+      ],
+      "dayIds": [
+        "d148",
+        "d149",
+        "d150",
+        "d151",
+        "d152",
+        "d153",
+        "d154"
+      ],
+      "checkpoint": false,
+      "criteria": [
+        "读完约 180–220 词的材料，说明主旨和两个细节。",
+        "不看范文连续说约 90 秒，给出理由和例子。",
+        "独立写出 100–150 词、意思连贯的邮件或短文。",
+        "在真实交流中能追问、澄清和回应不同意见。"
+      ]
+    },
+    {
+      "number": 23,
+      "stage": "b1",
+      "title": "求职与职场沟通",
+      "packIds": [
+        "nl-b1-employment",
+        "nl-b1-workplace"
+      ],
+      "dayIds": [
+        "d155",
+        "d156",
+        "d157",
+        "d158",
+        "d159",
+        "d160",
+        "d161"
+      ],
+      "checkpoint": false,
+      "criteria": [
+        "读完约 180–220 词的材料，说明主旨和两个细节。",
+        "不看范文连续说约 90 秒，给出理由和例子。",
+        "独立写出 100–150 词、意思连贯的邮件或短文。",
+        "在真实交流中能追问、澄清和回应不同意见。"
+      ]
+    },
+    {
+      "number": 24,
+      "stage": "b1",
+      "title": "项目计划与交付",
+      "packIds": [
+        "nl-b1-projects",
+        "nl-b1-logistics"
+      ],
+      "dayIds": [
+        "d162",
+        "d163",
+        "d164",
+        "d165",
+        "d166",
+        "d167",
+        "d168"
+      ],
+      "checkpoint": false,
+      "criteria": [
+        "读完约 180–220 词的材料，说明主旨和两个细节。",
+        "不看范文连续说约 90 秒，给出理由和例子。",
+        "独立写出 100–150 词、意思连贯的邮件或短文。",
+        "在真实交流中能追问、澄清和回应不同意见。"
+      ]
+    },
+    {
+      "number": 25,
+      "stage": "b1",
+      "title": "学习、成长与融入",
+      "packIds": [
+        "nl-b1-education",
+        "nl-b1-integration"
+      ],
+      "dayIds": [
+        "d169",
+        "d170",
+        "d171",
+        "d172",
+        "d173",
+        "d174",
+        "d175"
+      ],
+      "checkpoint": false,
+      "criteria": [
+        "读完约 180–220 词的材料，说明主旨和两个细节。",
+        "不看范文连续说约 90 秒，给出理由和例子。",
+        "独立写出 100–150 词、意思连贯的邮件或短文。",
+        "在真实交流中能追问、澄清和回应不同意见。"
+      ]
+    },
+    {
+      "number": 26,
+      "stage": "b1",
+      "title": "身体感受与情绪",
+      "packIds": [
+        "nl-b1-health",
+        "nl-b1-feelings"
+      ],
+      "dayIds": [
+        "d176",
+        "d177",
+        "d178",
+        "d179",
+        "d180",
+        "d181",
+        "d182"
+      ],
+      "checkpoint": false,
+      "criteria": [
+        "读完约 180–220 词的材料，说明主旨和两个细节。",
+        "不看范文连续说约 90 秒，给出理由和例子。",
+        "独立写出 100–150 词、意思连贯的邮件或短文。",
+        "在真实交流中能追问、澄清和回应不同意见。"
+      ]
+    },
+    {
+      "number": 27,
+      "stage": "b1",
+      "title": "社区参与与办事",
+      "packIds": [
+        "nl-b1-community",
+        "nl-b1-administration"
+      ],
+      "dayIds": [
+        "d183",
+        "d184",
+        "d185",
+        "d186",
+        "d187",
+        "d188",
+        "d189"
+      ],
+      "checkpoint": false,
+      "criteria": [
+        "读完约 180–220 词的材料，说明主旨和两个细节。",
+        "不看范文连续说约 90 秒，给出理由和例子。",
+        "独立写出 100–150 词、意思连贯的邮件或短文。",
+        "在真实交流中能追问、澄清和回应不同意见。"
+      ]
+    },
+    {
+      "number": 28,
+      "stage": "b1",
+      "title": "预算与消费选择",
+      "packIds": [
+        "nl-b1-finance",
+        "nl-b1-consumer"
+      ],
+      "dayIds": [
+        "d190",
+        "d191",
+        "d192",
+        "d193",
+        "d194",
+        "d195",
+        "d196"
+      ],
+      "checkpoint": false,
+      "criteria": [
+        "读完约 180–220 词的材料，说明主旨和两个细节。",
+        "不看范文连续说约 90 秒，给出理由和例子。",
+        "独立写出 100–150 词、意思连贯的邮件或短文。",
+        "在真实交流中能追问、澄清和回应不同意见。"
+      ]
+    },
+    {
+      "number": 29,
+      "stage": "b1",
+      "title": "线上工具与信息判断",
+      "packIds": [
+        "nl-b1-digital",
+        "nl-b1-media"
+      ],
+      "dayIds": [
+        "d197",
+        "d198",
+        "d199",
+        "d200",
+        "d201",
+        "d202",
+        "d203"
+      ],
+      "checkpoint": false,
+      "criteria": [
+        "读完约 180–220 词的材料，说明主旨和两个细节。",
+        "不看范文连续说约 90 秒，给出理由和例子。",
+        "独立写出 100–150 词、意思连贯的邮件或短文。",
+        "在真实交流中能追问、澄清和回应不同意见。"
+      ]
+    },
+    {
+      "number": 30,
+      "stage": "b1",
+      "title": "环境与自然景观",
+      "packIds": [
+        "nl-b1-environment",
+        "nl-b1-landscape"
+      ],
+      "dayIds": [
+        "d204",
+        "d205",
+        "d206",
+        "d207",
+        "d208",
+        "d209",
+        "d210"
+      ],
+      "checkpoint": false,
+      "criteria": [
+        "读完约 180–220 词的材料，说明主旨和两个细节。",
+        "不看范文连续说约 90 秒，给出理由和例子。",
+        "独立写出 100–150 词、意思连贯的邮件或短文。",
+        "在真实交流中能追问、澄清和回应不同意见。"
+      ]
+    },
+    {
+      "number": 31,
+      "stage": "b1",
+      "title": "交通与旅行安排",
+      "packIds": [
+        "nl-b1-traffic",
+        "nl-b1-accommodation"
+      ],
+      "dayIds": [
+        "d211",
+        "d212",
+        "d213",
+        "d214",
+        "d215",
+        "d216",
+        "d217"
+      ],
+      "checkpoint": false,
+      "criteria": [
+        "读完约 180–220 词的材料，说明主旨和两个细节。",
+        "不看范文连续说约 90 秒，给出理由和例子。",
+        "独立写出 100–150 词、意思连贯的邮件或短文。",
+        "在真实交流中能追问、澄清和回应不同意见。"
+      ]
+    },
+    {
+      "number": 32,
+      "stage": "b1",
+      "title": "文化生活与规则",
+      "packIds": [
+        "nl-b1-culture",
+        "nl-b1-rights"
+      ],
+      "dayIds": [
+        "d218",
+        "d219",
+        "d220",
+        "d221",
+        "d222",
+        "d223",
+        "d224"
+      ],
+      "checkpoint": false,
+      "criteria": [
+        "读完约 180–220 词的材料，说明主旨和两个细节。",
+        "不看范文连续说约 90 秒，给出理由和例子。",
+        "独立写出 100–150 词、意思连贯的邮件或短文。",
+        "在真实交流中能追问、澄清和回应不同意见。"
+      ]
+    },
+    {
+      "number": 33,
+      "stage": "b1",
+      "title": "观点、理由与连接",
+      "packIds": [
+        "nl-b1-opinions",
+        "nl-b1-connectors"
+      ],
+      "dayIds": [
+        "d225",
+        "d226",
+        "d227",
+        "d228",
+        "d229",
+        "d230",
+        "d231"
+      ],
+      "checkpoint": false,
+      "criteria": [
+        "读完约 180–220 词的材料，说明主旨和两个细节。",
+        "不看范文连续说约 90 秒，给出理由和例子。",
+        "独立写出 100–150 词、意思连贯的邮件或短文。",
+        "在真实交流中能追问、澄清和回应不同意见。"
+      ]
+    },
+    {
+      "number": 34,
+      "stage": "b1",
+      "title": "把经历讲得连贯",
+      "packIds": [
+        "nl-b1-narrative",
+        "nl-b1-adverbs"
+      ],
+      "dayIds": [
+        "d232",
+        "d233",
+        "d234",
+        "d235",
+        "d236",
+        "d237",
+        "d238"
+      ],
+      "checkpoint": false,
+      "criteria": [
+        "读完约 180–220 词的材料，说明主旨和两个细节。",
+        "不看范文连续说约 90 秒，给出理由和例子。",
+        "独立写出 100–150 词、意思连贯的邮件或短文。",
+        "在真实交流中能追问、澄清和回应不同意见。"
+      ]
+    },
+    {
+      "number": 35,
+      "stage": "b1",
+      "title": "动词在真实句子里",
+      "packIds": [
+        "nl-b1-separable",
+        "nl-b1-reflexive"
+      ],
+      "dayIds": [
+        "d239",
+        "d240",
+        "d241",
+        "d242",
+        "d243",
+        "d244",
+        "d245"
+      ],
+      "checkpoint": false,
+      "criteria": [
+        "读完约 180–220 词的材料，说明主旨和两个细节。",
+        "不看范文连续说约 90 秒，给出理由和例子。",
+        "独立写出 100–150 词、意思连贯的邮件或短文。",
+        "在真实交流中能追问、澄清和回应不同意见。"
+      ]
+    },
+    {
+      "number": 36,
+      "stage": "b1",
+      "title": "综合应用与 B1 自检",
+      "packIds": [
+        "nl-b1-prepositions",
+        "nl-b1-services"
+      ],
+      "dayIds": [
+        "d246",
+        "d247",
+        "d248",
+        "d249",
+        "d250",
+        "d251",
+        "d252"
+      ],
+      "checkpoint": true,
+      "criteria": [
+        "读完约 180–220 词的材料，说明主旨和两个细节。",
+        "不看范文连续说约 90 秒，给出理由和例子。",
+        "独立写出 100–150 词、意思连贯的邮件或短文。",
+        "在真实交流中能追问、澄清和回应不同意见。"
+      ]
+    }
+  ],
+  "phases": [
+    {
+      "id": "foundation",
+      "label": "01 · 打好基础",
+      "level": "A1–A2",
+      "firstWeek": 1,
+      "lastWeek": 9,
+      "firstDay": 1,
+      "lastDay": 63,
+      "goal": "能介绍自己、说明时间与地点，处理购物、点餐和简单问答。",
+      "criteria": [
+        "不看范文介绍自己、家人和一天安排。",
+        "能听懂简短问候、价格、时间与方向。",
+        "用完整短句提问，并使用常见冠词和动词。",
+        "写出 5 句有关自己生活的荷兰语。"
+      ],
+      "packCount": 18,
+      "wordCount": 540
+    },
+    {
+      "id": "bridge",
+      "label": "02 · 连起句子",
+      "level": "A2→B1",
+      "firstWeek": 10,
+      "lastWeek": 21,
+      "firstDay": 64,
+      "lastDay": 147,
+      "goal": "能叙述过去、说明计划和理由，完成日常电话、预约与短消息。",
+      "criteria": [
+        "用过去时或完成时讲述昨天发生的事。",
+        "能在预约、租房或购物情境中说明需要。",
+        "听完短对话后说出人物、时间与主要信息。",
+        "能写 60–80 词、有开头和结尾的生活消息。"
+      ],
+      "packCount": 24,
+      "wordCount": 720
+    },
+    {
+      "id": "b1",
+      "label": "03 · 走向 B1 应用",
+      "level": "B1",
+      "firstWeek": 22,
+      "lastWeek": 36,
+      "firstDay": 148,
+      "lastDay": 252,
+      "goal": "理解主要信息，连贯讲述经历、给出理由，并写清真实情境中的事情。",
+      "criteria": [
+        "读完约 180–220 词的材料，说明主旨和两个细节。",
+        "不看范文连续说约 90 秒，给出理由和例子。",
+        "独立写出 100–150 词、意思连贯的邮件或短文。",
+        "在真实交流中能追问、澄清和回应不同意见。"
+      ],
+      "packCount": 30,
+      "wordCount": 900
+    }
+  ],
+  "dayCount": 252,
+  "weekCount": 36,
+  "wordCount": 2160,
+  "packCount": 72
+}

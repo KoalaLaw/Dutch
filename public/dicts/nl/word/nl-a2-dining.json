@@ -1,0 +1,782 @@
+[
+  {
+    "id": "nl-a2-dining-1",
+    "word": "het restaurant",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "餐厅；饭店"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "We zoeken een restaurant waar ook vegetarische gerechten zijn.",
+        "cn": "我们在找一家也提供素食菜品的餐厅。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-a2-dining-2",
+    "word": "het café",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "咖啡馆；小酒馆"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Na het wandelen drinken we iets in het café op de hoek.",
+        "cn": "散步后，我们去拐角的咖啡馆喝点东西。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-a2-dining-3",
+    "word": "het eetcafé",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "提供餐食的休闲酒馆；简餐馆"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "In dit eetcafé kun je ook zonder reservering eten.",
+        "cn": "在这家简餐馆，没有预订也可以用餐。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-a2-dining-4",
+    "word": "de snackbar",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "小吃店；炸物快餐店"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "We halen vanavond iets bij de snackbar.",
+        "cn": "今晚我们去小吃店买点吃的。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-a2-dining-5",
+    "word": "de menukaart",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "菜单"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Mogen we de menukaart even zien?",
+        "cn": "我们可以看一下菜单吗？"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-a2-dining-6",
+    "word": "het menu",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "套餐；菜单"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Bij dit menu horen een hoofdgerecht en een nagerecht.",
+        "cn": "这个套餐包括一道主菜和一道甜点。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-a2-dining-7",
+    "word": "de dagschotel",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "当日特餐"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Wat is de dagschotel van vandaag?",
+        "cn": "今天的特餐是什么？"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-a2-dining-8",
+    "word": "het voorgerecht",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "前菜"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Als voorgerecht neem ik een kleine soep.",
+        "cn": "前菜我点一小份汤。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-a2-dining-9",
+    "word": "het hoofdgerecht",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "主菜"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Voor het hoofdgerecht kan ik kiezen tussen vis en groente.",
+        "cn": "主菜我可以在鱼和蔬菜之间选择。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-a2-dining-10",
+    "word": "het nagerecht",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "餐后甜点"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Na het hoofdgerecht willen we nog een nagerecht delen.",
+        "cn": "主菜之后，我们还想一起分一份甜点。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-a2-dining-11",
+    "word": "het bijgerecht",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "配菜"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Kunnen we extra groente als bijgerecht bestellen?",
+        "cn": "我们能额外点一份蔬菜配菜吗？"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-a2-dining-12",
+    "word": "het buffet",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "自助餐；餐食自取台"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Bij het buffet kun je zelf kiezen wat je wilt eten.",
+        "cn": "在自助餐台，你可以自己选择想吃什么。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-a2-dining-13",
+    "word": "het terras",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "露天座位区；露台"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Als het droog blijft, zitten we graag op het terras.",
+        "cn": "如果不下雨，我们想坐在露天座位区。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-a2-dining-14",
+    "word": "de ober",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "男服务员"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "De ober vraagt of we klaar zijn om te bestellen.",
+        "cn": "服务员问我们是否准备好点餐。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-a2-dining-15",
+    "word": "de serveerster",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "女服务员"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "De serveerster brengt een extra bord voor het kind.",
+        "cn": "女服务员给孩子多拿来一个盘子。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-a2-dining-16",
+    "word": "de bediening",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "餐饮服务；服务人员"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "De bediening was vriendelijk, ook al was het erg druk.",
+        "cn": "虽然非常忙，服务人员还是很友好。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-a2-dining-17",
+    "word": "de kok",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "厨师"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "De kok kan uitleggen welke ingrediënten in het gerecht zitten.",
+        "cn": "厨师可以说明菜品里有哪些食材。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-a2-dining-18",
+    "word": "de fooi",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "小费"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Na het eten liet hij een fooi op tafel liggen.",
+        "cn": "吃完饭后，他在桌上留了一笔小费。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-a2-dining-19",
+    "word": "de allergenenkaart",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "过敏原信息表"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Mag ik de allergenenkaart bekijken voordat ik bestel?",
+        "cn": "点餐之前，我可以看一下过敏原信息表吗？"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-a2-dining-20",
+    "word": "de afhaalmaaltijd",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "外带餐；自取餐"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "We hebben een afhaalmaaltijd besteld die om zes uur klaarstaat.",
+        "cn": "我们点了六点可以自取的外带餐。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-a2-dining-21",
+    "word": "de bezorgmaaltijd",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "外送餐；配送到家的餐食"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "De bezorgmaaltijd kwam later dan we hadden verwacht.",
+        "cn": "外送餐比我们预想的更晚送到。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-a2-dining-22",
+    "word": "de rekening splitsen",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "搭配",
+        "cn": "分开结账；拆分账单"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Kunnen we de rekening splitsen omdat we apart willen betalen?",
+        "cn": "我们想分别付钱，可以把账单分开吗？"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-a2-dining-23",
+    "word": "apart betalen",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "搭配",
+        "cn": "分别付款"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Iedereen betaalt apart voor zijn eigen maaltijd.",
+        "cn": "每个人分别支付自己的餐费。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-a2-dining-24",
+    "word": "afhalen",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "",
+        "cn": "到店领取；自取"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Ik kom de bestelling over een halfuur afhalen.",
+        "cn": "我半小时后过来取餐。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-a2-dining-25",
+    "word": "uit eten gaan",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "搭配",
+        "cn": "外出用餐"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Voor haar verjaardag gaan we samen uit eten.",
+        "cn": "为了庆祝她的生日，我们一起出去吃饭。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-a2-dining-26",
+    "word": "een tafel voor twee",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "搭配",
+        "cn": "两人桌；给两位的桌子"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Heeft u nog een tafel voor twee bij het raam?",
+        "cn": "您还有靠窗的两人桌吗？"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-a2-dining-27",
+    "word": "eet smakelijk",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "搭配",
+        "cn": "用餐愉快；请慢用"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Voordat we beginnen, zeggen we tegen elkaar eet smakelijk.",
+        "cn": "开始吃饭之前，我们互相说“用餐愉快”。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-a2-dining-28",
+    "word": "de bijbestelling",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "追加的点单"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "De ober komt terug om onze bijbestelling op te nemen.",
+        "cn": "服务员回来记录我们追加的点单。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-a2-dining-29",
+    "word": "de dieetwens",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "饮食方面的特殊要求"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Geef bij de reservering door of je dieetwensen hebt.",
+        "cn": "预订时请告知是否有特殊饮食要求。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-a2-dining-30",
+    "word": "de tafelgenoot",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "同桌用餐的人"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Mijn tafelgenoot kiest hetzelfde hoofdgerecht als ik.",
+        "cn": "和我同桌的人点了与我相同的主菜。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  }
+]

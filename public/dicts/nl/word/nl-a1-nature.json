@@ -1,0 +1,782 @@
+[
+  {
+    "id": "nl-a1-nature-1",
+    "word": "de hond",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "狗"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "De hond loopt met zijn baas door het park.",
+        "cn": "狗和主人一起穿过公园。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-a1-nature-2",
+    "word": "de kat",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "猫"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Onze kat slaapt graag bij het raam.",
+        "cn": "我们的猫喜欢在窗边睡觉。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-a1-nature-3",
+    "word": "het paard",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "马"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "In het weiland staat een paard.",
+        "cn": "牧场上有一匹马。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-a1-nature-4",
+    "word": "de koe",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "奶牛；母牛"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "De koe eet gras.",
+        "cn": "奶牛在吃草。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-a1-nature-5",
+    "word": "het schaap",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "绵羊"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Het schaap heeft dikke wol.",
+        "cn": "绵羊身上有厚厚的羊毛。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-a1-nature-6",
+    "word": "de geit",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "山羊"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "De geit loopt naar het hek.",
+        "cn": "山羊朝栅栏走去。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-a1-nature-7",
+    "word": "het varken",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "猪"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Op de boerderij zien we een varken.",
+        "cn": "我们在农场看到了一头猪。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-a1-nature-8",
+    "word": "de vogel",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "鸟"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Er zit een vogel op het dak.",
+        "cn": "屋顶上有一只鸟。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-a1-nature-9",
+    "word": "de eend",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "鸭子"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "De eenden zwemmen in de vijver.",
+        "cn": "鸭子在池塘里游泳。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-a1-nature-10",
+    "word": "de zwaan",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "天鹅"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "De zwaan zwemt langzaam over het water.",
+        "cn": "天鹅慢慢游过水面。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-a1-nature-11",
+    "word": "de haan",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "公鸡"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "We horen de haan vroeg in de ochtend.",
+        "cn": "我们一大早就听到了公鸡叫。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-a1-nature-12",
+    "word": "het kuiken",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "小鸡；雏鸟"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Het kuiken blijft dicht bij de kip.",
+        "cn": "小鸡紧紧跟着母鸡。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-a1-nature-13",
+    "word": "het konijn",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "兔子"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Het konijn zit onder de struik.",
+        "cn": "兔子待在灌木下面。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-a1-nature-14",
+    "word": "de muis",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "老鼠"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Ik zag een kleine muis bij de schuur.",
+        "cn": "我在储物棚附近看到一只小老鼠。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-a1-nature-15",
+    "word": "de bij",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "蜜蜂"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Een bij vliegt van bloem naar bloem.",
+        "cn": "一只蜜蜂在花朵之间飞来飞去。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-a1-nature-16",
+    "word": "de vlinder",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "蝴蝶"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Er zit een vlinder op die bloem.",
+        "cn": "那朵花上停着一只蝴蝶。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-a1-nature-17",
+    "word": "de spin",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "蜘蛛"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "De spin maakt een web bij het raam.",
+        "cn": "蜘蛛在窗边结网。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-a1-nature-18",
+    "word": "de mug",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "蚊子"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Er zit een mug in mijn slaapkamer.",
+        "cn": "我的卧室里有一只蚊子。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-a1-nature-19",
+    "word": "de vlieg",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "苍蝇"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "De vlieg zit op de vensterbank.",
+        "cn": "苍蝇停在窗台上。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-a1-nature-20",
+    "word": "de mier",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "蚂蚁"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "De mieren lopen langs de muur.",
+        "cn": "蚂蚁沿着墙爬行。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-a1-nature-21",
+    "word": "de boom",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "树"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Onder deze boom is er schaduw.",
+        "cn": "这棵树下有阴凉。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-a1-nature-22",
+    "word": "de struik",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "灌木"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "De bal ligt achter de struik.",
+        "cn": "球在灌木后面。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-a1-nature-23",
+    "word": "de bloem",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "花"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Deze bloem ruikt lekker.",
+        "cn": "这朵花很好闻。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-a1-nature-24",
+    "word": "het gras",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "草"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Het gras is nog nat.",
+        "cn": "草还湿着。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-a1-nature-25",
+    "word": "het blad",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "叶子；薄片"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Er valt een blad van de boom.",
+        "cn": "一片树叶从树上落下。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-a1-nature-26",
+    "word": "de tak",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "树枝"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Er ligt een tak op het pad.",
+        "cn": "路上有一根树枝。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-a1-nature-27",
+    "word": "de plant",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "植物；盆栽"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Deze plant heeft water nodig.",
+        "cn": "这株植物需要浇水。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-a1-nature-28",
+    "word": "de wolk",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "云"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Er komt een donkere wolk aan.",
+        "cn": "一片乌云飘了过来。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-a1-nature-29",
+    "word": "de sneeuw",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "雪"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "De kinderen spelen in de sneeuw.",
+        "cn": "孩子们在雪地里玩耍。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-a1-nature-30",
+    "word": "het ijs",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "冰；冰淇淋"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Er ligt ijs op het water.",
+        "cn": "水面上结了冰。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  }
+]

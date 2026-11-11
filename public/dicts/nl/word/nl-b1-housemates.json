@@ -1,0 +1,782 @@
+[
+  {
+    "id": "nl-b1-housemates-1",
+    "word": "de huisgenoot",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "同住者；室友"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Mijn huisgenoot en ik koken om de beurt.",
+        "cn": "我的室友和我轮流做饭。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-b1-housemates-2",
+    "word": "de medebewoner",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "共同居住的人；住户"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Een medebewoner stelde voor om samen een rooster te maken.",
+        "cn": "一位同住者提议一起制定一个安排表。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-b1-housemates-3",
+    "word": "de kamergenoot",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "同住一个房间的人；室友"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Mijn kamergenoot staat meestal eerder op dan ik.",
+        "cn": "与我同住一间房的室友通常比我起得早。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-b1-housemates-4",
+    "word": "het huishouden",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "家务；住户；家庭单位"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "We bespreken hoe we het huishouden beter kunnen organiseren.",
+        "cn": "我们讨论如何更好地安排家务。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-b1-housemates-5",
+    "word": "de taakverdeling",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "任务分配；分工"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "De taakverdeling moet voor iedereen duidelijk zijn.",
+        "cn": "每个人都应该清楚任务如何分配。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-b1-housemates-6",
+    "word": "het schoonmaakrooster",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "清洁轮值表"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Volgens het schoonmaakrooster maak ik deze week de keuken schoon.",
+        "cn": "根据清洁轮值表，本周由我清洁厨房。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-b1-housemates-7",
+    "word": "het huishoudgeld",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "家庭日常开销用的钱"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "We leggen elke maand huishoudgeld opzij voor gezamenlijke boodschappen.",
+        "cn": "我们每月留出一笔生活费，用于共同采购。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-b1-housemates-8",
+    "word": "de leefruimte",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "生活空间；居住活动空间"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Iedereen wil de leefruimte prettig kunnen gebruiken.",
+        "cn": "每个人都希望能够舒适地使用生活空间。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-b1-housemates-9",
+    "word": "de bewonersvergadering",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "住户会议"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Tijdens de bewonersvergadering bespreken we de plannen voor de tuin.",
+        "cn": "住户会议上，我们讨论花园的安排。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-b1-housemates-10",
+    "word": "de bemiddeling",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "调解；协调"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Dankzij de bemiddeling konden de bewoners weer met elkaar praten.",
+        "cn": "经过调解，住户们又能彼此交流了。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-b1-housemates-11",
+    "word": "de irritatie",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "烦躁；不满；刺激"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Een kleine irritatie kan groter worden als niemand erover praat.",
+        "cn": "如果谁都不说，一点小小的不满也可能变大。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-b1-housemates-12",
+    "word": "het meningsverschil",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "意见分歧"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "We hebben een meningsverschil over het gebruik van de keuken.",
+        "cn": "我们对厨房的使用有意见分歧。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-b1-housemates-13",
+    "word": "de ergernis",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "恼怒；烦心事"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "De terugkerende rommel zorgt voor ergernis.",
+        "cn": "反复出现的杂乱让人烦心。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-b1-housemates-14",
+    "word": "het gebruik",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "使用；用途"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "We maken afspraken over het gebruik van de wasmachine.",
+        "cn": "我们就洗衣机的使用作出约定。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-b1-housemates-15",
+    "word": "de afwas",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "待洗或洗过的餐具；洗碗的活"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "De afwas staat nog op het aanrecht.",
+        "cn": "待洗的餐具还放在厨房台面上。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-b1-housemates-16",
+    "word": "de rommel",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "杂乱的东西；乱糟糟的状态"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Na het bezoek lag er veel rommel in de woonkamer.",
+        "cn": "客人走后，客厅里很乱。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-b1-housemates-17",
+    "word": "de rust",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "安静；休息；平静"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Na zijn nachtdienst heeft hij behoefte aan rust.",
+        "cn": "上完夜班后，他需要安静地休息。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-b1-housemates-18",
+    "word": "de nachtdienst",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "夜班"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Omdat mijn huisgenoot nachtdienst heeft, overleggen we over rustige tijden.",
+        "cn": "因为室友上夜班，我们商量安静的时段。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-b1-housemates-19",
+    "word": "de thuiswerker",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "居家办公的人"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "De thuiswerker gebruikt overdag de tafel voor zijn werk.",
+        "cn": "居家办公的人白天用这张桌子工作。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-b1-housemates-20",
+    "word": "de logé",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "留宿的客人"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Komend weekend hebben we een logé.",
+        "cn": "这个周末我们有一位留宿的客人。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-b1-housemates-21",
+    "word": "het logeerbed",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "客用床；留宿用的床"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Voor onze bezoeker zetten we het logeerbed klaar.",
+        "cn": "我们为来访者准备好客用床。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-b1-housemates-22",
+    "word": "de bezoekersregeling",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "访客安排；访客规定"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "We bespreken een bezoekersregeling die voor alle huisgenoten redelijk is.",
+        "cn": "我们商量一项对所有室友都合理的访客安排。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-b1-housemates-23",
+    "word": "de wasbeurt",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "一次洗涤；一次洗衣"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Wie gebruikt de machine na deze wasbeurt?",
+        "cn": "这一轮洗完后，谁使用洗衣机？"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-b1-housemates-24",
+    "word": "de stilte",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "寂静；安静"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Ik geniet van de stilte als iedereen nog slaapt.",
+        "cn": "大家还在睡觉时，我很享受那份宁静。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-b1-housemates-25",
+    "word": "de gewoonte",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "习惯"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Iedereen brengt eigen gewoonten mee naar een gedeeld huis.",
+        "cn": "每个人都会把自己的习惯带入合住的家里。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-b1-housemates-26",
+    "word": "afstemmen",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "",
+        "cn": "协调；使相互配合"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "We stemmen onze plannen af voordat we gasten uitnodigen.",
+        "cn": "邀请客人之前，我们先协调彼此的安排。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-b1-housemates-27",
+    "word": "onderhandelen",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "",
+        "cn": "协商；谈判"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "De huisgenoten onderhandelen over een andere verdeling van de kosten.",
+        "cn": "室友们正在协商调整费用分配。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-b1-housemates-28",
+    "word": "bemiddelen",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "",
+        "cn": "调解；从中协调"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Een derde bewoner probeert tussen de twee huisgenoten te bemiddelen.",
+        "cn": "另一位住户试图在两位室友之间调解。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-b1-housemates-29",
+    "word": "bespreekbaar",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "",
+        "cn": "可以讨论的；能够提出商量的"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "We willen dat problemen in huis bespreekbaar blijven.",
+        "cn": "我们希望家中的问题始终可以拿出来商量。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-b1-housemates-30",
+    "word": "meebetalen",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "",
+        "cn": "分担支付；出一部分钱"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Iedereen die mee-eet, wil ook aan de boodschappen meebetalen.",
+        "cn": "一起吃饭的每个人也愿意分担采购费用。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  }
+]

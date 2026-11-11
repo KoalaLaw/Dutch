@@ -1,0 +1,782 @@
+[
+  {
+    "id": "nl-a2-classroom-1",
+    "word": "de leerstof",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "学习内容；课程知识"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Deze week herhalen we de leerstof van de vorige lessen.",
+        "cn": "本周我们复习前几课的学习内容。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-a2-classroom-2",
+    "word": "het lesmateriaal",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "教学材料；学习资料"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Het lesmateriaal staat op de website van de cursus.",
+        "cn": "课程网站上有学习资料。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-a2-classroom-3",
+    "word": "de paragraaf",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "小节；段落编号部分"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Lees eerst de paragraaf over de woordvolgorde.",
+        "cn": "先读关于语序的这一小节。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-a2-classroom-4",
+    "word": "de alinea",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "段落"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "De eerste alinea vertelt waar de tekst over gaat.",
+        "cn": "第一段说明了文章的主题。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-a2-classroom-5",
+    "word": "de koptekst",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "标题文字；页眉文字"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Aan de koptekst kun je het onderwerp herkennen.",
+        "cn": "从标题文字可以看出主题。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-a2-classroom-6",
+    "word": "de titel",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "标题；书名"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Wat denk je bij deze titel?",
+        "cn": "看到这个标题，你会想到什么？"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-a2-classroom-7",
+    "word": "de ondertitel",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "副标题；字幕的一行"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "De ondertitel geeft extra informatie over het artikel.",
+        "cn": "副标题补充了这篇文章的信息。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-a2-classroom-8",
+    "word": "het onderwerp",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "主题；话题；主语"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Vandaag praten we over een onderwerp uit het dagelijks leven.",
+        "cn": "今天我们讨论一个日常生活话题。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-a2-classroom-9",
+    "word": "de inhoudsopgave",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "目录"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "In de inhoudsopgave zie je welke hoofdstukken het boek heeft.",
+        "cn": "从目录中，你能看到这本书有哪些章节。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-a2-classroom-10",
+    "word": "het werkblad",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "练习纸；学习工作单"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Op het werkblad staan drie opdrachten.",
+        "cn": "练习纸上有三项任务。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-a2-classroom-11",
+    "word": "het woordenboek",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "词典"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Ik zoek de betekenis van dit woord op in het woordenboek.",
+        "cn": "我在词典里查这个词的意思。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-a2-classroom-12",
+    "word": "de vertaling",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "翻译；译文"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Deze vertaling helpt me de hele zin te begrijpen.",
+        "cn": "这段译文帮助我理解整句话。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-a2-classroom-13",
+    "word": "de spreektaal",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "口语；口头使用的语言"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "In de spreektaal hoor je soms kortere vormen dan in een formele brief.",
+        "cn": "口语中，有时会出现比正式信件里更简短的形式。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-a2-classroom-14",
+    "word": "de doeltaal",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "目标语言"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Tijdens de oefening proberen we alleen de doeltaal te spreken.",
+        "cn": "练习时，我们尽量只说目标语言。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-a2-classroom-15",
+    "word": "de luistertekst",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "听力材料；听力文本"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Je hoort de luistertekst eerst zonder de woorden te lezen.",
+        "cn": "你先不看文字，听一遍听力材料。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-a2-classroom-16",
+    "word": "de leestekst",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "阅读材料；阅读文本"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Bij deze leestekst horen vier vragen.",
+        "cn": "这篇阅读材料配有四道题。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-a2-classroom-17",
+    "word": "de spreekbeurt",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "课堂口头报告"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Voor mijn spreekbeurt kies ik een onderwerp dat ik goed ken.",
+        "cn": "我为口头报告选择一个熟悉的话题。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-a2-classroom-18",
+    "word": "de presentatie",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "演示；报告；展示"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Na de presentatie mochten we vragen stellen.",
+        "cn": "报告结束后，我们可以提问。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-a2-classroom-19",
+    "word": "de groepsopdracht",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "小组任务"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Voor de groepsopdracht werken we met drie personen samen.",
+        "cn": "做小组任务时，我们三个人一起合作。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-a2-classroom-20",
+    "word": "de zelfstudie",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "自学"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Naast de lessen besteed ik tijd aan zelfstudie.",
+        "cn": "除了上课，我也花时间自学。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-a2-classroom-21",
+    "word": "de instructie",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "指令；说明"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Ik begrijp de instructie nog niet helemaal.",
+        "cn": "我还没有完全理解任务说明。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-a2-classroom-22",
+    "word": "de fout",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "错误"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Dankzij deze fout weet ik wat ik nog moet oefenen.",
+        "cn": "通过这个错误，我知道了还需要练习什么。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-a2-classroom-23",
+    "word": "de verbetering",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "改进；订正"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "De docent heeft een verbetering naast mijn zin geschreven.",
+        "cn": "老师在我的句子旁写了订正内容。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-a2-classroom-24",
+    "word": "de herkansing",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "补考；再次尝试的机会"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Is er voor deze toets een herkansing mogelijk?",
+        "cn": "这项测试有补考机会吗？"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-a2-classroom-25",
+    "word": "het trefwoord",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "词典词条的词头；关键词"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Via het trefwoord vind ik de juiste betekenis in het woordenboek.",
+        "cn": "我通过词头在词典中找到正确的释义。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-a2-classroom-26",
+    "word": "de spelling",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "拼写"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Ik controleer de spelling voordat ik de tekst verstuur.",
+        "cn": "发送文字前，我检查拼写。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-a2-classroom-27",
+    "word": "het meervoud",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "复数；复数形式"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Wat is het meervoud van dit woord?",
+        "cn": "这个词的复数形式是什么？"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-a2-classroom-28",
+    "word": "onderstrepen",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "",
+        "cn": "在……下面画线；强调"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Onderstreep de woorden die je nog niet kent.",
+        "cn": "在还不认识的词下面画线。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-a2-classroom-29",
+    "word": "aankruisen",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "",
+        "cn": "打叉勾选；标出选项"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Kruis het antwoord aan dat volgens jou klopt.",
+        "cn": "标出你认为正确的答案。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-a2-classroom-30",
+    "word": "navragen",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "",
+        "cn": "追问；进一步询问"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Als de uitleg onduidelijk is, kun je het bij de docent navragen.",
+        "cn": "如果说明不清楚，可以再向老师询问。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  }
+]

@@ -1,0 +1,782 @@
+[
+  {
+    "id": "nl-a2-celebrations-1",
+    "word": "het feest",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "聚会；庆祝活动"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Het feest begint zaterdag om acht uur.",
+        "cn": "庆祝活动星期六八点开始。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-a2-celebrations-2",
+    "word": "de verjaardag",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "生日"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Wat wil je voor je verjaardag doen?",
+        "cn": "你生日想做什么？"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-a2-celebrations-3",
+    "word": "de feestdag",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "节日；公共假日"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Tijdens een feestdag kan het drukker zijn op populaire plekken.",
+        "cn": "节日期间，热门场所可能会更拥挤。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-a2-celebrations-4",
+    "word": "het jubileum",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "周年纪念"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "De vereniging viert dit jaar haar twintigjarig jubileum.",
+        "cn": "协会今年庆祝成立二十周年。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-a2-celebrations-5",
+    "word": "de bruiloft",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "婚礼"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "We zijn uitgenodigd voor de bruiloft van een collega.",
+        "cn": "我们受邀参加一位同事的婚礼。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-a2-celebrations-6",
+    "word": "het huwelijk",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "婚姻；结婚"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Voor hun huwelijk hadden ze al jaren samen gewoond.",
+        "cn": "结婚之前，他们已经一起生活了多年。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-a2-celebrations-7",
+    "word": "de geboorte",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "出生；诞生"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Op het kaartje staat de datum van de geboorte.",
+        "cn": "卡片上写着出生日期。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-a2-celebrations-8",
+    "word": "de verjaardagstaart",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "生日蛋糕"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "We delen de verjaardagstaart met alle gasten.",
+        "cn": "我们和所有客人一起分享生日蛋糕。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-a2-celebrations-9",
+    "word": "de kaars",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "蜡烛"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Op de taart staan zes kleine kaarsen.",
+        "cn": "蛋糕上插着六根小蜡烛。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-a2-celebrations-10",
+    "word": "de ballon",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "气球"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "De kinderen kiezen ieder een ballon in hun favoriete kleur.",
+        "cn": "孩子们每人挑选一个自己最喜欢颜色的气球。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-a2-celebrations-11",
+    "word": "de slinger",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "装饰彩带；串饰"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "We hangen een slinger boven de tafel.",
+        "cn": "我们在桌子上方挂起一条装饰彩带。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-a2-celebrations-12",
+    "word": "het cadeau",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "礼物"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Ik zoek een cadeau dat bij haar hobby past.",
+        "cn": "我在寻找一份适合她爱好的礼物。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-a2-celebrations-13",
+    "word": "het cadeaupapier",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "礼品包装纸"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "De winkel heeft ook cadeaupapier om het boek in te pakken.",
+        "cn": "商店也有用来包装这本书的礼品纸。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-a2-celebrations-14",
+    "word": "de felicitatie",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "祝贺；贺词"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Bedankt voor je felicitatie en het mooie kaartje.",
+        "cn": "谢谢你的祝贺和漂亮的贺卡。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-a2-celebrations-15",
+    "word": "de wens",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "愿望；祝愿"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Op de kaart schrijf ik een persoonlijke wens.",
+        "cn": "我在卡片上写下一句个人祝愿。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-a2-celebrations-16",
+    "word": "de uitnodigingskaart",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "邀请卡；请柬"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Op de uitnodigingskaart staat hoe laat we worden verwacht.",
+        "cn": "请柬上写着希望我们几点到场。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-a2-celebrations-17",
+    "word": "het feestmaal",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "宴席；庆祝餐"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Voor het feestmaal maakt ieder gezin een gerecht.",
+        "cn": "为了这顿庆祝餐，每个家庭准备一道菜。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-a2-celebrations-18",
+    "word": "de toast",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "祝酒；祝酒词"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Aan het begin van de maaltijd bracht haar vader een korte toast uit.",
+        "cn": "用餐开始时，她父亲作了一段简短的祝酒词。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-a2-celebrations-19",
+    "word": "het feestprogramma",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "庆祝活动安排"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "In het feestprogramma staat wanneer de muziek begint.",
+        "cn": "活动安排中写着音乐何时开始。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-a2-celebrations-20",
+    "word": "de gastenlijst",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "宾客名单"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "We controleren de gastenlijst voordat we de uitnodigingen versturen.",
+        "cn": "发出邀请前，我们核对宾客名单。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-a2-celebrations-21",
+    "word": "de dresscode",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "着装要求"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "In de uitnodiging staat dat er geen speciale dresscode is.",
+        "cn": "邀请中写着没有特别的着装要求。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-a2-celebrations-22",
+    "word": "de optocht",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "游行；巡游队伍"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Vanaf het plein kunnen we de optocht goed bekijken.",
+        "cn": "从广场上可以清楚地看到巡游队伍。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-a2-celebrations-23",
+    "word": "de vrijmarkt",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "自由集市；节庆时出售闲置物品的市集"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Op de vrijmarkt verkopen we boeken die we niet meer lezen.",
+        "cn": "我们在自由集市上出售已经不再读的书。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-a2-celebrations-24",
+    "word": "het vuurwerk",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "烟花；烟火"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "We kijken vanuit de verte naar het vuurwerk boven de stad.",
+        "cn": "我们从远处观看城市上空的烟花。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-a2-celebrations-25",
+    "word": "de herdenking",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "纪念活动；追思活动"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Tijdens de herdenking luisteren de bezoekers naar een toespraak.",
+        "cn": "纪念活动中，来宾聆听了一段致辞。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-a2-celebrations-26",
+    "word": "de feestcommissie",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "庆祝活动筹备组"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "De feestcommissie verdeelt de taken onder de vrijwilligers.",
+        "cn": "庆祝活动筹备组向志愿者分配任务。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-a2-celebrations-27",
+    "word": "de versiering",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "装饰；装饰品"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Na afloop halen we de versiering samen weer weg.",
+        "cn": "结束后，我们一起收起装饰品。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-a2-celebrations-28",
+    "word": "versieren",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "",
+        "cn": "装饰"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "We versieren de kamer voordat de gasten komen.",
+        "cn": "客人到来之前，我们装饰房间。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-a2-celebrations-29",
+    "word": "feliciteren",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "",
+        "cn": "祝贺"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Ik bel haar om haar met haar verjaardag te feliciteren.",
+        "cn": "我打电话祝贺她生日快乐。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-a2-celebrations-30",
+    "word": "vieren",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "",
+        "cn": "庆祝"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "We vieren het einde van de cursus met een gezamenlijke maaltijd.",
+        "cn": "我们一起吃饭，庆祝课程结束。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  }
+]

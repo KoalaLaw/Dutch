@@ -1,0 +1,782 @@
+[
+  {
+    "id": "nl-a1-profile-1",
+    "word": "de voornaam",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "名字；名"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Mijn voornaam is Lin.",
+        "cn": "我的名字是林。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-a1-profile-2",
+    "word": "de achternaam",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "姓氏"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Wat is uw achternaam?",
+        "cn": "您的姓氏是什么？"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-a1-profile-3",
+    "word": "de geboortedatum",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "出生日期"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Vul hier je geboortedatum in.",
+        "cn": "在这里填写出生日期。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-a1-profile-4",
+    "word": "de geboorteplaats",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "出生地"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Mijn geboorteplaats is Shanghai.",
+        "cn": "我的出生地是上海。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-a1-profile-5",
+    "word": "de nationaliteit",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "国籍"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Op dit formulier wordt naar je nationaliteit gevraagd.",
+        "cn": "这张表格询问你的国籍。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-a1-profile-6",
+    "word": "de leeftijd",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "年龄"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Mag ik naar uw leeftijd vragen?",
+        "cn": "我可以问您的年龄吗？"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-a1-profile-7",
+    "word": "het geslacht",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "性别"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Bij deze vraag kun je je geslacht invullen.",
+        "cn": "在这个问题处，你可以填写性别。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-a1-profile-8",
+    "word": "de burgerlijke staat",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "搭配",
+        "cn": "婚姻状况"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Het formulier bevat een vraag over mijn burgerlijke staat.",
+        "cn": "表格中有一个关于我婚姻状况的问题。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-a1-profile-9",
+    "word": "de postcode",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "邮政编码"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Zonder postcode is het adres niet compleet.",
+        "cn": "没有邮政编码，地址就不完整。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-a1-profile-10",
+    "word": "het huisnummer",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "门牌号"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Ons huisnummer is achttien.",
+        "cn": "我们的门牌号是十八。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-a1-profile-11",
+    "word": "de woonplaats",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "居住城市；居住地"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Utrecht is mijn woonplaats.",
+        "cn": "乌得勒支是我的居住城市。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-a1-profile-12",
+    "word": "het telefoonnummer",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "电话号码"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Kunt u uw telefoonnummer voor mij opschrijven?",
+        "cn": "您能把电话号码写给我吗？"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-a1-profile-13",
+    "word": "het e-mailadres",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "电子邮箱地址"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Ik stuur de bevestiging naar je e-mailadres.",
+        "cn": "我把确认信息发到你的电子邮箱。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-a1-profile-14",
+    "word": "het paspoort",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "护照"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Mijn paspoort ligt in mijn tas.",
+        "cn": "我的护照在包里。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-a1-profile-15",
+    "word": "de identiteitskaart",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "身份证；身份卡"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Op haar identiteitskaart staat haar volledige naam.",
+        "cn": "她的身份卡上写着全名。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-a1-profile-16",
+    "word": "de moedertaal",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "母语"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Chinees is mijn moedertaal.",
+        "cn": "中文是我的母语。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-a1-profile-17",
+    "word": "het geboorteland",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "出生国"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Mijn geboorteland is niet het land waar ik nu woon.",
+        "cn": "我的出生国不是我现在居住的国家。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-a1-profile-18",
+    "word": "getrouwd",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "",
+        "cn": "已婚的"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Mijn zus is getrouwd en heeft twee kinderen.",
+        "cn": "我的姐妹已婚，有两个孩子。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-a1-profile-19",
+    "word": "ongetrouwd",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "",
+        "cn": "未婚的"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Hij is ongetrouwd en woont met een vriend.",
+        "cn": "他未婚，和一位朋友同住。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-a1-profile-20",
+    "word": "gescheiden",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "",
+        "cn": "离婚的；分开的"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Mijn ouders zijn gescheiden.",
+        "cn": "我的父母离婚了。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-a1-profile-21",
+    "word": "alleenstaand",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "",
+        "cn": "单身的；无伴侣的"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Zij is alleenstaand en woont alleen.",
+        "cn": "她是单身，独自居住。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-a1-profile-22",
+    "word": "afkomstig uit",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "搭配",
+        "cn": "来自……；原籍为……"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Ik ben afkomstig uit China.",
+        "cn": "我来自中国。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-a1-profile-23",
+    "word": "mannelijk",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "",
+        "cn": "男性的；雄性的"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "In de uitleg staat wat mannelijk betekent.",
+        "cn": "说明里解释了“男性的”是什么意思。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-a1-profile-24",
+    "word": "vrouwelijk",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "",
+        "cn": "女性的；雌性的"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Bij dit woord staat het symbool voor vrouwelijk.",
+        "cn": "这个词旁边标着表示女性的符号。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-a1-profile-25",
+    "word": "de contactgegevens",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "联系方式；联系信息"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Controleer of je contactgegevens nog kloppen.",
+        "cn": "检查一下你的联系信息是否仍然正确。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-a1-profile-26",
+    "word": "het bezoekadres",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "来访地址；办公接待地址"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Het bezoekadres staat onderaan de brief.",
+        "cn": "来访地址写在信的下方。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-a1-profile-27",
+    "word": "het woonadres",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "家庭住址；居住地址"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Mijn woonadres is vorige maand veranderd.",
+        "cn": "我的家庭住址上个月变更了。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-a1-profile-28",
+    "word": "de roepnaam",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "日常使用的名字"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Mijn officiële voornaam is langer dan mijn roepnaam.",
+        "cn": "我的正式名字比平时使用的名字更长。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-a1-profile-29",
+    "word": "het voorvoegsel",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "前缀；姓氏中的前置部分"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Bij deze achternaam hoort het voorvoegsel van.",
+        "cn": "这个姓氏包含前置部分 van。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-a1-profile-30",
+    "word": "spellen",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "",
+        "cn": "逐字母拼读；拼写"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Kunt u uw achternaam langzaam spellen?",
+        "cn": "您能把姓氏慢慢逐字母拼读出来吗？"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  }
+]

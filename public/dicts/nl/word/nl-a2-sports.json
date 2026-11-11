@@ -1,0 +1,782 @@
+[
+  {
+    "id": "nl-a2-sports-1",
+    "word": "de sport",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "体育；运动"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Welke sport vind je leuk om samen met anderen te doen?",
+        "cn": "你喜欢和别人一起进行哪项运动？"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-a2-sports-2",
+    "word": "het team",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "队伍；团队"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Ons team bestaat uit spelers van verschillende leeftijden.",
+        "cn": "我们的队伍由不同年龄的队员组成。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-a2-sports-3",
+    "word": "de trainer",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "教练"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "De trainer legt uit wat we vandaag gaan oefenen.",
+        "cn": "教练说明我们今天要练习什么。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-a2-sports-4",
+    "word": "de training",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "训练"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "De training begint om half acht en duurt een uur.",
+        "cn": "训练七点半开始，持续一小时。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-a2-sports-5",
+    "word": "de warming-up",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "热身"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Tijdens de warming-up lopen we eerst rustig door de zaal.",
+        "cn": "热身时，我们先在场馆里慢跑。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-a2-sports-6",
+    "word": "de coolingdown",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "运动后的放松活动"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Na de training doen we samen een korte coolingdown.",
+        "cn": "训练结束后，我们一起做一小段放松活动。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-a2-sports-7",
+    "word": "de conditie",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "体能；身体状态"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Sinds ik vaker wandel, is mijn conditie verbeterd.",
+        "cn": "自从更经常散步以来，我的体能改善了。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-a2-sports-8",
+    "word": "de spier",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "肌肉"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Na de training voel ik de spieren in mijn benen.",
+        "cn": "训练之后，我感觉到腿部肌肉有些反应。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-a2-sports-9",
+    "word": "de kracht",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "力量"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Voor deze beweging heb je meer kracht in je armen nodig.",
+        "cn": "这个动作需要手臂有更大的力量。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-a2-sports-10",
+    "word": "het uithoudingsvermogen",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "耐力"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Door regelmatig te oefenen wil ik mijn uithoudingsvermogen verbeteren.",
+        "cn": "我想通过经常锻炼来改善耐力。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-a2-sports-11",
+    "word": "de inspanning",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "用力；努力；体力付出"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Na die zware inspanning namen we een pauze.",
+        "cn": "进行了那段高强度活动后，我们休息了一下。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-a2-sports-12",
+    "word": "de ontspanning",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "放松"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Voor mij is zwemmen vooral een vorm van ontspanning.",
+        "cn": "对我来说，游泳主要是一种放松方式。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-a2-sports-13",
+    "word": "het tempo",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "节奏；速度"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "We kiezen een tempo dat iedereen kan volgen.",
+        "cn": "我们选择一个人人都能跟上的速度。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-a2-sports-14",
+    "word": "de ademhaling",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "呼吸"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Na het rennen werd mijn ademhaling langzaam weer rustiger.",
+        "cn": "跑完之后，我的呼吸慢慢平稳下来。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-a2-sports-15",
+    "word": "het zweet",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "汗；汗水"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Na de wedstrijd zat er zweet op mijn voorhoofd.",
+        "cn": "比赛结束后，我额头上出了汗。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-a2-sports-16",
+    "word": "de sportzaal",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "运动室；体育活动室"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "De sportzaal is naast de kleedkamers.",
+        "cn": "运动室就在更衣室旁边。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-a2-sports-17",
+    "word": "het zwembad",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "游泳池；游泳馆"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Op woensdag ga ik na mijn werk naar het zwembad.",
+        "cn": "星期三我下班后去游泳馆。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-a2-sports-18",
+    "word": "de zwembril",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "泳镜"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Zonder zwembril zie ik onder water niet goed.",
+        "cn": "不戴泳镜，我在水下看不清楚。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-a2-sports-19",
+    "word": "de blessure",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "运动损伤；伤病"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Vanwege een blessure kan hij deze week niet meedoen.",
+        "cn": "由于受伤，他这周无法参加。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-a2-sports-20",
+    "word": "de tegenstander",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "对手"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Onze tegenstander speelde sneller dan we hadden verwacht.",
+        "cn": "我们的对手打得比预期更快。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-a2-sports-21",
+    "word": "de scheidsrechter",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "裁判"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "De scheidsrechter legt uit waarom het spel wordt stilgelegd.",
+        "cn": "裁判解释了为什么要暂停比赛。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-a2-sports-22",
+    "word": "de score",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "得分；比分"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Bij de pauze was de score voor beide teams gelijk.",
+        "cn": "中场休息时，两队比分相同。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-a2-sports-23",
+    "word": "de nederlaag",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "失利；败局"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Na de nederlaag bespraken we wat we de volgende keer anders konden doen.",
+        "cn": "失利后，我们讨论了下次可以怎样调整。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-a2-sports-24",
+    "word": "de overwinning",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "胜利"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Het team vierde de overwinning samen met de trainer.",
+        "cn": "队伍与教练一起庆祝胜利。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-a2-sports-25",
+    "word": "de rustdag",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "休息日"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Op mijn rustdag maak ik alleen een korte wandeling.",
+        "cn": "在休息日，我只散一小会儿步。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-a2-sports-26",
+    "word": "zwemmen",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "",
+        "cn": "游泳"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Ik heb als kind leren zwemmen.",
+        "cn": "我小时候学会了游泳。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-a2-sports-27",
+    "word": "hardlopen",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "",
+        "cn": "跑步；长跑"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Ze gaat twee keer per week hardlopen in het park.",
+        "cn": "她每周在公园跑步两次。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-a2-sports-28",
+    "word": "wandelen",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "",
+        "cn": "散步；徒步"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "We wandelen liever in het bos dan langs een drukke weg.",
+        "cn": "我们更喜欢在树林里散步，而不是沿着繁忙道路走。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-a2-sports-29",
+    "word": "rekken",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "",
+        "cn": "伸展；拉伸"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Tijdens de oefening rekken we onze armen rustig uit.",
+        "cn": "练习时，我们慢慢地伸展手臂。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-a2-sports-30",
+    "word": "trainen",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "",
+        "cn": "训练；锻炼"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Ik train niet voor een wedstrijd, maar om me fitter te voelen.",
+        "cn": "我锻炼不是为了比赛，而是为了感觉更有活力。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  }
+]

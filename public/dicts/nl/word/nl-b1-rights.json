@@ -1,0 +1,782 @@
+[
+  {
+    "id": "nl-b1-rights-1",
+    "word": "het recht",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "权利；法律"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "In de les bespreken we wat het woord recht in deze tekst betekent.",
+        "cn": "课堂上，我们讨论这篇文章中“权利”一词的意思。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-b1-rights-2",
+    "word": "de plicht",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "义务；责任"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "De brief beschrijft zowel een recht als een plicht.",
+        "cn": "信中既说明了一项权利，也说明了一项义务。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-b1-rights-3",
+    "word": "de regel",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "规则"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Ik vraag welke regel op deze situatie van toepassing is.",
+        "cn": "我询问这个情况适用哪一条规则。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-b1-rights-4",
+    "word": "het voorschrift",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "规定；须遵循的要求"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "De medewerker legt uit welk voorschrift hier wordt bedoeld.",
+        "cn": "工作人员解释这里指的是哪项规定。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-b1-rights-5",
+    "word": "de uitzondering",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "例外"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "In de uitleg staat dat er voor bepaalde situaties een uitzondering is.",
+        "cn": "说明中写着某些情况存在例外。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-b1-rights-6",
+    "word": "de beperking",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "限制；局限"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Voordat ik akkoord ga, wil ik weten welke beperkingen er zijn.",
+        "cn": "同意之前，我想知道有哪些限制。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-b1-rights-7",
+    "word": "de verplichting",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "义务；必须履行的责任"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Ik vraag of die verplichting ook voor bezoekers geldt.",
+        "cn": "我询问这项义务是否也适用于访客。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-b1-rights-8",
+    "word": "de aansprakelijkheid",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "法律上的责任；赔偿责任"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "In het contract staat een alinea over aansprakelijkheid die ik niet goed begrijp.",
+        "cn": "合同中有一段关于责任的内容，我不太理解。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-b1-rights-9",
+    "word": "de bescherming",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "保护"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Het artikel gaat over de bescherming van persoonlijke gegevens.",
+        "cn": "这篇文章讨论个人数据的保护。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-b1-rights-10",
+    "word": "de gelijkheid",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "平等"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Tijdens het gesprek legde zij uit waarom gelijkheid belangrijk voor haar is.",
+        "cn": "交谈中，她解释了为什么平等对她很重要。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-b1-rights-11",
+    "word": "de vrijheid",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "自由"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "We bespraken de balans tussen vrijheid en gezamenlijke afspraken.",
+        "cn": "我们讨论了自由与共同约定之间的平衡。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-b1-rights-12",
+    "word": "de keuzevrijheid",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "选择自由"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "In deze discussie gaat het om de keuzevrijheid van bewoners.",
+        "cn": "这次讨论涉及居民的选择自由。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-b1-rights-13",
+    "word": "de toegankelijkheid",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "无障碍程度；可使用或可进入的程度"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "De groep onderzoekt hoe de toegankelijkheid van het gebouw kan verbeteren.",
+        "cn": "小组正在研究如何改善这栋建筑的无障碍条件。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-b1-rights-14",
+    "word": "de klachtprocedure",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "投诉程序"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Ik vraag waar ik informatie over de klachtprocedure kan vinden.",
+        "cn": "我询问在哪里可以找到投诉程序的信息。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-b1-rights-15",
+    "word": "het bezwaar",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "异议；反对意见；行政申诉"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "In de brief wordt uitgelegd hoe een bezwaar wordt behandeld.",
+        "cn": "信中说明了异议会如何得到处理。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-b1-rights-16",
+    "word": "het beroep",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "申诉；上诉；职业"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "In het besluit staat informatie over het indienen van een beroep.",
+        "cn": "决定书中写有提出申诉的相关信息。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-b1-rights-17",
+    "word": "de overeenkomst",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "协议；合同"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Voordat ik de overeenkomst teken, wil ik de uitleg rustig lezen.",
+        "cn": "签署协议之前，我想仔细阅读说明。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-b1-rights-18",
+    "word": "de toelating",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "准入；获准参加或进入"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Het formulier bevat een vraag over de toelating tot de opleiding.",
+        "cn": "表格中有一个关于获准参加培训的问题。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-b1-rights-19",
+    "word": "de weigering",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "拒绝"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Ik vraag om een duidelijke uitleg van de weigering.",
+        "cn": "我要求对这次拒绝作出清楚的解释。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-b1-rights-20",
+    "word": "de overtreding",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "违规；违反规定的行为"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "In het verslag staat welke overtreding is vastgesteld.",
+        "cn": "报告中写明了认定了哪种违规行为。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-b1-rights-21",
+    "word": "de sanctie",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "处罚；制裁措施"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "De huisregels beschrijven welke sanctie op een overtreding kan volgen.",
+        "cn": "内部规则说明了违规后可能受到什么处罚。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-b1-rights-22",
+    "word": "de naleving",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "遵守；履行"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Tijdens het overleg praten we over de naleving van onze afspraken.",
+        "cn": "讨论中，我们谈到了约定的履行情况。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-b1-rights-23",
+    "word": "de privacyverklaring",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "隐私声明"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Ik lees de privacyverklaring om te begrijpen waarvoor mijn gegevens worden gebruikt.",
+        "cn": "我阅读隐私声明，以了解个人数据会被用于什么目的。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-b1-rights-24",
+    "word": "de huisregel",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "内部规则；场所使用规则"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Een huisregel van de vereniging is dat je de ruimte netjes achterlaat.",
+        "cn": "协会的一项内部规则是离开时要保持场地整洁。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-b1-rights-25",
+    "word": "de gedragscode",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "行为准则"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Nieuwe leden krijgen uitleg over de gedragscode van de organisatie.",
+        "cn": "新会员会获得关于组织行为准则的说明。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-b1-rights-26",
+    "word": "recht hebben op",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "搭配",
+        "cn": "有权获得；享有……权利"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Ik vraag of ik in deze situatie recht heb op een vergoeding.",
+        "cn": "我询问在这种情况下自己是否有权获得补偿。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-b1-rights-27",
+    "word": "bezwaar maken",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "搭配",
+        "cn": "提出异议；表示反对"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Zij wil bezwaar maken en vraagt waar de procedure staat beschreven.",
+        "cn": "她想提出异议，正在询问哪里写有相关程序。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-b1-rights-28",
+    "word": "benadelen",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "",
+        "cn": "使处于不利地位；损害利益"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "We zoeken een oplossing die geen van beide groepen benadeelt.",
+        "cn": "我们在寻找一个不会使任何一方处于不利地位的方案。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-b1-rights-29",
+    "word": "discrimineren",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "",
+        "cn": "歧视"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "In de les praten we over situaties waarin mensen worden gediscrimineerd.",
+        "cn": "课堂上，我们讨论人们受到歧视的情境。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-b1-rights-30",
+    "word": "zich beroepen op",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "搭配",
+        "cn": "援引；以……作为依据"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "De schrijver beroept zich op een afspraak die eerder op papier is gezet.",
+        "cn": "作者援引了此前已写下的一项约定。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  }
+]

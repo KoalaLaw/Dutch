@@ -1,0 +1,782 @@
+[
+  {
+    "id": "nl-a2-post-1",
+    "word": "de post",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "邮件；邮政"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Is de post vandaag al bezorgd?",
+        "cn": "今天的邮件已经送来了吗？"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-a2-post-2",
+    "word": "de postzegel",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "邮票"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Op deze envelop moet nog een postzegel.",
+        "cn": "这个信封上还需要贴一张邮票。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-a2-post-3",
+    "word": "de envelop",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "信封"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Schrijf het adres duidelijk op de envelop.",
+        "cn": "把地址清楚地写在信封上。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-a2-post-4",
+    "word": "de brief",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "信；书信"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Ik heb een brief van de vereniging ontvangen.",
+        "cn": "我收到了一封协会寄来的信。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-a2-post-5",
+    "word": "de ansichtkaart",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "明信片"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Tijdens mijn vakantie stuur ik mijn ouders een ansichtkaart.",
+        "cn": "度假时，我给父母寄一张明信片。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-a2-post-6",
+    "word": "de brievenbus",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "信箱；邮筒"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "De brief ligt sinds gisteren in mijn brievenbus.",
+        "cn": "这封信从昨天起就放在我的信箱里了。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-a2-post-7",
+    "word": "de postbode",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "邮递员"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "De postbode bezorgt de brieven in onze straat.",
+        "cn": "邮递员给我们这条街投递信件。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-a2-post-8",
+    "word": "het postkantoor",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "邮局"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Bij het postkantoor vraag ik hoe ik deze brief kan versturen.",
+        "cn": "我在邮局询问这封信可以怎样寄出。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-a2-post-9",
+    "word": "de aangetekende brief",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "搭配",
+        "cn": "挂号信"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Voor deze aangetekende brief moest iemand tekenen.",
+        "cn": "这封挂号信需要有人签收。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-a2-post-10",
+    "word": "de volgcode",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "追踪码；查询码"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Met de volgcode kan ik zien waar mijn pakket is.",
+        "cn": "通过追踪码，我可以查看包裹在哪里。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-a2-post-11",
+    "word": "het verzendlabel",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "寄送标签；邮寄面单"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Print het verzendlabel en plak het op de doos.",
+        "cn": "打印寄送标签，并把它贴在箱子上。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-a2-post-12",
+    "word": "het retourlabel",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "退货邮寄标签"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Het retourlabel zat samen met de factuur in het pakket.",
+        "cn": "退货标签和发票一起放在包裹里。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-a2-post-13",
+    "word": "het retouradres",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "退回地址；寄件方回邮地址"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Controleer of het retouradres nog klopt.",
+        "cn": "检查退回地址是否仍然正确。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-a2-post-14",
+    "word": "de adresregel",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "地址栏；地址行"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Op de tweede adresregel kun je extra informatie zetten.",
+        "cn": "你可以在第二行地址栏填写补充信息。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-a2-post-15",
+    "word": "de ontvangersnaam",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "收件人姓名"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "De ontvangersnaam staat boven het adres.",
+        "cn": "收件人的姓名写在地址上方。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-a2-post-16",
+    "word": "de postbus",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "邮政信箱；邮政专用信箱号码"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Het bedrijf gebruikt een postbus voor zijn brieven.",
+        "cn": "这家公司使用邮政信箱接收信件。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-a2-post-17",
+    "word": "de bezorging",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "投递；配送"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Ik heb een vraag over de bezorging van mijn pakket.",
+        "cn": "我有一个关于包裹投递的问题。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-a2-post-18",
+    "word": "de bezorgdatum",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "投递日期；送达日期"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "De bezorgdatum is veranderd van dinsdag naar woensdag.",
+        "cn": "送达日期从星期二改成了星期三。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-a2-post-19",
+    "word": "het bezorgvenster",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "预计配送时间段"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Volgens het bericht is het bezorgvenster tussen één en drie uur.",
+        "cn": "消息上写的预计配送时段是下午一点到三点。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-a2-post-20",
+    "word": "de bezorgpoging",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "一次投递尝试"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Na de eerste bezorgpoging kreeg ik een bericht.",
+        "cn": "第一次投递尝试之后，我收到了一条通知。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-a2-post-21",
+    "word": "de afhaalcode",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "取件码；领取码"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Laat de afhaalcode zien wanneer je het pakket ophaalt.",
+        "cn": "取包裹时，请出示取件码。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-a2-post-22",
+    "word": "het ontvangstbewijs",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "收件凭证；收据"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Bewaar het ontvangstbewijs totdat alles is afgehandeld.",
+        "cn": "在事情全部处理完之前，请保留收件凭证。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-a2-post-23",
+    "word": "de luchtpost",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "航空邮件"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Mijn grootouders stuurden vroeger veel brieven per luchtpost.",
+        "cn": "我祖父母以前常用航空邮件寄信。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-a2-post-24",
+    "word": "het douaneformulier",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "海关申报表"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "De medewerker legt uit welk douaneformulier bij deze zending hoort.",
+        "cn": "工作人员解释了这票货物需要配哪一种海关申报表。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-a2-post-25",
+    "word": "frankeren",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "",
+        "cn": "付邮资；贴足邮票"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Ik vraag hoe ik deze zware envelop moet frankeren.",
+        "cn": "我询问这个较重的信封应该怎样付邮资。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-a2-post-26",
+    "word": "adresseren",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "",
+        "cn": "在邮件上写地址"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Ik adresseer de brief aan de contactpersoon van de organisatie.",
+        "cn": "我把信的收件人写为这个组织的联系人。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-a2-post-27",
+    "word": "dichtplakken",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "",
+        "cn": "粘封；贴紧"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Plak de doos goed dicht voordat je het etiket erop plakt.",
+        "cn": "贴标签之前，把箱子封好。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-a2-post-28",
+    "word": "doorsturen",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "",
+        "cn": "转寄；转发"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Kun je deze brief naar mijn nieuwe adres doorsturen?",
+        "cn": "你能把这封信转寄到我的新地址吗？"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-a2-post-29",
+    "word": "bezorgen",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "",
+        "cn": "投递；送达"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "De bezorger kon het pakket niet bezorgen omdat er niemand thuis was.",
+        "cn": "因为没有人在家，投递员没能送达包裹。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-a2-post-30",
+    "word": "terugsturen",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "",
+        "cn": "寄回；退回"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Ik stuur het pakket terug omdat er een verkeerd product in zit.",
+        "cn": "我把包裹寄回去，因为里面装错了产品。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  }
+]

@@ -1,0 +1,782 @@
+[
+  {
+    "id": "nl-a1-supermarket-1",
+    "word": "het boodschappenlijstje",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "购物清单"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Op mijn boodschappenlijstje staan brood, melk en appels.",
+        "cn": "我的购物清单上写着面包、牛奶和苹果。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-a1-supermarket-2",
+    "word": "de winkelwagen",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "购物推车"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Bij de ingang pak ik een winkelwagen.",
+        "cn": "我在入口拿一辆购物推车。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-a1-supermarket-3",
+    "word": "het winkelmandje",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "购物篮"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Ik koop weinig, dus neem ik alleen een winkelmandje.",
+        "cn": "我买得少，所以只拿一个购物篮。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-a1-supermarket-4",
+    "word": "de kassa",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "收银台"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Bij de kassa liggen mijn boodschappen op de band.",
+        "cn": "在收银台，我买的东西放在传送带上。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-a1-supermarket-5",
+    "word": "de kassamedewerker",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "收银员"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "De kassamedewerker vraagt of ik een tas nodig heb.",
+        "cn": "收银员问我是否需要袋子。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-a1-supermarket-6",
+    "word": "het gangpad",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "通道；货架间过道"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "In het gangpad voor ons staat een volle winkelwagen.",
+        "cn": "我们前面的过道上停着一辆装满东西的购物车。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-a1-supermarket-7",
+    "word": "het schap",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "货架；搁板"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "De rijst staat op het onderste schap.",
+        "cn": "大米放在最下面的货架上。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-a1-supermarket-8",
+    "word": "de weegschaal",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "秤；体重秤"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Leg de appels op de weegschaal.",
+        "cn": "把苹果放在秤上。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-a1-supermarket-9",
+    "word": "het pond",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "磅；荷兰市制中的五百克"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Een Nederlands pond is vijfhonderd gram.",
+        "cn": "荷兰市制中的一磅是五百克。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-a1-supermarket-10",
+    "word": "het ons",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "荷兰市制中的一百克"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Mag ik een ons kaas, alstublieft?",
+        "cn": "请给我一百克奶酪好吗？"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-a1-supermarket-11",
+    "word": "de kilo",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "千克；公斤"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Ik wil een kilo aardappelen.",
+        "cn": "我想要一公斤土豆。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-a1-supermarket-12",
+    "word": "de gram",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "克"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Voor dit recept heb ik tweehonderd gram rijst nodig.",
+        "cn": "这个食谱需要两百克大米。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-a1-supermarket-13",
+    "word": "de liter",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "升"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "In deze fles zit één liter water.",
+        "cn": "这个瓶子里装着一升水。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-a1-supermarket-14",
+    "word": "de milliliter",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "毫升"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Op het pak staat dat er vijfhonderd milliliter in zit.",
+        "cn": "盒子上写着里面装了五百毫升。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-a1-supermarket-15",
+    "word": "de fles",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "瓶子；一瓶"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Ik koop een fles olie.",
+        "cn": "我买一瓶油。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-a1-supermarket-16",
+    "word": "het blik",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "罐头盒；一罐"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Er staat een blik bonen in de kast.",
+        "cn": "柜子里放着一罐豆子。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-a1-supermarket-17",
+    "word": "het pak",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "盒装；纸盒；一包"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Neem je ook een pak melk mee?",
+        "cn": "你也带一盒牛奶回来吗？"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-a1-supermarket-18",
+    "word": "de pot",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "罐；罐子"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "De jam zit in een glazen pot.",
+        "cn": "果酱装在玻璃罐里。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-a1-supermarket-19",
+    "word": "de tube",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "软管；一管"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Er ligt een tube tandpasta in het mandje.",
+        "cn": "购物篮里有一管牙膏。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-a1-supermarket-20",
+    "word": "het bakje",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "小盒；小容器"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Ik neem een bakje aardbeien.",
+        "cn": "我拿一小盒草莓。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-a1-supermarket-21",
+    "word": "het zakje",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "小袋；一小袋"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Wil je een zakje noten voor onderweg?",
+        "cn": "你想带一小袋坚果在路上吃吗？"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-a1-supermarket-22",
+    "word": "de doos",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "盒子；箱子"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Deze doos bevat zes eieren.",
+        "cn": "这个盒子里有六个鸡蛋。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-a1-supermarket-23",
+    "word": "de krat",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "板条箱；周转箱"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Onder de tafel staat een lege krat.",
+        "cn": "桌子下面放着一个空周转箱。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-a1-supermarket-24",
+    "word": "het netje",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "网袋；小网"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "De uien zitten samen in een netje.",
+        "cn": "洋葱装在一个网袋里。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-a1-supermarket-25",
+    "word": "de rol",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "卷；一卷"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "We hebben nog één rol keukenpapier.",
+        "cn": "我们还剩一卷厨房纸。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-a1-supermarket-26",
+    "word": "de plak",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "薄片；一片"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Op mijn brood leg ik twee plakken kaas.",
+        "cn": "我在面包上放两片奶酪。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-a1-supermarket-27",
+    "word": "het stuk",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "件；块；个"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Ik neem een stuk brood bij de soep.",
+        "cn": "我拿一块面包配汤。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-a1-supermarket-28",
+    "word": "het statiegeld",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "可退还的容器押金"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Op de bon zie ik hoeveel statiegeld ik heb betaald.",
+        "cn": "从小票上可以看到我付了多少容器押金。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-a1-supermarket-29",
+    "word": "afrekenen",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "",
+        "cn": "结账"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Ik wil graag afrekenen, alstublieft.",
+        "cn": "我想结账，谢谢。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-a1-supermarket-30",
+    "word": "in de rij staan",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "搭配",
+        "cn": "排队"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "We staan al vijf minuten in de rij.",
+        "cn": "我们已经排了五分钟队了。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  }
+]

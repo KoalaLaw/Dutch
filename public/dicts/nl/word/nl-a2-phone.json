@@ -1,0 +1,782 @@
+[
+  {
+    "id": "nl-a2-phone-1",
+    "word": "de telefoon",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "电话；手机"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Mijn telefoon ligt nog op mijn bureau.",
+        "cn": "我的手机还放在书桌上。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-a2-phone-2",
+    "word": "de smartphone",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "智能手机"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Met mijn smartphone kan ik ook documenten lezen.",
+        "cn": "我也可以用智能手机阅读文档。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-a2-phone-3",
+    "word": "het toestel",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "设备；电话机"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Dit toestel is al vijf jaar oud.",
+        "cn": "这部设备已经用了五年。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-a2-phone-4",
+    "word": "de oplader",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "充电器"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Heb je toevallig een oplader die ik kan lenen?",
+        "cn": "你碰巧有能借给我的充电器吗？"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-a2-phone-5",
+    "word": "de batterij",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "电池"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Mijn batterij is bijna leeg, dus ik moet straks opladen.",
+        "cn": "我的电池快没电了，待会儿得充电。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-a2-phone-6",
+    "word": "het telefoonhoesje",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "手机壳"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "In mijn telefoonhoesje zit ook een vakje voor een kaart.",
+        "cn": "我的手机壳里还有一个放卡片的小夹层。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-a2-phone-7",
+    "word": "de simkaart",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "手机 SIM 卡"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "De nieuwe simkaart zit nog in de verpakking.",
+        "cn": "新的 SIM 卡还在包装里。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-a2-phone-8",
+    "word": "de ontgrendelcode",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "解锁码"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Je hebt de ontgrendelcode nodig om het scherm te openen.",
+        "cn": "你需要解锁码才能打开屏幕。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-a2-phone-9",
+    "word": "de wifi",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "无线网络；Wi-Fi"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Is er wifi beschikbaar voor bezoekers?",
+        "cn": "访客可以使用无线网络吗？"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-a2-phone-10",
+    "word": "het signaal",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "信号"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "In de kelder is het signaal veel zwakker.",
+        "cn": "地下室里的信号弱得多。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-a2-phone-11",
+    "word": "de mobiele data",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "搭配",
+        "cn": "移动数据；手机流量"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Ik zet mijn mobiele data uit als ik wifi gebruik.",
+        "cn": "使用无线网络时，我会关闭移动数据。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-a2-phone-12",
+    "word": "de databundel",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "流量套餐"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Mijn databundel is bijna op omdat ik veel video's heb bekeken.",
+        "cn": "因为看了很多视频，我的流量套餐快用完了。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-a2-phone-13",
+    "word": "het beltegoed",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "预付话费余额"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Ik moet mijn beltegoed aanvullen voordat ik weer kan bellen.",
+        "cn": "我得先给话费余额充值，才能再次打电话。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-a2-phone-14",
+    "word": "het bereik",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "信号覆盖；可接通信号"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Op deze plek heeft mijn telefoon geen bereik.",
+        "cn": "在这个地方，我的手机没有信号。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-a2-phone-15",
+    "word": "de vliegtuigstand",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "飞行模式"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Mijn telefoon stond nog in de vliegtuigstand.",
+        "cn": "我的手机还处于飞行模式。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-a2-phone-16",
+    "word": "de trilstand",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "振动模式"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Tijdens de vergadering zet ik mijn telefoon op de trilstand.",
+        "cn": "开会时，我把手机设为振动模式。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-a2-phone-17",
+    "word": "de beltoon",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "来电铃声"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Ik herkende mijn beltoon niet omdat ik hem had veranderd.",
+        "cn": "我没认出自己的铃声，因为我之前改过了。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-a2-phone-18",
+    "word": "de voicemail",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "语音信箱；语音留言"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Ik heb een bericht op je voicemail achtergelaten.",
+        "cn": "我在你的语音信箱里留了言。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-a2-phone-19",
+    "word": "de contactlijst",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "联系人列表"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Je nummer staat nog niet in mijn contactlijst.",
+        "cn": "我的联系人列表里还没有你的号码。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-a2-phone-20",
+    "word": "het gesprek",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "谈话；通话"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Het gesprek werd verbroken voordat we klaar waren.",
+        "cn": "我们还没说完，通话就断了。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-a2-phone-21",
+    "word": "de gemiste oproep",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "搭配",
+        "cn": "未接来电"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Ik zie twee gemiste oproepen van hetzelfde nummer.",
+        "cn": "我看到同一个号码有两个未接来电。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-a2-phone-22",
+    "word": "de videoverbinding",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "视频连接"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "De videoverbinding is niet stabiel genoeg voor het overleg.",
+        "cn": "视频连接不够稳定，无法顺利开会。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-a2-phone-23",
+    "word": "het videogesprek",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "视频通话"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Met mijn familie voer ik vaak een videogesprek.",
+        "cn": "我经常和家人进行视频通话。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-a2-phone-24",
+    "word": "de luidspreker",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "扬声器"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Kun je de luidspreker wat zachter zetten?",
+        "cn": "你能把扬声器声音调小一些吗？"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-a2-phone-25",
+    "word": "de microfoon",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "麦克风"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Je microfoon staat uit, daarom horen we je niet.",
+        "cn": "你的麦克风关着，所以我们听不到你。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-a2-phone-26",
+    "word": "de koptelefoon",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "耳机；头戴耳机"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Met een koptelefoon kan ik de opname beter verstaan.",
+        "cn": "戴着耳机，我能更清楚地听懂录音。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-a2-phone-27",
+    "word": "het oortje",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "耳塞式耳机；一只耳机"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Ik ben één oortje onderweg verloren.",
+        "cn": "我在路上丢了一只耳机。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-a2-phone-28",
+    "word": "swipen",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "",
+        "cn": "在触屏上滑动"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Swipe naar links om de volgende foto te zien.",
+        "cn": "向左滑动以查看下一张照片。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-a2-phone-29",
+    "word": "opladen",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "",
+        "cn": "充电"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Ik laad mijn telefoon op voordat ik vertrek.",
+        "cn": "出发前，我给手机充电。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-a2-phone-30",
+    "word": "herstarten",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "",
+        "cn": "重新启动"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "De medewerker vraagt of ik het toestel al heb herstart.",
+        "cn": "工作人员问我是否已经重启过设备。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  }
+]

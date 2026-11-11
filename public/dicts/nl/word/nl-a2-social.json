@@ -1,0 +1,782 @@
+[
+  {
+    "id": "nl-a2-social-1",
+    "word": "de bezoeker",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "来访者；参观者"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Elke bezoeker krijgt bij de deur een korte uitleg.",
+        "cn": "每位来访者都会在门口听到简短说明。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-a2-social-2",
+    "word": "het bezoek",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "拜访；来客"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "We krijgen vanavond bezoek.",
+        "cn": "今晚我们家有客人来。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-a2-social-3",
+    "word": "de gast",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "客人；嘉宾"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Onze gast wil graag iets over de buurt horen.",
+        "cn": "我们的客人想听听社区的情况。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-a2-social-4",
+    "word": "de gastheer",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "男主人；男性主持人"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "De gastheer laat ons zien waar we kunnen zitten.",
+        "cn": "男主人告诉我们可以坐在哪里。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-a2-social-5",
+    "word": "de gastvrouw",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "女主人；女性主持人"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "De gastvrouw brengt koffie naar de tafel.",
+        "cn": "女主人把咖啡端到桌边。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-a2-social-6",
+    "word": "de begroeting",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "问候；迎接"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Na een korte begroeting begon het gesprek.",
+        "cn": "简单问候之后，谈话开始了。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-a2-social-7",
+    "word": "het afscheid",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "告别；离别"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Bij het afscheid bedankten we elkaar voor de gezellige avond.",
+        "cn": "告别时，我们互相感谢对方带来的愉快夜晚。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-a2-social-8",
+    "word": "de glimlach",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "微笑"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Met een glimlach wees zij naar een vrije stoel.",
+        "cn": "她微笑着指向一把空椅子。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-a2-social-9",
+    "word": "het gebaar",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "手势；举动"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Met een gebaar maakte hij duidelijk dat ik mocht binnenkomen.",
+        "cn": "他用手势表示我可以进来。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-a2-social-10",
+    "word": "de gezelligheid",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "温馨愉快的气氛；热闹"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Voor de gezelligheid blijven we nog even zitten.",
+        "cn": "我们为了继续享受愉快的气氛，又坐了一会儿。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-a2-social-11",
+    "word": "de waardering",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "欣赏；感谢；认可"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Ik wil mijn waardering voor jullie hulp uitspreken.",
+        "cn": "我想表达对你们帮助的感谢。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-a2-social-12",
+    "word": "de belangstelling",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "兴趣；关注"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Zij toont veel belangstelling voor mijn verhaal.",
+        "cn": "她对我的故事表现出浓厚兴趣。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-a2-social-13",
+    "word": "de beleefdheid",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "礼貌；客气"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Hij bleef nog even staan uit beleefdheid.",
+        "cn": "他出于礼貌又站了一会儿。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-a2-social-14",
+    "word": "het compliment",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "赞美；夸奖"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Bedankt voor het compliment over mijn Nederlands.",
+        "cn": "谢谢你夸奖我的荷兰语。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-a2-social-15",
+    "word": "de verontschuldiging",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "道歉；歉意"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Zij bood haar verontschuldigingen aan omdat ze te laat was.",
+        "cn": "她因为迟到而道歉。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-a2-social-16",
+    "word": "de groet",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "问候；致意"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Doe je broer de groeten van mij.",
+        "cn": "代我向你的兄弟问好。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-a2-social-17",
+    "word": "hartelijk",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "",
+        "cn": "热情的；衷心的"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "We werden hartelijk ontvangen bij onze buren.",
+        "cn": "邻居们热情地接待了我们。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-a2-social-18",
+    "word": "beleefd",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "",
+        "cn": "有礼貌的"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Het kind vraagt beleefd om nog een glas water.",
+        "cn": "孩子有礼貌地请求再来一杯水。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-a2-social-19",
+    "word": "onbeleefd",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "",
+        "cn": "不礼貌的"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Ik vind het onbeleefd om steeds op je telefoon te kijken.",
+        "cn": "我觉得不停看手机不太礼貌。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-a2-social-20",
+    "word": "gezellig",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "",
+        "cn": "温馨的；令人愉快的"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Het was een gezellige avond met veel gesprekken.",
+        "cn": "那是一个交谈甚欢的愉快夜晚。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-a2-social-21",
+    "word": "spontaan",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "",
+        "cn": "自发的；自然随和的"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "We besloten spontaan om samen te eten.",
+        "cn": "我们临时决定一起吃饭。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-a2-social-22",
+    "word": "bedanken",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "",
+        "cn": "感谢；婉拒（依语境）"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Ik wil je bedanken voor de uitnodiging.",
+        "cn": "我想感谢你的邀请。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-a2-social-23",
+    "word": "begroeten",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "",
+        "cn": "向……问候；迎接"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Zij begroet iedereen die binnenkomt.",
+        "cn": "她向每一位进来的人问好。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-a2-social-24",
+    "word": "zich excuseren",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "搭配",
+        "cn": "道歉；请求谅解"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Hij excuseerde zich omdat hij eerder weg moest.",
+        "cn": "他因为需要提前离开而致歉。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-a2-social-25",
+    "word": "afscheid nemen van",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "搭配",
+        "cn": "向……告别"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "We nemen afscheid van de laatste gasten.",
+        "cn": "我们向最后离开的客人道别。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-a2-social-26",
+    "word": "langskomen",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "",
+        "cn": "顺道来访；过来"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Kom gerust een keer langs als je in de buurt bent.",
+        "cn": "你在附近时，尽管过来坐坐。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-a2-social-27",
+    "word": "aanspreken",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "",
+        "cn": "主动和……说话；称呼"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Ik durf mijn nieuwe buurman nu gemakkelijker aan te spreken.",
+        "cn": "现在我更敢主动和新邻居说话了。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-a2-social-28",
+    "word": "meebrengen",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "",
+        "cn": "带来；随身带来"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Zal ik iets te drinken meebrengen?",
+        "cn": "我要不要带些喝的过来？"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-a2-social-29",
+    "word": "aanbieden",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "",
+        "cn": "提供；主动提出给予"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "De gastvrouw biedt ons een kopje thee aan.",
+        "cn": "女主人请我们喝一杯茶。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-a2-social-30",
+    "word": "bijpraten",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "",
+        "cn": "聊聊近况；补充最新情况"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "We hebben elkaar lang niet gezien en willen graag bijpraten.",
+        "cn": "我们很久没见，想聊聊彼此的近况。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  }
+]

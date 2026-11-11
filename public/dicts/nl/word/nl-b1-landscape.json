@@ -1,0 +1,782 @@
+[
+  {
+    "id": "nl-b1-landscape-1",
+    "word": "het landschap",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "风景；地貌"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Tijdens de treinreis veranderde het landschap van vlak naar heuvelachtig.",
+        "cn": "火车旅途中，地貌从平坦变得起伏不平。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-b1-landscape-2",
+    "word": "de horizon",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "地平线；视野界限"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Aan de horizon zagen we een rij bomen.",
+        "cn": "我们在地平线上看到一排树。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-b1-landscape-3",
+    "word": "het duin",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "沙丘"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Achter het duin konden we de zee horen.",
+        "cn": "在沙丘后面，我们能听到海浪声。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-b1-landscape-4",
+    "word": "de vallei",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "山谷；谷地"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Het dorp ligt in een vallei tussen twee bergketens.",
+        "cn": "村庄位于两条山脉之间的谷地里。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-b1-landscape-5",
+    "word": "het dal",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "山谷；谷底"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "We volgden het pad tot beneden in het dal.",
+        "cn": "我们沿着小路一直走到山谷底部。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-b1-landscape-6",
+    "word": "de heuvel",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "小山；丘陵"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Boven op de heuvel hadden we een mooi uitzicht.",
+        "cn": "在小山顶上，我们看到了优美的景色。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-b1-landscape-7",
+    "word": "de berg",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "山；山峰"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "In de verte lag nog sneeuw op de berg.",
+        "cn": "远处的山上还有积雪。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-b1-landscape-8",
+    "word": "de rots",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "岩石；岩壁"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Naast het pad lag een grote rots.",
+        "cn": "小路旁边有一块巨大的岩石。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-b1-landscape-9",
+    "word": "de klif",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "悬崖；陡峭海岸"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Vanaf het uitzichtpunt zagen we de hoge klif.",
+        "cn": "从观景点，我们看到了高高的悬崖。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-b1-landscape-10",
+    "word": "de kloof",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "峡谷；鸿沟"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Een smalle brug verbindt de twee kanten van de kloof.",
+        "cn": "一座窄桥连接着峡谷两侧。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-b1-landscape-11",
+    "word": "de waterval",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "瀑布"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "We hoorden de waterval al voordat we hem zagen.",
+        "cn": "我们还没看到瀑布，就先听到了它的声音。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-b1-landscape-12",
+    "word": "de beek",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "小溪"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Een beek loopt door het bos naast het dorp.",
+        "cn": "一条小溪流经村旁的树林。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-b1-landscape-13",
+    "word": "het meer",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "湖；湖泊"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "De camping ligt aan een meer waar je kunt zwemmen.",
+        "cn": "露营地位于一座可以游泳的湖边。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-b1-landscape-14",
+    "word": "de vijver",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "池塘"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "In de vijver achter het huis zwemmen eenden.",
+        "cn": "房子后面的池塘里有鸭子在游泳。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-b1-landscape-15",
+    "word": "het moeras",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "沼泽；湿地"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Het moeras is een leefgebied voor veel verschillende vogels.",
+        "cn": "沼泽是许多不同鸟类的栖息地。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-b1-landscape-16",
+    "word": "het veen",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "泥炭；泥炭地"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "De gids legde uit hoe het veen in dit gebied is ontstaan.",
+        "cn": "导游解释了这一地区的泥炭是怎样形成的。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-b1-landscape-17",
+    "word": "de heide",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "石南灌丛地；荒原"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "In de nazomer krijgt de heide een paarse kleur.",
+        "cn": "夏末时，石南灌丛地变成紫色。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-b1-landscape-18",
+    "word": "de weide",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "草地；牧场"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Aan de andere kant van het hek ligt een weide met schapen.",
+        "cn": "栅栏另一侧是一片养着绵羊的草地。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-b1-landscape-19",
+    "word": "de akker",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "耕地；农田"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Op deze akker verbouwt de boer aardappelen.",
+        "cn": "农民在这块地里种植土豆。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-b1-landscape-20",
+    "word": "de oever",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "河岸；湖岸"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "We liepen langzaam langs de oever van het meer.",
+        "cn": "我们沿着湖岸慢慢走。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-b1-landscape-21",
+    "word": "de dijk",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "堤坝；堤岸"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Vanaf de dijk konden we over het water uitkijken.",
+        "cn": "从堤坝上，我们可以眺望水面。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-b1-landscape-22",
+    "word": "het bos",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "森林；树林"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Na een uur lopen kwamen we uit het bos.",
+        "cn": "走了一个小时后，我们走出了树林。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-b1-landscape-23",
+    "word": "de boomstam",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "树干；原木"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Op de omgevallen boomstam groeide mos.",
+        "cn": "倒下的树干上长着苔藓。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-b1-landscape-24",
+    "word": "de schors",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "树皮"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Aan de schors herkende zij welke boom het was.",
+        "cn": "她通过树皮辨认出这是什么树。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-b1-landscape-25",
+    "word": "de bloesem",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "果树等的花；花朵（集合名词）"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "In het voorjaar staat deze boom vol bloesem.",
+        "cn": "春天，这棵树开满了花。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-b1-landscape-26",
+    "word": "het mos",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "苔藓"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Het mos op de stenen voelt zacht aan.",
+        "cn": "石头上的苔藓摸起来很柔软。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-b1-landscape-27",
+    "word": "de varen",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "蕨类植物"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Onder de bomen groeien veel varens.",
+        "cn": "树下生长着许多蕨类植物。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-b1-landscape-28",
+    "word": "de modder",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "泥；泥浆"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Na de regen zaten onze schoenen onder de modder.",
+        "cn": "雨后，我们的鞋子沾满了泥。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-b1-landscape-29",
+    "word": "het zand",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "沙子；沙"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Er zat nog zand in mijn schoenen na de wandeling.",
+        "cn": "散步后，我的鞋里还留着沙子。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-b1-landscape-30",
+    "word": "de schelp",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "贝壳"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Het kind vond een mooie schelp op het strand.",
+        "cn": "孩子在海滩上捡到一枚漂亮的贝壳。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  }
+]

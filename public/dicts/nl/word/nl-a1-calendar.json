@@ -1,0 +1,782 @@
+[
+  {
+    "id": "nl-a1-calendar-1",
+    "word": "januari",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "",
+        "cn": "一月"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "In januari is het vaak koud.",
+        "cn": "一月份天气经常很冷。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-a1-calendar-2",
+    "word": "februari",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "",
+        "cn": "二月"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Mijn cursus begint in februari.",
+        "cn": "我的课程二月份开始。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-a1-calendar-3",
+    "word": "maart",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "",
+        "cn": "三月"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "We verhuizen in maart.",
+        "cn": "我们三月份搬家。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-a1-calendar-4",
+    "word": "april",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "",
+        "cn": "四月"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "In april ga ik een week op vakantie.",
+        "cn": "四月份我去度假一周。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-a1-calendar-5",
+    "word": "mei",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "",
+        "cn": "五月"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Mijn broer komt in mei op bezoek.",
+        "cn": "我的兄弟五月份来做客。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-a1-calendar-6",
+    "word": "juni",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "",
+        "cn": "六月"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "De school organiseert in juni een feest.",
+        "cn": "学校六月份组织一场庆祝活动。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-a1-calendar-7",
+    "word": "juli",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "",
+        "cn": "七月"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "In juli zijn de dagen lang.",
+        "cn": "七月份白昼很长。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-a1-calendar-8",
+    "word": "augustus",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "",
+        "cn": "八月"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Deze winkel is in augustus twee weken dicht.",
+        "cn": "这家商店八月份有两个星期不营业。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-a1-calendar-9",
+    "word": "september",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "",
+        "cn": "九月"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "De nieuwe lessen beginnen in september.",
+        "cn": "新的课程九月份开始。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-a1-calendar-10",
+    "word": "oktober",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "",
+        "cn": "十月"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "We hebben in oktober een paar vrije dagen.",
+        "cn": "我们十月份有几天假。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-a1-calendar-11",
+    "word": "november",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "",
+        "cn": "十一月"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "In november wordt het vroeg donker.",
+        "cn": "十一月份天黑得早。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-a1-calendar-12",
+    "word": "december",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "",
+        "cn": "十二月"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Aan het einde van december bezoek ik mijn familie.",
+        "cn": "十二月底我去看望家人。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-a1-calendar-13",
+    "word": "de lente",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "春天"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "In de lente komen er bloemen in de tuin.",
+        "cn": "春天，花园里开始长出花朵。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-a1-calendar-14",
+    "word": "de zomer",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "夏天"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "In de zomer zitten we graag buiten.",
+        "cn": "夏天我们喜欢坐在户外。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-a1-calendar-15",
+    "word": "de herfst",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "秋天"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "In de herfst vallen de bladeren van de bomen.",
+        "cn": "秋天，树叶从树上落下。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-a1-calendar-16",
+    "word": "de winter",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "冬天"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Deze winter wil ik leren schaatsen.",
+        "cn": "这个冬天我想学滑冰。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-a1-calendar-17",
+    "word": "de ochtend",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "早晨；上午"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "In de ochtend drink ik eerst water.",
+        "cn": "早晨我先喝水。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-a1-calendar-18",
+    "word": "de middag",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "中午；下午"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "We hebben de hele middag samen geleerd.",
+        "cn": "我们一起学习了整个下午。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-a1-calendar-19",
+    "word": "de avond",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "晚上"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Op deze avond blijf ik thuis.",
+        "cn": "今天晚上我待在家里。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-a1-calendar-20",
+    "word": "de nacht",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "夜间"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Het was de hele nacht stil.",
+        "cn": "整夜都很安静。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-a1-calendar-21",
+    "word": "de datum",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "日期"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Welke datum staat er op de uitnodiging?",
+        "cn": "邀请函上写的是哪一天？"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-a1-calendar-22",
+    "word": "de kalender",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "日历"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Ik schrijf de afspraak op de kalender.",
+        "cn": "我把约定写在日历上。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-a1-calendar-23",
+    "word": "overmorgen",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "",
+        "cn": "后天"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Overmorgen komt de monteur langs.",
+        "cn": "维修师傅后天来。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-a1-calendar-24",
+    "word": "eergisteren",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "",
+        "cn": "前天"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Eergisteren heb ik mijn zus gebeld.",
+        "cn": "前天我给姐妹打了电话。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-a1-calendar-25",
+    "word": "de seconde",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "秒"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Wacht nog even, ik ben over een paar seconden klaar.",
+        "cn": "再等一下，我几秒钟后就好了。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-a1-calendar-26",
+    "word": "eerste",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "",
+        "cn": "第一的"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Mijn eerste les is op maandag.",
+        "cn": "我的第一节课在星期一。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-a1-calendar-27",
+    "word": "laatste",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "",
+        "cn": "最后的"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Dit is de laatste bus vanavond.",
+        "cn": "这是今晚的末班公交车。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-a1-calendar-28",
+    "word": "vroeg",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "",
+        "cn": "早；早的"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Ik ga vandaag vroeg naar bed.",
+        "cn": "我今天早点睡觉。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-a1-calendar-29",
+    "word": "laat",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "",
+        "cn": "晚；迟的"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Het is al laat, we gaan naar huis.",
+        "cn": "已经很晚了，我们回家吧。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-a1-calendar-30",
+    "word": "op tijd",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "搭配",
+        "cn": "准时；及时"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Kom alsjeblieft op tijd naar de les.",
+        "cn": "请准时来上课。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  }
+]

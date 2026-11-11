@@ -1,0 +1,782 @@
+[
+  {
+    "id": "nl-a1-directions-1",
+    "word": "in",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "",
+        "cn": "在……里面；进入"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Het boek zit in mijn tas.",
+        "cn": "书在我的包里。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-a1-directions-2",
+    "word": "op",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "",
+        "cn": "在……上面"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Je telefoon ligt op de tafel.",
+        "cn": "你的手机放在桌子上。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-a1-directions-3",
+    "word": "aan",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "",
+        "cn": "在……旁；贴在；连接着"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "De foto hangt aan de muur.",
+        "cn": "照片挂在墙上。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-a1-directions-4",
+    "word": "onder",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "",
+        "cn": "在……下面"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "De kat ligt onder de stoel.",
+        "cn": "猫躺在椅子下面。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-a1-directions-5",
+    "word": "boven",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "",
+        "cn": "在……上方；在楼上"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "De lamp hangt boven de tafel.",
+        "cn": "灯挂在桌子上方。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-a1-directions-6",
+    "word": "voor",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "",
+        "cn": "在……前面；给；为了"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "De bus stopt voor het station.",
+        "cn": "公交车停在车站前面。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-a1-directions-7",
+    "word": "achter",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "",
+        "cn": "在……后面"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Er staat een fiets achter het huis.",
+        "cn": "房子后面停着一辆自行车。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-a1-directions-8",
+    "word": "naast",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "",
+        "cn": "在……旁边"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Ik zit naast mijn vriendin.",
+        "cn": "我坐在女性朋友旁边。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-a1-directions-9",
+    "word": "tussen",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "",
+        "cn": "在……之间"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "De winkel ligt tussen twee cafés.",
+        "cn": "商店位于两家咖啡馆之间。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-a1-directions-10",
+    "word": "tegenover",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "",
+        "cn": "在……对面"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Mijn huis staat tegenover de school.",
+        "cn": "我家在学校对面。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-a1-directions-11",
+    "word": "bij",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "",
+        "cn": "在……附近；在某人处"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "We wachten bij de ingang.",
+        "cn": "我们在入口处等候。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-a1-directions-12",
+    "word": "uit",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "",
+        "cn": "从……出来；来自"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Zij haalt een pen uit haar tas.",
+        "cn": "她从包里拿出一支笔。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-a1-directions-13",
+    "word": "naar",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "",
+        "cn": "朝；去往"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "We lopen naar de uitgang.",
+        "cn": "我们朝出口走去。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-a1-directions-14",
+    "word": "langs",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "",
+        "cn": "沿着；经过……旁边"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "We wandelen langs het water.",
+        "cn": "我们沿着水边散步。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-a1-directions-15",
+    "word": "door",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "",
+        "cn": "穿过；通过"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Je kunt door deze deur naar buiten.",
+        "cn": "你可以穿过这扇门出去。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-a1-directions-16",
+    "word": "over",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "",
+        "cn": "越过；在……上方；关于"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "We lopen over de brug.",
+        "cn": "我们走过桥。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-a1-directions-17",
+    "word": "binnen",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "",
+        "cn": "在里面；到里面"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Het regent, dus we blijven binnen.",
+        "cn": "天在下雨，所以我们待在屋里。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-a1-directions-18",
+    "word": "buiten",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "",
+        "cn": "在外面；到外面"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "De kinderen spelen buiten.",
+        "cn": "孩子们在外面玩。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-a1-directions-19",
+    "word": "omhoog",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "",
+        "cn": "向上"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "De lift gaat omhoog.",
+        "cn": "电梯正在上升。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-a1-directions-20",
+    "word": "omlaag",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "",
+        "cn": "向下"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Kijk even omlaag naar de vloer.",
+        "cn": "往下看看地板。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-a1-directions-21",
+    "word": "hier",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "",
+        "cn": "这里"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Je kunt hier zitten.",
+        "cn": "你可以坐在这里。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-a1-directions-22",
+    "word": "daar",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "",
+        "cn": "那里"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Mijn jas hangt daar.",
+        "cn": "我的外套挂在那里。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-a1-directions-23",
+    "word": "ergens",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "",
+        "cn": "某处；某个地方"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Mijn sleutel moet ergens in huis liggen.",
+        "cn": "我的钥匙肯定放在家里的某个地方。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-a1-directions-24",
+    "word": "nergens",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "",
+        "cn": "无处；哪里都不"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Ik kan mijn bril nergens vinden.",
+        "cn": "我怎么也找不到眼镜。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-a1-directions-25",
+    "word": "overal",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "",
+        "cn": "到处；每个地方"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Na het feest lagen er overal bekers.",
+        "cn": "聚会后，到处都是杯子。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-a1-directions-26",
+    "word": "de ingang",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "入口"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "De ingang is aan de andere kant.",
+        "cn": "入口在另一侧。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-a1-directions-27",
+    "word": "de uitgang",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "出口"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Waar is de uitgang van dit gebouw?",
+        "cn": "这栋楼的出口在哪里？"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-a1-directions-28",
+    "word": "de hoek",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "角落；拐角"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "De bakker zit op de hoek.",
+        "cn": "面包店就在拐角处。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-a1-directions-29",
+    "word": "de overkant",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "对面；另一边"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Mijn vriend staat aan de overkant van de straat.",
+        "cn": "我的朋友站在街对面。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-a1-directions-30",
+    "word": "de rand",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "边缘"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Zet het glas niet op de rand van de tafel.",
+        "cn": "别把玻璃杯放在桌子边缘。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  }
+]

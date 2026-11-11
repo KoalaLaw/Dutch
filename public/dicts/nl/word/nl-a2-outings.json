@@ -1,0 +1,782 @@
+[
+  {
+    "id": "nl-a2-outings-1",
+    "word": "het uitstapje",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "短途出游"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Voor het uitstapje nemen we brood en water mee.",
+        "cn": "短途出游时，我们带上面包和水。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-a2-outings-2",
+    "word": "het dagje uit",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "搭配",
+        "cn": "一日游；外出玩一天"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "We plannen een dagje uit voor het hele gezin.",
+        "cn": "我们为全家安排一次一日游。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-a2-outings-3",
+    "word": "de excursie",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "参观活动；考察旅行"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Tijdens de excursie vertelt een gids over de oude gebouwen.",
+        "cn": "参观活动中，导游介绍那些古老建筑。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-a2-outings-4",
+    "word": "het vertrekpunt",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "出发点"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Het vertrekpunt van de wandeling is bij het station.",
+        "cn": "这次步行活动的出发点在车站旁边。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-a2-outings-5",
+    "word": "de rondvaart",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "观光游船行程；乘船游览"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Tijdens de rondvaart vertelt de gids over de gebouwen langs het water.",
+        "cn": "乘船游览时，导游介绍了水边的建筑。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-a2-outings-6",
+    "word": "de tussenstop",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "中途停留"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Onderweg maken we een tussenstop om iets te eten.",
+        "cn": "途中我们停留一次，吃点东西。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-a2-outings-7",
+    "word": "de picknick",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "野餐"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Als het weer goed blijft, houden we een picknick in het park.",
+        "cn": "如果天气一直好，我们就在公园野餐。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-a2-outings-8",
+    "word": "de picknickmand",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "野餐篮"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "In de picknickmand zitten broodjes, fruit en bekers.",
+        "cn": "野餐篮里装着小面包、水果和杯子。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-a2-outings-9",
+    "word": "het wandelpad",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "步行小道；徒步道"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Volg het wandelpad totdat je bij het water komt.",
+        "cn": "沿着徒步道走，直到水边。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-a2-outings-10",
+    "word": "de wandelroute",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "步行路线；徒步路线"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "We kiezen een wandelroute die niet te lang is voor de kinderen.",
+        "cn": "我们挑选一条对孩子来说不会太长的步行路线。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-a2-outings-11",
+    "word": "de fietsroute",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "骑行路线"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Deze fietsroute gaat langs het kanaal en door twee dorpen.",
+        "cn": "这条骑行路线沿着运河，经过两个村庄。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-a2-outings-12",
+    "word": "de fietstocht",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "骑行出游；骑车旅行"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Na de fietstocht hebben we samen op het terras gegeten.",
+        "cn": "骑行结束后，我们一起在露天座位区吃了饭。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-a2-outings-13",
+    "word": "het bezoekerscentrum",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "游客中心；访客中心"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "In het bezoekerscentrum kun je vragen stellen over de omgeving.",
+        "cn": "在游客中心，你可以询问周边地区的信息。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-a2-outings-14",
+    "word": "de toegangspoort",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "入口大门"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "We ontmoeten elkaar voor de toegangspoort van het park.",
+        "cn": "我们在公园入口大门前见面。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-a2-outings-15",
+    "word": "het toegangsbewijs",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "门票；入场凭证"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Bewaar je toegangsbewijs, want je hebt het later nog nodig.",
+        "cn": "请保留门票，之后还会用到。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-a2-outings-16",
+    "word": "de audiotour",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "语音导览"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Met de audiotour hoor je bij elk kunstwerk een korte uitleg.",
+        "cn": "通过语音导览，你可以听到每件艺术作品的简短讲解。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-a2-outings-17",
+    "word": "de groepsgrootte",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "团队人数；小组规模"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "De groepsgrootte is beperkt, zodat iedereen de gids kan verstaan.",
+        "cn": "团队人数受到限制，以便每个人都能听清导游讲解。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-a2-outings-18",
+    "word": "het groepsuitje",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "集体出游；团体活动"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Voor ons groepsuitje zoeken we iets waaraan iedereen kan meedoen.",
+        "cn": "我们为集体出游寻找一种人人都可以参加的活动。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-a2-outings-19",
+    "word": "de reisduur",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "行程所需时间；旅途时长"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "De reisduur hangt af van de aansluiting tussen de treinen.",
+        "cn": "旅途时长取决于火车之间的换乘衔接。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-a2-outings-20",
+    "word": "de kabelbaan",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "缆车；索道"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Met de kabelbaan gaan we naar boven om van het uitzicht te genieten.",
+        "cn": "我们乘缆车上山欣赏景色。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-a2-outings-21",
+    "word": "het uitzichtpunt",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "观景点；瞭望点"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Vanaf het uitzichtpunt kunnen we de hele vallei zien.",
+        "cn": "从观景点上，我们能看到整条山谷。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-a2-outings-22",
+    "word": "de verrekijker",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "望远镜"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Met een verrekijker kun je de vogels aan de overkant beter zien.",
+        "cn": "用望远镜可以更清楚地看到对岸的鸟。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-a2-outings-23",
+    "word": "de wandelkaart",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "步行地图；徒步地图"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Op de wandelkaart staan ook plekken waar je kunt rusten.",
+        "cn": "徒步地图上也标有可以休息的地方。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-a2-outings-24",
+    "word": "de pauzeplek",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "休息地点"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "We spreken af dat de brug onze eerste pauzeplek is.",
+        "cn": "我们约定把桥边作为第一个休息点。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-a2-outings-25",
+    "word": "de rustplaats",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "休憩处；途中休息站"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Bij de rustplaats kunnen we even zitten en water drinken.",
+        "cn": "在休憩处，我们可以坐一会儿，喝点水。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-a2-outings-26",
+    "word": "eropuit gaan",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "搭配",
+        "cn": "外出游玩；出门活动"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "In het weekend gaan we graag met het gezin eropuit.",
+        "cn": "周末我们喜欢全家一起外出游玩。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-a2-outings-27",
+    "word": "op pad gaan",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "搭配",
+        "cn": "上路；出门"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "We gaan vroeg op pad om de grootste drukte te vermijden.",
+        "cn": "我们早点出门，以避开最拥挤的时候。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-a2-outings-28",
+    "word": "bezichtigen",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "",
+        "cn": "参观；查看"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Morgen willen we het oude kasteel bezichtigen.",
+        "cn": "明天我们想参观那座古堡。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-a2-outings-29",
+    "word": "de omweg",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "绕路；额外绕行的路程"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Vanwege de afgesloten brug moesten we een omweg maken.",
+        "cn": "由于桥梁关闭，我们不得不绕路。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-a2-outings-30",
+    "word": "het ontmoetingspunt",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "见面地点；集合点"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Het ontmoetingspunt staat duidelijk in de uitnodiging.",
+        "cn": "邀请函上清楚地注明了集合地点。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  }
+]

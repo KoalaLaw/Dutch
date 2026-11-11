@@ -156,7 +156,7 @@
     "enName": "nl-b1-verbs",
     "url": "nl-b1-verbs.json",
     "length": 30,
-    "category": "A2→B1 进阶",
+    "category": "A2 进阶",
     "tags": [
       "A2→B1",
       "主题词汇与搭配"
@@ -180,7 +180,7 @@
     "enName": "nl-b1-describing",
     "url": "nl-b1-describing.json",
     "length": 30,
-    "category": "A2→B1 进阶",
+    "category": "A2 进阶",
     "tags": [
       "A2→B1",
       "主题词汇与搭配"
@@ -204,7 +204,7 @@
     "enName": "nl-b1-housing",
     "url": "nl-b1-housing.json",
     "length": 30,
-    "category": "A2→B1 进阶",
+    "category": "B1 综合",
     "tags": [
       "B1",
       "主题词汇与搭配"
@@ -228,7 +228,7 @@
     "enName": "nl-b1-employment",
     "url": "nl-b1-employment.json",
     "length": 30,
-    "category": "A2→B1 进阶",
+    "category": "B1 综合",
     "tags": [
       "B1",
       "主题词汇与搭配"
@@ -252,7 +252,7 @@
     "enName": "nl-b1-workplace",
     "url": "nl-b1-workplace.json",
     "length": 30,
-    "category": "A2→B1 进阶",
+    "category": "B1 综合",
     "tags": [
       "B1",
       "主题词汇与搭配"
@@ -276,7 +276,7 @@
     "enName": "nl-b1-projects",
     "url": "nl-b1-projects.json",
     "length": 30,
-    "category": "A2→B1 进阶",
+    "category": "B1 综合",
     "tags": [
       "B1",
       "主题词汇与搭配"
@@ -300,7 +300,7 @@
     "enName": "nl-b1-logistics",
     "url": "nl-b1-logistics.json",
     "length": 30,
-    "category": "A2→B1 进阶",
+    "category": "B1 综合",
     "tags": [
       "B1",
       "主题词汇与搭配"
@@ -324,7 +324,7 @@
     "enName": "nl-b1-education",
     "url": "nl-b1-education.json",
     "length": 30,
-    "category": "A2→B1 进阶",
+    "category": "B1 综合",
     "tags": [
       "B1",
       "主题词汇与搭配"
@@ -348,7 +348,7 @@
     "enName": "nl-b1-health",
     "url": "nl-b1-health.json",
     "length": 30,
-    "category": "A2→B1 进阶",
+    "category": "B1 综合",
     "tags": [
       "B1",
       "主题词汇与搭配"
@@ -372,7 +372,7 @@
     "enName": "nl-b1-feelings",
     "url": "nl-b1-feelings.json",
     "length": 30,
-    "category": "A2→B1 进阶",
+    "category": "B1 综合",
     "tags": [
       "B1",
       "主题词汇与搭配"
@@ -396,7 +396,7 @@
     "enName": "nl-b1-community",
     "url": "nl-b1-community.json",
     "length": 30,
-    "category": "A2→B1 进阶",
+    "category": "B1 综合",
     "tags": [
       "B1",
       "主题词汇与搭配"
@@ -420,7 +420,7 @@
     "enName": "nl-b1-administration",
     "url": "nl-b1-administration.json",
     "length": 30,
-    "category": "A2→B1 进阶",
+    "category": "B1 综合",
     "tags": [
       "B1",
       "主题词汇与搭配"
@@ -444,7 +444,7 @@
     "enName": "nl-b1-finance",
     "url": "nl-b1-finance.json",
     "length": 30,
-    "category": "A2→B1 进阶",
+    "category": "B1 综合",
     "tags": [
       "B1",
       "主题词汇与搭配"
@@ -468,7 +468,7 @@
     "enName": "nl-b1-consumer",
     "url": "nl-b1-consumer.json",
     "length": 30,
-    "category": "A2→B1 进阶",
+    "category": "B1 综合",
     "tags": [
       "B1",
       "主题词汇与搭配"
@@ -492,7 +492,7 @@
     "enName": "nl-b1-digital",
     "url": "nl-b1-digital.json",
     "length": 30,
-    "category": "A2→B1 进阶",
+    "category": "B1 综合",
     "tags": [
       "B1",
       "主题词汇与搭配"
@@ -516,7 +516,7 @@
     "enName": "nl-b1-environment",
     "url": "nl-b1-environment.json",
     "length": 30,
-    "category": "A2→B1 进阶",
+    "category": "B1 综合",
     "tags": [
       "B1",
       "主题词汇与搭配"
@@ -540,7 +540,7 @@
     "enName": "nl-b1-traffic",
     "url": "nl-b1-traffic.json",
     "length": 30,
-    "category": "A2→B1 进阶",
+    "category": "B1 综合",
     "tags": [
       "B1",
       "主题词汇与搭配"
@@ -564,7 +564,7 @@
     "enName": "nl-b1-accommodation",
     "url": "nl-b1-accommodation.json",
     "length": 30,
-    "category": "A2→B1 进阶",
+    "category": "B1 综合",
     "tags": [
       "B1",
       "主题词汇与搭配"
@@ -588,7 +588,7 @@
     "enName": "nl-b1-culture",
     "url": "nl-b1-culture.json",
     "length": 30,
-    "category": "A2→B1 进阶",
+    "category": "B1 综合",
     "tags": [
       "B1",
       "主题词汇与搭配"
@@ -612,7 +612,7 @@
     "enName": "nl-b1-opinions",
     "url": "nl-b1-opinions.json",
     "length": 30,
-    "category": "A2→B1 进阶",
+    "category": "B1 综合",
     "tags": [
       "B1",
       "主题词汇与搭配"
@@ -636,7 +636,7 @@
     "enName": "nl-b1-narrative",
     "url": "nl-b1-narrative.json",
     "length": 30,
-    "category": "A2→B1 进阶",
+    "category": "B1 综合",
     "tags": [
       "B1",
       "主题词汇与搭配"
@@ -660,7 +660,7 @@
     "enName": "nl-b1-connectors",
     "url": "nl-b1-connectors.json",
     "length": 30,
-    "category": "A2→B1 进阶",
+    "category": "B1 综合",
     "tags": [
       "B1",
       "主题词汇与搭配"
@@ -684,7 +684,7 @@
     "enName": "nl-b1-prepositions",
     "url": "nl-b1-prepositions.json",
     "length": 30,
-    "category": "A2→B1 进阶",
+    "category": "B1 综合",
     "tags": [
       "B1",
       "主题词汇与搭配"
@@ -708,7 +708,7 @@
     "enName": "nl-b1-separable",
     "url": "nl-b1-separable.json",
     "length": 30,
-    "category": "A2→B1 进阶",
+    "category": "B1 综合",
     "tags": [
       "B1",
       "主题词汇与搭配"
@@ -732,7 +732,7 @@
     "enName": "nl-b1-reflexive",
     "url": "nl-b1-reflexive.json",
     "length": 30,
-    "category": "A2→B1 进阶",
+    "category": "B1 综合",
     "tags": [
       "B1",
       "主题词汇与搭配"
@@ -756,7 +756,7 @@
     "enName": "nl-b1-adverbs",
     "url": "nl-b1-adverbs.json",
     "length": 30,
-    "category": "A2→B1 进阶",
+    "category": "B1 综合",
     "tags": [
       "B1",
       "主题词汇与搭配"
@@ -780,7 +780,7 @@
     "enName": "nl-b1-maintenance",
     "url": "nl-b1-maintenance.json",
     "length": 30,
-    "category": "A2→B1 进阶",
+    "category": "A2 进阶",
     "tags": [
       "A2→B1",
       "主题词汇与搭配"
@@ -804,7 +804,7 @@
     "enName": "nl-b1-habits",
     "url": "nl-b1-habits.json",
     "length": 30,
-    "category": "A2→B1 进阶",
+    "category": "A2 进阶",
     "tags": [
       "A2→B1",
       "主题词汇与搭配"
@@ -828,7 +828,7 @@
     "enName": "nl-b1-services",
     "url": "nl-b1-services.json",
     "length": 30,
-    "category": "A2→B1 进阶",
+    "category": "B1 综合",
     "tags": [
       "B1",
       "主题词汇与搭配"
@@ -852,7 +852,871 @@
     "enName": "nl-b1-media",
     "url": "nl-b1-media.json",
     "length": 30,
-    "category": "A2→B1 进阶",
+    "category": "B1 综合",
+    "tags": [
+      "B1",
+      "主题词汇与搭配"
+    ],
+    "language": "nl",
+    "translateLanguage": "zh-CN",
+    "version": 1,
+    "type": "word",
+    "recommended": true
+  },
+  {
+    "id": "nl-a1-profile",
+    "title": "介绍自己与填写资料",
+    "subtitle": "Wie ben je?",
+    "stage": "foundation",
+    "level": "A1",
+    "icon": "37",
+    "color": "peach",
+    "description": "认识姓名、联系方式和个人资料中的常用词。",
+    "name": "介绍自己与填写资料",
+    "enName": "nl-a1-profile",
+    "url": "nl-a1-profile.json",
+    "length": 30,
+    "category": "A1–A2 基础",
+    "tags": [
+      "A1",
+      "主题词汇与搭配"
+    ],
+    "language": "nl",
+    "translateLanguage": "zh-CN",
+    "version": 1,
+    "type": "word",
+    "recommended": true
+  },
+  {
+    "id": "nl-a1-routines",
+    "title": "一天里的常用动作",
+    "subtitle": "Wat doe je elke dag?",
+    "stage": "foundation",
+    "level": "A1",
+    "icon": "38",
+    "color": "sage",
+    "description": "用高频动词描述起床、行动和日常生活。",
+    "name": "一天里的常用动作",
+    "enName": "nl-a1-routines",
+    "url": "nl-a1-routines.json",
+    "length": 30,
+    "category": "A1–A2 基础",
+    "tags": [
+      "A1",
+      "主题词汇与搭配"
+    ],
+    "language": "nl",
+    "translateLanguage": "zh-CN",
+    "version": 1,
+    "type": "word",
+    "recommended": true
+  },
+  {
+    "id": "nl-a1-rooms",
+    "title": "房间与家具",
+    "subtitle": "In en om je kamer",
+    "stage": "foundation",
+    "level": "A1",
+    "icon": "39",
+    "color": "sand",
+    "description": "说出家中的空间、家具和床上用品。",
+    "name": "房间与家具",
+    "enName": "nl-a1-rooms",
+    "url": "nl-a1-rooms.json",
+    "length": 30,
+    "category": "A1–A2 基础",
+    "tags": [
+      "A1",
+      "主题词汇与搭配"
+    ],
+    "language": "nl",
+    "translateLanguage": "zh-CN",
+    "version": 1,
+    "type": "word",
+    "recommended": true
+  },
+  {
+    "id": "nl-a1-kitchen",
+    "title": "厨房与餐具",
+    "subtitle": "Spullen in de keuken",
+    "stage": "foundation",
+    "level": "A1",
+    "icon": "40",
+    "color": "butter",
+    "description": "认识餐具、炊具、厨房电器和清洁工具。",
+    "name": "厨房与餐具",
+    "enName": "nl-a1-kitchen",
+    "url": "nl-a1-kitchen.json",
+    "length": 30,
+    "category": "A1–A2 基础",
+    "tags": [
+      "A1",
+      "主题词汇与搭配"
+    ],
+    "language": "nl",
+    "translateLanguage": "zh-CN",
+    "version": 1,
+    "type": "word",
+    "recommended": true
+  },
+  {
+    "id": "nl-a1-produce",
+    "title": "蔬果与常见食材",
+    "subtitle": "Groente, fruit en meer",
+    "stage": "foundation",
+    "level": "A1–A2",
+    "icon": "41",
+    "color": "sage",
+    "description": "买菜时能说出常见蔬菜、水果和豆类。",
+    "name": "蔬果与常见食材",
+    "enName": "nl-a1-produce",
+    "url": "nl-a1-produce.json",
+    "length": 30,
+    "category": "A1–A2 基础",
+    "tags": [
+      "A1–A2",
+      "主题词汇与搭配"
+    ],
+    "language": "nl",
+    "translateLanguage": "zh-CN",
+    "version": 1,
+    "type": "word",
+    "recommended": true
+  },
+  {
+    "id": "nl-a1-supermarket",
+    "title": "超市里的数量与包装",
+    "subtitle": "Hoeveel wil je hebben?",
+    "stage": "foundation",
+    "level": "A1–A2",
+    "icon": "42",
+    "color": "butter",
+    "description": "认识计量单位、商品包装和结账用语。",
+    "name": "超市里的数量与包装",
+    "enName": "nl-a1-supermarket",
+    "url": "nl-a1-supermarket.json",
+    "length": 30,
+    "category": "A1–A2 基础",
+    "tags": [
+      "A1–A2",
+      "主题词汇与搭配"
+    ],
+    "language": "nl",
+    "translateLanguage": "zh-CN",
+    "version": 1,
+    "type": "word",
+    "recommended": true
+  },
+  {
+    "id": "nl-a2-pharmacy",
+    "title": "医院与药房里的沟通",
+    "subtitle": "Vragen bij de apotheek",
+    "stage": "bridge",
+    "level": "A2→B1",
+    "icon": "43",
+    "color": "peach",
+    "description": "练习问药、确认说明和描述就诊安排。",
+    "name": "医院与药房里的沟通",
+    "enName": "nl-a2-pharmacy",
+    "url": "nl-a2-pharmacy.json",
+    "length": 30,
+    "category": "A2 进阶",
+    "tags": [
+      "A2→B1",
+      "主题词汇与搭配"
+    ],
+    "language": "nl",
+    "translateLanguage": "zh-CN",
+    "version": 1,
+    "type": "word",
+    "recommended": true
+  },
+  {
+    "id": "nl-a2-sports",
+    "title": "运动与体能",
+    "subtitle": "Samen in beweging",
+    "stage": "bridge",
+    "level": "A2",
+    "icon": "44",
+    "color": "sage",
+    "description": "介绍训练、身体感受和团队运动。",
+    "name": "运动与体能",
+    "enName": "nl-a2-sports",
+    "url": "nl-a2-sports.json",
+    "length": 30,
+    "category": "A2 进阶",
+    "tags": [
+      "A2",
+      "主题词汇与搭配"
+    ],
+    "language": "nl",
+    "translateLanguage": "zh-CN",
+    "version": 1,
+    "type": "word",
+    "recommended": true
+  },
+  {
+    "id": "nl-a2-phone",
+    "title": "手机与网络连接",
+    "subtitle": "Je telefoon gebruiken",
+    "stage": "bridge",
+    "level": "A2",
+    "icon": "45",
+    "color": "sky",
+    "description": "说明手机设置、通话和连接方面的问题。",
+    "name": "手机与网络连接",
+    "enName": "nl-a2-phone",
+    "url": "nl-a2-phone.json",
+    "length": 30,
+    "category": "A2 进阶",
+    "tags": [
+      "A2",
+      "主题词汇与搭配"
+    ],
+    "language": "nl",
+    "translateLanguage": "zh-CN",
+    "version": 1,
+    "type": "word",
+    "recommended": true
+  },
+  {
+    "id": "nl-a2-post",
+    "title": "邮政与寄送物品",
+    "subtitle": "Post versturen en ontvangen",
+    "stage": "bridge",
+    "level": "A2→B1",
+    "icon": "46",
+    "color": "sand",
+    "description": "写地址、寄信、查包裹并说明投递问题。",
+    "name": "邮政与寄送物品",
+    "enName": "nl-a2-post",
+    "url": "nl-a2-post.json",
+    "length": 30,
+    "category": "A2 进阶",
+    "tags": [
+      "A2→B1",
+      "主题词汇与搭配"
+    ],
+    "language": "nl",
+    "translateLanguage": "zh-CN",
+    "version": 1,
+    "type": "word",
+    "recommended": true
+  },
+  {
+    "id": "nl-a2-facilities",
+    "title": "城市里的设施与店铺",
+    "subtitle": "Voorzieningen in de stad",
+    "stage": "bridge",
+    "level": "A2",
+    "icon": "47",
+    "color": "sky",
+    "description": "找到日常办事、购物与休闲所需的场所。",
+    "name": "城市里的设施与店铺",
+    "enName": "nl-a2-facilities",
+    "url": "nl-a2-facilities.json",
+    "length": 30,
+    "category": "A2 进阶",
+    "tags": [
+      "A2",
+      "主题词汇与搭配"
+    ],
+    "language": "nl",
+    "translateLanguage": "zh-CN",
+    "version": 1,
+    "type": "word",
+    "recommended": true
+  },
+  {
+    "id": "nl-a2-dining",
+    "title": "饭店与餐馆沟通",
+    "subtitle": "Aan tafel in het restaurant",
+    "stage": "bridge",
+    "level": "A2",
+    "icon": "48",
+    "color": "butter",
+    "description": "看菜单、点餐、表达需求并处理结账。",
+    "name": "饭店与餐馆沟通",
+    "enName": "nl-a2-dining",
+    "url": "nl-a2-dining.json",
+    "length": 30,
+    "category": "A2 进阶",
+    "tags": [
+      "A2",
+      "主题词汇与搭配"
+    ],
+    "language": "nl",
+    "translateLanguage": "zh-CN",
+    "version": 1,
+    "type": "word",
+    "recommended": true
+  },
+  {
+    "id": "nl-a2-outings",
+    "title": "安排一次短途出游",
+    "subtitle": "Een dagje op pad",
+    "stage": "bridge",
+    "level": "A2→B1",
+    "icon": "49",
+    "color": "sage",
+    "description": "说明行程、集合地点、门票和途中安排。",
+    "name": "安排一次短途出游",
+    "enName": "nl-a2-outings",
+    "url": "nl-a2-outings.json",
+    "length": 30,
+    "category": "A2 进阶",
+    "tags": [
+      "A2→B1",
+      "主题词汇与搭配"
+    ],
+    "language": "nl",
+    "translateLanguage": "zh-CN",
+    "version": 1,
+    "type": "word",
+    "recommended": true
+  },
+  {
+    "id": "nl-a2-geography",
+    "title": "找路与地理位置",
+    "subtitle": "Waar ligt het precies?",
+    "stage": "bridge",
+    "level": "A2→B1",
+    "icon": "50",
+    "color": "sky",
+    "description": "用方位、地图和地理名词说明一个地方在哪里。",
+    "name": "找路与地理位置",
+    "enName": "nl-a2-geography",
+    "url": "nl-a2-geography.json",
+    "length": 30,
+    "category": "A2 进阶",
+    "tags": [
+      "A2→B1",
+      "主题词汇与搭配"
+    ],
+    "language": "nl",
+    "translateLanguage": "zh-CN",
+    "version": 1,
+    "type": "word",
+    "recommended": true
+  },
+  {
+    "id": "nl-a2-celebrations",
+    "title": "生活中的节庆与庆祝",
+    "subtitle": "Iets te vieren",
+    "stage": "bridge",
+    "level": "A2",
+    "icon": "51",
+    "color": "peach",
+    "description": "谈论生日、婚礼、聚会和庆祝安排。",
+    "name": "生活中的节庆与庆祝",
+    "enName": "nl-a2-celebrations",
+    "url": "nl-a2-celebrations.json",
+    "length": 30,
+    "category": "A2 进阶",
+    "tags": [
+      "A2",
+      "主题词汇与搭配"
+    ],
+    "language": "nl",
+    "translateLanguage": "zh-CN",
+    "version": 1,
+    "type": "word",
+    "recommended": true
+  },
+  {
+    "id": "nl-a2-appointments",
+    "title": "计划时间与约会安排",
+    "subtitle": "Wanneer spreken we af?",
+    "stage": "bridge",
+    "level": "A2→B1",
+    "icon": "52",
+    "color": "lavender",
+    "description": "说明可用时间，调整安排并避免时间冲突。",
+    "name": "计划时间与约会安排",
+    "enName": "nl-a2-appointments",
+    "url": "nl-a2-appointments.json",
+    "length": 30,
+    "category": "A2 进阶",
+    "tags": [
+      "A2→B1",
+      "主题词汇与搭配"
+    ],
+    "language": "nl",
+    "translateLanguage": "zh-CN",
+    "version": 1,
+    "type": "word",
+    "recommended": true
+  },
+  {
+    "id": "nl-b1-rights",
+    "title": "日常权利与规则语言",
+    "subtitle": "Rechten, plichten en regels",
+    "stage": "b1",
+    "level": "B1",
+    "icon": "53",
+    "color": "sand",
+    "description": "读懂规则类表达，练习询问权利、责任和处理程序。",
+    "name": "日常权利与规则语言",
+    "enName": "nl-b1-rights",
+    "url": "nl-b1-rights.json",
+    "length": 30,
+    "category": "B1 综合",
+    "tags": [
+      "B1",
+      "主题词汇与搭配"
+    ],
+    "language": "nl",
+    "translateLanguage": "zh-CN",
+    "version": 1,
+    "type": "word",
+    "recommended": true
+  },
+  {
+    "id": "nl-b1-integration",
+    "title": "融入生活与语言学习",
+    "subtitle": "Meedoen en taal leren",
+    "stage": "b1",
+    "level": "B1",
+    "icon": "54",
+    "color": "lavender",
+    "description": "表达学习需求，谈论语言障碍与自主交流。",
+    "name": "融入生活与语言学习",
+    "enName": "nl-b1-integration",
+    "url": "nl-b1-integration.json",
+    "length": 30,
+    "category": "B1 综合",
+    "tags": [
+      "B1",
+      "主题词汇与搭配"
+    ],
+    "language": "nl",
+    "translateLanguage": "zh-CN",
+    "version": 1,
+    "type": "word",
+    "recommended": true
+  },
+  {
+    "id": "nl-a1-clothing",
+    "title": "衣物与穿着",
+    "subtitle": "Kleding en aankleden",
+    "stage": "foundation",
+    "level": "A1",
+    "icon": "55",
+    "color": "peach",
+    "description": "认识常穿的衣物，说明穿着和整理衣服。",
+    "name": "衣物与穿着",
+    "enName": "nl-a1-clothing",
+    "url": "nl-a1-clothing.json",
+    "length": 30,
+    "category": "A1–A2 基础",
+    "tags": [
+      "A1",
+      "主题词汇与搭配"
+    ],
+    "language": "nl",
+    "translateLanguage": "zh-CN",
+    "version": 1,
+    "type": "word",
+    "recommended": true
+  },
+  {
+    "id": "nl-a1-care",
+    "title": "身体与日常护理",
+    "subtitle": "Lichaam en verzorging",
+    "stage": "foundation",
+    "level": "A1",
+    "icon": "56",
+    "color": "sage",
+    "description": "掌握身体部位与洗漱用语，用简单句说明日常护理。",
+    "name": "身体与日常护理",
+    "enName": "nl-a1-care",
+    "url": "nl-a1-care.json",
+    "length": 30,
+    "category": "A1–A2 基础",
+    "tags": [
+      "A1",
+      "主题词汇与搭配"
+    ],
+    "language": "nl",
+    "translateLanguage": "zh-CN",
+    "version": 1,
+    "type": "word",
+    "recommended": true
+  },
+  {
+    "id": "nl-a1-calendar",
+    "title": "日期与季节",
+    "subtitle": "Maanden en seizoenen",
+    "stage": "foundation",
+    "level": "A1–A2",
+    "icon": "57",
+    "color": "butter",
+    "description": "读懂月份和季节，说明一天中的时段及时间先后。",
+    "name": "日期与季节",
+    "enName": "nl-a1-calendar",
+    "url": "nl-a1-calendar.json",
+    "length": 30,
+    "category": "A1–A2 基础",
+    "tags": [
+      "A1–A2",
+      "主题词汇与搭配"
+    ],
+    "language": "nl",
+    "translateLanguage": "zh-CN",
+    "version": 1,
+    "type": "word",
+    "recommended": true
+  },
+  {
+    "id": "nl-a1-directions",
+    "title": "位置与方向",
+    "subtitle": "Waar staat het?",
+    "stage": "foundation",
+    "level": "A1",
+    "icon": "58",
+    "color": "sky",
+    "description": "用基本介词和方位词找到人、物品与入口。",
+    "name": "位置与方向",
+    "enName": "nl-a1-directions",
+    "url": "nl-a1-directions.json",
+    "length": 30,
+    "category": "A1–A2 基础",
+    "tags": [
+      "A1",
+      "主题词汇与搭配"
+    ],
+    "language": "nl",
+    "translateLanguage": "zh-CN",
+    "version": 1,
+    "type": "word",
+    "recommended": true
+  },
+  {
+    "id": "nl-a1-nature",
+    "title": "动物与户外",
+    "subtitle": "Dieren en buiten zijn",
+    "stage": "foundation",
+    "level": "A1–A2",
+    "icon": "59",
+    "color": "sage",
+    "description": "认识常见动物、植物，以及户外见到的天气景物。",
+    "name": "动物与户外",
+    "enName": "nl-a1-nature",
+    "url": "nl-a1-nature.json",
+    "length": 30,
+    "category": "A1–A2 基础",
+    "tags": [
+      "A1–A2",
+      "主题词汇与搭配"
+    ],
+    "language": "nl",
+    "translateLanguage": "zh-CN",
+    "version": 1,
+    "type": "word",
+    "recommended": true
+  },
+  {
+    "id": "nl-a1-school",
+    "title": "学校与儿童生活",
+    "subtitle": "Op school en na school",
+    "stage": "foundation",
+    "level": "A1–A2",
+    "icon": "60",
+    "color": "lavender",
+    "description": "熟悉教室、学习用品、托育和家校活动中的常用词。",
+    "name": "学校与儿童生活",
+    "enName": "nl-a1-school",
+    "url": "nl-a1-school.json",
+    "length": 30,
+    "category": "A1–A2 基础",
+    "tags": [
+      "A1–A2",
+      "主题词汇与搭配"
+    ],
+    "language": "nl",
+    "translateLanguage": "zh-CN",
+    "version": 1,
+    "type": "word",
+    "recommended": true
+  },
+  {
+    "id": "nl-a2-hobbies",
+    "title": "兴趣与周末",
+    "subtitle": "Spellen, muziek en creativiteit",
+    "stage": "bridge",
+    "level": "A2",
+    "icon": "61",
+    "color": "peach",
+    "description": "谈论棋牌、音乐、绘画和摄影等休闲活动。",
+    "name": "兴趣与周末",
+    "enName": "nl-a2-hobbies",
+    "url": "nl-a2-hobbies.json",
+    "length": 30,
+    "category": "A2 进阶",
+    "tags": [
+      "A2",
+      "主题词汇与搭配"
+    ],
+    "language": "nl",
+    "translateLanguage": "zh-CN",
+    "version": 1,
+    "type": "word",
+    "recommended": true
+  },
+  {
+    "id": "nl-a2-transit",
+    "title": "公共交通细节",
+    "subtitle": "Een rit met trein of bus",
+    "stage": "bridge",
+    "level": "A2",
+    "icon": "62",
+    "color": "sky",
+    "description": "读懂乘车信息，描述换乘、座位和旅途中的问题。",
+    "name": "公共交通细节",
+    "enName": "nl-a2-transit",
+    "url": "nl-a2-transit.json",
+    "length": 30,
+    "category": "A2 进阶",
+    "tags": [
+      "A2",
+      "主题词汇与搭配"
+    ],
+    "language": "nl",
+    "translateLanguage": "zh-CN",
+    "version": 1,
+    "type": "word",
+    "recommended": true
+  },
+  {
+    "id": "nl-a2-hotel",
+    "title": "酒店入住",
+    "subtitle": "Bij de receptie van het hotel",
+    "stage": "bridge",
+    "level": "A2",
+    "icon": "63",
+    "color": "sand",
+    "description": "确认预订、理解客房设施，并向酒店提出简单请求。",
+    "name": "酒店入住",
+    "enName": "nl-a2-hotel",
+    "url": "nl-a2-hotel.json",
+    "length": 30,
+    "category": "A2 进阶",
+    "tags": [
+      "A2",
+      "主题词汇与搭配"
+    ],
+    "language": "nl",
+    "translateLanguage": "zh-CN",
+    "version": 1,
+    "type": "word",
+    "recommended": true
+  },
+  {
+    "id": "nl-a2-hosting",
+    "title": "烹饪与招待",
+    "subtitle": "Samen koken en eten",
+    "stage": "bridge",
+    "level": "A2",
+    "icon": "64",
+    "color": "butter",
+    "description": "从备料到上桌，理解常见烹饪动作与招待用语。",
+    "name": "烹饪与招待",
+    "enName": "nl-a2-hosting",
+    "url": "nl-a2-hosting.json",
+    "length": 30,
+    "category": "A2 进阶",
+    "tags": [
+      "A2",
+      "主题词汇与搭配"
+    ],
+    "language": "nl",
+    "translateLanguage": "zh-CN",
+    "version": 1,
+    "type": "word",
+    "recommended": true
+  },
+  {
+    "id": "nl-a2-social",
+    "title": "邀请与社交",
+    "subtitle": "Op bezoek en met elkaar praten",
+    "stage": "bridge",
+    "level": "A2→B1",
+    "icon": "65",
+    "color": "lavender",
+    "description": "欢迎来访者，表达感谢与歉意，让简短交谈更自然。",
+    "name": "邀请与社交",
+    "enName": "nl-a2-social",
+    "url": "nl-a2-social.json",
+    "length": 30,
+    "category": "A2 进阶",
+    "tags": [
+      "A2→B1",
+      "主题词汇与搭配"
+    ],
+    "language": "nl",
+    "translateLanguage": "zh-CN",
+    "version": 1,
+    "type": "word",
+    "recommended": true
+  },
+  {
+    "id": "nl-a2-payments",
+    "title": "收支与账单",
+    "subtitle": "Betalen en je geldzaken begrijpen",
+    "stage": "bridge",
+    "level": "A2→B1",
+    "icon": "66",
+    "color": "sand",
+    "description": "理解付款方式与账单词语，用语言询问金额和支付安排。",
+    "name": "收支与账单",
+    "enName": "nl-a2-payments",
+    "url": "nl-a2-payments.json",
+    "length": 30,
+    "category": "A2 进阶",
+    "tags": [
+      "A2→B1",
+      "主题词汇与搭配"
+    ],
+    "language": "nl",
+    "translateLanguage": "zh-CN",
+    "version": 1,
+    "type": "word",
+    "recommended": true
+  },
+  {
+    "id": "nl-a2-lost",
+    "title": "失物寻找",
+    "subtitle": "Kwijtgeraakt en teruggevonden",
+    "stage": "bridge",
+    "level": "A2→B1",
+    "icon": "67",
+    "color": "peach",
+    "description": "描述遗失的物品、最后见到的位置，并询问寻找进展。",
+    "name": "失物寻找",
+    "enName": "nl-a2-lost",
+    "url": "nl-a2-lost.json",
+    "length": 30,
+    "category": "A2 进阶",
+    "tags": [
+      "A2→B1",
+      "主题词汇与搭配"
+    ],
+    "language": "nl",
+    "translateLanguage": "zh-CN",
+    "version": 1,
+    "type": "word",
+    "recommended": true
+  },
+  {
+    "id": "nl-a2-classroom",
+    "title": "学习方法与课堂",
+    "subtitle": "Actief leren en vragen stellen",
+    "stage": "bridge",
+    "level": "A2→B1",
+    "icon": "68",
+    "color": "lavender",
+    "description": "读懂学习材料，提出追问，并用具体方法整理新知识。",
+    "name": "学习方法与课堂",
+    "enName": "nl-a2-classroom",
+    "url": "nl-a2-classroom.json",
+    "length": 30,
+    "category": "A2 进阶",
+    "tags": [
+      "A2→B1",
+      "主题词汇与搭配"
+    ],
+    "language": "nl",
+    "translateLanguage": "zh-CN",
+    "version": 1,
+    "type": "word",
+    "recommended": true
+  },
+  {
+    "id": "nl-a2-renting",
+    "title": "租住房细节",
+    "subtitle": "Praktische zaken rond je woning",
+    "stage": "bridge",
+    "level": "A2→B1",
+    "icon": "69",
+    "color": "sand",
+    "description": "说明房屋状态、交接和费用，并询问具体事项。",
+    "name": "租住房细节",
+    "enName": "nl-a2-renting",
+    "url": "nl-a2-renting.json",
+    "length": 30,
+    "category": "A2 进阶",
+    "tags": [
+      "A2→B1",
+      "主题词汇与搭配"
+    ],
+    "language": "nl",
+    "translateLanguage": "zh-CN",
+    "version": 1,
+    "type": "word",
+    "recommended": true
+  },
+  {
+    "id": "nl-a2-safety",
+    "title": "安全与紧急沟通",
+    "subtitle": "Duidelijk vertellen wat er gebeurt",
+    "stage": "bridge",
+    "level": "A2→B1",
+    "icon": "70",
+    "color": "peach",
+    "description": "练习描述紧急情境和传达信息；例句不提供专业应急指导。",
+    "name": "安全与紧急沟通",
+    "enName": "nl-a2-safety",
+    "url": "nl-a2-safety.json",
+    "length": 30,
+    "category": "A2 进阶",
+    "tags": [
+      "A2→B1",
+      "主题词汇与搭配"
+    ],
+    "language": "nl",
+    "translateLanguage": "zh-CN",
+    "version": 1,
+    "type": "word",
+    "recommended": true
+  },
+  {
+    "id": "nl-b1-landscape",
+    "title": "自然与景观",
+    "subtitle": "Het landschap beschrijven",
+    "stage": "b1",
+    "level": "B1",
+    "icon": "71",
+    "color": "sage",
+    "description": "说明地形、河岸与植物，用更具体的词描述旅行和自然。",
+    "name": "自然与景观",
+    "enName": "nl-b1-landscape",
+    "url": "nl-b1-landscape.json",
+    "length": 30,
+    "category": "B1 综合",
+    "tags": [
+      "B1",
+      "主题词汇与搭配"
+    ],
+    "language": "nl",
+    "translateLanguage": "zh-CN",
+    "version": 1,
+    "type": "word",
+    "recommended": true
+  },
+  {
+    "id": "nl-b1-housemates",
+    "title": "合住协商",
+    "subtitle": "Samen wonen en afspraken maken",
+    "stage": "b1",
+    "level": "B1",
+    "icon": "72",
+    "color": "sand",
+    "description": "讨论家务、访客、安静时段和共同开支，练习平等协商。",
+    "name": "合住协商",
+    "enName": "nl-b1-housemates",
+    "url": "nl-b1-housemates.json",
+    "length": 30,
+    "category": "B1 综合",
     "tags": [
       "B1",
       "主题词汇与搭配"

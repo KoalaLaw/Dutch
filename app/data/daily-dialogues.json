@@ -1,0 +1,262 @@
+[
+  {
+    "id": "nl-dialogue-1",
+    "title": "Even voorstellen",
+    "titleTranslate": "认识一下",
+    "lines": [
+      [
+        "Hallo, ik heet Lin. Hoe heet jij?",
+        "你好，我叫林。你叫什么名字？"
+      ],
+      [
+        "Ik heet Eva. Waar kom je vandaan?",
+        "我叫 Eva。你从哪里来？"
+      ],
+      [
+        "Ik kom uit China, maar ik woon nu in Nederland.",
+        "我来自中国，但我现在住在荷兰。"
+      ],
+      [
+        "Spreek je Nederlands?",
+        "你说荷兰语吗？"
+      ],
+      [
+        "Een beetje. Ik leer elke dag.",
+        "会一点。我每天都学。"
+      ],
+      [
+        "Leuk je te ontmoeten!",
+        "很高兴认识你！"
+      ]
+    ]
+  },
+  {
+    "id": "nl-dialogue-2",
+    "title": "In het café",
+    "titleTranslate": "在咖啡馆",
+    "lines": [
+      [
+        "Goedemiddag, wat wilt u drinken?",
+        "下午好，您想喝什么？"
+      ],
+      [
+        "Een koffie en een thee, alstublieft.",
+        "请来一杯咖啡和一杯茶。"
+      ],
+      [
+        "Wilt u melk of suiker?",
+        "您要牛奶或糖吗？"
+      ],
+      [
+        "Nee, dank u wel. Wat kost het?",
+        "不用了，谢谢您。一共多少钱？"
+      ],
+      [
+        "Dat is zes euro.",
+        "一共六欧元。"
+      ],
+      [
+        "Kan ik met de pin betalen?",
+        "我能刷卡付款吗？"
+      ],
+      [
+        "Ja, natuurlijk. Alstublieft!",
+        "当然可以。给您！"
+      ]
+    ]
+  },
+  {
+    "id": "nl-dialogue-3",
+    "title": "Op het station",
+    "titleTranslate": "在火车站",
+    "lines": [
+      [
+        "Goedemorgen, ik wil naar Utrecht.",
+        "早上好，我想去乌得勒支。"
+      ],
+      [
+        "De trein vertrekt om half tien.",
+        "火车九点半出发。"
+      ],
+      [
+        "Van welk spoor vertrekt de trein?",
+        "火车从哪个站台出发？"
+      ],
+      [
+        "Van spoor vijf.",
+        "从五号站台。"
+      ],
+      [
+        "Moet ik overstappen?",
+        "我需要换乘吗？"
+      ],
+      [
+        "Nee, dit is een rechtstreekse trein.",
+        "不用，这是直达火车。"
+      ],
+      [
+        "Dank u wel voor uw hulp.",
+        "谢谢您的帮助。"
+      ]
+    ]
+  },
+  {
+    "id": "nl-dialogue-4",
+    "title": "Een afspraak maken",
+    "titleTranslate": "预约看医生",
+    "lines": [
+      [
+        "Goedemorgen, ik wil graag een afspraak maken.",
+        "早上好，我想预约。"
+      ],
+      [
+        "Wat zijn uw klachten?",
+        "您哪里不舒服？"
+      ],
+      [
+        "Ik heb hoofdpijn en ik ben erg moe.",
+        "我头痛，而且很累。"
+      ],
+      [
+        "Kunt u vanmiddag om twee uur komen?",
+        "您今天下午两点能来吗？"
+      ],
+      [
+        "Ja, dat kan. Wat is het adres?",
+        "可以。地址是什么？"
+      ],
+      [
+        "De praktijk is aan de Kerkstraat tien.",
+        "诊所在教堂街十号。"
+      ],
+      [
+        "Bedankt, tot vanmiddag.",
+        "谢谢，下午见。"
+      ]
+    ]
+  },
+  {
+    "id": "nl-dialogue-5",
+    "title": "Bij de buren",
+    "titleTranslate": "与邻居聊天",
+    "lines": [
+      [
+        "Hallo, ik ben je nieuwe buurman.",
+        "你好，我是你的新邻居。"
+      ],
+      [
+        "Welkom in de buurt! Woon je hier al lang?",
+        "欢迎搬来！你在这里住很久了吗？"
+      ],
+      [
+        "Nee, ik woon hier pas een week.",
+        "没有，我才住了一周。"
+      ],
+      [
+        "Wil je een kopje koffie?",
+        "你想喝杯咖啡吗？"
+      ],
+      [
+        "Ja, graag. Wat een mooie tuin!",
+        "好的，谢谢。多么漂亮的花园！"
+      ],
+      [
+        "Dank je wel. We zitten hier graag buiten.",
+        "谢谢。我们喜欢坐在这里的户外。"
+      ]
+    ]
+  },
+  {
+    "id": "nl-dialogue-6",
+    "title": "Mijn werkdag",
+    "titleTranslate": "我的工作日",
+    "lines": [
+      [
+        "Ik sta om zeven uur op.",
+        "我七点起床。"
+      ],
+      [
+        "Na het ontbijt fiets ik naar mijn werk.",
+        "早饭后我骑车去上班。"
+      ],
+      [
+        "Om negen uur begin ik met werken.",
+        "我九点开始工作。"
+      ],
+      [
+        "In de middag eet ik samen met mijn collega’s.",
+        "中午我和同事们一起吃饭。"
+      ],
+      [
+        "Na het werk doe ik boodschappen.",
+        "下班后我买日用品。"
+      ],
+      [
+        "In de avond oefen ik Nederlands.",
+        "晚上我练习荷兰语。"
+      ]
+    ]
+  },
+  {
+    "id": "nl-dialogue-7",
+    "title": "Twee kaartjes",
+    "titleTranslate": "两张票与特殊字母",
+    "lines": [
+      [
+        "Ik wil twee kaartjes voor het museum, alstublieft.",
+        "请给我两张博物馆的票。"
+      ],
+      [
+        "Zijn de kaartjes voor vandaag?",
+        "这些票是今天的吗？"
+      ],
+      [
+        "Ja, één voor mij en één voor mijn collega.",
+        "是的，一张给我，一张给我的同事。"
+      ],
+      [
+        "Het museum is tot vijf uur open.",
+        "博物馆开放到五点。"
+      ],
+      [
+        "Kunnen we hier ook iets eten?",
+        "我们也能在这里吃点东西吗？"
+      ],
+      [
+        "Ja, er is een café op de tweede verdieping.",
+        "可以，三楼有一家咖啡馆。"
+      ]
+    ]
+  },
+  {
+    "id": "nl-dialogue-8",
+    "title": "Het weekend",
+    "titleTranslate": "周末计划",
+    "lines": [
+      [
+        "Wat ga je dit weekend doen?",
+        "这个周末你打算做什么？"
+      ],
+      [
+        "Als het mooi weer is, ga ik fietsen.",
+        "如果天气好，我就去骑车。"
+      ],
+      [
+        "Mag ik met je mee?",
+        "我可以和你一起去吗？"
+      ],
+      [
+        "Natuurlijk! Zullen we om half elf vertrekken?",
+        "当然！我们十点半出发好吗？"
+      ],
+      [
+        "Prima. Ik neem brood en water mee.",
+        "好。我带上面包和水。"
+      ],
+      [
+        "Gezellig, tot zaterdag!",
+        "真好，星期六见！"
+      ]
+    ]
+  }
+]

@@ -1,0 +1,782 @@
+[
+  {
+    "id": "nl-a2-appointments-1",
+    "word": "de duur",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "持续时间；时长"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Wat is de verwachte duur van de afspraak?",
+        "cn": "这次预约预计持续多长时间？"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-a2-appointments-2",
+    "word": "het tijdstip",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "时间点；时刻"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Welk tijdstip komt jou het beste uit?",
+        "cn": "哪个时间点对你最方便？"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-a2-appointments-3",
+    "word": "de verhindering",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "无法出席；有事不能来"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Bij verhindering laat ik het zo snel mogelijk weten.",
+        "cn": "如果无法出席，我会尽快告知。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-a2-appointments-4",
+    "word": "de afzegging",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "取消；取消通知"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Door een afzegging is er morgen weer een plek vrij.",
+        "cn": "因为有人取消，明天又空出了一个名额。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-a2-appointments-5",
+    "word": "de verplaatsing",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "改期；移动"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Na de verplaatsing van de afspraak kreeg ik een nieuwe bevestiging.",
+        "cn": "预约改期后，我收到了一份新的确认。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-a2-appointments-6",
+    "word": "het tijdvak",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "时间段"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Je kunt kiezen uit drie tijdvakken van een halfuur.",
+        "cn": "你可以从三个半小时的时间段中选择。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-a2-appointments-7",
+    "word": "het dagdeel",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "一天中的一段时间；半天时段"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "In welk dagdeel ben je meestal beschikbaar?",
+        "cn": "你通常在一天中的哪个时段有空？"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-a2-appointments-8",
+    "word": "de afspraakherinnering",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "预约提醒"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Ik kreeg een afspraakherinnering voor het gesprek van morgen.",
+        "cn": "我收到了明天谈话的预约提醒。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-a2-appointments-9",
+    "word": "het rooster",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "时间表；排班表"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Mijn rooster verandert volgende maand.",
+        "cn": "我的排班表下个月会改变。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-a2-appointments-10",
+    "word": "de weekplanning",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "每周计划"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Op zondag bekijken we samen onze weekplanning.",
+        "cn": "星期日我们一起查看下周计划。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-a2-appointments-11",
+    "word": "de wekker",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "闹钟"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Ik zet mijn wekker eerder, zodat ik genoeg tijd heb.",
+        "cn": "我把闹钟设得早一些，以便有足够时间。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-a2-appointments-12",
+    "word": "het alarm",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "警报；提醒铃声"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Het alarm op mijn telefoon herinnert me aan de afspraak.",
+        "cn": "手机上的提醒铃声提醒我赴约。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-a2-appointments-13",
+    "word": "het kwartier",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "一刻钟；十五分钟"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "De afspraak begint over een kwartier.",
+        "cn": "预约还有十五分钟开始。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-a2-appointments-14",
+    "word": "stipt",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "",
+        "cn": "准点的；分秒不差地"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "De les begint stipt om negen uur.",
+        "cn": "课程九点准时开始。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-a2-appointments-15",
+    "word": "het halfuur",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "半小时"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "We hebben nog een halfuur voordat de winkel sluit.",
+        "cn": "商店关门前，我们还有半个小时。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-a2-appointments-16",
+    "word": "de tijdzone",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "时区"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Bij een online afspraak controleer ik altijd de tijdzone.",
+        "cn": "安排线上会议时，我总会核对时区。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-a2-appointments-17",
+    "word": "de agenda-uitnodiging",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "日历邀请；会议日程邀请"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Kun je mij de agenda-uitnodiging nog een keer sturen?",
+        "cn": "你能再发一次日历邀请给我吗？"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-a2-appointments-18",
+    "word": "het uitstel",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "延期；推迟"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Door het uitstel hebben we meer tijd om de stukken te lezen.",
+        "cn": "因为延期，我们有了更多时间阅读材料。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-a2-appointments-19",
+    "word": "tijdig",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "",
+        "cn": "及时地；提前留出足够时间地"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Geef wijzigingen tijdig door, zodat anderen hun planning kunnen aanpassen.",
+        "cn": "及时告知变更，让别人能调整计划。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-a2-appointments-20",
+    "word": "te laat",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "搭配",
+        "cn": "太晚；迟到"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Ik ben bang dat ik door de file te laat kom.",
+        "cn": "我担心自己会因为堵车而迟到。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-a2-appointments-21",
+    "word": "te vroeg",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "搭配",
+        "cn": "太早"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "We zijn te vroeg, dus wachten we nog even buiten.",
+        "cn": "我们来得太早，所以先在外面等一会儿。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-a2-appointments-22",
+    "word": "verhinderd",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "",
+        "cn": "有事不能出席的"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Donderdag ben ik verhinderd, maar vrijdag kan ik wel.",
+        "cn": "星期四我有事不能来，但星期五可以。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-a2-appointments-23",
+    "word": "afwezig",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "",
+        "cn": "缺席的；不在的"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Mijn collega is deze week afwezig.",
+        "cn": "我的同事这周不在。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-a2-appointments-24",
+    "word": "aanwezig",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "",
+        "cn": "在场的；出席的"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Wie is er bij de volgende bijeenkomst aanwezig?",
+        "cn": "谁会出席下次聚会？"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-a2-appointments-25",
+    "word": "verzetten",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "",
+        "cn": "改期；移动"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Kunnen we het gesprek naar volgende week verzetten?",
+        "cn": "我们能把谈话改到下周吗？"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-a2-appointments-26",
+    "word": "overlappen",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "",
+        "cn": "重叠"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "De twee afspraken overlappen, dus ik moet er één verzetten.",
+        "cn": "两个约定时间重叠，所以我必须改期其中一个。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-a2-appointments-27",
+    "word": "inplannen",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "",
+        "cn": "安排进日程"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Ik wil deze week ook tijd inplannen om te oefenen.",
+        "cn": "我这周也想安排时间练习。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-a2-appointments-28",
+    "word": "vrijhouden",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "",
+        "cn": "预留；保持空出"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Kun je dinsdagavond vrijhouden voor het overleg?",
+        "cn": "你能把星期二晚上留出来开会吗？"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-a2-appointments-29",
+    "word": "de reistijd",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "出行时间；通勤时间"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Bij het plannen houd ik ook rekening met de reistijd.",
+        "cn": "制订计划时，我也考虑出行所需时间。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-a2-appointments-30",
+    "word": "reserveren",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "",
+        "cn": "预订；预留"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "We reserveren een ruimte die groot genoeg is voor de hele groep.",
+        "cn": "我们预订一个足够容纳整个小组的场所。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  }
+]

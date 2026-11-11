@@ -1,0 +1,782 @@
+[
+  {
+    "id": "nl-a2-hotel-1",
+    "word": "de hotelgast",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "酒店住客"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Elke hotelgast krijgt een eigen sleutelkaart.",
+        "cn": "每位酒店住客都会拿到自己的房卡。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-a2-hotel-2",
+    "word": "de lobby",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "酒店大堂；门厅"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "We spreken af in de lobby.",
+        "cn": "我们约好在酒店大堂见面。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-a2-hotel-3",
+    "word": "de sleutelkaart",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "房卡；钥匙卡"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Mijn sleutelkaart werkt niet meer.",
+        "cn": "我的房卡不能用了。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-a2-hotel-4",
+    "word": "het kamernummer",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "房间号码"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Kunt u het kamernummer nog eens herhalen?",
+        "cn": "您能再说一遍房间号吗？"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-a2-hotel-5",
+    "word": "de eenpersoonskamer",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "单人间"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Voor deze reis boek ik een eenpersoonskamer.",
+        "cn": "这次旅行我订一间单人间。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-a2-hotel-6",
+    "word": "de tweepersoonskamer",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "双人间"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Is er nog een tweepersoonskamer beschikbaar?",
+        "cn": "还有双人间吗？"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-a2-hotel-7",
+    "word": "de handdoek",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "毛巾"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Zou ik een extra handdoek mogen krijgen?",
+        "cn": "可以再给我一条毛巾吗？"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-a2-hotel-8",
+    "word": "het beddengoed",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "床上用品"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Het beddengoed wordt vandaag verschoond.",
+        "cn": "今天会更换床上用品。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-a2-hotel-9",
+    "word": "de kussensloop",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "枕套"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Deze kussensloop heeft een vlek.",
+        "cn": "这个枕套上有污渍。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-a2-hotel-10",
+    "word": "het dekbed",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "羽绒被；被子"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Onder dit dekbed heb ik het lekker warm.",
+        "cn": "盖着这床被子我觉得很暖和。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-a2-hotel-11",
+    "word": "de douche",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "淋浴；淋浴间"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "De douche is naast de wastafel.",
+        "cn": "淋浴间在洗手池旁边。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-a2-hotel-12",
+    "word": "de boekingsbevestiging",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "预订确认函"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Ik laat de boekingsbevestiging op mijn telefoon zien.",
+        "cn": "我出示手机上的预订确认函。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-a2-hotel-13",
+    "word": "de wastafel",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "洗手池"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Er ligt een klein stukje zeep bij de wastafel.",
+        "cn": "洗手池旁放着一小块肥皂。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-a2-hotel-14",
+    "word": "de föhn",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "吹风机"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Ligt er een föhn in de badkamer?",
+        "cn": "浴室里有吹风机吗？"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-a2-hotel-15",
+    "word": "de kluis",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "保险箱；保管柜"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "De kluis staat in de kledingkast.",
+        "cn": "保险箱在衣柜里。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-a2-hotel-16",
+    "word": "de lift",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "电梯"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Met de lift gaan we naar de derde verdieping.",
+        "cn": "我们坐电梯去第四层。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-a2-hotel-17",
+    "word": "de minibar",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "客房小冰箱；迷你吧"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "De drankjes in de minibar zijn niet inbegrepen.",
+        "cn": "客房迷你吧里的饮料不包含在费用内。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-a2-hotel-18",
+    "word": "de schoonmaakdienst",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "清洁服务；清洁部门"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "De schoonmaakdienst komt later op de ochtend.",
+        "cn": "清洁人员会在上午晚些时候来。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-a2-hotel-19",
+    "word": "de wasservice",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "洗衣服务"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Ik vraag bij de receptie naar de wasservice.",
+        "cn": "我向前台咨询洗衣服务。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-a2-hotel-20",
+    "word": "het ontbijtbuffet",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "自助早餐"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Het ontbijtbuffet staat in de eetzaal.",
+        "cn": "自助早餐摆在餐厅里。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-a2-hotel-21",
+    "word": "de wekdienst",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "叫醒服务"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Kan ik gebruikmaken van de wekdienst?",
+        "cn": "我可以使用叫醒服务吗？"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-a2-hotel-22",
+    "word": "de bagageopslag",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "行李寄存处；行李寄存"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Na het uitchecken laten we onze tassen bij de bagageopslag.",
+        "cn": "退房后，我们把包放在行李寄存处。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-a2-hotel-23",
+    "word": "inclusief ontbijt",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "搭配",
+        "cn": "包含早餐"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Is deze prijs inclusief ontbijt?",
+        "cn": "这个价格包含早餐吗？"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-a2-hotel-24",
+    "word": "uitslapen",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "",
+        "cn": "睡懒觉；睡到自然醒"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Tijdens mijn vakantie wil ik een keer uitslapen.",
+        "cn": "度假期间，我想有一次睡到自然醒。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-a2-hotel-25",
+    "word": "bijboeken",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "",
+        "cn": "加订；补订"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Kunnen we voor morgen nog een nacht bijboeken?",
+        "cn": "我们能再加订明晚一晚吗？"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-a2-hotel-26",
+    "word": "verblijven",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "",
+        "cn": "暂住；停留"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "We verblijven drie nachten in dit hotel.",
+        "cn": "我们在这家酒店住三晚。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-a2-hotel-27",
+    "word": "overnachten",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "",
+        "cn": "过夜；住宿"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "We overnachten dicht bij het station.",
+        "cn": "我们在车站附近过夜。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-a2-hotel-28",
+    "word": "tonen",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "",
+        "cn": "出示；展示"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "De medewerker vraagt mij mijn bevestiging te tonen.",
+        "cn": "工作人员请我出示确认函。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-a2-hotel-29",
+    "word": "op naam van",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "搭配",
+        "cn": "以……的姓名；登记在……名下"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "De reservering staat op naam van Lin.",
+        "cn": "预订登记在林的名下。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-a2-hotel-30",
+    "word": "inleveren",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "",
+        "cn": "交还；上交"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Waar kan ik mijn sleutelkaart inleveren?",
+        "cn": "我可以在哪里交还房卡？"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  }
+]

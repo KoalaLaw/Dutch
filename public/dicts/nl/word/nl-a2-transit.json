@@ -1,0 +1,782 @@
+[
+  {
+    "id": "nl-a2-transit-1",
+    "word": "de conducteur",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "列车检票员；乘务员"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "De conducteur vraagt om mijn vervoersbewijs.",
+        "cn": "列车乘务员请我出示乘车凭证。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-a2-transit-2",
+    "word": "de machinist",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "火车司机；机车司机"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "De machinist zit voor in de trein.",
+        "cn": "火车司机坐在列车前部。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-a2-transit-3",
+    "word": "de buschauffeur",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "公交车司机"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Ik vraag de buschauffeur waar ik moet uitstappen.",
+        "cn": "我问公交车司机应该在哪里下车。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-a2-transit-4",
+    "word": "de dienstregeling",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "运行时刻表；班次安排"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Op zondag is de dienstregeling anders.",
+        "cn": "星期日的班次安排有所不同。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-a2-transit-5",
+    "word": "het vertrekbord",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "发车信息显示牌"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Volgens het vertrekbord rijdt mijn trein over tien minuten.",
+        "cn": "根据发车牌，我的火车十分钟后发车。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-a2-transit-6",
+    "word": "de overstap",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "换乘"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Voor deze reis hebben we één overstap.",
+        "cn": "这趟行程我们需要换乘一次。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-a2-transit-7",
+    "word": "het perron",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "站台"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "We wachten op het perron.",
+        "cn": "我们在站台上等候。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-a2-transit-8",
+    "word": "het spoor",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "铁轨；股道"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "De trein naar Leiden vertrekt van spoor vier.",
+        "cn": "开往莱顿的火车从四号股道发车。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-a2-transit-9",
+    "word": "de coupé",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "列车车厢；隔间"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "In deze coupé zijn nog twee plaatsen vrij.",
+        "cn": "这节车厢里还空着两个座位。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-a2-transit-10",
+    "word": "de zitplaats",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "座位"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Is deze zitplaats nog vrij?",
+        "cn": "这个座位还有人吗？"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-a2-transit-11",
+    "word": "de staanplaats",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "站立位置；站票位置"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "In de volle bus was alleen nog een staanplaats.",
+        "cn": "公交车很满，只剩下站立的位置。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-a2-transit-12",
+    "word": "de aansluiting",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "交通衔接；换乘连接"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Door de vertraging miste ik mijn aansluiting.",
+        "cn": "由于晚点，我错过了换乘车次。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-a2-transit-13",
+    "word": "de rit",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "一次乘车行程"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "De rit naar mijn werk duurt twintig minuten.",
+        "cn": "我坐车去上班需要二十分钟。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-a2-transit-14",
+    "word": "het eindpunt",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "终点站；终点"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Bij het eindpunt stapt iedereen uit.",
+        "cn": "到终点站时，所有人都下车。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-a2-transit-15",
+    "word": "de heenreis",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "去程"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Tijdens de heenreis lezen we samen de reisgids.",
+        "cn": "去程中，我们一起看旅游指南。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-a2-transit-16",
+    "word": "de terugreis",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "返程"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Voor de terugreis kiezen we een latere trein.",
+        "cn": "返程我们选择较晚的一班火车。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-a2-transit-17",
+    "word": "het enkeltje",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "单程票（口语）"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Ik wil graag een enkeltje naar Utrecht.",
+        "cn": "我想买一张去乌得勒支的单程票。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-a2-transit-18",
+    "word": "het retourtje",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "往返票（口语）"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Bij de automaat koop ik een retourtje.",
+        "cn": "我在自动售票机上买了一张往返票。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-a2-transit-19",
+    "word": "de ov-chipkaart",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "荷兰公共交通芯片卡"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Mijn ov-chipkaart zit in mijn portemonnee.",
+        "cn": "我的公共交通芯片卡放在钱包里。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-a2-transit-20",
+    "word": "het poortje",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "小闸门；检票闸机"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Mijn vriend staat aan de andere kant van het poortje.",
+        "cn": "我的朋友站在闸机的另一侧。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-a2-transit-21",
+    "word": "de kaartautomaat",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "自动售票机"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Er staat een kaartautomaat bij de ingang van het station.",
+        "cn": "车站入口处有一台自动售票机。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-a2-transit-22",
+    "word": "de roltrap",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "自动扶梯"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "De roltrap naar het perron werkt vandaag niet.",
+        "cn": "今天，通往站台的自动扶梯无法使用。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-a2-transit-23",
+    "word": "het bagagerek",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "行李架"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "De kleine tas past in het bagagerek.",
+        "cn": "小包放得进行李架。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-a2-transit-24",
+    "word": "de busbaan",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "公交专用道"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "De bus rijdt verder over de busbaan.",
+        "cn": "公交车沿公交专用道继续行驶。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-a2-transit-25",
+    "word": "instappen",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "",
+        "cn": "上车；登车"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "We stappen bij de volgende halte in.",
+        "cn": "我们在下一站上车。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-a2-transit-26",
+    "word": "uitstappen",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "",
+        "cn": "下车"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Waar moeten we uitstappen voor het museum?",
+        "cn": "去博物馆应该在哪里下车？"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-a2-transit-27",
+    "word": "meerijden",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "",
+        "cn": "搭便车；同车前往"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Mag ik morgen met je meerijden?",
+        "cn": "我明天可以搭你的车吗？"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-a2-transit-28",
+    "word": "omreizen",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "",
+        "cn": "绕路出行"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Omdat deze verbinding uitviel, moesten we omreizen.",
+        "cn": "这班交通连接取消了，所以我们不得不绕路。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-a2-transit-29",
+    "word": "doorreizen",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "",
+        "cn": "继续旅行；继续前往"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Na de lunch reizen we door naar een andere stad.",
+        "cn": "午饭后，我们继续前往另一座城市。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-a2-transit-30",
+    "word": "een aansluiting missen",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "搭配",
+        "cn": "错过衔接的车次；错过换乘"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Ik heb mijn aansluiting gemist en zoek nu een andere route.",
+        "cn": "我错过了换乘车次，现在正在找其他路线。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  }
+]

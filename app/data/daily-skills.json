@@ -1,0 +1,1394 @@
+[
+  {
+    "id": "daily-f01",
+    "stage": "foundation",
+    "kind": "grammar",
+    "title": "冠词：de、het 和 een",
+    "explanation": "名词要和 de 或 het 一起记忆，例如 de fiets、het huis。单数不定名词通常用 een，不能只靠中文意思推断名词使用哪个定冠词。",
+    "examples": [
+      {
+        "nl": "Dit is een fiets. De fiets is nieuw.",
+        "zh": "这是一辆自行车。这辆自行车是新的。"
+      },
+      {
+        "nl": "Dit is een huis. Het huis is klein.",
+        "zh": "这是一所房子。这所房子很小。"
+      }
+    ],
+    "exercise": {
+      "question": "为 huis 选择正确的定冠词：",
+      "options": [
+        "de",
+        "het",
+        "een",
+        "geen"
+      ],
+      "answer": 1,
+      "explanation": "huis 是 het 名词，定冠词是 het；een 是不定冠词，geen 是否定词。"
+    },
+    "prompt": "选两个今天学过的名词，查清 de 或 het，各说一句“这是一……”。"
+  },
+  {
+    "id": "daily-f02",
+    "stage": "foundation",
+    "kind": "grammar",
+    "title": "人称代词：我、你、我们",
+    "explanation": "ik 表示“我”，jij 或 je 表示“你”，wij 或 we 表示“我们”。代词作主语时，后面的动词要和主语搭配；先把常用短句整体读熟。",
+    "examples": [
+      {
+        "nl": "Ik leer Nederlands.",
+        "zh": "我学习荷兰语。"
+      },
+      {
+        "nl": "Wij wonen in Nederland.",
+        "zh": "我们住在荷兰。"
+      }
+    ],
+    "exercise": {
+      "question": "哪句表示“我每天学习荷兰语”？",
+      "options": [
+        "Jij leert elke dag Nederlands.",
+        "Wij leren elke dag Nederlands.",
+        "Ik leer elke dag Nederlands.",
+        "Hij leert elke dag Nederlands."
+      ],
+      "answer": 2,
+      "explanation": "“我”对应 ik，因此是 Ik leer elke dag Nederlands。其他句子的主语分别是你、我们、他。"
+    },
+    "prompt": "用 ik 说一句自己的情况，再用 wij 或 we 说一句你和家人或朋友的情况。"
+  },
+  {
+    "id": "daily-f03",
+    "stage": "foundation",
+    "kind": "grammar",
+    "title": "zijn：我是、你是、他们是",
+    "explanation": "zijn 的现在时形式需要单独记忆：ik ben，jij bent，hij、zij、het is。复数主语 wij、jullie、zij 使用 zijn；人名组成的复数主语也一样。",
+    "examples": [
+      {
+        "nl": "Ik ben thuis.",
+        "zh": "我在家。"
+      },
+      {
+        "nl": "Nora en Sam zijn vrienden.",
+        "zh": "诺拉和萨姆是朋友。"
+      }
+    ],
+    "exercise": {
+      "question": "Nora en Sam ___ thuis.",
+      "options": [
+        "is",
+        "ben",
+        "zijn",
+        "bent"
+      ],
+      "answer": 2,
+      "explanation": "Nora en Sam 指两个人，是复数主语，因此使用 zijn。"
+    },
+    "prompt": "用 ben 介绍自己的一个状态，再用 zijn 介绍两个人的一个状态。"
+  },
+  {
+    "id": "daily-f04",
+    "stage": "foundation",
+    "kind": "grammar",
+    "title": "hebben：我有、我们有",
+    "explanation": "hebben 表示“有”，常用形式是 ik heb、jij hebt、hij of zij heeft。复数主语使用 hebben；表示有时间也可以说 tijd hebben。",
+    "examples": [
+      {
+        "nl": "Ik heb een broer.",
+        "zh": "我有一个兄弟。"
+      },
+      {
+        "nl": "We hebben vandaag tijd.",
+        "zh": "我们今天有时间。"
+      }
+    ],
+    "exercise": {
+      "question": "Wij ___ vandaag tijd.",
+      "options": [
+        "heeft",
+        "heb",
+        "hebt",
+        "hebben"
+      ],
+      "answer": 3,
+      "explanation": "Wij 是复数主语，对应 hebben：Wij hebben vandaag tijd。"
+    },
+    "prompt": "用 Ik heb 说两件自己拥有的东西，也可以谈家庭成员或时间。"
+  },
+  {
+    "id": "daily-f05",
+    "stage": "foundation",
+    "kind": "grammar",
+    "title": "现在时：woon、woont、wonen",
+    "explanation": "许多规则动词在 ik 后用词干，jij、hij、zij 单数后通常用词干加 t，复数主语后用不定式。词干有时需要调整拼写，例如 wonen 变成 woon；先比较同一个动词的几个形式。",
+    "examples": [
+      {
+        "nl": "Ik woon in Delft.",
+        "zh": "我住在代尔夫特。"
+      },
+      {
+        "nl": "Mijn broer woont in Utrecht.",
+        "zh": "我的兄弟住在乌得勒支。"
+      }
+    ],
+    "exercise": {
+      "question": "Mijn broer ___ in Utrecht.（wonen）",
+      "options": [
+        "woont",
+        "woon",
+        "wonen",
+        "woontt"
+      ],
+      "answer": 0,
+      "explanation": "Mijn broer 是第三人称单数，wonen 的对应形式是 woont。"
+    },
+    "prompt": "用 wonen 或 werken 写三句，主语分别用 ik、hij 和 we。"
+  },
+  {
+    "id": "daily-f06",
+    "stage": "foundation",
+    "kind": "grammar",
+    "title": "主句：先主语，再动词",
+    "explanation": "刚开始造陈述句时，可以使用“主语＋变位动词＋其他信息”的顺序。普通陈述主句中，变位动词占第二个句子成分；这里先练习主语开头的句子。",
+    "examples": [
+      {
+        "nl": "Ik drink water.",
+        "zh": "我喝水。"
+      },
+      {
+        "nl": "We eten thuis.",
+        "zh": "我们在家吃饭。"
+      }
+    ],
+    "exercise": {
+      "question": "哪句正确表达“我们在家吃饭”？",
+      "options": [
+        "We thuis eten.",
+        "We eten thuis.",
+        "Eten thuis we.",
+        "We eet thuis."
+      ],
+      "answer": 1,
+      "explanation": "主语 We 后放变位动词 eten，再放地点 thuis。We 是复数，不能搭配 eet。"
+    },
+    "prompt": "按“我／我们＋动词＋其他信息”写三句，每句只表达一件事。"
+  },
+  {
+    "id": "daily-f07",
+    "stage": "foundation",
+    "kind": "grammar",
+    "title": "疑问词：谁、什么、哪里",
+    "explanation": "wie 问“谁”，wat 问“什么”，waar 问“哪里”，wanneer 问“什么时候”。这类简单问句通常把疑问词放在前面，后接变位动词和主语。",
+    "examples": [
+      {
+        "nl": "Waar woon je? Ik woon in Delft.",
+        "zh": "你住在哪里？我住在代尔夫特。"
+      },
+      {
+        "nl": "Wie is dat? Dat is mijn buurman.",
+        "zh": "那是谁？那是我的男邻居。"
+      }
+    ],
+    "exercise": {
+      "question": "___ woon je? — In Delft.",
+      "options": [
+        "Wie",
+        "Wat",
+        "Waar",
+        "Hoeveel"
+      ],
+      "answer": 2,
+      "explanation": "回答 In Delft 是地点，所以要用 waar 提问“在哪里”。"
+    },
+    "prompt": "分别用 wie 和 waar 写一个问题，并给出一个简短回答。"
+  },
+  {
+    "id": "daily-f08",
+    "stage": "foundation",
+    "kind": "grammar",
+    "title": "是非问句与 je 后置",
+    "explanation": "不带疑问词的是非问句通常把变位动词放在主语前面，例如 Heb je tijd?。当主语 jij 或 je 放在动词后面时，规则动词现在时通常去掉词干后的 t，例如 Werk je thuis?。",
+    "examples": [
+      {
+        "nl": "Heb je een pen? Ja, ik heb een pen.",
+        "zh": "你有笔吗？是的，我有一支笔。"
+      },
+      {
+        "nl": "Werk je vandaag thuis?",
+        "zh": "你今天在家工作吗？"
+      }
+    ],
+    "exercise": {
+      "question": "___ je vandaag thuis?（werken）",
+      "options": [
+        "Werk",
+        "Werkt",
+        "Werken",
+        "Gewerkt"
+      ],
+      "answer": 0,
+      "explanation": "je 在这里是放在动词后面的主语，因此使用 Werk je，而不是 Werkt je。"
+    },
+    "prompt": "把“Je hebt tijd”和“Je werkt thuis”分别改成问句，并回答一次 ja、一次 nee。"
+  },
+  {
+    "id": "daily-f09",
+    "stage": "foundation",
+    "kind": "grammar",
+    "title": "否定：geen 和 niet",
+    "explanation": "geen 常用于否定原本带 een 或不带冠词的名词，例如 geen fiets、geen koffie。niet 用来否定其他许多成分或整件事，但它的位置要结合句子学习，先记住完整例句。",
+    "examples": [
+      {
+        "nl": "Ik heb geen fiets.",
+        "zh": "我没有自行车。"
+      },
+      {
+        "nl": "Ik kom vandaag niet.",
+        "zh": "我今天不来。"
+      }
+    ],
+    "exercise": {
+      "question": "要对名词 koffie 作一般否定，应填哪个词？Ik drink ___ koffie.",
+      "options": [
+        "een",
+        "geen",
+        "de",
+        "het"
+      ],
+      "answer": 1,
+      "explanation": "这里要表达不喝咖啡，koffie 不带冠词，通常用 geen koffie。其他选项都不是所要求的否定词。"
+    },
+    "prompt": "用 geen 说一句“我没有……”，再用 niet 说一句“我今天不来”。"
+  },
+  {
+    "id": "daily-f10",
+    "stage": "foundation",
+    "kind": "grammar",
+    "title": "名词复数：fietsen 和 auto’s",
+    "explanation": "荷兰语名词复数常用 -en 或 -s，但具体形式要和名词一起记。部分以元音字母结尾的词需要撇号加 s，例如 auto 的复数是 auto’s。",
+    "examples": [
+      {
+        "nl": "Ik heb twee fietsen.",
+        "zh": "我有两辆自行车。"
+      },
+      {
+        "nl": "We hebben twee auto's.",
+        "zh": "我们有两辆汽车。"
+      }
+    ],
+    "exercise": {
+      "question": "补全 fiets 的复数：twee ___",
+      "options": [
+        "fiets",
+        "fietses",
+        "fietsen",
+        "fietsenen"
+      ],
+      "answer": 2,
+      "explanation": "fiets 的复数是 fietsen，因此是 twee fietsen。"
+    },
+    "prompt": "选三个常见物品，分别记下单数和复数，再各配一个数字读出来。"
+  },
+  {
+    "id": "daily-f11",
+    "stage": "foundation",
+    "kind": "grammar",
+    "title": "物主词：我的、你的、她的",
+    "explanation": "mijn 表示“我的”，jouw 表示“你的”，zijn 表示“他的”，haar 表示“她的”。这些词直接放在名词前面，通常不再同时加 de 或 het。",
+    "examples": [
+      {
+        "nl": "Mijn tas is groen.",
+        "zh": "我的包是绿色的。"
+      },
+      {
+        "nl": "Haar fiets staat buiten.",
+        "zh": "她的自行车停在外面。"
+      }
+    ],
+    "exercise": {
+      "question": "怎样补全“我的包”？___ tas",
+      "options": [
+        "jouw",
+        "haar",
+        "zijn",
+        "mijn"
+      ],
+      "answer": 3,
+      "explanation": "“我的”是 mijn，所以是 mijn tas。这里的所属者已经由中文明确指定。"
+    },
+    "prompt": "介绍自己的两件物品，再介绍一位朋友的一件物品，并明确说出是谁的。"
+  },
+  {
+    "id": "daily-f12",
+    "stage": "foundation",
+    "kind": "grammar",
+    "title": "指示词：deze、die、dit、dat",
+    "explanation": "de 名词单数以及所有复数，近指常用 deze，远指常用 die。het 名词单数，近指常用 dit，远指常用 dat。",
+    "examples": [
+      {
+        "nl": "Deze fiets is van mij.",
+        "zh": "这辆自行车是我的。"
+      },
+      {
+        "nl": "Dat huis is groot.",
+        "zh": "那所房子很大。"
+      }
+    ],
+    "exercise": {
+      "question": "指着身边“这本书”，已知是 het boek：___ boek",
+      "options": [
+        "Dit",
+        "Deze",
+        "Die",
+        "Dieze"
+      ],
+      "answer": 0,
+      "explanation": "boek 是 het 单数名词，近指“这”使用 dit：dit boek。"
+    },
+    "prompt": "找一个 de 名词和一个 het 名词，分别练习说“这一个”和“那一个”。"
+  },
+  {
+    "id": "daily-f13",
+    "stage": "foundation",
+    "kind": "grammar",
+    "title": "地点介词：in、op、naast",
+    "explanation": "in 常表示“在……里面”，op 可以表示“在……上面”，naast 表示“在……旁边”。介词搭配也有固定用法，先用桌子、包、门等具体物品练习位置。",
+    "examples": [
+      {
+        "nl": "De sleutel ligt in de tas.",
+        "zh": "钥匙在包里。"
+      },
+      {
+        "nl": "De fiets staat naast de deur.",
+        "zh": "自行车停在门旁边。"
+      }
+    ],
+    "exercise": {
+      "question": "要表达“书在桌面上”，应填什么？Het boek ligt ___ de tafel.",
+      "options": [
+        "onder",
+        "op",
+        "naast",
+        "achter"
+      ],
+      "answer": 1,
+      "explanation": "这里明确说在桌面上，所以用 op；onder、naast、achter 分别表示下面、旁边、后面。"
+    },
+    "prompt": "移动一个小物品，用 in、op、naast 各描述一次它的位置。"
+  },
+  {
+    "id": "daily-f14",
+    "stage": "foundation",
+    "kind": "grammar",
+    "title": "时间：om negen uur 与 half acht",
+    "explanation": "整点可以说 negen uur，表示“在九点”时用 om negen uur。荷兰语 half acht 是距离八点还差半小时，也就是七点半；它和中文的“八点半”不同。",
+    "examples": [
+      {
+        "nl": "Het is half acht.",
+        "zh": "现在是七点半。"
+      },
+      {
+        "nl": "De les begint om negen uur.",
+        "zh": "课在九点开始。"
+      }
+    ],
+    "exercise": {
+      "question": "half negen 是几点？",
+      "options": [
+        "8:00",
+        "9:30",
+        "8:30",
+        "9:00"
+      ],
+      "answer": 2,
+      "explanation": "half negen 是到九点还差半小时，因此是八点半。"
+    },
+    "prompt": "说出自己起床和开始学习的时间，再把 half acht、half negen 各换成数字时间。"
+  },
+  {
+    "id": "daily-f15",
+    "stage": "foundation",
+    "kind": "grammar",
+    "title": "情态动词：能、想、必须",
+    "explanation": "kunnen、willen、moeten 可以表达能力、愿望和必要性。简单主句里，情态动词随主语变位，另一个动词通常用不定式放在句末，前面不加 te。",
+    "examples": [
+      {
+        "nl": "Ik kan goed fietsen.",
+        "zh": "我很会骑自行车。"
+      },
+      {
+        "nl": "We moeten vandaag werken.",
+        "zh": "我们今天必须工作。"
+      }
+    ],
+    "exercise": {
+      "question": "Ik kan goed ___.",
+      "options": [
+        "fietst",
+        "fiets",
+        "gefietst",
+        "fietsen"
+      ],
+      "answer": 3,
+      "explanation": "kan 后面的另一个动词用不定式 fietsen，放在句末。"
+    },
+    "prompt": "用 Ik kan、Ik wil、Ik moet 各说一句，句末都放一个动词不定式。"
+  },
+  {
+    "id": "daily-f16",
+    "stage": "foundation",
+    "kind": "grammar",
+    "title": "形容词：een klein huis",
+    "explanation": "形容词直接放在名词前时，常常需要加 -e，例如 de kleine tas。单数 het 名词和 een 搭配时，形容词通常不加 -e，例如 een klein huis；先掌握这组常见对比。",
+    "examples": [
+      {
+        "nl": "De kleine tas is blauw.",
+        "zh": "那个小包是蓝色的。"
+      },
+      {
+        "nl": "Ik woon in een klein huis.",
+        "zh": "我住在一所小房子里。"
+      }
+    ],
+    "exercise": {
+      "question": "已知是 het boek：Ik heb een ___ boek.",
+      "options": [
+        "nieuw",
+        "nieuwe",
+        "nieuws",
+        "nieuwen"
+      ],
+      "answer": 0,
+      "explanation": "boek 是 het 单数名词，前面是 een，因此用不带 -e 的 nieuw：een nieuw boek。"
+    },
+    "prompt": "用 klein 描述一个 de 名词和一个 het 名词，分别练习 de kleine… 与 een klein…。"
+  },
+  {
+    "id": "daily-f17",
+    "stage": "foundation",
+    "kind": "listening",
+    "title": "听懂买东西：先抓物品",
+    "explanation": "先听第一段，只找说话者要买的物品，不必立即理解每个词。再听一次，留意数字和最后决定购买的东西。",
+    "examples": [
+      {
+        "nl": "Goedemorgen. Ik wil twee appels en een brood. Heeft u ook melk? Nee? Dan neem ik alleen de appels en het brood.",
+        "zh": "早上好。我想要两个苹果和一个面包。您也卖牛奶吗？没有吗？那我就只要苹果和面包。"
+      },
+      {
+        "nl": "Ik neem twee appels, alstublieft.",
+        "zh": "请给我两个苹果。"
+      }
+    ],
+    "exercise": {
+      "question": "说话者要买哪种水果？",
+      "options": [
+        "Peren.",
+        "Appels.",
+        "Bananen.",
+        "Sinaasappels."
+      ],
+      "answer": 1,
+      "explanation": "原文说 twee appels，并且最后仍然要买 appels，所以是苹果。"
+    },
+    "prompt": "听后不看原文，说出两种要买的东西，再把其中一种换成自己想买的物品。"
+  },
+  {
+    "id": "daily-f18",
+    "stage": "foundation",
+    "kind": "listening",
+    "title": "听懂车站信息：时间和站台",
+    "explanation": "听车站信息时，先分别记录目的地、出发时间和站台号码。第二次听只核对数字，避免把站台号码当成时间。",
+    "examples": [
+      {
+        "nl": "De trein naar Delft vertrekt om tien uur dertig van spoor zes. De trein stopt ook in Schiedam. Houd uw kaartje klaar.",
+        "zh": "开往代尔夫特的火车十点三十分从六号站台出发。这班车也停靠斯希丹。请准备好车票。"
+      },
+      {
+        "nl": "De trein vertrekt om half elf.",
+        "zh": "火车十点半出发。"
+      }
+    ],
+    "exercise": {
+      "question": "火车几点出发？",
+      "options": [
+        "10:15",
+        "10:45",
+        "10:30",
+        "11:30"
+      ],
+      "answer": 2,
+      "explanation": "tien uur dertig 是十点三十分，也可以说 half elf。spoor zes 是六号站台。"
+    },
+    "prompt": "听后说出目的地、出发时间、站台号，然后自编一条只改时间的通知。"
+  },
+  {
+    "id": "daily-f19",
+    "stage": "foundation",
+    "kind": "listening",
+    "title": "听懂上课通知：带什么",
+    "explanation": "简短通知通常包含时间和要做的事，先听出 begin、neem 等提示词。遇到不熟悉的词，可以先记下自己确定听到的物品和时间。",
+    "examples": [
+      {
+        "nl": "De les Nederlands begint morgen om negen uur. Neem je boek en een pen mee. We drinken om tien uur samen koffie.",
+        "zh": "荷兰语课明天九点开始。带上你的书和一支笔。我们十点一起喝咖啡。"
+      },
+      {
+        "nl": "Ik neem mijn boek en een pen mee.",
+        "zh": "我带上我的书和一支笔。"
+      }
+    ],
+    "exercise": {
+      "question": "通知要求带什么？",
+      "options": [
+        "Een fiets en een tas.",
+        "Melk en brood.",
+        "Een jas en schoenen.",
+        "Een boek en een pen."
+      ],
+      "answer": 3,
+      "explanation": "通知明确说 Neem je boek en een pen mee，即带上书和笔。"
+    },
+    "prompt": "听完只用荷兰语列出要带的两件物品，再说出上课时间。"
+  },
+  {
+    "id": "daily-f20",
+    "stage": "foundation",
+    "kind": "listening",
+    "title": "听懂语音留言：谁、哪里、几点",
+    "explanation": "听朋友的留言时，可以把信息分成“现在在哪里”和“之后几点到”。先抓核心信息，再听懂对方需要怎样回复。",
+    "examples": [
+      {
+        "nl": "Hoi Noor, ik ben nog in de supermarkt. Ik kom om zes uur bij je. Wil je thee of koffie? Stuur me een bericht.",
+        "zh": "嗨，诺尔，我还在超市。我六点到你那里。你想要茶还是咖啡？给我发条消息吧。"
+      },
+      {
+        "nl": "Thee, graag. Tot zes uur!",
+        "zh": "我要茶，谢谢。六点见！"
+      }
+    ],
+    "exercise": {
+      "question": "留言里说几点到 Noor 那里？",
+      "options": [
+        "Om zes uur.",
+        "Om vijf uur.",
+        "Om zeven uur.",
+        "Om acht uur."
+      ],
+      "answer": 0,
+      "explanation": "Ik kom om zes uur bij je 表示“我六点到你那里”。"
+    },
+    "prompt": "给朋友录一段两三句的留言，说自己在哪里、几点到，并问一个简单问题。"
+  },
+  {
+    "id": "daily-f21",
+    "stage": "foundation",
+    "kind": "speaking",
+    "title": "开口第一步：问候和名字",
+    "explanation": "先跟读一句，再停下来用自己的信息替换名字和国家。对方问名字时，直接用 Ik heet… 回答即可，不需要一次讲完所有个人信息。",
+    "examples": [
+      {
+        "nl": "Hoi, ik heet Lin. Ik kom uit China.",
+        "zh": "嗨，我叫琳。我来自中国。"
+      },
+      {
+        "nl": "Hoe gaat het? Goed, dank je.",
+        "zh": "你好吗？很好，谢谢你。"
+      }
+    ],
+    "exercise": {
+      "question": "对方问 Hoe heet je?，哪个回答对应这个问题？",
+      "options": [
+        "Het gaat goed.",
+        "Ik heet Lin.",
+        "Het is negen uur.",
+        "Ik heb een fiets."
+      ],
+      "answer": 1,
+      "explanation": "Hoe heet je? 问名字，Ik heet Lin 直接回答“我叫琳”。"
+    },
+    "prompt": "不看原文，用三句以内完成问候、介绍名字和来自哪里，然后再说一遍。"
+  },
+  {
+    "id": "daily-f22",
+    "stage": "foundation",
+    "kind": "speaking",
+    "title": "介绍住处：在哪里、和谁住",
+    "explanation": "介绍住处时，可以先用 Ik woon in… 说城市，再补充和谁一起住。先说清两条信息，比一次说很长的句子更容易练熟。",
+    "examples": [
+      {
+        "nl": "Ik woon in Delft met mijn partner.",
+        "zh": "我和伴侣住在代尔夫特。"
+      },
+      {
+        "nl": "Mijn huis is klein, maar fijn.",
+        "zh": "我的房子虽小，但很舒适。"
+      }
+    ],
+    "exercise": {
+      "question": "对方问 Waar woon je?，哪个回答直接说明住在哪里？",
+      "options": [
+        "Ik heet Sam.",
+        "Ik heb een zus.",
+        "Ik woon in Delft.",
+        "Ik kom morgen."
+      ],
+      "answer": 2,
+      "explanation": "Waar woon je? 问居住地点，Ik woon in Delft 回答“我住在代尔夫特”。"
+    },
+    "prompt": "用两三句话介绍住在哪个城市、和谁住，以及住处的一个特点；可以使用虚构信息。"
+  },
+  {
+    "id": "daily-f23",
+    "stage": "foundation",
+    "kind": "speaking",
+    "title": "礼貌点单：graag 和 alstublieft",
+    "explanation": "点单可以用 Ik wil graag…，也可以直接说物品并加 alstublieft。先练习一件物品的数量和名称，再加一句感谢。",
+    "examples": [
+      {
+        "nl": "Ik wil graag een kop thee.",
+        "zh": "我想要一杯茶。"
+      },
+      {
+        "nl": "Een broodje, alstublieft. Dank u wel.",
+        "zh": "请给我一个小面包。谢谢您。"
+      }
+    ],
+    "exercise": {
+      "question": "在咖啡馆点一杯茶，哪句最符合这个情境？",
+      "options": [
+        "Waar is het station?",
+        "Hoe laat is het?",
+        "Ik heet Noor.",
+        "Een kop thee, alstublieft."
+      ],
+      "answer": 3,
+      "explanation": "Een kop thee, alstublieft 是“请给我一杯茶”，直接完成题目要求的点单。"
+    },
+    "prompt": "模拟点单：点一种饮品和一种食物，至少用一次 graag 或 alstublieft，最后道谢。"
+  },
+  {
+    "id": "daily-f24",
+    "stage": "foundation",
+    "kind": "speaking",
+    "title": "说说一天：时间加活动",
+    "explanation": "描述一天时，可以用简单现在时说日常习惯，并加上 om acht uur 等时间信息。先练熟早上和晚上的两项活动，再逐步增加细节。",
+    "examples": [
+      {
+        "nl": "Ik ontbijt om acht uur. Ik werk van negen tot vijf.",
+        "zh": "我八点吃早餐。我从九点工作到五点。"
+      },
+      {
+        "nl": "Ik kijk 's avonds televisie.",
+        "zh": "我晚上看电视。"
+      }
+    ],
+    "exercise": {
+      "question": "哪句表示“我晚上看电视”？",
+      "options": [
+        "Ik kijk 's avonds televisie.",
+        "Ik kijk 's morgens televisie.",
+        "Wij kijken 's avonds televisie.",
+        "Ik lees 's avonds een boek."
+      ],
+      "answer": 0,
+      "explanation": "Ik 是“我”，’s avonds 是“晚上”，televisie kijken 是“看电视”；其余选项改变了时间、主语或活动。"
+    },
+    "prompt": "用三句介绍自己一天中的三项活动，每句加一个时间或时段，控制在约二十秒。"
+  },
+  {
+    "id": "daily-a01",
+    "stage": "bridge",
+    "kind": "grammar",
+    "title": "完成时：我做过什么",
+    "explanation": "完成时通常由变位的 hebben 或 zijn 加过去分词构成，用来谈已经发生的事情。很多活动用 hebben，有些表示到达或状态变化的动词用 zijn；先连同具体动词一起记忆。",
+    "examples": [
+      {
+        "nl": "Ik heb gisteren soep gemaakt.",
+        "zh": "我昨天做了汤。"
+      },
+      {
+        "nl": "Zij is naar huis gegaan.",
+        "zh": "她回家去了。"
+      }
+    ],
+    "exercise": {
+      "question": "Ik ___ gisteren een brief geschreven.",
+      "options": [
+        "ben",
+        "heb",
+        "zijn",
+        "heeft"
+      ],
+      "answer": 1,
+      "explanation": "schrijven 在这里和 hebben 搭配；主语是 ik，因此是 Ik heb een brief geschreven。"
+    },
+    "prompt": "用完成时说两件昨天做过的事，先模仿 Ik heb…，再练一句 Ik ben naar… gegaan。"
+  },
+  {
+    "id": "daily-a02",
+    "stage": "bridge",
+    "kind": "grammar",
+    "title": "过去时入门：was 和 had",
+    "explanation": "简单过去时常用于描述过去的状态、背景或经历，先认识 zijn 和 hebben 的常用过去式。单数常用 was、had，复数用 waren、hadden；过去并不总要使用完成时。",
+    "examples": [
+      {
+        "nl": "Als kind was ik vaak buiten.",
+        "zh": "我小时候经常在外面。"
+      },
+      {
+        "nl": "Vroeger had ik een rode fiets.",
+        "zh": "以前我有一辆红色的自行车。"
+      }
+    ],
+    "exercise": {
+      "question": "Ik ___ vroeger een rode fiets.（过去“有”）",
+      "options": [
+        "heeft",
+        "hebben",
+        "had",
+        "hadden"
+      ],
+      "answer": 2,
+      "explanation": "题目明确要求过去的“有”，主语 ik 是单数，因此用 had。"
+    },
+    "prompt": "用 Vroeger was ik… 和 Vroeger had ik… 各说一句，内容可以是小时候的状态或物品。"
+  },
+  {
+    "id": "daily-a03",
+    "stage": "bridge",
+    "kind": "grammar",
+    "title": "可分动词：opstaan 和 opruimen",
+    "explanation": "可分动词在简单主句中常分开，前缀移到后面，例如 opstaan 变成 Ik sta op。完成时的过去分词要作为整体学习，例如 opruimen 对应 opgeruimd。",
+    "examples": [
+      {
+        "nl": "Ik sta om zeven uur op.",
+        "zh": "我七点起床。"
+      },
+      {
+        "nl": "We hebben de woonkamer opgeruimd.",
+        "zh": "我们收拾了客厅。"
+      }
+    ],
+    "exercise": {
+      "question": "要表达“我七点起床”：Om zeven uur sta ik ___.",
+      "options": [
+        "uit",
+        "aan",
+        "mee",
+        "op"
+      ],
+      "answer": 3,
+      "explanation": "“起床”是 opstaan，主句中分开为 sta… op。题目明确限定了这个意思。"
+    },
+    "prompt": "用 opstaan 和 opruimen 各写一句，把变位动词与分开的前缀圈出来。"
+  },
+  {
+    "id": "daily-a04",
+    "stage": "bridge",
+    "kind": "grammar",
+    "title": "不定式前的 te",
+    "explanation": "某些动词后接 te 加不定式，例如 proberen te lezen，表示“尝试阅读”。om… te… 也出现在常见句型中；不要因此给 kunnen、willen、moeten 后面的不定式都加 te。",
+    "examples": [
+      {
+        "nl": "Ik probeer elke dag tien minuten te lezen.",
+        "zh": "我尝试每天阅读十分钟。"
+      },
+      {
+        "nl": "Het is fijn om samen te oefenen.",
+        "zh": "一起练习很愉快。"
+      }
+    ],
+    "exercise": {
+      "question": "Ik probeer op tijd ___ komen.",
+      "options": [
+        "te",
+        "om",
+        "dat",
+        "naar"
+      ],
+      "answer": 0,
+      "explanation": "proberen 后面使用 te 加不定式：Ik probeer op tijd te komen。"
+    },
+    "prompt": "用 Ik probeer… te… 说一个小目标，再用 Ik kan… 说一句，比较 te 是否出现。"
+  },
+  {
+    "id": "daily-a05",
+    "stage": "bridge",
+    "kind": "grammar",
+    "title": "用 omdat 说明原因",
+    "explanation": "omdat 表示“因为”，引导的从句中，变位动词通常放在后面。先练“主句＋omdat＋主语＋其他信息＋动词”的顺序，再把原因说长一点。",
+    "examples": [
+      {
+        "nl": "Ik blijf thuis omdat ik moe ben.",
+        "zh": "我待在家里，因为我累了。"
+      },
+      {
+        "nl": "We nemen de bus omdat de trein niet rijdt.",
+        "zh": "我们坐公交车，因为火车停运。"
+      }
+    ],
+    "exercise": {
+      "question": "Ik neem de bus omdat ___.",
+      "options": [
+        "rijdt de trein niet",
+        "de trein niet rijdt",
+        "de trein rijdt niet",
+        "niet rijdt de trein"
+      ],
+      "answer": 1,
+      "explanation": "omdat 引导从句，主语 de trein 在前，变位动词 rijdt 放到末尾。"
+    },
+    "prompt": "说两个今天的决定，每个决定后用 omdat 补充一个简短原因。"
+  },
+  {
+    "id": "daily-a06",
+    "stage": "bridge",
+    "kind": "grammar",
+    "title": "比较：groter dan 和 beter",
+    "explanation": "比较两样事物时，许多形容词加 -er，再用 dan 引出比较对象。部分形式不规则，例如 goed 的比较级是 beter；拼写变化要和词一起记。",
+    "examples": [
+      {
+        "nl": "Deze kamer is groter dan mijn oude kamer.",
+        "zh": "这个房间比我以前的房间大。"
+      },
+      {
+        "nl": "Deze oefening gaat beter dan gisteren.",
+        "zh": "这个练习做得比昨天好。"
+      }
+    ],
+    "exercise": {
+      "question": "表达“我的包比你的包更轻”：Mijn tas is ___ dan jouw tas.",
+      "options": [
+        "licht",
+        "lichtst",
+        "lichter",
+        "lichtte"
+      ],
+      "answer": 2,
+      "explanation": "licht 的比较级是 lichter，和 dan 一起表达“比……更轻”。"
+    },
+    "prompt": "选两个熟悉的物品，用 groter、kleiner 或 goedkoper 加 dan 比较两次。"
+  },
+  {
+    "id": "daily-a07",
+    "stage": "bridge",
+    "kind": "grammar",
+    "title": "时间放前面：主句倒装",
+    "explanation": "普通陈述主句中，变位动词仍占第二个句子成分。时间或地点放在句首时，主语通常移到变位动词后面；第一成分可以由多个词组成。",
+    "examples": [
+      {
+        "nl": "Morgen ga ik naar de bibliotheek.",
+        "zh": "明天我去图书馆。"
+      },
+      {
+        "nl": "Na het eten bellen we onze ouders.",
+        "zh": "吃完饭后，我们给父母打电话。"
+      }
+    ],
+    "exercise": {
+      "question": "选择正确的主句语序：Volgende week ___",
+      "options": [
+        "wij op maandag beginnen.",
+        "op maandag wij beginnen.",
+        "wij beginnen op maandag.",
+        "beginnen wij op maandag."
+      ],
+      "answer": 3,
+      "explanation": "Volgende week 是第一成分，第二成分放 beginnen，之后是主语 wij：Volgende week beginnen wij op maandag。"
+    },
+    "prompt": "把 Ik werk morgen thuis 和 We eten daarna 改成时间开头的句子，再大声读一遍。"
+  },
+  {
+    "id": "daily-a08",
+    "stage": "bridge",
+    "kind": "grammar",
+    "title": "指令和礼貌请求",
+    "explanation": "简单祈使句常用动词词干开头，不出现主语，例如 Doe de deur dicht。向别人提出请求时，可以用 Kun je…? 或 Kunt u…?，语气也要自然友好。",
+    "examples": [
+      {
+        "nl": "Doe de deur dicht, alsjeblieft.",
+        "zh": "请把门关上。"
+      },
+      {
+        "nl": "Kunt u mij even helpen?",
+        "zh": "您能帮我一下吗？"
+      }
+    ],
+    "exercise": {
+      "question": "想请人把门关上，哪句是礼貌请求？",
+      "options": [
+        "Kun je de deur even dichtdoen?",
+        "De deur is blauw.",
+        "Ik heb de deur gekocht.",
+        "Waar staat de deur?"
+      ],
+      "answer": 0,
+      "explanation": "Kun je…? 提出请求，de deur dichtdoen 是把门关上，even 让这个请求更自然。"
+    },
+    "prompt": "把“给我一支笔”和“请再说一次”各变成一句带 Kun je 或 Kunt u 的请求。"
+  },
+  {
+    "id": "daily-a09",
+    "stage": "bridge",
+    "kind": "grammar",
+    "title": "er：引出新出现的东西",
+    "explanation": "介绍某处有什么或发生什么时，常用 er 引出新信息。动词仍要和后面的单数或复数名词搭配，例如 er staat 与 er staan。",
+    "examples": [
+      {
+        "nl": "Er staat een fiets voor het huis.",
+        "zh": "房子前面停着一辆自行车。"
+      },
+      {
+        "nl": "Er liggen drie brieven op tafel.",
+        "zh": "桌上有三封信。"
+      }
+    ],
+    "exercise": {
+      "question": "___ ligt een brief op tafel.",
+      "options": [
+        "Hij",
+        "Er",
+        "Ze",
+        "We"
+      ],
+      "answer": 1,
+      "explanation": "这里首次介绍桌上有一封信，使用 Er ligt een brief op tafel。"
+    },
+    "prompt": "环顾房间，用 Er staat… 或 Er liggen… 介绍两样东西，注意单复数。"
+  },
+  {
+    "id": "daily-a10",
+    "stage": "bridge",
+    "kind": "grammar",
+    "title": "数量：ik heb er twee",
+    "explanation": "说到已经明确的可数事物时，可以用 er 配合数量，避免再重复名词，例如 ik heb er twee。描述不可数的量时可以用 een beetje，例如 een beetje soep；先练习数量明确的短回答。",
+    "examples": [
+      {
+        "nl": "Hoeveel broers heb je? Ik heb er twee.",
+        "zh": "你有几个兄弟？我有两个。"
+      },
+      {
+        "nl": "Wil je nog soep? Ja, graag een beetje.",
+        "zh": "你还要汤吗？要的，请再给一点。"
+      }
+    ],
+    "exercise": {
+      "question": "Heb je boeken? Ja, ik heb ___ drie.",
+      "options": [
+        "ze",
+        "dat",
+        "er",
+        "het"
+      ],
+      "answer": 2,
+      "explanation": "boeken 已在问题中提过，回答数量“三本”时用 er：Ja, ik heb er drie。"
+    },
+    "prompt": "自问自答“有几本书”和“有几个兄弟姐妹”，用 er 配合真实或虚构的数量。"
+  },
+  {
+    "id": "daily-a11",
+    "stage": "bridge",
+    "kind": "grammar",
+    "title": "反身代词：me、je、zich、ons",
+    "explanation": "有些动词需要搭配与主语呼应的反身代词，例如 zich voelen。主语 ik 用 me，jij 用 je，hij 或 zij 单数用 zich，we 用 ons；把动词和代词一起记忆。",
+    "examples": [
+      {
+        "nl": "Ik voel me vandaag goed.",
+        "zh": "我今天感觉很好。"
+      },
+      {
+        "nl": "Zij meldt zich aan voor de cursus.",
+        "zh": "她报名参加这门课程。"
+      }
+    ],
+    "exercise": {
+      "question": "We voelen ___ vandaag goed.",
+      "options": [
+        "me",
+        "je",
+        "zich",
+        "ons"
+      ],
+      "answer": 3,
+      "explanation": "主语 We 对应反身代词 ons，因此是 We voelen ons vandaag goed。"
+    },
+    "prompt": "用 zich voelen 分别说一句“我今天感觉……”和“我们今天感觉……”。"
+  },
+  {
+    "id": "daily-a12",
+    "stage": "bridge",
+    "kind": "grammar",
+    "title": "未来计划：gaan 和 zullen",
+    "explanation": "gaan 加不定式常用于谈计划或即将发生的事。zullen 也可谈将来，常见于承诺或提议；先学常用句，不把二者机械理解为完全不同的两种未来。",
+    "examples": [
+      {
+        "nl": "Ik ga morgen mijn kamer opruimen.",
+        "zh": "我打算明天收拾房间。"
+      },
+      {
+        "nl": "Ik zal je vanavond bellen.",
+        "zh": "我今晚会给你打电话。"
+      }
+    ],
+    "exercise": {
+      "question": "Volgende week ga ik ___.",
+      "options": [
+        "een nieuwe cursus volgen",
+        "een nieuwe cursus gevolgd",
+        "volgt een nieuwe cursus",
+        "een nieuwe cursus te volg"
+      ],
+      "answer": 0,
+      "explanation": "ga 已经变位，另一个动词使用不定式 volgen，放在句末：een nieuwe cursus volgen。"
+    },
+    "prompt": "用 Ik ga… 说两个下周的小计划，再用 Ik zal… 说一个可以做到的小承诺。"
+  },
+  {
+    "id": "daily-a13",
+    "stage": "bridge",
+    "kind": "listening",
+    "title": "听懂预约变更：旧时间和新时间",
+    "explanation": "预约变更会同时出现旧时间和新时间，听到 verplaatst 时要特别留意后面的信息。先写下新的日期和时间，再核对原来的安排为什么改变。",
+    "examples": [
+      {
+        "nl": "Goedemiddag. Uw afspraak met de taaldocent is verplaatst van dinsdag naar donderdag om vier uur. De docent is dinsdag afwezig. Kunt u laten weten of de nieuwe tijd past?",
+        "zh": "下午好。您和语言老师的预约从星期二改到了星期四四点。老师星期二不在。您能告知新时间是否合适吗？"
+      },
+      {
+        "nl": "Donderdag om vier uur past goed. Bedankt voor het bericht.",
+        "zh": "星期四四点很合适。谢谢您的通知。"
+      }
+    ],
+    "exercise": {
+      "question": "Op welke dag is de nieuwe afspraak?",
+      "options": [
+        "Op dinsdag.",
+        "Op donderdag.",
+        "Op woensdag.",
+        "Op vrijdag."
+      ],
+      "answer": 1,
+      "explanation": "verplaatst van dinsdag naar donderdag 表明从星期二改到星期四，新预约是星期四。"
+    },
+    "prompt": "先口头复述新的预约时间，再用一句荷兰语回复“这个时间合适”或提出另一个时间。"
+  },
+  {
+    "id": "daily-a14",
+    "stage": "bridge",
+    "kind": "listening",
+    "title": "听懂出行变化：接下来怎么走",
+    "explanation": "交通信息里，先分清问题是什么，再听接下来的行动建议。把路线按“先……再……”记下，比只记住几个地名更有用。",
+    "examples": [
+      {
+        "nl": "Door een storing rijdt de trein naar Leiden niet. Neem de bus naar het station in Den Haag. Daar kunt u overstappen op een trein naar Leiden.",
+        "zh": "由于故障，开往莱顿的这班火车停运。请乘公交车到海牙的车站。在那里，您可以换乘开往莱顿的火车。"
+      },
+      {
+        "nl": "Ik neem eerst de bus en daarna de trein.",
+        "zh": "我先坐公交车，然后坐火车。"
+      }
+    ],
+    "exercise": {
+      "question": "Wat moet de reiziger volgens dit bericht eerst doen?",
+      "options": [
+        "Naar huis lopen.",
+        "In Leiden wachten.",
+        "De bus naar Den Haag nemen.",
+        "Een fiets naar Delft nemen."
+      ],
+      "answer": 2,
+      "explanation": "通知先让旅客坐公交车去海牙的车站，然后再换乘火车去莱顿。这里是虚构的练习通知。"
+    },
+    "prompt": "用 eerst 和 daarna 两句话复述这条路线，不需要记住每个原词。"
+  },
+  {
+    "id": "daily-a15",
+    "stage": "bridge",
+    "kind": "listening",
+    "title": "听懂维修留言：约定到访时间",
+    "explanation": "听维修或到访留言时，要区分本来想来的时间和最后约定的时间。第二次听时，找出时间改变的原因，以及对方要你做什么。",
+    "examples": [
+      {
+        "nl": "Hoi Sam, ik wilde om vijf uur naar je lekkende kraan kijken. Mijn werk loopt uit, dus ik kom om zes uur. Kun je dan thuis zijn? Bel me als dat niet lukt.",
+        "zh": "嗨，萨姆，我原想五点来看看你家漏水的水龙头。我的工作还没结束，所以我六点来。那时你能在家吗？如果不行，给我打电话。"
+      },
+      {
+        "nl": "Om zes uur ben ik thuis. Tot straks.",
+        "zh": "六点我在家。一会儿见。"
+      }
+    ],
+    "exercise": {
+      "question": "Hoe laat komt de spreker uiteindelijk?",
+      "options": [
+        "Om vier uur.",
+        "Om vijf uur.",
+        "Om zeven uur.",
+        "Om zes uur."
+      ],
+      "answer": 3,
+      "explanation": "原先是五点，但说话者接着说明 ik kom om zes uur，所以最终到访时间是六点。"
+    },
+    "prompt": "用一句话确认到访时间，再补一句说明自己能否在家；也可以提出另一个时间。"
+  },
+  {
+    "id": "daily-a16",
+    "stage": "bridge",
+    "kind": "listening",
+    "title": "听懂商品问题：事实和诉求",
+    "explanation": "听顾客说明问题时，可以分别记录买了什么、哪里有问题、希望怎样处理。先听懂这三项事实，再练习用自己的话概括。",
+    "examples": [
+      {
+        "nl": "Goedemiddag. Ik heb gisteren een lamp gekocht, maar hij gaat niet aan. De bon zit in mijn tas. Ik wil graag weten of ik de lamp kan omruilen.",
+        "zh": "下午好。我昨天买了一盏灯，但它打不开。小票在我的包里。我想知道能否换这盏灯。"
+      },
+      {
+        "nl": "De lamp werkt niet. Kan ik hem omruilen?",
+        "zh": "这盏灯不工作。我可以换货吗？"
+      }
+    ],
+    "exercise": {
+      "question": "Waarom komt de klant terug met de lamp?",
+      "options": [
+        "De lamp gaat niet aan.",
+        "De lamp is te groot.",
+        "De klant heeft twee lampen gekregen.",
+        "De klant vindt de kleur niet mooi."
+      ],
+      "answer": 0,
+      "explanation": "原文说 hij gaat niet aan，意思是灯打不开；没有提到尺寸、数量或颜色问题。"
+    },
+    "prompt": "用两三句话复述顾客的问题和请求，再把商品换成一个自己熟悉的物品。"
+  },
+  {
+    "id": "daily-a17",
+    "stage": "bridge",
+    "kind": "listening",
+    "title": "听懂社区活动：时间和准备",
+    "explanation": "活动通知常包含地点、时间以及需要自带的东西。先记录这三个要点，再区分主办方提供什么和参加者自己带什么。",
+    "examples": [
+      {
+        "nl": "Zaterdag werken we van tien tot twaalf samen in de buurttuin. Nieuwe buren zijn welkom. Wij zorgen voor gereedschap. Neem zelf iets te drinken mee en trek kleren aan die vuil mogen worden.",
+        "zh": "星期六十点到十二点，我们一起在社区花园劳动。欢迎新邻居参加。我们提供工具。请自带饮品，穿可以弄脏的衣服。"
+      },
+      {
+        "nl": "Ik neem water mee en kom om tien uur.",
+        "zh": "我会带水，十点到。"
+      }
+    ],
+    "exercise": {
+      "question": "Wat moeten deelnemers zelf meenemen?",
+      "options": [
+        "Nieuw gereedschap.",
+        "Iets te drinken.",
+        "Een tuinbank.",
+        "Een lunch voor alle buren."
+      ],
+      "answer": 1,
+      "explanation": "通知明确要求 Neem zelf iets te drinken mee，即自带饮品；工具由组织者提供。"
+    },
+    "prompt": "用三条简短信息复述集合时间、地点和要带的东西，再邀请一位朋友参加。"
+  },
+  {
+    "id": "daily-a18",
+    "stage": "bridge",
+    "kind": "listening",
+    "title": "听懂信息核对：消息与原始来源",
+    "explanation": "听别人转述消息时，留意“看到的说法”和“核对后的信息”是否一致。用 daarom 找出说话者最后作出的决定，不急着把最初的传言当成事实。",
+    "examples": [
+      {
+        "nl": "Ik las op sociale media dat de bibliotheek zou sluiten. Op de website van de bibliotheek stond alleen dat zij maandag dicht is. Daarom controleer ik voortaan eerst de oorspronkelijke bron.",
+        "zh": "我在社交媒体上读到图书馆将要关闭。但图书馆网站上只说星期一不开放。因此，我今后会先核对原始来源。"
+      },
+      {
+        "nl": "Waar komt dit bericht vandaan? Ik controleer eerst de website.",
+        "zh": "这条消息来自哪里？我先查一下网站。"
+      }
+    ],
+    "exercise": {
+      "question": "Wat gaat de spreker voortaan eerst doen?",
+      "options": [
+        "Elk bericht meteen delen.",
+        "De bibliotheek nooit meer bezoeken.",
+        "De oorspronkelijke bron controleren.",
+        "Alleen de titel lezen."
+      ],
+      "answer": 2,
+      "explanation": "最后一句明确说 voortaan eerst de oorspronkelijke bron controleren，即今后先核对原始来源。"
+    },
+    "prompt": "用两三句话说明这条消息最初怎么说、网站怎么说，以及说话者今后要怎样做。"
+  },
+  {
+    "id": "daily-a19",
+    "stage": "bridge",
+    "kind": "speaking",
+    "title": "回顾昨天：两件事加一个感受",
+    "explanation": "回顾一天时，先用完成时说两件具体做过的事，再补充一个感受。可以用 daarna 连接先后，但不必为了说得长而加入不熟悉的结构。",
+    "examples": [
+      {
+        "nl": "Gisteren heb ik soep gemaakt. Daarna heb ik een wandeling gemaakt.",
+        "zh": "昨天我做了汤。之后我散步了。"
+      },
+      {
+        "nl": "Het was een rustige dag. Ik voelde me goed.",
+        "zh": "那是平静的一天。我感觉很好。"
+      }
+    ],
+    "exercise": {
+      "question": "哪句表示“我昨天做了饭，然后散步了”？",
+      "options": [
+        "Morgen ga ik koken en wandelen.",
+        "Ik kook nu en mijn broer wandelt.",
+        "Gisteren heb ik alleen gewerkt.",
+        "Gisteren heb ik gekookt en daarna gewandeld."
+      ],
+      "answer": 3,
+      "explanation": "Gisteren 指昨天，heb gekookt 与 daarna gewandeld 表达已经做饭并在之后散步。"
+    },
+    "prompt": "用三四句讲昨天：两项活动、它们的顺序和一个感受，控制在约三十秒。"
+  },
+  {
+    "id": "daily-a20",
+    "stage": "bridge",
+    "kind": "speaking",
+    "title": "表达看法：观点加一个原因",
+    "explanation": "先用 Ik vind… 或 Volgens mij… 清楚说出自己的看法。再用 omdat 补充一个具体原因，并检查原因从句里的动词位置。",
+    "examples": [
+      {
+        "nl": "Ik vind de trein prettig omdat ik onderweg kan lezen.",
+        "zh": "我觉得坐火车很舒服，因为我可以在路上阅读。"
+      },
+      {
+        "nl": "Volgens mij is samen oefenen handig.",
+        "zh": "我认为一起练习很有用。"
+      }
+    ],
+    "exercise": {
+      "question": "哪句既表达看法，又明确给出原因？",
+      "options": [
+        "Ik vind de trein prettig omdat ik onderweg kan lezen.",
+        "De trein vertrekt om tien uur.",
+        "Ik heb een fiets en een tas.",
+        "Waar kan ik een kaartje kopen?"
+      ],
+      "answer": 0,
+      "explanation": "Ik vind 表达看法，omdat 引出原因；其他选项没有同时完成这两项任务。"
+    },
+    "prompt": "选“在家学习”或“和朋友一起学习”，用两三句话说自己的偏好和一个具体原因。"
+  },
+  {
+    "id": "daily-a21",
+    "stage": "bridge",
+    "kind": "speaking",
+    "title": "和朋友约时间：提出替代方案",
+    "explanation": "约时间时，先回应对方的提议，再说明自己是否方便。原时间不合适时，可以用 Kunnen we…? 提出另一个具体时间。",
+    "examples": [
+      {
+        "nl": "Zullen we zaterdag samen koffie drinken?",
+        "zh": "我们星期六一起喝咖啡好吗？"
+      },
+      {
+        "nl": "Zaterdag kan ik niet. Kunnen we zondag om twee uur afspreken?",
+        "zh": "星期六我不行。我们能约星期日两点吗？"
+      }
+    ],
+    "exercise": {
+      "question": "朋友约周六，但你周六不行、周日可以，哪个回应给出了替代方案？",
+      "options": [
+        "Ik heb gisteren koffie gedronken.",
+        "Zaterdag kan ik niet. Kunnen we zondag afspreken?",
+        "Het café is groot.",
+        "Hoe heet jouw collega?"
+      ],
+      "answer": 1,
+      "explanation": "这个回答先说明周六不行，再主动提出周日见面，直接回应了情境。"
+    },
+    "prompt": "模拟四句对话：提议见面、说明不方便、提出替代时间、确认地点。"
+  },
+  {
+    "id": "daily-a22",
+    "stage": "bridge",
+    "kind": "speaking",
+    "title": "没听懂时：请求重说和确认",
+    "explanation": "没听清时，可以直接请求对方重复或说慢一点。随后用 Bedoelt u…? 确认一个关键信息，比只回答 ja 更能帮助对方发现误解。",
+    "examples": [
+      {
+        "nl": "Sorry, kunt u dat nog een keer zeggen?",
+        "zh": "不好意思，您能再说一遍吗？"
+      },
+      {
+        "nl": "Bedoelt u dinsdag om drie uur?",
+        "zh": "您的意思是星期二三点吗？"
+      }
+    ],
+    "exercise": {
+      "question": "怎样明确请求对方“说慢一点”？",
+      "options": [
+        "Hoe heet u?",
+        "Waar woont u?",
+        "Kunt u wat langzamer spreken?",
+        "Wat doet u graag?"
+      ],
+      "answer": 2,
+      "explanation": "langzamer spreken 表示说得慢一点，这句话直接提出了题目要求的请求。"
+    },
+    "prompt": "先请求对方重说，再确认一个日期或时间；换一次信息，把这两句话再练一遍。"
+  },
+  {
+    "id": "daily-a23",
+    "stage": "bridge",
+    "kind": "speaking",
+    "title": "比较后作选择",
+    "explanation": "比较两个方案时，先选一个清楚的标准，例如价格、时间或方便程度。再用 dus 说出自己的选择，让对方听懂比较和决定之间的联系。",
+    "examples": [
+      {
+        "nl": "De bus is goedkoper dan de trein, dus ik neem de bus.",
+        "zh": "公交车比火车便宜，所以我坐公交车。"
+      },
+      {
+        "nl": "Fietsen is sneller dan lopen, maar vandaag wil ik wandelen.",
+        "zh": "骑车比步行快，但今天我想走路。"
+      }
+    ],
+    "exercise": {
+      "question": "哪句同时比较两个方案并明确作出选择？",
+      "options": [
+        "De bus vertrekt om acht uur.",
+        "Ik neem vandaag de trein.",
+        "De trein en de bus zijn allebei vol.",
+        "De bus is goedkoper dan de trein, dus ik neem de bus."
+      ],
+      "answer": 3,
+      "explanation": "这句先用 goedkoper dan 比较价格，再用 dus ik neem de bus 明确作出选择。"
+    },
+    "prompt": "比较两种出行或学习方式，用三句话说一个优点、一个差别和自己的选择。"
+  },
+  {
+    "id": "daily-a24",
+    "stage": "bridge",
+    "kind": "speaking",
+    "title": "一起解决小问题：情况加建议",
+    "explanation": "和别人合作时，先客观说明一个具体困难，再提出能执行的小建议。最后问对方意见，练习把问题讨论变成共同决定。",
+    "examples": [
+      {
+        "nl": "We hebben weinig tijd. Kunnen we de taken verdelen?",
+        "zh": "我们的时间不多。我们能分工吗？"
+      },
+      {
+        "nl": "Ik kan de tekst schrijven en jij kunt de foto kiezen. Wat vind je daarvan?",
+        "zh": "我可以写文字，你可以选照片。你觉得怎么样？"
+      }
+    ],
+    "exercise": {
+      "question": "时间不够时，哪句说明了困难并提出合作办法？",
+      "options": [
+        "We hebben weinig tijd. Kunnen we de taken verdelen?",
+        "Wat is het vandaag warm.",
+        "Ik ben gisteren naar de markt gegaan.",
+        "De tafel staat naast het raam."
+      ],
+      "answer": 0,
+      "explanation": "We hebben weinig tijd 说明时间不足，Kunnen we de taken verdelen? 提议分工，直接对应题目情境。"
+    },
+    "prompt": "用三四句模拟合作：说明时间不够、建议分工、说自己能做什么、询问对方意见。"
+  }
+]

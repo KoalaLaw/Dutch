@@ -15,14 +15,18 @@ import { usePracticeWordPersistence } from '@/core/composables/practice-words/pr
 import { flushStatToStore } from '@/core/composables/usePracticePersistence'
 import { WordPracticeMode } from '@/core/types/enum'
 import Logo from '@/components/Logo.vue'
+import DailyRouteOverview from '@/components/DailyRouteOverview.vue'
+import dailyPlan from '@/data/daily-plan.json'
+import { useDailyLearning } from '@/core/composables/useDailyLearning'
 
 const store = useBaseStore()
+const daily = useDailyLearning()
 const settings = useSettingStore()
 const router = useRouter()
 const route = useRoute()
-const stage = ref('progression')
-const stages = [{id:'progression',label:'A2→B1 进阶'},{id:'b1',label:'B1 专题'},{id:'foundation',label:'基础复习'},{id:'all',label:'全部'}]
-watch(() => route.query.stage, value => { if (stages.some(item=>item.id === value)) stage.value = String(value) }, {immediate:true})
+const stage = ref('all')
+const stages = [{id:'all',label:'全部 72 主题'},{id:'foundation',label:'A1–A2 基础'},{id:'bridge',label:'A2 进阶'},{id:'b1',label:'B1 综合'}]
+watch(() => route.query.stage, value => { if ((value === 'progression' || stages.some(item=>item.id === value))) stage.value = String(value) }, {immediate:true})
 const play = usePlayWordAudio()
 const persistence = usePracticeWordPersistence()
 const busy = ref('')
@@ -41,19 +45,12 @@ const demo = [
 const current = computed(() => demo[demoIndex.value])
 const correct = computed(() => normalizeDutchInput(demoInput.value) === current.value.word)
 const filtered = computed(() => curriculum.filter(pack =>
-  (stage.value === 'all' || (stage.value === 'foundation' ? pack.stage === 'foundation' : stage.value === 'b1' ? pack.stage === 'b1' : pack.stage !== 'foundation')) &&
-  `${pack.name} ${pack.subtitle} ${pack.level}`.toLowerCase().includes(search.value.toLowerCase())))
-const learned = computed(() => store.word.bookList.filter(pack => curriculum.some(item=>item.id === pack.id)).reduce((sum, pack) => sum + (pack.complete ? pack.length : Math.min(pack.lastLearnIndex || 0, pack.length)), 0))
-const today = computed(() => {
-  const key = new Date().toLocaleDateString()
-  return store.word.bookList.flatMap(pack => pack.statistics ?? [])
-    .filter(stat => new Date(stat.startDate).toLocaleDateString() === key)
-    .reduce((sum, stat) => sum + stat.new + stat.review, 0)
-})
-const goal = 10
+  (stage.value === 'all' || (stage.value === 'progression' ? pack.stage !== 'foundation' : pack.stage === stage.value)) &&
+  `${pack.name} ${pack.subtitle} ${pack.level}`.toLowerCase().includes(search.value.toLowerCase())).sort((a,b)=>dailyPlan.weeks.flatMap(item=>item.packIds).indexOf(a.id)-dailyPlan.weeks.flatMap(item=>item.packIds).indexOf(b.id)))
 const lessonProgress = (id: string) => {
-  const pack = store.word.bookList.find(item => item.id === id)
-  return pack ? pack.complete ? pack.length : pack.lastLearnIndex : 0
+ const pack=store.word.bookList.find(item=>item.id===id)
+ const prefix=pack?.complete?30:pack?.lastLearnIndex||0
+ return Array.from({length:30},(_,index)=>index<prefix||!!daily.state.value.words[id+'-'+(index+1)]).filter(Boolean).length
 }
 async function openPack(pack = curriculum[0]) {
   if (busy.value || !store.load) return
@@ -80,7 +77,7 @@ async function openPack(pack = curriculum[0]) {
 }
 function continueStudy() {
   if (store.word.studyIndex >= 3) router.push('/words')
-  else openPack(curriculum.find(pack=>pack.stage !== 'foundation')!)
+  else openPack(curriculum.find(pack=>pack.stage === 'foundation')!)
 }
 function nextDemo() { demoIndex.value = (demoIndex.value + 1) % demo.length; demoInput.value = '' }
 function setDemoMode(mode: string) { demoMode.value = mode; demoInput.value = ''; if (mode === '听写') play(current.value.word) }
@@ -94,9 +91,9 @@ useSeoMeta({ title: 'Type Dutch · 每天敲一点荷兰语', description: `${su
       <section class="intro-grid">
         <div class="intro-copy">
           <div class="eyebrow"><span class="flag"><i></i><i></i><i></i></span>你的下一站 · B1</div>
-          <h1>不只记住单词，<br>开始用荷兰语<span>表达自己。</span></h1>
-          <p class="intro-desc">从词汇和句型，到理解、写作与口语。<br>围绕真实的生活与工作场景，一步步走向 B1。</p>
-          <div class="intro-actions"><NuxtLink to="/b1" class="primary-button">进入 B1 学习中心 <span>↗</span></NuxtLink><button class="text-button" @click="continueStudy" :disabled="!store.load || !!busy">继续词汇练习 <span>→</span></button></div>
+          <h1>每天一小步，<br>沿着路线走向<span>B1。</span></h1>
+          <p class="intro-desc">每天 20–30 分钟：复习旧词、10 个新词、一项短练习。<br>从 A1 基础到 B1 应用，每天学什么都安排清楚。</p>
+          <div class="intro-actions"><NuxtLink to="/plan" class="primary-button">开始今天的学习 <span>↗</span></NuxtLink><button class="text-button" @click="continueStudy" :disabled="!store.load || !!busy">自由词汇练习 <span>→</span></button></div>
           <div class="intro-foot"><span class="tiny-dot"></span> A1→B1 路线 <span>·</span> 中文辅助 <span>·</span> 读写说练习</div>
         </div>
         <div class="demo-card">
@@ -109,24 +106,21 @@ useSeoMeta({ title: 'Type Dutch · 每天敲一点荷兰语', description: `${su
           <div class="demo-bottom"><span>{{ correct ? '答对了！按 Enter 继续' : '荷兰语发音 · 点击喇叭试听' }}</span><button @click="nextDemo">下一个 <span>→</span></button></div>
         </div>
       </section>
-      <section class="progress-strip" aria-label="学习概览">
-        <div class="daily-progress"><div class="progress-ring" :style="{ '--progress': `${Math.min(today / goal, 1) * 100}%` }"><span>{{ Math.min(today, goal) }}<small>/{{ goal }}</small></span></div><div><strong>一点点，也算进步。</strong><p>今日已练习 {{ today }} 个词 · 目标 {{ goal }} 个</p></div></div>
-        <div class="stat"><strong>{{ learned }}<small>/ {{ summary.wordCount }}</small></strong><span>已学词汇</span></div>
-        <NuxtLink to="/words" class="stat stat-link"><strong>{{ store.wrong?.words?.length ?? 0 }}<small>个</small></strong><span>错词，值得再见一面 <b>↗</b></span></NuxtLink>
-        <NuxtLink to="/setting?index=4" class="audio-tip"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5"><path d="M4 14v-3a8 8 0 0 1 16 0v3M4 12h3v8H4zm13 0h3v8h-3z"/></svg><div>先听见，再记住<small>设置你的荷兰语语音 →</small></div></NuxtLink>
-      </section>
+      <DailyRouteOverview />
       <section class="course-section">
         <div class="section-heading"><div><span class="section-kicker">JE EERSTE WOORDEN</span><h2>把生活，变成你的词汇库</h2><p>{{ summary.packCount }} 个主题 · {{ summary.wordCount }} 条词汇与搭配，每条配双语例句。</p></div><label class="course-search"><svg viewBox="0 0 20 20" fill="none" stroke="currentColor" stroke-width="1.5"><circle cx="8.5" cy="8.5" r="5.5"/><path d="m13 13 4 4"/></svg><input v-model="search" aria-label="搜索主题词库" placeholder="找一个感兴趣的主题"/></label></div>
-        <div class="stage-filters" role="group" aria-label="词库学习阶段"><button v-for="item in stages" :key="item.id" :aria-pressed="stage === item.id" :class="{active:stage === item.id}" @click="stage=item.id">{{ item.label }}</button><span>当前 {{ filtered.length }} 组</span></div><div class="course-grid"><button v-for="pack in filtered" :key="pack.id" class="course-card" :class="pack.color" :disabled="!!busy || !store.load" @click="openPack(pack)"><div class="course-card-top"><span class="course-number">{{ pack.icon }}</span><span class="level">{{ pack.level }}</span></div><span class="course-dutch" lang="nl">{{ pack.subtitle }}</span><h3>{{ pack.name }}</h3><p>{{ pack.description }}</p><div class="course-progress"><span :style="{ width: `${lessonProgress(pack.id) / pack.length * 100}%` }"></span></div><div class="course-card-bottom"><span>{{ lessonProgress(pack.id) }} / {{ pack.length }} 词</span><span class="course-arrow">{{ busy === pack.id ? '…' : '↗' }}</span></div></button></div>
+        <div class="stage-filters" role="group" aria-label="词库学习阶段"><button v-for="item in stages" :key="item.id" :aria-pressed="stage === item.id" :class="{active:stage === item.id}" @click="stage=item.id">{{ item.label }}</button><span>当前 {{ filtered.length }} 组</span></div><div class="course-grid"><button v-for="pack in (search ? filtered : filtered.slice(0,12))" :key="pack.id" class="course-card" :class="pack.color" :disabled="!!busy || !store.load" @click="router.push('/vocabulary?topic='+pack.id)"><div class="course-card-top"><span class="course-number">{{ String(dailyPlan.weeks.flatMap(item=>item.packIds).indexOf(pack.id)+1).padStart(2,'0') }}</span><span class="level">{{ pack.level }}</span></div><span class="course-dutch" lang="nl">{{ pack.subtitle }}</span><h3>{{ pack.name }}</h3><p>{{ pack.description }}</p><div class="course-progress"><span :style="{ width: `${lessonProgress(pack.id) / pack.length * 100}%` }"></span></div><div class="course-card-bottom"><span>{{ lessonProgress(pack.id) }} / {{ pack.length }} 词</span><span class="course-arrow">{{ busy === pack.id ? '…' : '↗' }}</span></div></button></div>
+        <NuxtLink class="all-topics" :to="'/vocabulary?stage='+stage">浏览全部 {{ filtered.length }} 个主题与小节 →</NuxtLink>
         <p v-if="!filtered.length" class="empty-search">当前阶段没有找到这个主题。可以切换到“全部”，或搜索“工作”“住房”“环境”。</p>
       </section>
-      <section class="b1-banner"><div><span class="section-kicker">VAN WOORD NAAR VAARDIGHEID</span><h2>B1，需要把词连成自己的表达。</h2><p>{{ summary.grammarCount }} 个语法单元 · {{ summary.readingCount }} 篇阅读 · {{ summary.writingCount }} 个写作任务 · {{ summary.speakingCount }} 个口语任务</p></div><NuxtLink to="/b1">打开完整学习路线 →</NuxtLink></section><section class="dialogue-banner"><div class="dialogue-art" aria-hidden="true"><span>“</span><b>Hoi!</b><i>Hallo.</i></div><div><span class="section-kicker">VAN WOORD NAAR GESPREK</span><h2>把单词，放进对话里。</h2><p>咖啡馆、火车站、看医生……8 段双语短对话，练习真正用得上的句子。</p></div><NuxtLink to="/articles">开始对话练习 <span>→</span></NuxtLink></section>
+      <section class="b1-banner"><div><span class="section-kicker">VAN WOORD NAAR VAARDIGHEID</span><h2>B1，需要把词连成自己的表达。</h2><p>{{ summary.grammarCount }} 个语法单元 · {{ summary.readingCount }} 篇阅读 · {{ summary.writingCount }} 个写作任务 · {{ summary.speakingCount }} 个口语任务</p></div><NuxtLink to="/b1">自由选择能力训练 →</NuxtLink></section><section class="dialogue-banner"><div class="dialogue-art" aria-hidden="true"><span>“</span><b>Hoi!</b><i>Hallo.</i></div><div><span class="section-kicker">VAN WOORD NAAR GESPREK</span><h2>把单词，放进对话里。</h2><p>咖啡馆、火车站、看医生……8 段双语短对话，练习真正用得上的句子。</p></div><NuxtLink to="/articles">开始对话练习 <span>→</span></NuxtLink></section>
       <footer class="home-footer"><span>Rustig aan. Elke dag een beetje. <small>慢慢来，每天一点点。</small></span><a href="https://github.com/zyronon/TypeWords" target="_blank" rel="noopener noreferrer">基于 TypeWords · GPL-3.0</a><a href="https://github.com/KoalaLaw/Dutch" target="_blank" rel="noopener noreferrer">GitHub ↗</a></footer>
     </main>
   </div>
 </template>
 
 <style scoped>
+.all-topics{display:block;text-align:center;padding:15px;margin-top:18px;border:1px solid #d7e0ca;border-radius:8px;background:#f1f5e8;color:#597246;font-size:12px}
 .stage-filters{display:flex;gap:8px;align-items:center;flex-wrap:wrap;margin:-5px 0 22px}.stage-filters button{border:1px solid #e1e6d7;background:#fffefa;color:#91a07e;border-radius:20px;padding:7px 13px;font-size:11px}.stage-filters button.active{background:#e8efdf;color:#5e7b4b;border-color:#b9cc9f}.stage-filters>span{font-size:10px;color:#a2ad92;margin-left:auto}.text-button{border:0;background:transparent;padding:0;cursor:pointer}.b1-banner{display:flex;align-items:center;gap:20px;padding:26px 28px;margin-bottom:24px;background:#f6e9db;border:1px solid #efddc8;border-radius:9px}.b1-banner h2{font-size:21px;font-weight:600;margin:8px 0;color:#835d3e}.b1-banner p{font-size:11px;color:#b39775;line-height:1.9}.b1-banner>a{margin-left:auto;font-size:11px;white-space:nowrap;padding:11px 15px;border:1px solid #dfc4a3;border-radius:6px;color:#a77b4c;background:#fffaf1}@media(max-width:760px){.b1-banner{flex-wrap:wrap;padding:20px}.b1-banner h2{font-size:18px}.b1-banner>a{margin-left:0}.intro-actions{flex-wrap:wrap}}
 
 .dutch-home{--ink:#253b37;--muted:#73817a;--line:#e6e7dc;--orange:#dc653b;background:#fafaf5;color:var(--ink);font-family:Inter,"Segoe UI","Microsoft YaHei",sans-serif;height:100%;overflow:auto;font-size:14px}

@@ -1,0 +1,782 @@
+[
+  {
+    "id": "nl-a1-care-1",
+    "word": "het lichaam",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "身体"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Na het sporten is mijn lichaam moe.",
+        "cn": "运动后，我的身体很累。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-a1-care-2",
+    "word": "het hoofd",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "头"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Mijn hoofd is nat van de regen.",
+        "cn": "我的头被雨淋湿了。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-a1-care-3",
+    "word": "het gezicht",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "脸"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Ik was mijn gezicht met water.",
+        "cn": "我用水洗脸。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-a1-care-4",
+    "word": "het haar",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "头发"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Haar haar is nog nat.",
+        "cn": "她的头发还湿着。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-a1-care-5",
+    "word": "het oog",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "眼睛"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Er zit iets in mijn oog.",
+        "cn": "我眼睛里进了东西。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-a1-care-6",
+    "word": "het oor",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "耳朵"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Mijn oren zijn koud.",
+        "cn": "我的耳朵很冷。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-a1-care-7",
+    "word": "de neus",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "鼻子"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Zijn neus is rood van de kou.",
+        "cn": "他的鼻子冻红了。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-a1-care-8",
+    "word": "de mond",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "嘴"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Doe je mond even open.",
+        "cn": "请张一下嘴。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-a1-care-9",
+    "word": "de tand",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "牙齿"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Het kind heeft een losse tand.",
+        "cn": "孩子有一颗松动的牙齿。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-a1-care-10",
+    "word": "de tong",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "舌头"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "De soep is te heet voor mijn tong.",
+        "cn": "这汤烫得我的舌头受不了。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-a1-care-11",
+    "word": "de nek",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "脖子；颈部"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Ik heb een sjaal om mijn nek.",
+        "cn": "我在脖子上围了一条围巾。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-a1-care-12",
+    "word": "de schouder",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "肩膀"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Hij draagt zijn tas over één schouder.",
+        "cn": "他把包挎在一边肩膀上。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-a1-care-13",
+    "word": "de arm",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "胳膊"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Zij heeft een kind op haar arm.",
+        "cn": "她的臂弯里抱着一个孩子。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-a1-care-14",
+    "word": "de hand",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "手"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Mijn handen zijn vies.",
+        "cn": "我的手脏了。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-a1-care-15",
+    "word": "de vinger",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "手指"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Deze ring past om mijn vinger.",
+        "cn": "这枚戒指适合戴在我的手指上。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-a1-care-16",
+    "word": "de buik",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "肚子；腹部"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "De baby ligt op zijn buik.",
+        "cn": "宝宝趴着。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-a1-care-17",
+    "word": "de rug",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "背部"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Mijn rug doet pijn na de lange reis.",
+        "cn": "长途旅行后，我背痛。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-a1-care-18",
+    "word": "het been",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "腿"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Na de wandeling zijn mijn benen moe.",
+        "cn": "散步后，我的双腿很累。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-a1-care-19",
+    "word": "de knie",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "膝盖"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Het kind zit op mijn knie.",
+        "cn": "孩子坐在我的膝盖上。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-a1-care-20",
+    "word": "de voet",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "脚"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Deze schoenen doen pijn aan mijn voeten.",
+        "cn": "这双鞋让我的脚疼。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-a1-care-21",
+    "word": "de teen",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "脚趾"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Er zit een gat bij de teen van mijn sok.",
+        "cn": "我的袜子脚趾部位破了一个洞。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-a1-care-22",
+    "word": "de huid",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "皮肤"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Mijn huid voelt droog aan.",
+        "cn": "我的皮肤摸起来很干。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-a1-care-23",
+    "word": "de zeep",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "肥皂；洗手液"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "De zeep staat naast de kraan.",
+        "cn": "肥皂放在水龙头旁边。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-a1-care-24",
+    "word": "de shampoo",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "洗发水"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Er zit bijna geen shampoo meer in de fles.",
+        "cn": "瓶子里快没有洗发水了。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-a1-care-25",
+    "word": "de tandenborstel",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "牙刷"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Mijn tandenborstel staat in de beker.",
+        "cn": "我的牙刷放在杯子里。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-a1-care-26",
+    "word": "de tandpasta",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "牙膏"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Ik heb een nieuwe tube tandpasta nodig.",
+        "cn": "我需要一管新的牙膏。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-a1-care-27",
+    "word": "douchen",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "",
+        "cn": "淋浴"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Ik douche meestal na het sporten.",
+        "cn": "我通常在运动后淋浴。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-a1-care-28",
+    "word": "kammen",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "",
+        "cn": "梳理头发"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Zij kamt haar haar voor de spiegel.",
+        "cn": "她对着镜子梳头。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-a1-care-29",
+    "word": "poetsen",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "",
+        "cn": "刷；擦亮"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Het kind poetst zelf zijn tanden.",
+        "cn": "孩子自己刷牙。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-a1-care-30",
+    "word": "afdrogen",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "",
+        "cn": "擦干"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Hij droogt zijn handen af.",
+        "cn": "他把手擦干。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  }
+]

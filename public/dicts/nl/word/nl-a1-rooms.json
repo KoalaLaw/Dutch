@@ -1,0 +1,782 @@
+[
+  {
+    "id": "nl-a1-rooms-1",
+    "word": "de woonkamer",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "客厅"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "We drinken koffie in de woonkamer.",
+        "cn": "我们在客厅喝咖啡。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-a1-rooms-2",
+    "word": "de eetkamer",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "餐厅；饭厅"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "De eetkamer ligt naast de keuken.",
+        "cn": "餐厅在厨房旁边。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-a1-rooms-3",
+    "word": "de gang",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "走廊；过道"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Laat je schoenen niet midden in de gang staan.",
+        "cn": "不要把鞋子放在走廊正中间。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-a1-rooms-4",
+    "word": "de hal",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "门厅；大厅"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "In de hal hangt een grote spiegel.",
+        "cn": "门厅里挂着一面大镜子。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-a1-rooms-5",
+    "word": "de zolder",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "阁楼"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "We bewaren oude dozen op zolder.",
+        "cn": "我们把旧箱子放在阁楼上。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-a1-rooms-6",
+    "word": "de kelder",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "地下室"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "In de kelder is het koeler dan boven.",
+        "cn": "地下室比楼上凉快。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-a1-rooms-7",
+    "word": "het toilet",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "卫生间；坐便器"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Waar is het toilet, alstublieft?",
+        "cn": "请问卫生间在哪里？"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-a1-rooms-8",
+    "word": "de werkkamer",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "书房；家庭工作室"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Ik werk vandaag in mijn werkkamer.",
+        "cn": "今天我在书房工作。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-a1-rooms-9",
+    "word": "de logeerkamer",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "客房；供客人留宿的房间"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Mijn ouders slapen dit weekend in de logeerkamer.",
+        "cn": "这个周末，我父母睡在客房。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-a1-rooms-10",
+    "word": "de berging",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "储藏室"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "De stofzuiger staat in de berging.",
+        "cn": "吸尘器放在储藏室里。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-a1-rooms-11",
+    "word": "het dak",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "屋顶"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Op het dak liggen rode dakpannen.",
+        "cn": "屋顶上铺着红色屋瓦。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-a1-rooms-12",
+    "word": "de muur",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "墙；墙壁"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Er hangt een foto aan de muur.",
+        "cn": "墙上挂着一张照片。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-a1-rooms-13",
+    "word": "de vloer",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "地板；地面"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "De vloer is nog nat na het schoonmaken.",
+        "cn": "清洁后，地板还是湿的。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-a1-rooms-14",
+    "word": "het plafond",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "天花板"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "De lamp hangt aan het plafond.",
+        "cn": "灯挂在天花板上。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-a1-rooms-15",
+    "word": "de trap",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "楼梯"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "De slaapkamer is boven aan de trap.",
+        "cn": "卧室在楼梯上方。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-a1-rooms-16",
+    "word": "de bank",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "沙发；长椅"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Na het eten zitten we even op de bank.",
+        "cn": "饭后，我们在沙发上坐一会儿。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-a1-rooms-17",
+    "word": "de leunstoel",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "扶手椅"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Mijn opa leest graag in de leunstoel bij het raam.",
+        "cn": "我爷爷喜欢坐在窗边的扶手椅上看书。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-a1-rooms-18",
+    "word": "de kast",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "柜子"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "De borden staan in die witte kast.",
+        "cn": "盘子放在那个白色柜子里。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-a1-rooms-19",
+    "word": "de boekenkast",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "书柜"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Mijn woordenboek staat in de boekenkast.",
+        "cn": "我的词典放在书柜里。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-a1-rooms-20",
+    "word": "de kledingkast",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "衣柜"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Mijn jas hangt in de kledingkast.",
+        "cn": "我的外套挂在衣柜里。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-a1-rooms-21",
+    "word": "het bureau",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "书桌；办公桌"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Mijn computer staat op het bureau.",
+        "cn": "我的电脑放在书桌上。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-a1-rooms-22",
+    "word": "de plank",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "搁板；木板"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Op deze plank staan mijn planten.",
+        "cn": "这块搁板上放着我的植物。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-a1-rooms-23",
+    "word": "de spiegel",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "镜子"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Boven de wastafel hangt een spiegel.",
+        "cn": "洗手池上方挂着一面镜子。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-a1-rooms-24",
+    "word": "het gordijn",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "窗帘"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Doe het gordijn dicht als het donker wordt.",
+        "cn": "天黑时把窗帘拉上。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-a1-rooms-25",
+    "word": "het tapijt",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "地毯；铺地毯的材料"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "In de slaapkamer ligt zacht tapijt.",
+        "cn": "卧室里铺着柔软的地毯。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-a1-rooms-26",
+    "word": "het vloerkleed",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "小块地毯；地垫"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Er ligt een vloerkleed onder de salontafel.",
+        "cn": "茶几下面铺着一块地毯。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-a1-rooms-27",
+    "word": "het kussen",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "枕头；靠垫"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Wil je nog een kussen voor je rug?",
+        "cn": "你还想要一个靠垫垫背吗？"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-a1-rooms-28",
+    "word": "de deken",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "毯子"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Ik neem een deken omdat het koud is.",
+        "cn": "因为冷，我拿了一条毯子。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-a1-rooms-29",
+    "word": "het laken",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "床单"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Op het bed ligt een schoon laken.",
+        "cn": "床上铺着一张干净的床单。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-a1-rooms-30",
+    "word": "de matras",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "床垫"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Deze matras is harder dan mijn oude matras.",
+        "cn": "这张床垫比我原来的床垫更硬。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  }
+]

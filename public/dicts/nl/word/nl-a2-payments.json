@@ -1,0 +1,782 @@
+[
+  {
+    "id": "nl-a2-payments-1",
+    "word": "de betaalpas",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "支付卡；借记卡"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Mijn betaalpas ligt naast de kassabon.",
+        "cn": "我的支付卡放在收银小票旁边。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-a2-payments-2",
+    "word": "de creditcard",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "信用卡"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Kan ik deze reservering met een creditcard betalen?",
+        "cn": "这笔预订可以用信用卡支付吗？"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-a2-payments-3",
+    "word": "het saldo",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "余额"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Ik controleer het saldo voordat ik de betaling doe.",
+        "cn": "付款前，我查看余额。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-a2-payments-4",
+    "word": "de overschrijving",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "银行转账；转账记录"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "De overschrijving staat nog niet op mijn rekening.",
+        "cn": "这笔转账还没有显示在我的账户上。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-a2-payments-5",
+    "word": "de incasso",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "扣款；收款"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Ik herken deze incasso niet en wil weten waarvoor die is.",
+        "cn": "我不认识这笔扣款，想知道它是什么费用。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-a2-payments-6",
+    "word": "de pincode",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "个人识别码；银行卡密码"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Ik voer mijn pincode in bij de betaling.",
+        "cn": "付款时，我输入银行卡密码。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-a2-payments-7",
+    "word": "de betaalautomaat",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "刷卡机；支付终端"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "De betaalautomaat geeft een foutmelding.",
+        "cn": "刷卡机显示错误信息。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-a2-payments-8",
+    "word": "de afschrijving",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "扣款；账面记减"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Op mijn overzicht staat een afschrijving voor de cursus.",
+        "cn": "我的账目明细上有一笔课程扣款。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-a2-payments-9",
+    "word": "de bijschrijving",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "入账；记入款项"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "De bijschrijving van mijn salaris is zichtbaar.",
+        "cn": "我已经可以看到工资入账了。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-a2-payments-10",
+    "word": "de betaaltermijn",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "付款期限"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Welke betaaltermijn geldt voor deze factuur?",
+        "cn": "这张账单的付款期限是多少？"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-a2-payments-11",
+    "word": "de betaalherinnering",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "付款提醒；催款通知"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Ik heb een betaalherinnering ontvangen, maar ik heb al betaald.",
+        "cn": "我收到了付款提醒，但我已经付过款了。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-a2-payments-12",
+    "word": "de achterstand",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "拖欠；落后"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Ik wil vragen hoe deze achterstand is ontstaan.",
+        "cn": "我想询问这笔欠款是怎么产生的。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-a2-payments-13",
+    "word": "de aanbetaling",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "预付款；定金"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Is er voor de reservering een aanbetaling nodig?",
+        "cn": "这项预订需要预付款吗？"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-a2-payments-14",
+    "word": "het voorschot",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "预付金额；预支款"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Op de brief staat een nieuw bedrag voor het voorschot.",
+        "cn": "信上写着新的预付金额。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-a2-payments-15",
+    "word": "de termijnbetaling",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "分期付款；一期款项"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Ik vraag hoeveel termijnbetalingen er zijn afgesproken.",
+        "cn": "我询问双方约定了多少次分期付款。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-a2-payments-16",
+    "word": "de belasting",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "税；税款"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "In de brief staat een vraag over de belasting.",
+        "cn": "信里有一个关于税款的问题。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-a2-payments-17",
+    "word": "de zorgpremie",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "医疗保险保费"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Ik wil weten op welke datum de zorgpremie wordt afgeschreven.",
+        "cn": "我想知道医疗保险费在哪一天扣款。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-a2-payments-18",
+    "word": "de huurtoeslag",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "住房租金补贴"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Zij vraagt bij de instantie informatie over huurtoeslag.",
+        "cn": "她向相关机构咨询住房租金补贴。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-a2-payments-19",
+    "word": "de kinderbijslag",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "儿童津贴"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "In het formulier wordt naar kinderbijslag gevraagd.",
+        "cn": "表格中询问了儿童津贴的情况。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-a2-payments-20",
+    "word": "het zakgeld",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "零花钱"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Het kind spaart een deel van zijn zakgeld.",
+        "cn": "孩子把一部分零花钱存了起来。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-a2-payments-21",
+    "word": "contant",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "",
+        "cn": "现金的；用现金"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Ik heb vandaag geen contant geld bij me.",
+        "cn": "我今天没有带现金。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-a2-payments-22",
+    "word": "pinnen",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "",
+        "cn": "刷卡付款；用银行卡取款"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Kan ik hier pinnen?",
+        "cn": "这里可以刷卡付款吗？"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-a2-payments-23",
+    "word": "storten",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "",
+        "cn": "存入；汇入"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Hij stort het bedrag op zijn bankrekening.",
+        "cn": "他把这笔钱存入银行账户。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-a2-payments-24",
+    "word": "opnemen",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "",
+        "cn": "取出；录制；接听（依语境）"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Ik wil wat geld opnemen voor het uitstapje.",
+        "cn": "我想取些钱用于这次出游。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-a2-payments-25",
+    "word": "verrekenen",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "",
+        "cn": "抵扣；结算"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Wordt de aanbetaling met de eindprijs verrekend?",
+        "cn": "预付款会从最终价格中抵扣吗？"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-a2-payments-26",
+    "word": "voorschieten",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "",
+        "cn": "先代付；垫付"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Kun je het bedrag even voorschieten tot morgen?",
+        "cn": "你能先垫付这笔钱到明天吗？"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-a2-payments-27",
+    "word": "achterlopen",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "",
+        "cn": "落后；进度未跟上"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Volgens het overzicht loop ik één betaling achter.",
+        "cn": "根据明细，我还有一期款项未付。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-a2-payments-28",
+    "word": "aflossen",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "",
+        "cn": "偿还债务；还本"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "In het gesprek vraagt hij wanneer hij de lening kan aflossen.",
+        "cn": "谈话中，他询问什么时候可以偿还贷款。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-a2-payments-29",
+    "word": "doneren",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "",
+        "cn": "捐赠；捐款"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "De bewoners willen geld doneren voor het buurtfeest.",
+        "cn": "居民们想为社区聚会捐款。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-a2-payments-30",
+    "word": "delen",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "",
+        "cn": "分享；分担；分开"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Zullen we de rekening delen?",
+        "cn": "我们一起分担这笔账单好吗？"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  }
+]

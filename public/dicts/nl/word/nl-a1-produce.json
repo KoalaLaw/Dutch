@@ -1,0 +1,782 @@
+[
+  {
+    "id": "nl-a1-produce-1",
+    "word": "de tomaat",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "番茄"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Ik snijd een tomaat voor de salade.",
+        "cn": "我切一个番茄做沙拉。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-a1-produce-2",
+    "word": "de komkommer",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "黄瓜"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "De komkommer ligt nog in de boodschappentas.",
+        "cn": "黄瓜还放在购物袋里。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-a1-produce-3",
+    "word": "de wortel",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "胡萝卜；根"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Voor deze soep heb ik drie wortels nodig.",
+        "cn": "做这道汤需要三根胡萝卜。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-a1-produce-4",
+    "word": "de ui",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "洋葱"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Ik snijd de ui in kleine stukjes.",
+        "cn": "我把洋葱切成小块。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-a1-produce-5",
+    "word": "de knoflook",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "大蒜"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "In deze saus zit een beetje knoflook.",
+        "cn": "这个酱汁里放了一点大蒜。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-a1-produce-6",
+    "word": "de paprika",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "甜椒；彩椒"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Wil je een rode of een gele paprika?",
+        "cn": "你想要红甜椒还是黄甜椒？"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-a1-produce-7",
+    "word": "de broccoli",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "西兰花"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "We eten broccoli met rijst.",
+        "cn": "我们吃西兰花配米饭。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-a1-produce-8",
+    "word": "de bloemkool",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "花椰菜；菜花"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Deze bloemkool is groot genoeg voor vier personen.",
+        "cn": "这个花椰菜够四个人吃。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-a1-produce-9",
+    "word": "de spinazie",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "菠菜"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "De spinazie is snel klaar.",
+        "cn": "菠菜很快就能做好。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-a1-produce-10",
+    "word": "de courgette",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "西葫芦"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Ik bak de courgette samen met de ui.",
+        "cn": "我把西葫芦和洋葱一起炒。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-a1-produce-11",
+    "word": "de aubergine",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "茄子"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "De aubergine wordt zacht in de oven.",
+        "cn": "茄子在烤箱里会变软。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-a1-produce-12",
+    "word": "de champignon",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "蘑菇；口蘑"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Ik doe champignons in de saus.",
+        "cn": "我往酱汁里放一些蘑菇。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-a1-produce-13",
+    "word": "de sla",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "生菜"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Was de sla voordat je de salade maakt.",
+        "cn": "做沙拉之前先洗生菜。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-a1-produce-14",
+    "word": "de kool",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "卷心菜；甘蓝"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Deze kool gebruik ik voor een warme maaltijd.",
+        "cn": "我用这个卷心菜做一餐热饭。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-a1-produce-15",
+    "word": "de erwt",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "豌豆"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Er zitten erwten in de soep.",
+        "cn": "汤里有豌豆。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-a1-produce-16",
+    "word": "de boon",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "菜豆；豆子"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Ik kook de bonen volgens het recept.",
+        "cn": "我按食谱煮豆子。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-a1-produce-17",
+    "word": "de linze",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "小扁豆"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Van linzen kun je een lekkere soep maken.",
+        "cn": "小扁豆可以用来做美味的汤。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-a1-produce-18",
+    "word": "de kikkererwt",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "鹰嘴豆"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Voor dit gerecht gebruik ik een blik kikkererwten.",
+        "cn": "做这道菜，我用一罐鹰嘴豆。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-a1-produce-19",
+    "word": "de sinaasappel",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "橙子"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Wil je een sinaasappel bij het ontbijt?",
+        "cn": "早餐时，你想吃一个橙子吗？"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-a1-produce-20",
+    "word": "de citroen",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "柠檬"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Ik doe een schijfje citroen in mijn thee.",
+        "cn": "我往茶里放一片柠檬。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-a1-produce-21",
+    "word": "de peer",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "梨"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Deze peer is nog een beetje hard.",
+        "cn": "这个梨还有点硬。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-a1-produce-22",
+    "word": "de aardbei",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "草莓"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "In de zomer eet ik graag aardbeien.",
+        "cn": "我夏天喜欢吃草莓。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-a1-produce-23",
+    "word": "de druif",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "葡萄"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "We nemen druiven mee voor onderweg.",
+        "cn": "我们带些葡萄在路上吃。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-a1-produce-24",
+    "word": "de mango",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "芒果"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "De mango heeft een grote pit.",
+        "cn": "芒果有一个大核。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-a1-produce-25",
+    "word": "de meloen",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "甜瓜"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Ik snijd de meloen in stukken.",
+        "cn": "我把甜瓜切成块。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-a1-produce-26",
+    "word": "de ananas",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "菠萝"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "De ananas ligt naast de bananen.",
+        "cn": "菠萝放在香蕉旁边。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-a1-produce-27",
+    "word": "de perzik",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "桃子"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Deze perzik is zacht en zoet.",
+        "cn": "这个桃子又软又甜。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-a1-produce-28",
+    "word": "de pruim",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "李子"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Er liggen pruimen in de fruitschaal.",
+        "cn": "果盘里放着一些李子。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-a1-produce-29",
+    "word": "de noot",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "坚果；音符"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Ik neem een handje noten als tussendoortje.",
+        "cn": "我拿一小把坚果当零食。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-a1-produce-30",
+    "word": "het zaad",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "种子"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Met deze zaden kun je zelf groenten kweken.",
+        "cn": "用这些种子，你可以自己种蔬菜。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  }
+]

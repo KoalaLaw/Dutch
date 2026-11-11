@@ -1,0 +1,782 @@
+[
+  {
+    "id": "nl-a2-facilities-1",
+    "word": "het stadhuis",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "市政厅"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Voor het stadhuis ligt een groot plein.",
+        "cn": "市政厅前面有一个大广场。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-a2-facilities-2",
+    "word": "het politiebureau",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "警察局"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Zij vraagt waar het dichtstbijzijnde politiebureau is.",
+        "cn": "她询问最近的警察局在哪里。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-a2-facilities-3",
+    "word": "de brandweerkazerne",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "消防站"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "De brandweerkazerne ligt buiten het drukke centrum.",
+        "cn": "消防站位于繁忙的市中心之外。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-a2-facilities-4",
+    "word": "de huisartsenpost",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "非日常门诊时段的全科急诊服务点"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "In de informatiebrief wordt uitgelegd wat de huisartsenpost doet.",
+        "cn": "资料信中介绍了全科急诊服务点的工作内容。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-a2-facilities-5",
+    "word": "de sporthal",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "体育馆"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "De wedstrijd wordt in de nieuwe sporthal gespeeld.",
+        "cn": "比赛在新的体育馆进行。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-a2-facilities-6",
+    "word": "de speeltuin",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "儿童游乐场"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Na school spelen de kinderen vaak in de speeltuin.",
+        "cn": "放学后，孩子们经常在游乐场玩。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-a2-facilities-7",
+    "word": "de parkeerplaats",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "停车位；停车场"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Er is een parkeerplaats achter het gebouw.",
+        "cn": "大楼后面有一处停车场。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-a2-facilities-8",
+    "word": "de parkeergarage",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "停车楼；地下或室内停车场"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "We hebben de auto in een parkeergarage gezet.",
+        "cn": "我们把车停进了室内停车场。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-a2-facilities-9",
+    "word": "de fietsenstalling",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "自行车停放处"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "De fietsenstalling bij het station is bijna vol.",
+        "cn": "车站旁的自行车停放处快满了。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-a2-facilities-10",
+    "word": "het winkelcentrum",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "购物中心"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "In het winkelcentrum zitten veel verschillende winkels.",
+        "cn": "购物中心里有许多不同的店铺。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-a2-facilities-11",
+    "word": "de markt",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "市场；集市"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Op de markt koop ik groenten en fruit.",
+        "cn": "我在市场买蔬菜和水果。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-a2-facilities-12",
+    "word": "de bakkerij",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "面包店；烘焙坊"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Bij deze bakkerij wordt het brood vroeg in de ochtend gebakken.",
+        "cn": "这家面包店一大早就开始烤面包。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-a2-facilities-13",
+    "word": "de slagerij",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "肉店"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "In de slagerij vraag ik welk vlees bij dit recept past.",
+        "cn": "我在肉店询问哪种肉适合这个食谱。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-a2-facilities-14",
+    "word": "de groentewinkel",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "蔬菜店"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "De groentewinkel heeft veel producten uit de omgeving.",
+        "cn": "这家蔬菜店有许多当地产品。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-a2-facilities-15",
+    "word": "de drogist",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "日化用品店；非处方药及护理用品商店"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Bij de drogist koop ik tandpasta en shampoo.",
+        "cn": "我在日化用品店买牙膏和洗发水。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-a2-facilities-16",
+    "word": "de kapper",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "理发师；理发店"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Ik maak een afspraak bij de kapper.",
+        "cn": "我预约去理发店。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-a2-facilities-17",
+    "word": "de wasserette",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "自助洗衣店；洗衣店"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Omdat mijn wasmachine kapot is, ga ik naar de wasserette.",
+        "cn": "因为洗衣机坏了，我去自助洗衣店洗衣服。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-a2-facilities-18",
+    "word": "de stomerij",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "干洗店"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Mijn jas ligt nog bij de stomerij.",
+        "cn": "我的外套还在干洗店里。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-a2-facilities-19",
+    "word": "de fietsenmaker",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "自行车修理店；自行车修理工"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "De fietsenmaker kijkt waarom mijn rem niet goed werkt.",
+        "cn": "自行车修理工查看我的刹车为什么不灵。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-a2-facilities-20",
+    "word": "de schoenmaker",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "修鞋匠；修鞋店"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "De schoenmaker kan misschien de hak repareren.",
+        "cn": "修鞋匠也许能修好鞋跟。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-a2-facilities-21",
+    "word": "de ijzerhandel",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "五金店"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Bij de ijzerhandel vind je schroeven en gereedschap.",
+        "cn": "五金店里可以买到螺丝和工具。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-a2-facilities-22",
+    "word": "de boekhandel",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "书店"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Ik bestel mijn nieuwe woordenboek bij de boekhandel.",
+        "cn": "我在书店订购新的词典。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-a2-facilities-23",
+    "word": "het tuincentrum",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "园艺中心；花木用品商店"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "In het tuincentrum kiezen we planten voor ons balkon.",
+        "cn": "我们在园艺中心为阳台挑选植物。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-a2-facilities-24",
+    "word": "de kringloopwinkel",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "二手物品商店；旧物循环商店"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Deze kast heb ik in een kringloopwinkel gevonden.",
+        "cn": "这个柜子是我在二手商店找到的。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-a2-facilities-25",
+    "word": "het afvalstation",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "垃圾回收站；废弃物收集点"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Op de website staat wanneer het afvalstation open is.",
+        "cn": "网站上写着垃圾回收站何时开放。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-a2-facilities-26",
+    "word": "de kiosk",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "售货亭；小卖亭"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Bij de kiosk op het plein koop ik een krant.",
+        "cn": "我在广场上的售货亭买了一份报纸。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-a2-facilities-27",
+    "word": "de fontein",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "喷泉"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "We spreken af bij de fontein in het park.",
+        "cn": "我们约在公园里的喷泉旁见面。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-a2-facilities-28",
+    "word": "de container",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "大型容器；垃圾收集箱"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "De container voor oud papier is vandaag geleegd.",
+        "cn": "今天废纸收集箱已经清空了。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-a2-facilities-29",
+    "word": "het theater",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "剧院"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Het theater heeft een zaal voor kleine voorstellingen.",
+        "cn": "这家剧院有一个适合小型演出的厅。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-a2-facilities-30",
+    "word": "het tankstation",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "加油站"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Bij het tankstation stoppen we even om iets te drinken.",
+        "cn": "我们在加油站停一下，喝点东西。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  }
+]

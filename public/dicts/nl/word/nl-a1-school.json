@@ -1,0 +1,782 @@
+[
+  {
+    "id": "nl-a1-school-1",
+    "word": "de klas",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "班级"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Er zitten twintig kinderen in de klas.",
+        "cn": "这个班有二十个孩子。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-a1-school-2",
+    "word": "de leerling",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "学生；学员"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "De nieuwe leerling zit naast mij.",
+        "cn": "新同学坐在我旁边。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-a1-school-3",
+    "word": "de juf",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "女老师（儿童常用称呼）"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "De juf leest een verhaal voor.",
+        "cn": "女老师在读故事给大家听。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-a1-school-4",
+    "word": "de meester",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "男老师（小学常用称呼）"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "De meester schrijft iets op het bord.",
+        "cn": "男老师在黑板上写东西。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-a1-school-5",
+    "word": "de klasgenoot",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "同班同学"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Mijn klasgenoot helpt me met de opdracht.",
+        "cn": "我的同班同学帮我完成作业。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-a1-school-6",
+    "word": "de pauze",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "休息时间；课间"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "In de pauze spelen we buiten.",
+        "cn": "课间我们在外面玩。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-a1-school-7",
+    "word": "het potlood",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "铅笔"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Ik schrijf liever met een potlood.",
+        "cn": "我更喜欢用铅笔写字。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-a1-school-8",
+    "word": "de pen",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "笔；钢笔；圆珠笔"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Mag ik je pen even lenen?",
+        "cn": "我能借用一下你的笔吗？"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-a1-school-9",
+    "word": "het papier",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "纸"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Er ligt papier op de tafel.",
+        "cn": "桌子上放着纸。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-a1-school-10",
+    "word": "het schrift",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "练习本；笔记本"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Schrijf je naam op je schrift.",
+        "cn": "把名字写在练习本上。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-a1-school-11",
+    "word": "de gum",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "橡皮擦"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Met deze gum kun je het woord weghalen.",
+        "cn": "你可以用这块橡皮擦掉这个词。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-a1-school-12",
+    "word": "het schoolbord",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "学校的黑板；教学板"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "De datum staat op het schoolbord.",
+        "cn": "日期写在黑板上。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-a1-school-13",
+    "word": "het lesrooster",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "课程表"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Volgens het lesrooster hebben we morgen muziek.",
+        "cn": "按照课程表，我们明天有音乐课。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-a1-school-14",
+    "word": "de basisschool",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "小学"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Mijn dochter gaat naar de basisschool.",
+        "cn": "我的女儿在上小学。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-a1-school-15",
+    "word": "de kleuter",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "幼儿；学龄前儿童"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "De kleuters tekenen samen een huis.",
+        "cn": "幼儿们一起画房子。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-a1-school-16",
+    "word": "de kinderopvang",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "儿童托育；托育机构"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "We halen ons kind op bij de kinderopvang.",
+        "cn": "我们去托育机构接孩子。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-a1-school-17",
+    "word": "de oppas",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "临时照看孩子的人；保姆"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "De oppas komt vanavond om zeven uur.",
+        "cn": "临时保姆今晚七点来。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-a1-school-18",
+    "word": "de ouderavond",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "家长会；家长交流晚会"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Tijdens de ouderavond praten we met de leerkracht.",
+        "cn": "家长会上，我们和老师交流。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-a1-school-19",
+    "word": "het schoolreisje",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "学校组织的短途出游"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Voor het schoolreisje nemen de kinderen een lunch mee.",
+        "cn": "学校出游时，孩子们带上自己的午餐。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-a1-school-20",
+    "word": "de gymles",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "体育课"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Voor de gymles heb je sportschoenen nodig.",
+        "cn": "上体育课需要运动鞋。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-a1-school-21",
+    "word": "de broodtrommel",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "午餐盒；装面包的饭盒"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Er zit een boterham in de broodtrommel.",
+        "cn": "午餐盒里装着一片夹馅面包。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-a1-school-22",
+    "word": "de rugzak",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "背包"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Mijn boeken zitten in mijn rugzak.",
+        "cn": "我的书放在背包里。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-a1-school-23",
+    "word": "het schoolplein",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "学校操场；校园空地"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "De ouders wachten op het schoolplein.",
+        "cn": "家长们在学校操场上等候。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-a1-school-24",
+    "word": "het klaslokaal",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "教室"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Na de pauze gaan we naar het klaslokaal.",
+        "cn": "课间结束后，我们回教室。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-a1-school-25",
+    "word": "het speelgoed",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "玩具（集合名词）"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Het speelgoed ligt in een grote doos.",
+        "cn": "玩具装在一个大箱子里。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-a1-school-26",
+    "word": "de letter",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "字母"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Met welke letter begint jouw naam?",
+        "cn": "你的名字以哪个字母开头？"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-a1-school-27",
+    "word": "het woord",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "单词；词语"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Ik ken dit woord nog niet.",
+        "cn": "我还不认识这个词。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-a1-school-28",
+    "word": "de zin",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "句子；含义；兴致"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Kun je een zin met dit woord maken?",
+        "cn": "你能用这个词造句吗？"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-a1-school-29",
+    "word": "de pagina",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "页；页面"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Open je boek op pagina twaalf.",
+        "cn": "把书翻到第十二页。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-a1-school-30",
+    "word": "het hoofdstuk",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "章节"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Dit hoofdstuk gaat over school.",
+        "cn": "这一章讲的是学校。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  }
+]

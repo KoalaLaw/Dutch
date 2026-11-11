@@ -1,0 +1,782 @@
+[
+  {
+    "id": "nl-a1-kitchen-1",
+    "word": "het bord",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "盘子"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Leg het brood op je bord.",
+        "cn": "把面包放在你的盘子上。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-a1-kitchen-2",
+    "word": "het schaaltje",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "小碟；小碗"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Ik doe de noten in een schaaltje.",
+        "cn": "我把坚果放进一个小碗里。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-a1-kitchen-3",
+    "word": "de kom",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "碗；盆"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Voor de soep neem ik een grote kom.",
+        "cn": "我拿一个大碗盛汤。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-a1-kitchen-4",
+    "word": "het kopje",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "茶杯；咖啡杯"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Wil je een kopje koffie?",
+        "cn": "你想喝一杯咖啡吗？"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-a1-kitchen-5",
+    "word": "de beker",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "杯子；大口杯"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Het kind drinkt water uit een beker.",
+        "cn": "孩子用杯子喝水。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-a1-kitchen-6",
+    "word": "het glas",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "玻璃杯；玻璃"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Mag ik een glas water?",
+        "cn": "可以给我一杯水吗？"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-a1-kitchen-7",
+    "word": "de mok",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "大杯；马克杯"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Mijn thee blijft warm in deze mok.",
+        "cn": "我的茶装在这个大杯里能保持温热。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-a1-kitchen-8",
+    "word": "het mes",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "刀"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Het mes ligt rechts van het bord.",
+        "cn": "刀放在盘子右边。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-a1-kitchen-9",
+    "word": "de vork",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "叉子"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Ik eet de salade met een vork.",
+        "cn": "我用叉子吃沙拉。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-a1-kitchen-10",
+    "word": "de lepel",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "勺子"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Met deze lepel kun je de soep eten.",
+        "cn": "你可以用这把勺子喝汤。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-a1-kitchen-11",
+    "word": "de theelepel",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "茶匙；小勺"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Doe een theelepel suiker in de thee.",
+        "cn": "往茶里放一茶匙糖。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-a1-kitchen-12",
+    "word": "de eetlepel",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "汤匙；大勺"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Voor de saus gebruik ik een eetlepel olie.",
+        "cn": "做酱汁时，我用一汤匙油。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-a1-kitchen-13",
+    "word": "de pan",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "锅"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Het water kookt in de pan.",
+        "cn": "锅里的水烧开了。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-a1-kitchen-14",
+    "word": "de koekenpan",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "平底煎锅"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Ik bak een ei in de koekenpan.",
+        "cn": "我在平底煎锅里煎一个鸡蛋。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-a1-kitchen-15",
+    "word": "het deksel",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "盖子"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Doe het deksel op de pan.",
+        "cn": "把锅盖盖在锅上。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-a1-kitchen-16",
+    "word": "de snijplank",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "砧板；菜板"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Snijd de tomaat op de snijplank.",
+        "cn": "在菜板上切番茄。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-a1-kitchen-17",
+    "word": "de oven",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "烤箱"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "De ovenschotel staat al in de oven.",
+        "cn": "那道焗菜已经放进烤箱了。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-a1-kitchen-18",
+    "word": "de magnetron",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "微波炉"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Ik warm de soep op in de magnetron.",
+        "cn": "我用微波炉热汤。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-a1-kitchen-19",
+    "word": "het fornuis",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "炉灶"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "De grote pan staat op het fornuis.",
+        "cn": "大锅放在炉灶上。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-a1-kitchen-20",
+    "word": "de koelkast",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "冰箱"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "De melk staat in de koelkast.",
+        "cn": "牛奶放在冰箱里。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-a1-kitchen-21",
+    "word": "de vriezer",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "冷冻柜；冷冻室"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "We bewaren een deel van het brood in de vriezer.",
+        "cn": "我们把一部分面包放在冷冻室保存。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-a1-kitchen-22",
+    "word": "de waterkoker",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "电热水壶"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "De waterkoker staat naast het koffiezetapparaat.",
+        "cn": "电热水壶放在咖啡机旁边。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-a1-kitchen-23",
+    "word": "het koffiezetapparaat",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "咖啡机"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Ik zet het koffiezetapparaat 's morgens aan.",
+        "cn": "我早上打开咖啡机。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-a1-kitchen-24",
+    "word": "de gootsteen",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "厨房水槽"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Zet de vuile borden maar in de gootsteen.",
+        "cn": "把脏盘子放进水槽吧。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-a1-kitchen-25",
+    "word": "de keukenkast",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "厨房橱柜"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "De kopjes staan in de keukenkast boven het aanrecht.",
+        "cn": "杯子放在料理台上方的厨房橱柜里。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-a1-kitchen-26",
+    "word": "de keukendoek",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "厨房擦布；厨房毛巾"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Ik droog mijn handen met een schone keukendoek.",
+        "cn": "我用干净的厨房毛巾擦干双手。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-a1-kitchen-27",
+    "word": "de afwasborstel",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "洗碗刷"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Met de afwasborstel maak ik de pan schoon.",
+        "cn": "我用洗碗刷把锅刷干净。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-a1-kitchen-28",
+    "word": "de spons",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "海绵"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "De spons ligt bij de kraan.",
+        "cn": "海绵放在水龙头旁边。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-a1-kitchen-29",
+    "word": "de zeef",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "筛子；滤网"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Giet de saus door een zeef.",
+        "cn": "把酱汁倒过筛网过滤。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-a1-kitchen-30",
+    "word": "de rasp",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "擦丝器；刨丝器"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Met deze rasp maak ik de kaas fijn.",
+        "cn": "我用这个擦丝器把奶酪擦碎。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  }
+]

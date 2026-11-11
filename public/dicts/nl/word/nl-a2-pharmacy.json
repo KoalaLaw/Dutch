@@ -1,0 +1,782 @@
+[
+  {
+    "id": "nl-a2-pharmacy-1",
+    "word": "de dosering",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "剂量；用量"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Ik vraag de apotheker waar ik de dosering kan vinden.",
+        "cn": "我向药剂师询问在哪里可以找到用量说明。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-a2-pharmacy-2",
+    "word": "de bijsluiter",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "药品说明书"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Ik wil graag uitleg over een zin in de bijsluiter.",
+        "cn": "我想请人解释药品说明书中的一句话。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-a2-pharmacy-3",
+    "word": "de bijwerking",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "副作用"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "In de bijsluiter staat informatie over mogelijke bijwerkingen.",
+        "cn": "药品说明书里有关于可能副作用的信息。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-a2-pharmacy-4",
+    "word": "de tablet",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "药片；平板电脑"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Ik begrijp niet welke tablet op het overzicht wordt bedoeld.",
+        "cn": "我不明白清单上指的是哪一种药片。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-a2-pharmacy-5",
+    "word": "de capsule",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "胶囊"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "De apotheker laat zien hoe de capsule eruitziet.",
+        "cn": "药剂师给我看胶囊的样子。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-a2-pharmacy-6",
+    "word": "de oogdruppels",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "眼药水"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Kun je uitleggen hoe ik deze oogdruppels volgens het etiket moet gebruiken?",
+        "cn": "你能解释一下标签上说这些眼药水应该怎么使用吗？"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-a2-pharmacy-7",
+    "word": "de neusspray",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "鼻喷剂"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Ik vraag of deze neusspray dezelfde is als op mijn lijst.",
+        "cn": "我询问这种鼻喷剂是否和我清单上的相同。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-a2-pharmacy-8",
+    "word": "de hoestdrank",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "止咳药水"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "De medewerker legt uit waar de informatie over de hoestdrank staat.",
+        "cn": "工作人员解释了止咳药水的相关信息在哪里。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-a2-pharmacy-9",
+    "word": "de pijnstiller",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "止痛药"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Ik vertel de apotheker welke pijnstiller ik al gebruik.",
+        "cn": "我告诉药剂师自己已经在使用哪种止痛药。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-a2-pharmacy-10",
+    "word": "de pleister",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "创可贴；胶布"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "We hebben geen pleisters meer in het kastje.",
+        "cn": "我们的小柜子里没有创可贴了。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-a2-pharmacy-11",
+    "word": "het verband",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "绷带；敷料；联系"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "De verpleegkundige legt het nieuwe verband klaar.",
+        "cn": "护士把新敷料准备好。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-a2-pharmacy-12",
+    "word": "de thermometer",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "温度计；体温计"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Ik kan de thermometer niet vinden.",
+        "cn": "我找不到体温计。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-a2-pharmacy-13",
+    "word": "de bloeddruk",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "血压"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "De arts heeft mijn bloeddruk gemeten.",
+        "cn": "医生测量了我的血压。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-a2-pharmacy-14",
+    "word": "de herhaalmedicatie",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "续配药；长期重复配用的药品"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Ik bel om te vragen of mijn herhaalmedicatie klaarligt.",
+        "cn": "我打电话询问续配药是否准备好了。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-a2-pharmacy-15",
+    "word": "het herhaalrecept",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "续配处方"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "De assistent kijkt of het herhaalrecept al is ontvangen.",
+        "cn": "助理查看是否已经收到续配处方。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-a2-pharmacy-16",
+    "word": "de combinatie",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "组合；搭配"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Ik vraag of de combinatie van mijn medicijnen gecontroleerd kan worden.",
+        "cn": "我询问能否检查一下我所用药物的组合。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-a2-pharmacy-17",
+    "word": "de inname",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "服药；摄入"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Op het overzicht staat informatie over de inname van het medicijn.",
+        "cn": "清单上写有关于服用这种药品的信息。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-a2-pharmacy-18",
+    "word": "de gebruiksaanwijzing",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "使用说明"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Kunt u de gebruiksaanwijzing in eenvoudigere woorden uitleggen?",
+        "cn": "您能用更简单的话解释使用说明吗？"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-a2-pharmacy-19",
+    "word": "de apotheker",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "药剂师；药房药师"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "De apotheker neemt de tijd om mijn vragen te beantwoorden.",
+        "cn": "药剂师耐心地回答我的问题。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-a2-pharmacy-20",
+    "word": "de doktersassistent",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "诊所助理"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "De doktersassistent vraagt waarom ik een afspraak wil maken.",
+        "cn": "诊所助理询问我为什么想预约。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-a2-pharmacy-21",
+    "word": "de patiënt",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "患者；病人"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "De patiënt wacht totdat zijn naam wordt genoemd.",
+        "cn": "患者等候叫到自己的名字。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-a2-pharmacy-22",
+    "word": "de wachtkamer",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "候诊室"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "In de wachtkamer zitten nog drie andere mensen.",
+        "cn": "候诊室里还坐着另外三个人。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-a2-pharmacy-23",
+    "word": "de spoedafspraak",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "加急预约；紧急就诊安排"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "De assistent vraagt of ik voor een spoedafspraak bel.",
+        "cn": "助理询问我是否为了加急预约而打电话。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-a2-pharmacy-24",
+    "word": "nuchter",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "",
+        "cn": "空腹的；清醒冷静的"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Ik vraag de praktijk wat nuchter in de afspraakbrief betekent.",
+        "cn": "我向诊所询问预约信中的“空腹”是什么意思。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-a2-pharmacy-25",
+    "word": "slikken",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "",
+        "cn": "吞咽；服用药物"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Ik vertel de arts dat ik moeilijk kan slikken.",
+        "cn": "我告诉医生自己吞咽困难。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-a2-pharmacy-26",
+    "word": "innemen",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "",
+        "cn": "服用；摄入"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Ik vraag wanneer ik het medicijn volgens het etiket moet innemen.",
+        "cn": "我询问标签上说明的服药时间。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-a2-pharmacy-27",
+    "word": "smeren",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "",
+        "cn": "涂抹"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "De apotheker legt uit op welke plek de zalf gesmeerd moet worden.",
+        "cn": "药剂师解释药膏应涂在哪个部位。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-a2-pharmacy-28",
+    "word": "op recept",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "搭配",
+        "cn": "凭处方"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Ik vraag of dit middel alleen op recept verkrijgbaar is.",
+        "cn": "我询问这种药品是否只能凭处方购买。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-a2-pharmacy-29",
+    "word": "zonder recept",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "搭配",
+        "cn": "无需处方"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "De klant vraagt welke producten zonder recept verkrijgbaar zijn.",
+        "cn": "顾客询问哪些产品不需要处方就能购买。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-a2-pharmacy-30",
+    "word": "de zalf",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "药膏；软膏"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Op de doos staat de naam van de zalf die ik heb gekregen.",
+        "cn": "盒子上写着我领取的药膏名称。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  }
+]

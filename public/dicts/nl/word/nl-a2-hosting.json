@@ -1,0 +1,782 @@
+[
+  {
+    "id": "nl-a2-hosting-1",
+    "word": "koken",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "",
+        "cn": "做饭；煮"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Vanavond kook ik voor vier vrienden.",
+        "cn": "今晚我给四位朋友做饭。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-a2-hosting-2",
+    "word": "bakken",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "",
+        "cn": "烘烤；煎"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Op zondag bak ik vaak brood.",
+        "cn": "周日我经常烤面包。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-a2-hosting-3",
+    "word": "braden",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "",
+        "cn": "煎烤；烤肉"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Mijn vader braadt de kip in de oven.",
+        "cn": "我父亲在烤箱里烤鸡。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-a2-hosting-4",
+    "word": "stomen",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "",
+        "cn": "蒸；冒蒸汽"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "We stomen de groente voor de maaltijd.",
+        "cn": "我们蒸蔬菜作为这顿饭的一部分。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-a2-hosting-5",
+    "word": "grillen",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "",
+        "cn": "烧烤；炙烤"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "In de zomer grillen we soms groente buiten.",
+        "cn": "夏天我们有时在户外烤蔬菜。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-a2-hosting-6",
+    "word": "snijden",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "",
+        "cn": "切；割"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Zij snijdt het brood in dunne plakken.",
+        "cn": "她把面包切成薄片。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-a2-hosting-7",
+    "word": "schillen",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "",
+        "cn": "削皮；去皮"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Ik schil de aardappelen terwijl jij de tafel dekt.",
+        "cn": "你摆餐桌的时候，我来削土豆皮。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-a2-hosting-8",
+    "word": "hakken",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "",
+        "cn": "剁；砍"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Hij hakt de noten in kleine stukjes.",
+        "cn": "他把坚果剁成小块。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-a2-hosting-9",
+    "word": "snipperen",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "",
+        "cn": "切碎；切成细丁"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Voor de soep snipper ik een ui.",
+        "cn": "做汤时，我切碎一个洋葱。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-a2-hosting-10",
+    "word": "raspen",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "",
+        "cn": "擦成丝；磨碎"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Wil je wat kaas over de pasta raspen?",
+        "cn": "你愿意在意面上擦些奶酪碎吗？"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-a2-hosting-11",
+    "word": "roeren",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "",
+        "cn": "搅拌"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Roer je even in de soep?",
+        "cn": "你能搅拌一下汤吗？"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-a2-hosting-12",
+    "word": "mengen",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "",
+        "cn": "混合"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "We mengen het meel met de andere ingrediënten.",
+        "cn": "我们把面粉和其他材料混合。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-a2-hosting-13",
+    "word": "kneden",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "",
+        "cn": "揉；揉捏"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Het kind helpt met het kneden van het deeg.",
+        "cn": "孩子帮忙揉面团。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-a2-hosting-14",
+    "word": "kloppen",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "",
+        "cn": "打匀；敲击"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Zij klopt de eieren in een kom.",
+        "cn": "她在碗里打鸡蛋。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-a2-hosting-15",
+    "word": "zeven",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "",
+        "cn": "过筛；筛"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Ik zeef het meel voor ik het gebruik.",
+        "cn": "我使用面粉前先过筛。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-a2-hosting-16",
+    "word": "afgieten",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "",
+        "cn": "沥去液体；把水倒掉"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Ik heb de pasta net afgegoten.",
+        "cn": "我刚把意面的水沥掉了。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-a2-hosting-17",
+    "word": "opwarmen",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "",
+        "cn": "加热；热身"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "We warmen de soep van gisteren op.",
+        "cn": "我们把昨天的汤加热。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-a2-hosting-18",
+    "word": "afkoelen",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "",
+        "cn": "变凉；使冷却"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "De taart moet eerst afkoelen.",
+        "cn": "蛋糕需要先冷却。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-a2-hosting-19",
+    "word": "ontdooien",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "",
+        "cn": "解冻；融化"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Het brood ligt op het aanrecht om te ontdooien.",
+        "cn": "面包放在厨房台面上解冻。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-a2-hosting-20",
+    "word": "invriezen",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "",
+        "cn": "冷冻；放入冷冻室保存"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Wij vriezen soms een deel van de soep in.",
+        "cn": "我们有时把一部分汤冷冻起来。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-a2-hosting-21",
+    "word": "smelten",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "",
+        "cn": "融化；熔化"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "De boter smelt langzaam in de pan.",
+        "cn": "黄油在锅里慢慢融化。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-a2-hosting-22",
+    "word": "kruiden",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "",
+        "cn": "用香料调味"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Hoe kruid jij deze soep meestal?",
+        "cn": "你通常如何给这道汤调味？"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-a2-hosting-23",
+    "word": "serveren",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "",
+        "cn": "端上；供应食物"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "We serveren de salade bij het warme eten.",
+        "cn": "我们把沙拉和热食一起端上桌。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-a2-hosting-24",
+    "word": "opscheppen",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "",
+        "cn": "盛饭菜；吹牛"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Zal ik voor jou ook wat rijst opscheppen?",
+        "cn": "我也给你盛一些米饭好吗？"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-a2-hosting-25",
+    "word": "dekken",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "",
+        "cn": "铺盖；摆放餐具"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "We dekken de tafel voor zes personen.",
+        "cn": "我们摆好六个人的餐具。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-a2-hosting-26",
+    "word": "afruimen",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "",
+        "cn": "收拾餐桌；撤下餐具"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Na het eten ruimen we samen de tafel af.",
+        "cn": "饭后我们一起收拾餐桌。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-a2-hosting-27",
+    "word": "afwassen",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "",
+        "cn": "洗餐具"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Ik was af en jij droogt af.",
+        "cn": "我洗餐具，你来擦干。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-a2-hosting-28",
+    "word": "het keukenschort",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "厨房围裙"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Ik draag een keukenschort tijdens het bakken.",
+        "cn": "烘烤时我系着厨房围裙。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-a2-hosting-29",
+    "word": "de vulling",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "馅料；填充物"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Deze broodjes hebben een vulling van groente.",
+        "cn": "这些小面包里面是蔬菜馅。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-a2-hosting-30",
+    "word": "het beslag",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "面糊；混合蛋糊"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Het beslag is klaar voor de pannenkoeken.",
+        "cn": "煎饼的面糊已经准备好了。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  }
+]

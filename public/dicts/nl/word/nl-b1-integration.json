@@ -1,0 +1,782 @@
+[
+  {
+    "id": "nl-b1-integration-1",
+    "word": "de inburgering",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "融入当地社会；公民融入学习"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Tijdens de bijeenkomst praten deelnemers over hun ervaringen met inburgering.",
+        "cn": "聚会中，参加者交流了融入当地社会的经历。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-b1-integration-2",
+    "word": "de integratie",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "融入；整合"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "De tekst beschrijft hoe taalcontact kan helpen bij integratie.",
+        "cn": "文章介绍了语言接触如何帮助人们融入社会。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-b1-integration-3",
+    "word": "de taalvaardigheid",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "语言能力"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Ik wil mijn taalvaardigheid verbeteren door elke dag iets te doen.",
+        "cn": "我想通过每天练习一点来提升语言能力。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-b1-integration-4",
+    "word": "de spreekvaardigheid",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "口语能力"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Voor mijn spreekvaardigheid oefen ik gesprekken zonder alles vooraf op te schrijven.",
+        "cn": "为了练习口语，我会在不提前把所有内容写下来的情况下进行对话。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-b1-integration-5",
+    "word": "de luistervaardigheid",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "听力能力"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Met korte opnames train ik mijn luistervaardigheid.",
+        "cn": "我用短录音训练听力能力。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-b1-integration-6",
+    "word": "de leesvaardigheid",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "阅读能力"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Door verschillende soorten teksten te lezen, werk ik aan mijn leesvaardigheid.",
+        "cn": "我通过阅读不同类型的文章来提高阅读能力。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-b1-integration-7",
+    "word": "de schrijfvaardigheid",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "写作能力"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Voor mijn schrijfvaardigheid schrijf ik elke week een korte e-mail.",
+        "cn": "为了练习写作，我每周写一封短邮件。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-b1-integration-8",
+    "word": "het taalcontact",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "使用目标语言与人接触交流的机会"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Ik zoek meer taalcontact buiten de lessen.",
+        "cn": "我在寻找课堂之外更多用荷兰语交流的机会。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-b1-integration-9",
+    "word": "het taalmaatje",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "语言交流伙伴；语言学习搭档"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Met mijn taalmaatje oefen ik situaties uit het dagelijks leven.",
+        "cn": "我和语言伙伴练习日常生活场景。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-b1-integration-10",
+    "word": "het taalcafé",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "语言交流咖啡活动；语言角"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "In het taalcafé spreken we in kleine groepen over een onderwerp.",
+        "cn": "在语言角，我们分成小组讨论一个话题。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-b1-integration-11",
+    "word": "de taalgroep",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "语言学习小组"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Onze taalgroep komt elke donderdag in de bibliotheek samen.",
+        "cn": "我们的语言学习小组每周四在图书馆聚会。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-b1-integration-12",
+    "word": "de spreekangst",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "开口说外语的紧张或恐惧"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Mijn spreekangst wordt kleiner als ik merk dat anderen mij begrijpen.",
+        "cn": "发现别人能理解我的时候，我开口说话的紧张感就会减轻。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-b1-integration-13",
+    "word": "de drempel",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "门槛；心理障碍"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Voor mij is bellen in het Nederlands nog een hoge drempel.",
+        "cn": "对我来说，用荷兰语打电话仍然是一道较高的心理门槛。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-b1-integration-14",
+    "word": "de zelfredzaamheid",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "独立处理日常事务的能力"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Door te oefenen groeit mijn zelfredzaamheid in dagelijkse situaties.",
+        "cn": "通过练习，我独立处理日常事务的能力在提升。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-b1-integration-15",
+    "word": "de taalbarrière",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "语言障碍"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Met geduld en een duidelijke uitleg werd de taalbarrière kleiner.",
+        "cn": "有了耐心和清楚的解释，语言障碍减小了。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-b1-integration-16",
+    "word": "de meertaligheid",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "多语言能力；使用多种语言的状态"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "In de groep bespreken we welke voordelen meertaligheid kan hebben.",
+        "cn": "小组里，我们讨论使用多种语言可能有哪些好处。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-b1-integration-17",
+    "word": "de omgangsvorm",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "待人接物的方式；交往礼仪"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "We bespreken welke omgangsvormen we in verschillende situaties prettig vinden.",
+        "cn": "我们讨论在不同情境中喜欢怎样的交往方式。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-b1-integration-18",
+    "word": "het wederzijds begrip",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "搭配",
+        "cn": "相互理解"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Door vragen te stellen ontstond er meer wederzijds begrip.",
+        "cn": "通过提问，大家增进了相互理解。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-b1-integration-19",
+    "word": "de beleefdheidsvorm",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "礼貌表达形式；敬语形式"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "De docent legt uit wanneer je een beleefdheidsvorm kunt gebruiken.",
+        "cn": "老师解释何时可以使用礼貌表达形式。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-b1-integration-20",
+    "word": "de verlegenheid",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "害羞；难为情"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Door haar verlegenheid vond ze het moeilijk om het gesprek te beginnen.",
+        "cn": "由于害羞，她觉得很难主动开始谈话。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-b1-integration-21",
+    "word": "de woordkeuze",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "措辞；词语选择"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Bij een formele e-mail let ik extra op mijn woordkeuze.",
+        "cn": "写正式邮件时，我会特别注意措辞。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-b1-integration-22",
+    "word": "de uitdrukking",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "表达；惯用语"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Ik vraag wat deze uitdrukking betekent en in welke situatie je haar gebruikt.",
+        "cn": "我询问这个表达是什么意思，以及适用于什么情境。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-b1-integration-23",
+    "word": "het spreektempo",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "说话速度"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Ik kan de spreker beter volgen als het spreektempo iets lager ligt.",
+        "cn": "如果语速稍慢一点，我就能更容易跟上发言者。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-b1-integration-24",
+    "word": "het accent",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "口音；重音符号"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "In het begin moest ik wennen aan het accent van mijn collega.",
+        "cn": "一开始，我需要适应同事的口音。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-b1-integration-25",
+    "word": "de klemtoon",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "重音"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Door de klemtoon op een ander woord te leggen, verandert soms de betekenis.",
+        "cn": "把重音放在另一个词上，有时会改变意思。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-b1-integration-26",
+    "word": "de zinsbouw",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "句子结构；语序结构"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Ik controleer de zinsbouw nadat ik mijn eerste versie heb geschreven.",
+        "cn": "写完初稿后，我会检查句子结构。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-b1-integration-27",
+    "word": "het leerdoel",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "学习目标"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Mijn leerdoel is om zelfstandig een afspraak te kunnen verzetten.",
+        "cn": "我的学习目标是能够独立给预约改期。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-b1-integration-28",
+    "word": "het leerproces",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "学习过程"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Fouten maken hoort bij het leerproces, ook als je al veel weet.",
+        "cn": "即使已经懂得很多，犯错仍然是学习过程的一部分。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-b1-integration-29",
+    "word": "durven",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "",
+        "cn": "敢于"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Ik durf nu vaker een vraag in het Nederlands te stellen.",
+        "cn": "现在我更常敢用荷兰语提问了。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-b1-integration-30",
+    "word": "zich verstaanbaar maken",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "搭配",
+        "cn": "让别人听懂自己的意思"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Ook met eenvoudige woorden kun je je vaak goed verstaanbaar maken.",
+        "cn": "即使用简单的词语，你也常常能让别人清楚理解你的意思。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  }
+]

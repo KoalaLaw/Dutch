@@ -1,0 +1,782 @@
+[
+  {
+    "id": "nl-a1-routines-1",
+    "word": "opstaan",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "",
+        "cn": "起床；站起来"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Ik sta elke ochtend om zeven uur op.",
+        "cn": "我每天早上七点起床。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-a1-routines-2",
+    "word": "wakker worden",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "搭配",
+        "cn": "醒来"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Op zondag word ik meestal wat later wakker.",
+        "cn": "星期日我通常醒得晚一些。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-a1-routines-3",
+    "word": "ontbijten",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "",
+        "cn": "吃早餐"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "We ontbijten samen aan de keukentafel.",
+        "cn": "我们在厨房的桌子旁一起吃早餐。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-a1-routines-4",
+    "word": "lunchen",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "",
+        "cn": "吃午餐"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Ik lunch op mijn werk met een collega.",
+        "cn": "我在单位和一位同事一起吃午餐。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-a1-routines-5",
+    "word": "slapen",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "",
+        "cn": "睡觉"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Het kind slaapt al.",
+        "cn": "孩子已经睡着了。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-a1-routines-6",
+    "word": "rusten",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "",
+        "cn": "休息"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Na de wandeling rusten we even.",
+        "cn": "散步后，我们休息一会儿。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-a1-routines-7",
+    "word": "zitten",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "",
+        "cn": "坐；位于"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Mag ik naast je zitten?",
+        "cn": "我可以坐在你旁边吗？"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-a1-routines-8",
+    "word": "staan",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "",
+        "cn": "站；立着"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "De glazen staan in de kast.",
+        "cn": "玻璃杯放在柜子里。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-a1-routines-9",
+    "word": "liggen",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "",
+        "cn": "躺；平放着"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Mijn telefoon ligt op de bank.",
+        "cn": "我的手机放在沙发上。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-a1-routines-10",
+    "word": "kijken",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "",
+        "cn": "看；观看"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "We kijken samen naar een film.",
+        "cn": "我们一起看电影。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-a1-routines-11",
+    "word": "zien",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "",
+        "cn": "看见"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Ik zie de bus al aankomen.",
+        "cn": "我已经看见公交车开过来了。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-a1-routines-12",
+    "word": "horen",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "",
+        "cn": "听见"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Kun je de muziek ook horen?",
+        "cn": "你也能听见音乐吗？"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-a1-routines-13",
+    "word": "voelen",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "",
+        "cn": "感觉；触摸"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Ik voel dat het water nog warm is.",
+        "cn": "我感觉到水还是温的。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-a1-routines-14",
+    "word": "ruiken",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "",
+        "cn": "闻；散发气味"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "In de keuken ruik ik verse koffie.",
+        "cn": "我在厨房闻到了新鲜咖啡的香味。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-a1-routines-15",
+    "word": "proeven",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "",
+        "cn": "品尝；尝出味道"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Wil je de soep even proeven?",
+        "cn": "你想尝一下汤吗？"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-a1-routines-16",
+    "word": "pakken",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "",
+        "cn": "拿；取"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Ik pak mijn tas en ga naar buiten.",
+        "cn": "我拿起包，走到外面。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-a1-routines-17",
+    "word": "leggen",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "",
+        "cn": "放下；平放"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Leg het boek maar op de tafel.",
+        "cn": "把书放在桌子上吧。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-a1-routines-18",
+    "word": "zetten",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "",
+        "cn": "放置；使立着"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Zet de fles naast je bord.",
+        "cn": "把瓶子放在盘子旁边。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-a1-routines-19",
+    "word": "brengen",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "",
+        "cn": "带来；送去"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Ik breng deze boeken naar de bibliotheek.",
+        "cn": "我把这些书送到图书馆。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-a1-routines-20",
+    "word": "geven",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "",
+        "cn": "给"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Kun je mij de sleutel geven?",
+        "cn": "你能把钥匙给我吗？"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-a1-routines-21",
+    "word": "nemen",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "",
+        "cn": "拿；采用；乘坐"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Vandaag neem ik de bus.",
+        "cn": "今天我乘公交车。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-a1-routines-22",
+    "word": "houden",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "",
+        "cn": "保持；保留；握住"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Houd de deur even open, alsjeblieft.",
+        "cn": "请让门开着一会儿。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-a1-routines-23",
+    "word": "doen",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "",
+        "cn": "做"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Wat doe je na je werk?",
+        "cn": "你下班后做什么？"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-a1-routines-24",
+    "word": "maken",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "",
+        "cn": "制作；做"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Ik maak een lijstje voor de winkel.",
+        "cn": "我写一张购物清单。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-a1-routines-25",
+    "word": "gebruiken",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "",
+        "cn": "使用"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Mag ik deze stoel gebruiken?",
+        "cn": "我可以用这把椅子吗？"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-a1-routines-26",
+    "word": "openen",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "",
+        "cn": "打开"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "We openen het raam omdat het warm is.",
+        "cn": "因为天气热，我们打开窗户。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-a1-routines-27",
+    "word": "sluiten",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "",
+        "cn": "关闭；关上"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Sluit de deur als je weggaat.",
+        "cn": "离开时请关门。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-a1-routines-28",
+    "word": "terugkomen",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "",
+        "cn": "回来；返回"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Hoe laat kom je vanavond terug?",
+        "cn": "你今晚几点回来？"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-a1-routines-29",
+    "word": "thuiskomen",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "",
+        "cn": "到家；回到家"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Als ik thuiskom, zet ik eerst thee.",
+        "cn": "回到家后，我先泡茶。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-a1-routines-30",
+    "word": "boodschappen doen",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "搭配",
+        "cn": "购买食品日用品；采购"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Op zaterdag doen we boodschappen voor de hele week.",
+        "cn": "星期六我们采购一整周的食品日用品。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  }
+]

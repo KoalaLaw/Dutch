@@ -12,7 +12,7 @@
     "enName": "nl-b1-verbs",
     "url": "nl-b1-verbs.json",
     "length": 30,
-    "category": "A2→B1 进阶",
+    "category": "A2 进阶",
     "tags": [
       "A2→B1",
       "主题词汇与搭配"
@@ -36,7 +36,7 @@
     "enName": "nl-b1-describing",
     "url": "nl-b1-describing.json",
     "length": 30,
-    "category": "A2→B1 进阶",
+    "category": "A2 进阶",
     "tags": [
       "A2→B1",
       "主题词汇与搭配"
@@ -60,7 +60,7 @@
     "enName": "nl-b1-housing",
     "url": "nl-b1-housing.json",
     "length": 30,
-    "category": "A2→B1 进阶",
+    "category": "B1 综合",
     "tags": [
       "B1",
       "主题词汇与搭配"
@@ -84,7 +84,7 @@
     "enName": "nl-b1-employment",
     "url": "nl-b1-employment.json",
     "length": 30,
-    "category": "A2→B1 进阶",
+    "category": "B1 综合",
     "tags": [
       "B1",
       "主题词汇与搭配"
@@ -108,7 +108,7 @@
     "enName": "nl-b1-workplace",
     "url": "nl-b1-workplace.json",
     "length": 30,
-    "category": "A2→B1 进阶",
+    "category": "B1 综合",
     "tags": [
       "B1",
       "主题词汇与搭配"
@@ -132,7 +132,7 @@
     "enName": "nl-b1-projects",
     "url": "nl-b1-projects.json",
     "length": 30,
-    "category": "A2→B1 进阶",
+    "category": "B1 综合",
     "tags": [
       "B1",
       "主题词汇与搭配"
@@ -156,7 +156,7 @@
     "enName": "nl-b1-logistics",
     "url": "nl-b1-logistics.json",
     "length": 30,
-    "category": "A2→B1 进阶",
+    "category": "B1 综合",
     "tags": [
       "B1",
       "主题词汇与搭配"
@@ -180,7 +180,7 @@
     "enName": "nl-b1-education",
     "url": "nl-b1-education.json",
     "length": 30,
-    "category": "A2→B1 进阶",
+    "category": "B1 综合",
     "tags": [
       "B1",
       "主题词汇与搭配"
@@ -204,7 +204,7 @@
     "enName": "nl-b1-health",
     "url": "nl-b1-health.json",
     "length": 30,
-    "category": "A2→B1 进阶",
+    "category": "B1 综合",
     "tags": [
       "B1",
       "主题词汇与搭配"

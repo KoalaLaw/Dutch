@@ -1,0 +1,782 @@
+[
+  {
+    "id": "nl-a1-clothing-1",
+    "word": "de kleding",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "衣服；服装"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Mijn kleding ligt in de kast.",
+        "cn": "我的衣服在柜子里。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-a1-clothing-2",
+    "word": "de jas",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "外套"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Je jas hangt bij de deur.",
+        "cn": "你的外套挂在门旁。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-a1-clothing-3",
+    "word": "de broek",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "裤子"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Deze broek is te lang.",
+        "cn": "这条裤子太长了。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-a1-clothing-4",
+    "word": "de spijkerbroek",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "牛仔裤"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Ik draag vandaag een spijkerbroek.",
+        "cn": "我今天穿牛仔裤。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-a1-clothing-5",
+    "word": "het overhemd",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "衬衫"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Hij draagt een overhemd naar zijn werk.",
+        "cn": "他穿着衬衫去上班。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-a1-clothing-6",
+    "word": "het T-shirt",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "T恤衫"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Dit T-shirt past goed.",
+        "cn": "这件T恤很合身。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-a1-clothing-7",
+    "word": "de trui",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "毛衣；套头衫"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Mijn trui is lekker warm.",
+        "cn": "我的毛衣很暖和。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-a1-clothing-8",
+    "word": "de rok",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "裙子；半身裙"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Zij draagt een rok met laarzen.",
+        "cn": "她穿半身裙配靴子。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-a1-clothing-9",
+    "word": "de jurk",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "连衣裙"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Die jurk heeft twee zakken.",
+        "cn": "那条连衣裙有两个口袋。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-a1-clothing-10",
+    "word": "de sok",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "袜子"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Ik kan één sok niet vinden.",
+        "cn": "我找不到其中一只袜子。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-a1-clothing-11",
+    "word": "de schoen",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "鞋"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Er zit zand in mijn schoen.",
+        "cn": "我的鞋里有沙子。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-a1-clothing-12",
+    "word": "de laars",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "靴子"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Deze laarzen zijn goed voor de regen.",
+        "cn": "这些靴子适合雨天穿。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-a1-clothing-13",
+    "word": "de pantoffel",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "拖鞋；室内便鞋"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Thuis draag ik meestal pantoffels.",
+        "cn": "在家时我通常穿拖鞋。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-a1-clothing-14",
+    "word": "de sjaal",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "围巾"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Neem een sjaal mee, het is koud.",
+        "cn": "带上围巾，天气很冷。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-a1-clothing-15",
+    "word": "de muts",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "毛线帽；无檐帽"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Het kind draagt een rode muts.",
+        "cn": "孩子戴着一顶红色毛线帽。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-a1-clothing-16",
+    "word": "de handschoen",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "手套"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Mijn handschoenen zitten in mijn jas.",
+        "cn": "我的手套在外套口袋里。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-a1-clothing-17",
+    "word": "de pet",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "鸭舌帽；有檐便帽"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Hij zet zijn pet af.",
+        "cn": "他摘下鸭舌帽。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-a1-clothing-18",
+    "word": "de riem",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "腰带"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Deze riem is van leer.",
+        "cn": "这条腰带是皮制的。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-a1-clothing-19",
+    "word": "de knoop",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "纽扣"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Er mist een knoop aan mijn jas.",
+        "cn": "我的外套少了一颗纽扣。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-a1-clothing-20",
+    "word": "de rits",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "拉链"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "De rits van mijn tas zit vast.",
+        "cn": "我包上的拉链卡住了。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-a1-clothing-21",
+    "word": "de mouw",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "袖子"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "De mouwen van deze trui zijn lang.",
+        "cn": "这件毛衣的袖子很长。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-a1-clothing-22",
+    "word": "het vest",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "开襟毛衣；马甲"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Ik doe mijn vest aan.",
+        "cn": "我穿上开襟毛衣。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-a1-clothing-23",
+    "word": "het ondergoed",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "内衣裤"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Het ondergoed ligt in de la.",
+        "cn": "内衣裤在抽屉里。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-a1-clothing-24",
+    "word": "het hemd",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "背心；贴身无领上衣"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Onder zijn trui draagt hij een hemd.",
+        "cn": "他在毛衣里面穿了一件背心。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-a1-clothing-25",
+    "word": "de pyjama",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "睡衣"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Het kind trekt zijn pyjama aan.",
+        "cn": "孩子穿上睡衣。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-a1-clothing-26",
+    "word": "dragen",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "",
+        "cn": "穿；戴；携带"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Wat draag je naar het feest?",
+        "cn": "你打算穿什么去参加聚会？"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-a1-clothing-27",
+    "word": "strijken",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "",
+        "cn": "熨烫"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Ik moet mijn overhemd nog strijken.",
+        "cn": "我还需要熨衬衫。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-a1-clothing-28",
+    "word": "opvouwen",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "",
+        "cn": "折叠；叠好"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Wil je de schone kleding opvouwen?",
+        "cn": "你愿意把洗好的衣服叠起来吗？"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-a1-clothing-29",
+    "word": "de was",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "要洗或洗过的衣物；洗衣活"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "De was is nog niet droog.",
+        "cn": "洗好的衣服还没有干。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  },
+  {
+    "id": "nl-a1-clothing-30",
+    "word": "de kleerhanger",
+    "phonetic0": "",
+    "phonetic1": "",
+    "langType": "nl",
+    "trans": [
+      {
+        "pos": "名词",
+        "cn": "衣架"
+      }
+    ],
+    "sentences": [
+      {
+        "c": "Hang je jas op een kleerhanger.",
+        "cn": "把外套挂在衣架上。"
+      }
+    ],
+    "phrases": [],
+    "synos": [],
+    "relWords": {
+      "root": "",
+      "rels": []
+    },
+    "etymology": []
+  }
+]
